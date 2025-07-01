@@ -1,10 +1,10 @@
 # The Dual Economy of Valdris
 
-In the shadow of the [[Walking Gardens of Yss'andra]] and beneath the towering [[Singing Spires of Kelathon]], the people of Valdris have woven two economies together like gears in an Architect mechanism—one ancient and familiar, the other gleaming with otherworldly promise. This dual system has shaped kingdoms, sparked wars, and defined the very fabric of society since the first salvagers emerged from [[Thymeris the Golden]] with arms full of impossible treasures.
+In the shadow of the [[Walking Gardens of Yss'andra]] and beneath the towering [[Singing Spires of Kelathon]], the people of Valdris have woven two economies together like gears in an [Architect](Architect.md) mechanism—one ancient and familiar, the other gleaming with otherworldly promise. This dual system has shaped kingdoms, sparked wars, and defined the very fabric of society since the first salvagers emerged from [[Thymeris the Golden]] with arms full of impossible treasures.
 
 ## The Traditional Economy: Foundation of Daily Life
 
-The backbone of Valdris remains its traditional economy—a system as old as the first settlements that arose after the Great Silence. Copper pennies change hands in [[Millbrook]]'s market squares for bushels of wheat, while silver crowns purchase fine wool cloaks and sturdy iron tools. Gold sovereigns, though rare in common circulation, seal deals for land, livestock, and the loyalty of skilled craftsmen.
+The backbone of Valdris remains its traditional economy—a system as old as the first settlements that arose after [The Great Silence](The%20Great%20Silence.md). Copper pennies change hands in [[Millbrook]]'s market squares for bushels of wheat, while silver crowns purchase fine wool cloaks and sturdy iron tools. Gold sovereigns, though rare in common circulation, seal deals for land, livestock, and the loyalty of skilled craftsmen.
 
 ### Traditional Currency Standards
 - **Copper Penny**: The laborer's coin, worth a loaf of bread or mug of ale
@@ -12,15 +12,15 @@ The backbone of Valdris remains its traditional economy—a system as old as the
 - **Gold Sovereign**: A month's comfortable living, the price of a good horse
 - **Platinum Royal**: Rarely seen outside noble treasuries, worth a small farm
 
-This familiar system governs the necessities of life: food from [[Millbrook]]'s fertile fields, timber from the Greenvale forests, iron from mountain mines, and the countless everyday goods that keep civilization running. Traditional guilds—the Blacksmiths, Weavers, Carpenters, and Merchants—still wield considerable influence in cities where Architect artifacts remain curiosities rather than commodities.
+This familiar system governs the necessities of life: food from [[Millbrook]]'s fertile fields, timber from the Greenvale forests, iron from mountain mines, and the countless everyday goods that keep civilization running. Traditional guilds—the Blacksmiths, Weavers, Carpenters, and Merchants—still wield considerable influence in cities where [Architect](Architect.md) artifacts remain curiosities rather than commodities.
 
 ## The Architect Economy: Power Beyond Price
 
-Yet overlaying this ancient system is something unprecedented—an economy of wonders. Architect artifacts defy traditional valuation, creating a parallel market that operates more like the art trade of noble courts than the practical commerce of town squares. A self-sharpening knife might trade for a horse, while a crystal that glows with eternal light could purchase a small shop. And for the rarest finds—an access key to a sealed vault, a functioning Architect weapon—entire kingdoms might empty their treasuries.
+Yet overlaying this ancient system is something unprecedented—an economy of wonders. [Architect](Architect.md) artifacts defy traditional valuation, creating a parallel market that operates more like the art trade of noble courts than the practical commerce of town squares. A self-sharpening knife might trade for a horse, while a crystal that glows with eternal light could purchase a small shop. And for the rarest finds—an access key to a sealed vault, a functioning [Architect](Architect.md) weapon—entire kingdoms might empty their treasuries.
 
 ### Artifact Classification System
 
-The Architect Exchange, established in major cities, has attempted to bring order to this chaos through a standardized grading system:
+The [Architect](Architect.md) Exchange, established in major cities, has attempted to bring order to this chaos through a standardized grading system:
 
 **Common Artifacts** (Grade I-III)
 - **Grade I**: Simple enchantments—ever-sharp edges, minor temperature regulation
@@ -34,7 +34,7 @@ The Architect Exchange, established in major cities, has attempted to bring orde
 
 **Unique Artifacts** (Grade VII-IX)
 - **Grade VII**: Site-specific keys and controls
-- **Grade VIII**: Massive installations—Architect forges, calculation engines
+- **Grade VIII**: Massive installations—[Architect](Architect.md) forges, calculation engines
 - **Grade IX**: Reality-altering devices—temporal stabilizers, dimensional anchors
 
 **Legendary Artifacts** (Grade X)
@@ -105,7 +105,7 @@ In the shadowy alleys of [[Grimhaven]], the dual economy takes on darker shades.
 Hidden beneath the lighthouse district, accessible only at low tide:
 - Stolen artifacts from registered expeditions
 - Items deemed "too dangerous" by official councils
-- Architect weapons and military hardware
+- [Architect](Architect.md) weapons and military hardware
 - Memory crystals containing forbidden knowledge
 
 ### Services of the Shadow Trade
@@ -128,8 +128,8 @@ As the artifact economy has matured, so too have the criminals who prey upon it.
 ### Authentication Methods
 
 **Physical Testing**
-- Energy signature analysis using captured Architect tools
-- Material composition—true Architect alloys have unique properties
+- Energy signature analysis using captured [Architect](Architect.md) tools
+- Material composition—true [Architect](Architect.md) alloys have unique properties
 - Wear patterns—authentic pieces show specific degradation
 - Response to traditional magic—genuine articles resist or react uniquely
 
@@ -137,7 +137,7 @@ As the artifact economy has matured, so too have the criminals who prey upon it.
 - Chain of custody documentation
 - Salvage site registration records
 - Previous owner testimonies
-- Matching against recovered Architect archives
+- Matching against recovered [Architect](Architect.md) archives
 
 **Functional Proofs**
 - Demonstration under controlled conditions
@@ -171,7 +171,7 @@ The dual economy has created new power structures that challenge traditional nob
 
 ### The Bridge-Worker Consortium
 - Monopolizes repair and modification services
-- Guards secrets of Architect-traditional magic fusion
+- Guards secrets of [Architect](Architect.md)-traditional magic fusion
 - Commands premium prices for expertise
 - Rumored to manipulate markets for rare components
 
@@ -221,7 +221,7 @@ Controversial agreement granting:
 
 ## The Awakening's Economic Impact
 
-The recent awakening of dormant systems has sent shockwaves through both economies:
+[The Recent Awakening](The%20Recent%20Awakening.md) of dormant systems has sent shockwaves through both economies:
 
 ### Immediate Disruptions
 
@@ -258,7 +258,7 @@ The recent awakening of dormant systems has sent shockwaves through both economi
 - Ethical debates about artifact use
 
 **Economic Fortification**
-- Cities investing in Architect-based defenses
+- Cities investing in [Architect](Architect.md)-based defenses
 - Traditional walls supplemented with energy barriers
 - Economic alliances based on mutual protection
 - Resource hoarding and supply line security
@@ -325,17 +325,17 @@ A talented young forger wants out of the business but knows too much. They offer
 A previously dormant ruin has awakened, but initial reports suggest its treasures are beyond imagination—Grade VIII and IX artifacts in pristine condition. A bidding war erupts between factions wanting to hire the party for the salvage mission. But why are some bidders more interested in ensuring the vault remains sealed? What do they know about what's inside?
 
 ### The Economic Weapon
-Someone is flooding the market with perfect forgeries, so good they're passing authentication. The economic chaos threatens to collapse the artifact trade entirely. The party must trace the source while navigating accusations, as every major player suspects their rivals. The truth—that an awakened Architect forge is producing "authentic replicas"—raises questions about what makes an artifact real.
+Someone is flooding the market with perfect forgeries, so good they're passing authentication. The economic chaos threatens to collapse the artifact trade entirely. The party must trace the source while navigating accusations, as every major player suspects their rivals. The truth—that an awakened [Architect](Architect.md) forge is producing "authentic replicas"—raises questions about what makes an artifact real.
 
 ### The Wanderer's Dilemma
-A Wanderer caravan carries a Grade X artifact, not knowing what they have. Various factions have noticed, and the caravan is being stalked across the wasteland. The party must protect the Wanderers, but when they learn what the artifact does—reset a large area to its pre-Architect state—they face an impossible choice. Do they let it reach its destination, knowing it could erase both wonders and dangers? Or do they betray their charges for what they believe is the greater good?
+A Wanderer caravan carries a Grade X artifact, not knowing what they have. Various factions have noticed, and the caravan is being stalked across the wasteland. The party must protect the Wanderers, but when they learn what the artifact does—reset a large area to its pre-[Architect](Architect.md) state—they face an impossible choice. Do they let it reach its destination, knowing it could erase both wonders and dangers? Or do they betray their charges for what they believe is the greater good?
 
 ### The Barter Chain
 To save a poisoned noble, the party needs a specific healing artifact. But the owner wants a navigation crystal from the Singing Spires. The holder of that wants grain futures from [[Millbrook]]. Each link in the barter chain adds complexity, time pressure, and moral complications. How far will the party go, and what compromises will they make, to complete the chain before their patron dies?
 
 ## The Future of Trade
 
-As Valdris faces the Awakening, its dual economy stands at a crossroads. Will the traditional and Architect economies merge into something new? Will the chaos drive people back to simpler, safer trades? Or will adaptation create entirely new economic models?
+As Valdris faces the Awakening, its dual economy stands at a crossroads. Will the traditional and [Architect](Architect.md) economies merge into something new? Will the chaos drive people back to simpler, safer trades? Or will adaptation create entirely new economic models?
 
 Some seers speak of the "Third Economy"—one based on information and prediction, where knowing which ruins will activate when becomes the ultimate currency. Others whisper of artifacts that can create other artifacts, threatening to make scarcity itself obsolete.
 

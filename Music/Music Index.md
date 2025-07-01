@@ -1,11 +1,11 @@
 # Music Index - Songs of Valdris
 
-Welcome to the musical heritage of [[Valdris]]! This collection contains songs, anthems, and instrumental pieces that bring the world to life through music.
+[Welcome](Welcome.md) to the musical heritage of [[Valdris]]! This collection contains songs, anthems, and instrumental pieces that bring the world to life through music.
 
 ## National Anthems & Political Songs
 
 ### [[Crown of Brass and Stone - Ruin-Holder Anthem]]
-The triumphant anthem of the [[Ruin-Holder Kingdoms]], celebrating their inheritance of Architect legacy.
+The triumphant anthem of the [[Ruin-Holder Kingdoms]], celebrating their inheritance of [Architect](Architect.md) legacy.
 - **Style:** Medieval orchestral anthem
 - **Themes:** Legacy, inheritance, nobility
 - **Usage:** State ceremonies, diplomatic events
@@ -31,9 +31,9 @@ A cautionary tale about the dangers of ruin exploration, popular in taverns acro
 - **Usage:** Tavern entertainment, warning tales
 
 ### [[Tinker's Brew - Drinking Song]]
-A raucous drinking song about mysterious alcohol infused with Architect essence.
+A raucous drinking song about mysterious alcohol infused with [Architect](Architect.md) essence.
 - **Style:** Irish drinking song
-- **Themes:** Mystery, revelry, Architect influence
+- **Themes:** Mystery, revelry, [Architect](Architect.md) influence
 - **Usage:** Tavern celebrations, [[Tinker-Priests]] gatherings
 
 ## Folklore & Legend Songs
@@ -53,7 +53,7 @@ A children's rhyme that teaches counting while warning about the [[Singing Spire
 ## Work Songs & Sea Shanties
 
 ### [[The Lighthouse Never Sleeps - Grimhaven Harbor Song]]
-A sea shanty celebrating the eternal Architect lighthouse of [[Grimhaven]].
+A sea shanty celebrating the eternal [Architect](Architect.md) lighthouse of [[Grimhaven]].
 - **Style:** Maritime work song
 - **Themes:** Navigation, safety, gratitude
 - **Usage:** Harbor work, ship departures

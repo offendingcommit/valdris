@@ -14,27 +14,27 @@ Generated on: 2025-07-01
 
 These are references to locations that don't have their own pages yet:
 
-- **Cerulean Coast** - Coastal region mentioned in various contexts
+- **[Cerulean Coast](Cerulean%20Coast.md)** - Coastal region mentioned in various contexts
 - **Echo Valley** - Location with acoustic phenomena
 - **Endless Sea** - Major body of water
 - **Frostwatch** - Northern settlement
 - **Frozen Marches** - Northern frontier region
 - **Goldwater Crossing** - River crossing location
-- **Grand Library of Stonehaven** - Major institution in Stonehaven
+- **Grand Library of [Stonehaven](Stonehaven.md)** - Major institution in [Stonehaven](Stonehaven.md)
 - **Greenhill** - Settlement
 - **Ironhold** - Settlement/fortress
-- **Kelathon** - City associated with the Singing Spires
-- **Kelathon's Rest** - Location near Kelathon
+- **[Kelathon](Kelathon.md)** - City associated with the Singing Spires
+- **[Kelathon](Kelathon.md)'s Rest** - Location near [Kelathon](Kelathon.md)
 - **Quiet Lands** - Region embracing natural living
 - **Quiet Valley Republic** - Ruin-Shunner republic
 - **Saltwind** - Coastal settlement
 - **Sea-Glass Artifacts** - Coastal resource/phenomenon
 - **Shimmerstone Valley** - Valley with unique minerals
 - **Singing Hills** - Geographic feature with acoustic properties
-- **Singing Spires of Kelathon** - Major Architect ruin (duplicate entry)
-- **Song of Kelathon** - Phenomenon or cultural element
-- **Stonehaven** - Major settlement
-- **The Quiet Lands** - Region (duplicate)
+- **Singing Spires of [Kelathon](Kelathon.md)** - Major [Architect](Architect.md) ruin (duplicate entry)
+- **Song of [Kelathon](Kelathon.md)** - Phenomenon or cultural element
+- **[Stonehaven](Stonehaven.md)** - Major settlement
+- **[The Quiet Lands](The%20Quiet%20Lands.md)** - Region (duplicate)
 - **The Singing Cliffs** - Geographic feature
 - **The Singing Hills** - Geographic feature (duplicate)
 - **The Sunrise Markets** - Trading location
@@ -46,10 +46,10 @@ These are references to locations that don't have their own pages yet:
 
 Characters referenced but without dedicated pages:
 
-- **Archivist Theron Millwright** - Scholar/keeper of knowledge
+- **[Archivist Theron Millwright](Archivist%20Theron%20Millwright.md)** - Scholar/keeper of knowledge
 - **Assembly of Craft-Masters** - Leadership group (may be organization)
 - **Craft-Master** - Title/role
-- **Lady Aurelia Brass-Heart** - Noble with Architect connections
+- **[Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)** - Noble with [Architect](Architect.md) connections
 - **Master's Fields** - Location or property
 - **Master-Crafted Tools** - High-quality equipment
 
@@ -57,23 +57,23 @@ Characters referenced but without dedicated pages:
 
 Groups and institutions without pages:
 
-- **Academy of Dual Mysteries** - Educational institution
+- **[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)** - Educational institution
 - **Academy of Theoretical Convergence** - Educational institution
 - **Bridge-Workers** - Labor organization
 - **Church of Natural Harmony** - Religious organization
 - **College of Dual Mysteries** - Educational institution
 - **College of Integrated Arts** - Educational institution
-- **Council of Pathfinders** - Wanderer organization
+- **[Council of Pathfinders](Council%20of%20Pathfinders.md)** - Wanderer organization
 - **Ethics Council of Thymeris** - Governing body
-- **Gear-Wright Guilds** - Craftsman organizations
+- **[Gear-Wright Guilds](Gear-Wright%20Guilds.md)** - Craftsman organizations
 - **Harvest Collective** - Agricultural organization
 - **Institute of Emergent Abilities** - Research institution
 - **Keepers of the Balance** - Philosophical/religious group
 - **Order of Observation** - Scholar organization
-- **Order of the Brass Tower** - Military/religious order
+- **[Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md)** - Military/religious order
 - **Purist Circles** - Traditionalist groups
 - **Seekers of the Silent** - Investigative organization
-- **Silence-Keepers** - Organization (has page, duplicate)
+- **[Silence-Keepers](Silence-Keepers.md)** - Organization (has page, duplicate)
 - **Song-Weavers** - Musical/magical practitioners
 - **Spell-Hunters Guild** - Anti-magic organization
 - **Tide-Turners** - Coastal organization
@@ -82,29 +82,29 @@ Groups and institutions without pages:
 
 ### Architect Ruins & Related (12 pages)
 
-Architect-related concepts without pages:
+[Architect](Architect.md)-related concepts without pages:
 
-- **Architect** - The ancient builders themselves
-- **Architect Bloodlines** - Descendants with special abilities
-- **Architect Channels** - Energy/communication pathways
-- **Architect City** - Generic term for ruins
-- **Architect Constructs** - Mechanical servants
-- **Architect Lighthouse** - Navigation structures
-- **Architect Metals** - Special materials
-- **Architect Roads** - Ancient highway system
-- **Architect Ruins** - General overview page
-- **Architect-Touched Grain** - Enhanced crops
+- **[Architect](Architect.md)** - The ancient builders themselves
+- **[Architect](Architect.md) Bloodlines** - Descendants with special abilities
+- **[Architect](Architect.md) Channels** - Energy/communication pathways
+- **[Architect](Architect.md) City** - Generic term for ruins
+- **[Architect](Architect.md) Constructs** - Mechanical servants
+- **[Architect](Architect.md) Lighthouse** - Navigation structures
+- **[Architect](Architect.md) Metals** - Special materials
+- **[Architect](Architect.md) Roads** - Ancient highway system
+- **[Architect](Architect.md) Ruins** - General overview page
+- **[Architect](Architect.md)-Touched Grain** - Enhanced crops
 - **Architects** - The builders (duplicate)
-- **The Architect's Road** - Specific ancient highway
+- **The [Architect](Architect.md)'s Road** - Specific ancient highway
 
 ### Technology & Architect Items (25 pages)
 
 Technological concepts and items:
 
-- **Architect Technology** - General overview (duplicate of existing)
-- **Architect Technology Overview** - Detailed guide
+- **[Architect](Architect.md) Technology** - General overview (duplicate of existing)
+- **[Architect Technology Overview](Architect%20Technology%20Overview.md)** - Detailed guide
 - **Brass Crown Kingdom** - Political entity (miscategorized)
-- **Crown of Brass and Stone - Ruin-Holder Anthem** - Song (duplicate)
+- **[Crown of Brass and Stone - Ruin-Holder Anthem](Crown%20of%20Brass%20and%20Stone%20-%20Ruin-Holder%20Anthem.md)** - Song (duplicate)
 - **Eternal Lighthouse** - Specific lighthouse
 - **Gear-Crowned** - Title or condition
 - **Gear-Grove** - Mechanical forest
@@ -114,13 +114,13 @@ Technological concepts and items:
 - **Gear-Wright** - Profession
 - **Lighthouse Catch** - Fishing phenomenon
 - **Lighthouse Malfunctions** - Technical problems
-- **Lighthouse of Grimhaven** - Specific structure
+- **Lighthouse of [Grimhaven](Grimhaven.md)** - Specific structure
 - **Mechanical Envoys** - Diplomat constructs
 - **Mechanism Madness** - Mental condition
 - **Mechanism Syndrome** - Medical condition
 - **Navigation Crown** - Artifact/device
 - **Technology** - General concept page
-- **Technology/Architect Technology** - Category page
+- **Technology/[Architect](Architect.md) Technology** - Category page
 - **Temple of Eternal Gears** - Religious site
 - Plus instrumental music references
 
@@ -131,7 +131,7 @@ Travel routes and geographic features:
 - **Merchant's Highway** - Trade route
 - **Northern Passages** - Mountain passes
 - **Northern Reaches** - Frontier region
-- **The Endless Road - Wanderer Song** - (duplicate of music)
+- **[The Endless Road - Wanderer Song](The%20Endless%20Road%20-%20Wanderer%20Song.md)** - (duplicate of music)
 - Plus travel-themed music references
 
 ### Lore & History (10 pages)
@@ -139,20 +139,20 @@ Travel routes and geographic features:
 Historical events and concepts:
 
 - **Battle of Copper Bridge** - Historical conflict
-- **Final Protocol** - Architect emergency measure
-- **Great Circuit** - Architect concept
+- **Final Protocol** - [Architect](Architect.md) emergency measure
+- **Great Circuit** - [Architect](Architect.md) concept
 - **Great Silence** - The 800-year dormancy
-- **Lore/The Great Silence** - Detailed history
+- **Lore/[The Great Silence](The%20Great%20Silence.md)** - Detailed history
 - **Recent Awakening** - Current events
 - **The Great Amphitheater** - Ancient structure
-- **The Great Silence** - (duplicate)
+- **[The Great Silence](The%20Great%20Silence.md)** - (duplicate)
 - Plus music references to these events
 
 ### Game Mechanics & Systems (2 pages)
 
 Conditions affecting characters:
 
-- **Brass Fever** - Disease from Architect exposure
+- **Brass Fever** - Disease from [Architect](Architect.md) exposure
 - **Song-Madness** - Mental condition from the Spires
 
 ### Resources & Materials (8 pages)
@@ -178,7 +178,7 @@ Magical effects and practitioners:
 - **Ice-Wraiths** - Frozen spirits
 - **Null Mages** - Anti-magic practitioners
 - **Resonance Cascade** - Dangerous effect
-- **Resonance Chambers** - Architect structures
+- **Resonance Chambers** - [Architect](Architect.md) structures
 - **Resonance Groves** - Natural formations
 - **Resonance Trees** - Special flora
 - **Storm-Wraith** - Weather spirit
@@ -199,10 +199,10 @@ Miscellaneous references including duplicates, navigation pages, and uncategoriz
 
 ### Priority Pages to Create
 
-1. **Architect** - Core concept page explaining who they were
+1. **[Architect](Architect.md)** - Core concept page explaining who they were
 2. **Great Silence** - Central historical event
-3. **Architect Technology Overview** - Comprehensive guide
-4. **Major Settlements**: Stonehaven, Kelathon, Ironhold
+3. **[Architect Technology Overview](Architect%20Technology%20Overview.md)** - Comprehensive guide
+4. **Major Settlements**: [Stonehaven](Stonehaven.md), [Kelathon](Kelathon.md), Ironhold
 5. **Key Organizations**: Tinker-Priest variants, major guilds
 6. **Resource Pages**: For trade goods and materials
 7. **Geographic Regions**: Quiet Lands, Frozen Marches, etc.

@@ -93,4 +93,4 @@ The question is not whether the Architects will return — it is whether Valdris
 
 ---
 
-*Last Updated: 847 AS (After Silence) - Year of the Recent Awakening*
+*Last Updated: 847 AS (After Silence) - Year of [The Recent Awakening](The%20Recent%20Awakening.md)*

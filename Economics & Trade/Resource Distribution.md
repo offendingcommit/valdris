@@ -381,6 +381,6 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 
 ---
 
-*Control the resources, control the future. In [[Valdris]], the intersection of traditional wealth and Architect mysteries creates opportunities for those bold enough to seize them.*
+*Control the resources, control the future. In [[Valdris]], the intersection of traditional wealth and [Architect](Architect.md) mysteries creates opportunities for those bold enough to seize them.*
 
 #resources #materials #extraction #political-power #awakening #economics

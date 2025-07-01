@@ -177,7 +177,7 @@ The largest concentration of Ruin-Shunner Republics, the [[World Map#The Quiet L
 
 ### Independent Republics
 
-Beyond the Quiet Lands, smaller Shunner communities maintain the philosophy:
+Beyond [The Quiet Lands](The%20Quiet%20Lands.md), smaller Shunner communities maintain the philosophy:
 
 **[[Millbrook]]**: Though independent, this village exemplifies Shunner ideals while maintaining pragmatic neutrality. Their [[Settlements/Millbrook#The Council of Seasons|Council of Seasons]] operates on democratic principles despite the presence of a peaceful [[Architect Ruins|Architect]] guardian.
 
@@ -330,7 +330,7 @@ A master smith who rose through dedication and political acumen, Elena embodies 
 
 **Secret**: Maintains private correspondence with moderate leaders in other political systems, seeking allies against extremists of all types.
 
-**Adventure Hooks**:
+**[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs discrete agents to investigate youth exodus causes
 - Seeks proof of [[Architect Ruins|Architect]] technology failures to counter propaganda
 - Requires diplomatic missions to potential allies
@@ -338,7 +338,7 @@ A master smith who rose through dedication and political acumen, Elena embodies 
 ### Marcus Seedkeeper
 *Human, 45, Master of Agricultural Innovation*
 
-Leading researcher in traditional farming techniques, Marcus oversees [[Greenhill]]'s experimental farms and the preservation of [[Pure-Strain Crops]]. His work feeds half the Quiet Lands.
+Leading researcher in traditional farming techniques, Marcus oversees [[Greenhill]]'s experimental farms and the preservation of [[Pure-Strain Crops]]. His work feeds half [The Quiet Lands](The%20Quiet%20Lands.md).
 
 **Background**: Farm boy who showed exceptional intuition for plant breeding. Studied under three different masters before synthesizing their techniques into new innovations.
 
@@ -348,13 +348,13 @@ Leading researcher in traditional farming techniques, Marcus oversees [[Greenhil
 
 **Secret**: Has discovered techniques that actually do exceed some [[Architect Ruins|Architect]] farming, but fears the political implications of this knowledge.
 
-**Adventure Hooks**:
+**[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs rare seeds from dangerous locations
 - Requires protection for crucial crop experiments
 - Seeks information about [[Walking Gardens of Yss'andra]] agricultural methods
 
 ### Captain Derrick Ironwall
-*Human, 38, Commander of Stonehaven Defenses*
+*Human, 38, Commander of [Stonehaven](Stonehaven.md) Defenses*
 
 A military prodigy who has revolutionized Shunner defensive doctrine, Derrick prepares for conflicts everyone hopes won't come.
 
@@ -366,7 +366,7 @@ A military prodigy who has revolutionized Shunner defensive doctrine, Derrick pr
 
 **Secret**: Has developed tactics that could catastrophically disable major ruins, but knows using them would make Shunners pariahs.
 
-**Adventure Hooks**:
+**[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs intelligence on awakening military technologies
 - Requires discrete elimination of specific threats
 - Seeks allies for defensive pacts
@@ -374,7 +374,7 @@ A military prodigy who has revolutionized Shunner defensive doctrine, Derrick pr
 ### Julia Brightweaver
 *Human, 28, Master Textile Artisan and Youth Advocate*
 
-Youngest master in Stonehaven's history, Julia bridges generational divides while creating textiles that attract buyers from across [[Valdris]].
+Youngest master in [Stonehaven](Stonehaven.md)'s history, Julia bridges generational divides while creating textiles that attract buyers from across [[Valdris]].
 
 **Background**: Prodigy who achieved mastery at twenty-two. Incorporates traditional techniques with innovative designs that appeal to younger generations.
 
@@ -384,7 +384,7 @@ Youngest master in Stonehaven's history, Julia bridges generational divides whil
 
 **Secret**: Occasionally incorporates harmonic patterns learned from studying [[Architect Ruins|Architect]] designs, though never using their technology.
 
-**Adventure Hooks**:
+**[Adventure Hooks](Adventure%20Hooks.md)**:
 - Organizes youth expeditions to safer ruins
 - Needs rare dyes and materials for special commissions
 - Seeks cultural exchanges with other political systems
@@ -402,7 +402,7 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 **Secret**: Maintains hidden archive of [[Architect Ruins|Architect]] technical manuals, believing knowledge itself is neutral—only application creates dependence.
 
-**Adventure Hooks**:
+**[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs rare books and scrolls retrieved
 - Requires documentation of distant Shunner communities
 - Seeks verification of historical claims
@@ -455,19 +455,19 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 **The Craft Revolution**: Players help develop new techniques that could secure Shunner independence—or fundamentally change their society. Navigate innovation versus tradition across multiple adventures.
 
-**The Quiet Lands Defense**: As surrounding powers grow stronger through [[Architect Ruins|Architect]] awakening, players coordinate republic defenses, diplomatic initiatives, and internal reforms to preserve independence.
+**[The Quiet Lands](The%20Quiet%20Lands.md) Defense**: As surrounding powers grow stronger through [[Architect Ruins|Architect]] awakening, players coordinate republic defenses, diplomatic initiatives, and internal reforms to preserve independence.
 
 ## Conflicts and Tensions
 
 ### External Conflicts
 
-**Versus Ruin-Holder Kingdoms**: Ideological opposites clash over:
+**Versus [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**: Ideological opposites clash over:
 - Territory containing awakening ruins
 - Trade route control and market access
 - Refugee populations fleeing both directions
 - Philosophical debates becoming political warfare
 
-**Versus Wanderer Confederations**: Mobility creates friction through:
+**Versus [Wanderer Confederations](Wanderer%20Confederations.md)**: Mobility creates friction through:
 - Wanderer routes crossing Shunner territory
 - Competition for youth seeking adventure
 - Disagreements over ruin site responsibilities

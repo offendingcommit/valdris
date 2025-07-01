@@ -182,7 +182,7 @@ A former [[Tinker-Priests|Tinker-Priest]] who settled in Kelathon and eventually
 
 A brilliant but controversial scholar who runs a private research company studying the spires' acoustic properties for commercial applications. His work has led to innovations in magical communication and defensive systems, but his methods often conflict with traditional approaches to the ruins.
 
-**Motivation**: To unlock the practical applications of the spires' technology and bring the benefits of Architect acoustics to the wider world.
+**Motivation**: To unlock the practical applications of the spires' technology and bring the benefits of [Architect](Architect.md) acoustics to the wider world.
 
 **Secret**: His research has accidentally created resonance devices that can influence the spires' behavior, potentially giving him unprecedented control over the ancient towers—power that could be catastrophic if misused.
 
@@ -268,7 +268,7 @@ The [[Recent Awakening]] has intensified all these relationships, with each fact
 
 ### Long-term Campaigns
 
-- **The Architect's Symphony**: The spires may be part of a continent-spanning musical composition involving all major [[Architect Ruins]]. The party could uncover this pattern and their role in either completing or preventing the ancient symphony, with implications for the entire future of [[Valdris]].
+- **The [Architect](Architect.md)'s Symphony**: The spires may be part of a continent-spanning musical composition involving all major [[Architect Ruins]]. The party could uncover this pattern and their role in either completing or preventing the ancient symphony, with implications for the entire future of [[Valdris]].
 
 - **The Harmony Wars**: Competition for control over Kelathon escalates into open conflict between various factions. The party serves as diplomats, investigators, or independent agents trying to prevent war while protecting the spires from exploitation or destruction.
 
@@ -300,4 +300,4 @@ The city stands at the intersection of scholarly inquiry, political competition,
 
 *For additional information, see [[Singing Spires of Kelathon]], [[Architect Ruins]], [[Political Systems]], [[Timeline]], and [[World Map]]*
 
-#settlement #major-location #architect-ruins #acoustic-phenomena #research-center
+#settlement #major-location #[Architect](Architect.md)-ruins #acoustic-phenomena #research-center

@@ -548,6 +548,6 @@ The Architects left questions written in brass and crystal, encoded in harmony a
 
 ---
 
-*Last Updated: 847 AS, during the Recent Awakening*
+*Last Updated: 847 AS, during [The Recent Awakening](The%20Recent%20Awakening.md)*
 
 **See Also**: For technological details, see [[Architect Technology]]. For factional interpretations, see [[Tinker-Priests]] and [[Silence-Keepers]]. For chronological context, see [[Timeline]]. For the current situation, see [[Recent Awakening]].*

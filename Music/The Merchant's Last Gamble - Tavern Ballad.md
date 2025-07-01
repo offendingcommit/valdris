@@ -89,7 +89,7 @@ The Ruins Call - Ballad of the Lost Merchant
 
 ## Campaign Integration
 - Popular tavern song across [[Valdris]]
-- Warning tale about Architect ruin dangers
+- Warning tale about [Architect](Architect.md) ruin dangers
 - Often sung in [[Grimhaven]] docks
 - References the lure and danger of artifact hunting
 - Could be heard in any settlement with a tavern

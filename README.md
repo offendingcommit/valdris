@@ -13,7 +13,7 @@
 
 ## 🌍 Overview
 
-Welcome to **Valdris**, an open-source campaign setting designed for Dungeons & Dragons 5th Edition. This living world is built by and for the tabletop RPG community, offering a rich fantasy setting centered around ancient Architect ruins that Game Masters can use, modify, and expand upon for their own campaigns.
+[Welcome](Welcome.md) to **Valdris**, an open-source campaign setting designed for Dungeons & Dragons 5th Edition. This living world is built by and for the tabletop RPG community, offering a rich fantasy setting centered around ancient [Architect](Architect.md) ruins that Game Masters can use, modify, and expand upon for their own campaigns.
 
 Whether you're looking for a complete campaign world, inspiration for your own setting, or want to contribute to a collaborative worldbuilding project, Valdris welcomes you with open arms.
 
@@ -50,10 +50,10 @@ While Obsidian provides the best experience, all content is written in Markdown 
 
 Valdris is a continent where ancient mysteries and modern ambitions collide, where:
 
-- **Architect Ruins** dot the landscape like sleeping giants from a lost civilization
+- **[Architect](Architect.md) Ruins** dot the landscape like sleeping giants from a lost civilization
 - **Clockwork Technology** from the ancients defies medieval understanding
 - **Political Factions** vie for control of awakening ruins and their secrets
-- **The Great Silence** ended 800 years ago, but now the ruins stir once more
+- **[The Great Silence](The%20Great%20Silence.md)** ended 800 years ago, but now the ruins stir once more
 - **Three Societies** have emerged: Ruin-Holders, Wanderers, and Ruin-Shunners
 
 ### Key Features
@@ -61,7 +61,7 @@ Valdris is a continent where ancient mysteries and modern ambitions collide, whe
 - **Modular Design**: Use the entire world or pick specific regions, NPCs, or plot hooks
 - **System Agnostic Core**: While designed for D&D 5E, the lore works with any fantasy TTRPG
 - **Interconnected Lore**: Every location, character, and event connects to the greater narrative
-- **DM-Friendly**: Includes adventure hooks, random tables, and campaign seeds
+- **DM-Friendly**: Includes [Adventure Hooks](Adventure%20Hooks.md), random tables, and campaign seeds
 
 ## 🛠️ How to Use with Obsidian
 
@@ -130,7 +130,7 @@ Under these terms:
 
 ### For New DMs
 - Start with a single region or city
-- Use provided adventure hooks to kickstart your campaign
+- Use provided [Adventure Hooks](Adventure%20Hooks.md) to kickstart your campaign
 - Don't be afraid to make it your own!
 
 ### For Experienced DMs

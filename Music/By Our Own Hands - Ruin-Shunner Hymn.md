@@ -102,6 +102,6 @@ Good Earth and True Hearts - Working Folk's Hymn
 ## Campaign Integration
 - Hymn of the [[Ruin-Shunner Republics]]
 - Sung in [[The Quiet Lands]] communities
-- Represents rejection of Architect dependency
+- Represents rejection of [Architect](Architect.md) dependency
 - Often heard during harvest festivals and work gatherings
 - Links to [[Political Systems/Ruin-Shunner Republics]]

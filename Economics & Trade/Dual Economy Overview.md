@@ -280,6 +280,6 @@ Economies dominated by state-controlled artifact extraction:
 
 ---
 
-*The dual economy shapes every aspect of life in [[Valdris]], from the humblest farmer calculating whether artifact-enhanced tools justify their cost to kings negotiating treaties with Grade V artifacts as dowries.*
+*The [Dual Economy](Dual%20Economy.md) shapes every aspect of life in [[Valdris]], from the humblest farmer calculating whether artifact-enhanced tools justify their cost to kings negotiating treaties with Grade V artifacts as dowries.*
 
 #economics #dual-economy #trade #valdris #awakening

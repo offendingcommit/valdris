@@ -40,7 +40,7 @@ The [[Sunrise River]] provides fresh water and powers numerous mills, while care
 
 ### Social Structure
 
-Stonehaven operates as a true [[Political Systems/Ruin-Shunner Republics#The Assembly System|craft-based democracy]], where authority derives from demonstrated mastery rather than birthright or proximity to ancient power. The city's social hierarchy places master craftsmen at the top, followed by journeymen, apprentices, and those still learning their first trade.
+Stonehaven operates as a true [[Political Systems/Ruin-Shunner Republics#The Assembly System|craft-based democracy]], where authority derives from demonstrated mastery rather than birthright or proximity to ancient power. The city's [Social Hierarchy](Social%20Hierarchy.md) places master craftsmen at the top, followed by journeymen, apprentices, and those still learning their first trade.
 
 The [[#Council of Master Crafts|Council of Master Crafts]] governs the city, with elected representatives from each major profession: smithing, farming, building, healing, teaching, trading, and defense. Leadership rotates regularly to prevent power concentration, and all major decisions require public debate in the [[#Grand Assembly Hall|Grand Assembly Hall]].
 

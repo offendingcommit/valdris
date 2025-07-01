@@ -1,6 +1,6 @@
 # Lady Aurelia Brass-Heart
 
-*High-Ranking Ruin-Holder Noble with Profound Architect Connections*
+*High-Ranking Ruin-Holder Noble with Profound [Architect](Architect.md) Connections*
 
 ## Quick Reference
 
@@ -77,7 +77,7 @@ Her resources include substantial family wealth, a network of contacts throughou
 
 - **High Mechanist Korvan Brasshand**: Creator of her prosthetic and secret keeper, maintains professional relationship with underlying paternal concern
 - **King Aldric III of Thymeris**: Distant cousin who values her insights into [[Architect Technology|Architect]] behavior
-- **Princess Melodia VII of Kelathon**: Fellow noble experimenting with [[Architect Technology|Architect]] interfaces, occasional collaborator despite political rivalry
+- **Princess Melodia VII of [Kelathon](Kelathon.md)**: Fellow noble experimenting with [[Architect Technology|Architect]] interfaces, occasional collaborator despite political rivalry
 
 ### Rivals
 
@@ -130,4 +130,4 @@ Her prosthetic arm grants her several unique abilities:
 
 *For related NPCs and locations, see [[Political Systems/Ruin-Holder Kingdoms]], [[Thymeris the Golden]], [[Factions & Organizations/Tinker-Priests]], [[Architect Technology]], [[Lore/The Recent Awakening]]*
 
-#npc #major-character #ruin-holder #noble #architect-technology #thymeris #political-intrigue #recent-awakening
+#npc #major-character #ruin-holder #noble #[Architect](Architect.md)-technology #thymeris #political-intrigue #recent-awakening

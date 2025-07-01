@@ -340,6 +340,6 @@ The age turns. The circuit nears completion. And somewhere in the singing of the
 
 ---
 
-*Last Updated: 847 AS, during the Recent Awakening*
+*Last Updated: 847 AS, during [The Recent Awakening](The%20Recent%20Awakening.md)*
 
 **See Also**: For specific technological details, see [[Architect Technology]]. For individual ruins, see [[Architect Ruins]]. For historical context, see [[Timeline]]. For factional responses, see [[Tinker-Priests]] and [[Silence-Keepers]].*

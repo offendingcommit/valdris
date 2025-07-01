@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Silence-Keepers are an ancient order founded in the chaotic aftermath of the [[Great Silence]], dedicated to one sacred purpose: ensuring the Architect ruins remain sealed and their secrets undisturbed. Where others see opportunity in the mysterious brass mechanisms and crystal spires, the Silence-Keepers see apocalyptic danger barely contained.
+The Silence-Keepers are an ancient order founded in the chaotic aftermath of the [[Great Silence]], dedicated to one sacred purpose: ensuring the [Architect](Architect.md) ruins remain sealed and their secrets undisturbed. Where others see opportunity in the mysterious brass mechanisms and crystal spires, the Silence-Keepers see apocalyptic danger barely contained.
 
 For 847 years, they have stood as watchful guardians, archivists of forbidden knowledge, and prophets of caution. The [[Recent Awakening]] has transformed them from dismissed doomsayers into vindicated harbingers—though this validation brings them no joy, only mounting terror at what may come.
 
@@ -21,7 +21,7 @@ These scholars, led by the mathematician-philosopher **Erasmus the Vigilant**, f
 
 ### The Schism of Understanding
 
-The early Silence-Keepers faced immediate opposition from those who would become the [[Tinker-Priests]], leading to the **Schism of Understanding** in 23 AS. Where the Tinker-Priests saw divine revelation in Architect technology, the Silence-Keepers saw evidence of a catastrophic fall—patterns in the ruins suggesting not abandonment, but deliberate self-imprisonment.
+The early Silence-Keepers faced immediate opposition from those who would become the [[Tinker-Priests]], leading to the **Schism of Understanding** in 23 AS. Where the [Tinker-Priests](Tinker-Priests.md) saw divine revelation in [Architect](Architect.md) technology, the Silence-Keepers saw evidence of a catastrophic fall—patterns in the ruins suggesting not abandonment, but deliberate self-imprisonment.
 
 This fundamental disagreement has defined eight centuries of conflict between the two orders.
 
@@ -68,7 +68,7 @@ The Silence-Keepers organize in concentric circles, each with greater access to 
 
 The Silence-Keepers maintain hidden archives throughout the continent:
 
-- **The Vault of First Silence** (Location Unknown): The original archive containing unfiltered Architect warnings
+- **The Vault of First Silence** (Location Unknown): The original archive containing unfiltered [Architect](Architect.md) warnings
 - **The Whispering Library** (Northern [[Wanderer Confederation]] Territory): Public-facing repository of cautionary tales
 - **The Brass Sepulcher** (Beneath [[Grimhaven]]): Secured storage for dangerous artifacts
 - **The Tower of Quietude** (Border of [[Quiet Valley Republic]]): Training center and monastery
@@ -93,7 +93,7 @@ Silence-Keepers employ various methods to maintain their vigil:
 
 ### Field Operations
 
-- **Ruin Monitoring**: Constant observation of Architect sites for signs of activation
+- **Ruin Monitoring**: Constant observation of [Architect](Architect.md) sites for signs of activation
 - **Infiltration**: Placing agents within [[Tinker-Priests]] and archaeological expeditions
 - **Sabotage**: Discrete prevention of ruin exploration when necessary
 - **Public Warnings**: Dissemination of cautionary tales and "accidents" at ruins
@@ -120,11 +120,11 @@ The Wanderers and Silence-Keepers share a natural affinity through their mutual 
 
 ### Ruin-Shunner Settlements
 
-The Silence-Keepers find their strongest support among the [[Ruin-Shunners]], whose philosophy of avoiding Architect technology aligns with their warnings. Many Shunner settlements host hidden Silence-Keeper sanctuaries.
+The Silence-Keepers find their strongest support among the [[Ruin-Shunners]], whose philosophy of avoiding [Architect](Architect.md) technology aligns with their warnings. Many Shunner settlements host hidden Silence-Keeper sanctuaries.
 
 **Mutual Interests**:
 - Promoting fear and respect for ruins
-- Documenting the "corruption" of those who use Architect devices
+- Documenting the "corruption" of those who use [Architect](Architect.md) devices
 - Maintaining pure human societies free from mechanical influence
 
 ## Recent Awakening Crisis
@@ -158,9 +158,9 @@ Recent attempted actions include:
 
 ### Theological Opposition
 
-Where [[Tinker-Priests]] see divine providence in Architect technology, Silence-Keepers see evidence of hubris and catastrophe. This fundamental disagreement has led to:
+Where [[Tinker-Priests]] see divine providence in [Architect](Architect.md) technology, Silence-Keepers see evidence of hubris and catastrophe. This fundamental disagreement has led to:
 
-- **The War of Texts** (234 AS): Violent conflict over possession of the Architect Codices
+- **The War of Texts** (234 AS): Violent conflict over possession of the [Architect](Architect.md) Codices
 - **The Thymeris Incident** (456 AS): Silence-Keeper attempt to permanently seal the golden city
 - **The Recent Sabotage** (847 AS): Failed bombing of Tinker-Priest excavation equipment
 
@@ -173,8 +173,8 @@ Both orders maintain spy networks within each other:
 
 ### The Prophecy War
 
-Each order interprets the same Architect texts to support their position:
-- Tinker-Priests: "The sleeping shall wake to glory"
+Each order interprets the same [Architect](Architect.md) texts to support their position:
+- [Tinker-Priests](Tinker-Priests.md): "The sleeping shall wake to glory"
 - Silence-Keepers: "The sleeping shall wake to consume"
 
 ## Notable Members and Leaders
@@ -184,7 +184,7 @@ Each order interprets the same Architect texts to support their position:
 **High Vigil Morteus the Grave-Touched**
 - Former Tinker-Priest who converted after experiencing visions in [[Thymeris the Golden]]
 - Bears scars from exposure to "raw time" within a temporal anomaly
-- Prophesied the exact date of the Recent Awakening
+- Prophesied the exact date of [The Recent Awakening](The%20Recent%20Awakening.md)
 - Increasingly radical, calling for "preventive silencing" of all ruins
 
 **Threshold Guardian Lyssa of the Closing Eye**
@@ -215,12 +215,12 @@ Each order interprets the same Architect texts to support their position:
 
 **The Unnamed Martyr** (234-289 AS)
 - Identity erased from all records as part of their sacrifice
-- Infiltrated the highest ranks of the Tinker-Priests
+- Infiltrated the highest ranks of the [Tinker-Priests](Tinker-Priests.md)
 - Prevented the early opening of [[Thymeris the Golden]]
 - Death created the "Martyr's Seal" that lasted 500 years
 
 **Sister Null the Dream-Walker** (567-634 AS)
-- Developed techniques for entering the "Architect Dreamscape"
+- Developed techniques for entering the "[Architect](Architect.md) Dreamscape"
 - Documented visions of the civilization's final days
 - Went mad from the revelations, spending her last years in silence
 - Her journal, "The Architecture of Nightmares," remains partially sealed
@@ -274,7 +274,7 @@ Ancient texts suggest [[Thymeris the Golden]] will open three times. It's opened
 The location of the original archive has been discovered. Multiple factions race to claim its apocalyptic secrets while the Silence-Keepers desperately try to destroy it.
 
 **The Quieting Ritual**
-The Inner Circle prepares to perform a ritual to "restore the Great Silence." This would shut down all Architect technology—including devices people now depend on for survival.
+The Inner Circle prepares to perform a ritual to "restore [The Great Silence](The%20Great%20Silence.md)." This would shut down all [Architect](Architect.md) technology—including devices people now depend on for survival.
 
 **The Prophet's Path**
 Follow the journey of a new member rising through the Circles, gradually learning terrible truths that test their sanity and loyalty.
@@ -291,7 +291,7 @@ Investigate rumors of Silence-Keepers who voluntarily removed their tongues afte
 A discovered archive contains prophecies that seem to describe the party's actions—written centuries ago. Coincidence or fate?
 
 **The Convergence Equation**
-Mathematical proofs suggest all Architect ruins will simultaneously activate on a specific date. Verify the calculations and prepare for the consequences.
+Mathematical proofs suggest all [Architect](Architect.md) ruins will simultaneously activate on a specific date. Verify the calculations and prepare for the consequences.
 
 **The Heretic's Theory**
 A radical Silence-Keeper theorizes that the Architects' warning was a trap—that the real danger is in trying to prevent their return. Investigate this paradox.
@@ -305,7 +305,7 @@ Officially opposes Silence-Keepers but secretly consults them about "anomalous e
 Share route information to help Silence-Keepers reach remote ruins quickly, in exchange for warnings about dangerous areas.
 
 ### The Merchant Guilds
-View Silence-Keepers as bad for business but occasionally hire them to evaluate potentially dangerous Architect artifacts.
+View Silence-Keepers as bad for business but occasionally hire them to evaluate potentially dangerous [Architect](Architect.md) artifacts.
 
 ### Academic Institutions
 Split between those who dismiss Silence-Keepers as superstitious and those who secretly fund their research.
@@ -318,12 +318,12 @@ Range from viewing them as doomsday cultists to respecting them as protectors, o
 ### Material Resources
 - Hidden supply caches near all major ruins
 - Libraries containing pre-Silence historical records
-- Artifacts specifically designed to contain or nullify Architect technology
+- Artifacts specifically designed to contain or nullify [Architect](Architect.md) technology
 - Networks of safe houses and secret routes
 
 ### Knowledge Assets
 - Complete maps of all known ruins, including sealed sections
-- Dictionaries of partial Architect language translations
+- Dictionaries of partial [Architect](Architect.md) language translations
 - Prophetic timelines with 73% historical accuracy
 - Psychological profiles of key Tinker-Priest leaders
 
@@ -335,10 +335,10 @@ Range from viewing them as doomsday cultists to respecting them as protectors, o
 
 ## The Future of Silence
 
-As the Recent Awakening continues, the Silence-Keepers face their greatest challenge. Their warnings proven true, they must decide whether to:
+As [The Recent Awakening](The%20Recent%20Awakening.md) continues, the Silence-Keepers face their greatest challenge. Their warnings proven true, they must decide whether to:
 
 - Continue their mission of prevention, despite repeated failures
-- Prepare humanity for an inevitable Architect return
+- Prepare humanity for an inevitable [Architect](Architect.md) return
 - Activate desperate measures that might save or doom the world
 - Accept that their 847-year vigil may have been in vain
 

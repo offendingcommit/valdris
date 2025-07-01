@@ -383,5 +383,5 @@ The Gardens' mobility makes them perfect for campaigns that need to cover large 
 
 ---
 
-*Last updated: 847 AS, current year of the Recent Awakening*
+*Last updated: 847 AS, current year of [The Recent Awakening](The%20Recent%20Awakening.md)*
 *Next predicted major route milestone: Arrival at [[Shimmerstone Valley]], estimated 849 AS*

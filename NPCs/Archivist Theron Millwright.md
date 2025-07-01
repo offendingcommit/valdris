@@ -26,7 +26,7 @@ His voice carries the measured cadence of someone accustomed to lecturing, but d
 
 As head librarian of [[Settlements/Stonehaven]]'s Grand Library, Theron maintains the image of a dedicated but harmless scholar. He's known for his encyclopedic knowledge of [[Valdris]] history, his patient instruction of young researchers, and his ability to locate virtually any piece of information in the library's vast collections.
 
-Colleagues and visitors see him as slightly absent-minded but brilliant, prone to launching into detailed explanations of historical minutiae that most find either fascinating or insufferably boring. He's respected for maintaining strict neutrality in political matters, making the library a welcome refuge for scholars from all factions.
+Colleagues and visitors see him as slightly absent-minded but brilliant, prone to launching into detailed explanations of historical minutiae that most find either fascinating or insufferably boring. He's respected for maintaining strict neutrality in political matters, making the library a [Welcome](Welcome.md) refuge for scholars from all factions.
 
 His public lectures on pre-[[Lore/The Great Silence|Great Silence]] history draw modest but dedicated crowds. He carefully presents information that's thoroughly documented and politically safe, never hinting at the dangerous knowledge he guards.
 
@@ -86,7 +86,7 @@ Since the [[Lore/The Recent Awakening]], his workload has tripled as he frantica
 ### Rivals
 
 - **High Mechanist Korvan Brasshand**: [[Factions & Organizations/Tinker-Priests|Tinker-Priest]] leader whose policies directly conflict with [[Factions & Organizations/Silence-Keepers|Silence-Keeper]] goals
-- **Lady Aurelia Brass-Heart**: Her technological integration represents everything the [[Factions & Organizations/Silence-Keepers]] fear about human-[[Architect Technology|Architect]] hybridization
+- **[Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)**: Her technological integration represents everything the [[Factions & Organizations/Silence-Keepers]] fear about human-[[Architect Technology|Architect]] hybridization
 - **Professor Aldric Stormwind**: Academic rival who advocates for aggressive [[Architect Technology|Architect]] research
 
 ### Complicated
@@ -136,4 +136,4 @@ Theron's value lies in knowledge rather than physical capabilities:
 
 *For related NPCs and locations, see [[Factions & Organizations/Silence-Keepers]], [[Settlements/Stonehaven]], [[Singing Spires of Kelathon]], [[Lore/The Great Silence]], [[Lore/The Recent Awakening]], [[Architect Technology]]*
 
-#npc #silence-keepers #scholar #archivist #stonehaven #secret-knowledge #historical-research #recent-awakening
+#npc #[Silence-Keepers](Silence-Keepers.md) #scholar #archivist #[Stonehaven](Stonehaven.md) #secret-knowledge #historical-research #recent-awakening

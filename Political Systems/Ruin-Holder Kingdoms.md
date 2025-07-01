@@ -205,7 +205,7 @@ The ideological gulf between Ruin-Holders and [[Political Systems/Ruin-Shunner R
 
 ### Internal Rivalries
 
-Perhaps the greatest conflicts occur between Ruin-Holder kingdoms themselves. Disputes over ruin ownership, artifact rights, and territorial boundaries create constant tension. The **War of Brass Succession** between Thymeris and Kelathon lasted seven years and ended only when both ruins began displaying hostile behaviors.
+Perhaps the greatest conflicts occur between Ruin-Holder kingdoms themselves. Disputes over ruin ownership, artifact rights, and territorial boundaries create constant tension. The **War of Brass Succession** between Thymeris and [Kelathon](Kelathon.md) lasted seven years and ended only when both ruins began displaying hostile behaviors.
 
 ## Notable NPCs and Leaders
 
@@ -218,7 +218,7 @@ Rules the most powerful Ruin-Holder kingdom from [[Thymeris the Golden]]'s Amber
 **Secret**: His connection to Thymeris grows stronger daily, and he fears losing his humanity
 
 ### Princess Melodia VII
-*Half-Elf, 89, Ruler of Kelathon*
+*Half-Elf, 89, Ruler of [Kelathon](Kelathon.md)*
 
 The Resonant Princess has spent decades learning to interpret the [[Singing Spires of Kelathon]]'s harmonies. Her Crown-Gear resonates perfectly with the Spires, allowing her to "conduct" their music. She claims the songs contain prophecies about the Architects' return.
 

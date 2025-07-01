@@ -86,7 +86,7 @@ Since the [[Lore/The Recent Awakening]], his responsibilities have expanded to i
 ### Rivals
 
 - **High Mechanist Korvan Brasshand**: [[Factions & Organizations/Tinker-Priests|Tinker-Priest]] leader whose policies promote [[Architect Technology|Architect]] integration
-- **Lady Aurelia Brass-Heart**: Her technological advocacy directly threatens traditional craftsmanship interests
+- **[Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)**: Her technological advocacy directly threatens traditional craftsmanship interests
 - **Master Tobias Gearwright**: [[Factions & Organizations/Tinker-Priests|Tinker-Priest]] craftsman whose hybrid techniques compete with guild methods
 
 ### Complicated
@@ -136,4 +136,4 @@ Aldric's capabilities include:
 
 *For related NPCs and locations, see [[Political Systems/Ruin-Shunner Republics]], [[Settlements/Stonehaven]], [[Factions & Organizations/Tinker-Priests]], [[Architect Technology]], [[Lore/The Recent Awakening]]*
 
-#npc #ruin-shunner #guild-leader #traditional-craftsmanship #stonehaven #gear-wright #political-influence #recent-awakening
+#npc #ruin-shunner #guild-leader #traditional-craftsmanship #[Stonehaven](Stonehaven.md) #gear-wright #political-influence #recent-awakening

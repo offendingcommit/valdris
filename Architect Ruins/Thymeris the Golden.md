@@ -1,5 +1,5 @@
 # Thymeris the Golden
-*"The greatest of all Architect works, a symphony of brass and copper that sings with the voice of forgotten gods."*  
+*"The greatest of all [Architect](Architect.md) works, a symphony of brass and copper that sings with the voice of forgotten gods."*  
 — Master Talen Voss, First Explorer of the Awakened City
 
 ---

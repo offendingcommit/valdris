@@ -1,13 +1,13 @@
 # Pathfinder Zara Windstrider
 
-*Council of Pathfinders Member and Voice of the Endless Road*
+*[Council of Pathfinders](Council%20of%20Pathfinders.md) Member and Voice of the Endless Road*
 
 ## Quick Reference
 
 - **Race**: Half-Elf
 - **Age**: 67 (appears mid-40s due to elven heritage)
 - **Location**: Constantly traveling between [[Political Systems/Wanderer Confederations]] settlements and trading routes
-- **Affiliation**: [[Political Systems/Wanderer Confederations]], Council of Pathfinders (Senior Member), Independent Traders' Alliance
+- **Affiliation**: [[Political Systems/Wanderer Confederations]], [Council of Pathfinders](Council%20of%20Pathfinders.md) (Senior Member), Independent Traders' Alliance
 - **First Impression**: Weather-beaten woman with calculating eyes and a confident stride, whose travel-worn gear tells stories of a thousand journeys across dangerous lands
 
 ## Appearance
@@ -46,7 +46,7 @@ Born to a [[Political Systems/Wanderer Confederations|Wanderer]] mother and elve
 
 Her pathfinder training began at age 12 under Master Pathfinder Gareth Stormwind, one of the most respected route-mappers in [[Political Systems/Wanderer Confederations|Wanderer]] history. She demonstrated exceptional ability in cartography, navigation, and hazard assessment, earning full Pathfinder status by age 25—unusually young even accounting for her elven longevity.
 
-Her reputation grew through a series of successful expeditions that opened new trade routes and provided crucial intelligence about changing [[Architect Ruins|Architect]] activity. Her mapping of the "Spiral Routes" around multiple awakening ruins earned her a position on the Council of Pathfinders at age 42, making her one of the youngest members in Confederation history.
+Her reputation grew through a series of successful expeditions that opened new trade routes and provided crucial intelligence about changing [[Architect Ruins|Architect]] activity. Her mapping of the "Spiral Routes" around multiple awakening ruins earned her a position on the [Council of Pathfinders](Council%20of%20Pathfinders.md) at age 42, making her one of the youngest members in Confederation history.
 
 ### Current Situation
 

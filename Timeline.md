@@ -1,5 +1,5 @@
 # The Chronicle of Valdris
-*From the Great Silence to the Recent Awakening*
+*From [The Great Silence](The%20Great%20Silence.md) to [The Recent Awakening](The%20Recent%20Awakening.md)*
 
 ---
 
