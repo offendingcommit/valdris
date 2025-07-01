@@ -1,0 +1,105 @@
+# Obsidian workspace and cache files
+.obsidian/workspace*
+.obsidian/workspaces.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/themes/*/theme.css.map
+
+# Personal Obsidian settings that shouldn't be shared
+.obsidian/hotkeys.json
+.obsidian/page-preview.json
+.obsidian/switcher.json
+.obsidian/starred.json
+.obsidian/bookmarks.json
+.obsidian/command-palette.json
+.obsidian/slash-command.json
+.obsidian/audio-recorder.json
+.obsidian/pane-relief.json
+.obsidian/word-count.json
+.obsidian/file-recovery.json
+.obsidian/sync.json
+.obsidian/publish.json
+
+# Keep these .obsidian files for shared vault structure:
+# - app.json (basic app settings)
+# - appearance.json (theme settings)
+# - core-plugins.json (which core plugins are enabled)
+# - core-plugins-migration.json (migration info)
+# - community-plugins.json (list of community plugins)
+# - graph.json (graph view settings)
+# - daily-notes.json (daily notes settings)
+# - templates.json (template settings)
+# - plugins/ folder (shared plugins configurations)
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+.trash/
+.Trash/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.history/
+
+# Personal notes or private content
+private/
+personal/
+.private/
+*-private.md
+*-personal.md
+scratch/
+.scratch/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+tmp/
+
+# Log files
+*.log
+logs/
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Claude-specific files (for local AI assistant context)
+.claude/
+CLAUDE.md
+
+# Node modules (if using any Obsidian plugins with node dependencies)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if using any python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+
+# Custom sync or conflict files
+*.sync-conflict*
+.conflict-files/
+.obsidian-git-data
