@@ -1,4 +1,4 @@
-# Valderis: An Open-Source D&D Campaign World
+# Valdris: An Open-Source D&D Campaign World
 
 <div align="center">
 
@@ -7,15 +7,15 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-Ready-7c3aed)](https://obsidian.md/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-*A collaborative fantasy world for Dungeons & Dragons 5th Edition*
+*A collaborative fantasy world featuring ancient Architect ruins for Dungeons & Dragons 5th Edition*
 
 </div>
 
 ## 🌍 Overview
 
-Welcome to **Valderis**, an open-source campaign setting designed for Dungeons & Dragons 5th Edition. This living world is built by and for the tabletop RPG community, offering a rich fantasy setting that Game Masters can use, modify, and expand upon for their own campaigns.
+Welcome to **Valdris**, an open-source campaign setting designed for Dungeons & Dragons 5th Edition. This living world is built by and for the tabletop RPG community, offering a rich fantasy setting centered around ancient Architect ruins that Game Masters can use, modify, and expand upon for their own campaigns.
 
-Whether you're looking for a complete campaign world, inspiration for your own setting, or want to contribute to a collaborative worldbuilding project, Valderis welcomes you with open arms.
+Whether you're looking for a complete campaign world, inspiration for your own setting, or want to contribute to a collaborative worldbuilding project, Valdris welcomes you with open arms.
 
 ## 🚀 Getting Started
 
@@ -29,13 +29,13 @@ Whether you're looking for a complete campaign world, inspiration for your own s
 
 1. **Clone or download this repository**
    ```bash
-   git clone https://github.com/yourusername/valderis.git
+   git clone https://github.com/yourusername/valdris.git
    ```
 
 2. **Open in Obsidian**
    - Launch Obsidian
    - Click "Open folder as vault"
-   - Select the Valderis directory
+   - Select the Valdris directory
 
 3. **Explore the World**
    - Start with the [[Welcome]] page
@@ -48,13 +48,13 @@ While Obsidian provides the best experience, all content is written in Markdown 
 
 ## 📖 World Overview
 
-Valderis is a world of ancient mysteries and emerging conflicts, where:
+Valdris is a continent where ancient mysteries and modern ambitions collide, where:
 
-- **Magic** flows through ley lines that crisscross the continents
-- **Diverse cultures** clash and cooperate in a delicate balance
-- **Ancient ruins** hold secrets of civilizations long forgotten
-- **Political intrigue** shapes the destiny of nations
-- **Mythical creatures** roam wild lands between civilization's borders
+- **Architect Ruins** dot the landscape like sleeping giants from a lost civilization
+- **Clockwork Technology** from the ancients defies medieval understanding
+- **Political Factions** vie for control of awakening ruins and their secrets
+- **The Great Silence** ended 800 years ago, but now the ruins stir once more
+- **Three Societies** have emerged: Ruin-Holders, Wanderers, and Ruin-Shunners
 
 ### Key Features
 
@@ -73,14 +73,15 @@ Valderis is a world of ancient mysteries and emerging conflicts, where:
 
 ### Organization
 ```
-Valderis/
-├── Locations/          # Cities, regions, dungeons
-├── NPCs/              # Characters and their stories
-├── Lore/              # History, cosmology, religions
-├── Adventures/        # Ready-to-run quests and campaigns
-├── Rules/             # Optional rules and homebrew
-├── Resources/         # Maps, random tables, DM tools
-└── Templates/         # For creating new content
+Valdris/
+├── Architect Ruins/   # Ancient clockwork cities and sites
+├── Settlements/       # Modern towns and cities
+├── Factions/         # Tinker-Priests, Wanderers, Ruin-Holders
+├── Lore/             # The Great Silence, awakening events
+├── NPCs/             # Characters and their stories
+├── Adventures/       # Ready-to-run quests and campaigns
+├── Technology/       # Architect devices and mechanisms
+└── Templates/        # For creating new content
 ```
 
 ## 🤝 Contributing
@@ -122,7 +123,7 @@ Under these terms:
 ## 🌟 Community
 
 - **Discord**: [Join our Discord server](#) for discussions and game coordination
-- **Reddit**: r/Valderis for sharing stories and content
+- **Reddit**: r/Valdris for sharing stories and content
 - **Issues**: Use GitHub issues for bugs, inconsistencies, or feature requests
 
 ## 🎲 Running Valderis
@@ -133,14 +134,14 @@ Under these terms:
 - Don't be afraid to make it your own!
 
 ### For Experienced DMs
-- Integrate Valderis content into your existing campaign
+- Integrate Valdris content into your existing campaign
 - Use the modular design to grab what you need
 - Share your modifications back with the community
 
 ## 🙏 Acknowledgments
 
-Valderis exists thanks to the creativity and dedication of:
-- All our [contributors](https://github.com/yourusername/valderis/graphs/contributors)
+Valdris exists thanks to the creativity and dedication of:
+- All our [contributors](https://github.com/yourusername/valdris/graphs/contributors)
 - The D&D community for endless inspiration
 - The Obsidian team for their amazing tool
 

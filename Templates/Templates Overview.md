@@ -1,6 +1,6 @@
 # Templates Overview
 
-*Consistent formatting for expanding the Valderis campaign vault*
+*Consistent formatting for expanding the Valdris campaign vault*
 
 ## Quick Navigation
 
