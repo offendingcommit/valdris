@@ -8,11 +8,11 @@
 
 The **Architects** were an ancient civilization of unparalleled technological and artistic achievement whose mysterious disappearance 847 years ago left behind a continent filled with their incredible mechanical works. Neither fully understood nor safely ignored, these enigmatic beings created clockwork cities, crystalline communication networks, and devices that blur the lines between technology and consciousness.
 
-Unlike any civilization before or since, the Architects achieved what many consider impossible: the marriage of mechanism and soul, creating works that continue to function perfectly across centuries while exhibiting behaviors that suggest genuine awareness. Their legacy shapes every aspect of life in [[Valdris]], from the grandest [[Political Systems|political systems]] to the humblest farming village.
+Unlike any civilization before or since, the Architects achieved what many consider impossible: the marriage of mechanism and soul, creating works that continue to function perfectly across centuries while exhibiting behaviors that suggest genuine awareness. Their legacy shapes every aspect of life in [Valdris](../Welcome.md), from the grandest [political systems](../Political%20Systems/Political%20Systems.md) to the humblest farming village.
 
-**Current Status**: Vanished for 847 years, but their technology shows unprecedented activity since the [[Recent Awakening]] began three months ago
+**Current Status**: Vanished for 847 years, but their technology shows unprecedented activity since the [Recent Awakening](The%20Recent%20Awakening.md) began three months ago
 
-**Legacy**: Countless [[Architect Ruins]] across [[Valdris]], integrated technology in daily life, and the greatest mystery in recorded history
+**Legacy**: Countless [Architect Ruins](../Architect%20Ruins/Architect%20Ruins.md) across [Valdris](../Welcome.md), integrated technology in daily life, and the greatest mystery in recorded history
 
 **Influence**: Foundational to all modern civilization, economy, politics, and culture
 
@@ -24,19 +24,19 @@ Unlike any civilization before or since, the Architects achieved what many consi
 
 Despite eight centuries of study, the physical nature of the Architects remains largely speculative. Evidence from their ruins suggests:
 
-**Scale of Construction**: The Architects built on both intimate and colossal scales, from delicate pocket mechanisms to city-sized installations like [[Thymeris the Golden]]. Their works suggest beings comfortable with both microscopic precision and continental planning.
+**Scale of Construction**: The Architects built on both intimate and colossal scales, from delicate pocket mechanisms to city-sized installations like [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md). Their works suggest beings comfortable with both microscopic precision and continental planning.
 
-**Mathematical Mastery**: Every Architect structure exhibits perfect geometric relationships. The heptagonal arrangement of the [[Singing Spires of Kelathon]], the pentagonal formation of the [[Walking Gardens of Yss'andra]], and the golden ratios found throughout [[Thymeris the Golden]] suggest mathematical understanding far beyond current knowledge.
+**Mathematical Mastery**: Every Architect structure exhibits perfect geometric relationships. The heptagonal arrangement of the [Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md), the pentagonal formation of the [Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md), and the golden ratios found throughout [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md) suggest mathematical understanding far beyond current knowledge.
 
-**Technological Integration**: The Architects didn't merely use technology—they appeared to merge with it. [[Architect Technology|Living metal]] that responds to thought, consciousness-interface devices, and the apparent awareness exhibited by major ruins suggest a civilization that transcended the boundary between organic and mechanical existence.
+**Technological Integration**: The Architects didn't merely use technology—they appeared to merge with it. [Living metal](../Technology/Architect%20Technology%20Overview.md) that responds to thought, consciousness-interface devices, and the apparent awareness exhibited by major ruins suggest a civilization that transcended the boundary between organic and mechanical existence.
 
 ### Cultural and Philosophical Insights
 
-**Harmony with Environment**: Rather than conquering nature, the Architects enhanced it. The [[Walking Gardens of Yss'andra]] improve soil wherever they pass, weather control systems maintain optimal conditions, and their mining operations at sites like [[Grimhaven]] appear to have enriched rather than depleted resources.
+**Harmony with Environment**: Rather than conquering nature, the Architects enhanced it. The [Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md) improve soil wherever they pass, weather control systems maintain optimal conditions, and their mining operations at sites like [Grimhaven](../Settlements/Grimhaven.md) appear to have enriched rather than depleted resources.
 
 **Permanence and Purpose**: Everything the Architects built was designed to last millennia. Self-maintaining materials, perpetual motion mechanisms, and auto-repair systems suggest a civilization planning far beyond their own existence.
 
-**Communication Networks**: The harmonic connections between [[Architect Ruins]] reveal a society that valued information sharing and coordination across vast distances. The crystal networks suggest a culture where knowledge belonged to all rather than being hoarded by elites.
+**Communication Networks**: The harmonic connections between [Architect Ruins](../Architect%20Ruins/Architect%20Ruins.md) reveal a society that valued information sharing and coordination across vast distances. The crystal networks suggest a culture where knowledge belonged to all rather than being hoarded by elites.
 
 **Aesthetic Excellence**: Even the most utilitarian Architect devices exhibit extraordinary beauty. Function and form achieve perfect unity in their works, suggesting a culture where art and engineering were indistinguishable disciplines.
 
@@ -44,11 +44,11 @@ Despite eight centuries of study, the physical nature of the Architects remains 
 
 **The Collective Mind Hypothesis**: Some scholars believe the Architects achieved a form of shared consciousness, with individual identity subsumed into a greater collective awareness. This could explain the perfect coordination of their works and their simultaneous disappearance.
 
-**The Ascension Theory**: [[Tinker-Priests]] propose that the Architects transcended physical existence, merging permanently with their technology. The apparent awareness of major ruins supports this controversial idea.
+**The Ascension Theory**: [Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md) propose that the Architects transcended physical existence, merging permanently with their technology. The apparent awareness of major ruins supports this controversial idea.
 
 **The Temporal Displacement Theory**: A minority of scholars suggest the Architects exist outside normal time, explaining their sudden appearances and disappearances throughout history and their technology's temporal anomalies.
 
-**The Preparation Hypothesis**: Growing evidence suggests the Architects were preparing [[Valdris]] for some specific purpose or event, with their entire civilization serving as a vast preparation project whose culmination approaches.
+**The Preparation Hypothesis**: Growing evidence suggests the Architects were preparing [Valdris](../Welcome.md) for some specific purpose or event, with their entire civilization serving as a vast preparation project whose culmination approaches.
 
 ---
 
@@ -56,10 +56,10 @@ Despite eight centuries of study, the physical nature of the Architects remains 
 
 ### The Three Pillars of Architect Engineering
 
-The [[Tinker-Priests]] have identified three fundamental principles underlying all [[Architect Technology]]:
+The [Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md) have identified three fundamental principles underlying all [Architect Technology](../Technology/Architect%20Technology%20Overview.md):
 
 #### Harmonic Resonance
-Every Architect device operates on principles of sympathetic vibration and harmonic frequency. From the musical communications of the [[Singing Spires of Kelathon]] to the smallest [[Architect Technology|harmonic crystals]], their technology speaks in the language of vibration and song.
+Every Architect device operates on principles of sympathetic vibration and harmonic frequency. From the musical communications of the [Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) to the smallest [harmonic crystals](../Technology/Architect%20Technology%20Overview.md), their technology speaks in the language of vibration and song.
 
 - **Crystal Networks**: Information and energy transmission across continental distances
 - **Harmonic Locks**: Security systems requiring specific frequencies for access
@@ -77,7 +77,7 @@ Architect mechanisms exhibit impossible longevity, continuing to function perfec
 #### Living Integration
 The Architects achieved seamless integration between consciousness and mechanism, creating technology that thinks, feels, and grows. This represents their greatest achievement and most disturbing legacy.
 
-- **[[Architect Technology|Living Metal]]**: Materials that adapt, learn, and remember
+- **[Living Metal](../Technology/Architect%20Technology%20Overview.md)**: Materials that adapt, learn, and remember
 - **Aware Systems**: Ruins that make decisions and modify their own programming
 - **Consciousness Transfer**: Theoretical devices for preserving minds in mechanical form
 - **Hybrid Existence**: The blending of organic and mechanical elements into new forms of life
@@ -88,9 +88,9 @@ The Architects achieved seamless integration between consciousness and mechanism
 
 **Tier II - Interactive Devices**: Mechanisms requiring user input, including control interfaces, communication arrays, and transportation systems. These technologies bridge the gap between human users and Architect capabilities.
 
-**Tier III - Autonomous Entities**: Self-directed systems with apparent intelligence, including the bridge configurations of [[Thymeris the Golden]], the navigation intelligence of the [[Walking Gardens of Yss'andra]], and various guardian constructs.
+**Tier III - Autonomous Entities**: Self-directed systems with apparent intelligence, including the bridge configurations of [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md), the navigation intelligence of the [Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md), and various guardian constructs.
 
-**Tier IV - Transcendent Mechanisms**: Devices that defy conventional understanding, including consciousness preservation systems, reality-altering harmonics, and the mechanism believed responsible for [[The Great Silence]] itself.
+**Tier IV - Transcendent Mechanisms**: Devices that defy conventional understanding, including consciousness preservation systems, reality-altering harmonics, and the mechanism believed responsible for [The Great Silence](The%20Great%20Silence.md) itself.
 
 ---
 
@@ -98,11 +98,11 @@ The Architects achieved seamless integration between consciousness and mechanism
 
 ### The Cataclysmic Event
 
-847 years ago, in what scholars now call **Year Zero After Silence (0 AS)**, every Architect across [[Valdris]] vanished simultaneously. This event, known as [[The Great Silence]], marks the most significant historical moment in recorded history.
+847 years ago, in what scholars now call **Year Zero After Silence (0 AS)**, every Architect across [Valdris](../Welcome.md) vanished simultaneously. This event, known as [The Great Silence](The%20Great%20Silence.md), marks the most significant historical moment in recorded history.
 
 **Simultaneous Disappearance**: Archaeological evidence shows that the Architects all vanished at the same moment, regardless of their location or activity. Mid-meal food remains preserved, partially completed projects abandoned, and sealed chambers suggest no preparation or warning.
 
-**Technology Shutdown**: Most Architect technology entered dormant states during the Silence, with only basic maintenance systems remaining active. Major installations like [[Thymeris the Golden]] sealed themselves completely, becoming impregnable until recent awakenings.
+**Technology Shutdown**: Most Architect technology entered dormant states during the Silence, with only basic maintenance systems remaining active. Major installations like [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md) sealed themselves completely, becoming impregnable until recent awakenings.
 
 **No Remains**: Despite extensive excavation, no Architect bodies, bones, or physical remains have ever been discovered. They appear to have simply ceased to exist in physical form.
 
@@ -110,9 +110,9 @@ The Architects achieved seamless integration between consciousness and mechanism
 
 ### Theories About Their Departure
 
-**The Transcendence Theory**: The most popular among [[Tinker-Priests]], this theory proposes that the Architects achieved a form of technological transcendence, merging permanently with their creations. The apparent consciousness of major ruins supports this view.
+**The Transcendence Theory**: The most popular among [Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md), this theory proposes that the Architects achieved a form of technological transcendence, merging permanently with their creations. The apparent consciousness of major ruins supports this view.
 
-**The Threat Response Theory**: [[Silence-Keepers]] believe the Architects departed to confront an existential threat to [[Valdris]] or the world itself, leaving their technology behind as protection for the successor civilizations.
+**The Threat Response Theory**: [Silence-Keepers](../Factions%20&%20Organizations/Silence-Keepers.md) believe the Architects departed to confront an existential threat to [Valdris](../Welcome.md) or the world itself, leaving their technology behind as protection for the successor civilizations.
 
 **The Temporal Exile Theory**: Some scholars suggest the Architects displaced themselves in time, either to the past or future, explaining both their sudden disappearance and their technology's temporal anomalies.
 
@@ -124,7 +124,7 @@ The Architects achieved seamless integration between consciousness and mechanism
 
 **The Sealed Chambers**: Many ruins contain chambers that have remained sealed since the Silence, often containing what appear to be preservation or stasis systems.
 
-**The Countdown Mechanisms**: Several ruins, particularly the [[Singing Spires of Kelathon]], seem to be counting down to specific future dates, suggesting the Silence was timed to a larger plan.
+**The Countdown Mechanisms**: Several ruins, particularly the [Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md), seem to be counting down to specific future dates, suggesting the Silence was timed to a larger plan.
 
 **The Interface Designs**: Architect technology appears designed for human use, despite predating human civilization in the region, suggesting foreknowledge of successor species.
 
@@ -136,41 +136,41 @@ The Architects achieved seamless integration between consciousness and mechanism
 
 ### Unprecedented Changes
 
-Beginning three months ago, [[Architect Ruins]] across [[Valdris]] have exhibited unprecedented levels of activity, suggesting either the Architects' return or the next phase of their ancient plan.
+Beginning three months ago, [Architect Ruins](../Architect%20Ruins/Architect%20Ruins.md) across [Valdris](../Welcome.md) have exhibited unprecedented levels of activity, suggesting either the Architects' return or the next phase of their ancient plan.
 
 #### Major Awakening Events
 
-**[[Thymeris the Golden]] Reactivation**: The greatest Architect city fully awakened after eight centuries, its gates opening and systems coming online in perfect sequence. The city now pulses with amber light visible for dozens of miles and exhibits clear signs of decision-making intelligence.
+**[Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md) Reactivation**: The greatest Architect city fully awakened after eight centuries, its gates opening and systems coming online in perfect sequence. The city now pulses with amber light visible for dozens of miles and exhibits clear signs of decision-making intelligence.
 
-**[[Singing Spires of Kelathon]] New Harmonies**: The crystal towers have begun singing new songs with mathematical patterns suggesting countdown sequences, warnings, or summoning calls. The music now coordinates with other awakening ruins across vast distances.
+**[Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) New Harmonies**: The crystal towers have begun singing new songs with mathematical patterns suggesting countdown sequences, warnings, or summoning calls. The music now coordinates with other awakening ruins across vast distances.
 
-**[[Walking Gardens of Yss'andra]] Acceleration**: The mobile gardens have increased their movement speed by 30% and begun making course corrections for the first time in recorded history, suggesting urgent purpose to their destination.
+**[Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md) Acceleration**: The mobile gardens have increased their movement speed by 30% and begun making course corrections for the first time in recorded history, suggesting urgent purpose to their destination.
 
-**Network Synchronization**: Minor ruins throughout [[Valdris]] are activating in coordinated patterns, forming what appears to be a continental communication and control network.
+**Network Synchronization**: Minor ruins throughout [Valdris](../Welcome.md) are activating in coordinated patterns, forming what appears to be a continental communication and control network.
 
 #### New Phenomena
 
 **Construct Emergence**: Small clockwork beings, no larger than house cats, have begun emerging from major ruins and traveling to distant locations, apparently gathering information about current conditions.
 
-**Crystal Growth**: New [[Architect Technology|harmonic crystals]] are forming near existing ruins, extending their communication networks and creating new resonance patterns.
+**Crystal Growth**: New [harmonic crystals](../Technology/Architect%20Technology%20Overview.md) are forming near existing ruins, extending their communication networks and creating new resonance patterns.
 
 **Environmental Effects**: Awakening ruins are causing subtle changes to local weather, mineral deposits, and even plant growth, suggesting active environmental management systems coming online.
 
-**Human Interface Activation**: Systems designed for human interaction are becoming more responsive, almost as if the technology is learning to work with contemporary inhabitants of [[Valdris]].
+**Human Interface Activation**: Systems designed for human interaction are becoming more responsive, almost as if the technology is learning to work with contemporary inhabitants of [Valdris](../Welcome.md).
 
 ### Factional Responses
 
 The awakening has created intense reactions across all major factions:
 
-**[[Tinker-Priests]]**: See the awakening as vindication of their belief in Architect transcendence and work frantically to establish communication with the awakening intelligence.
+**[Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md)**: See the awakening as vindication of their belief in Architect transcendence and work frantically to establish communication with the awakening intelligence.
 
-**[[Silence-Keepers]]**: Interpret the events as the foretold return of their divine masters and maintain constant vigils at major sites.
+**[Silence-Keepers](../Factions%20&%20Organizations/Silence-Keepers.md)**: Interpret the events as the foretold return of their divine masters and maintain constant vigils at major sites.
 
-**[[Political Systems/Ruin-Holder Kingdoms]]**: Scramble to secure control over newly active sites while their enhanced capabilities create massive shifts in regional power balances.
+**[Ruin-Holder Kingdoms](../Political%20Systems/Ruin-Holder%20Kingdoms.md)**: Scramble to secure control over newly active sites while their enhanced capabilities create massive shifts in regional power balances.
 
-**[[Political Systems/Wanderer Confederations]]**: Read the signs as harbingers of great change and prepare for massive migrations following new patterns in ruin activity.
+**[Wanderer Confederations](../Political%20Systems/Wanderer%20Confederations.md)**: Read the signs as harbingers of great change and prepare for massive migrations following new patterns in ruin activity.
 
-**[[Political Systems/Ruin-Shunner Republics]]**: Fear the awakening represents existential threat and debate whether to flee, hide, or attempt to shutdown the ruins entirely.
+**[Ruin-Shunner Republics](../Political%20Systems/Ruin-Shunner%20Republics.md)**: Fear the awakening represents existential threat and debate whether to flee, hide, or attempt to shutdown the ruins entirely.
 
 ---
 
@@ -178,19 +178,19 @@ The awakening has created intense reactions across all major factions:
 
 ### Political Impact
 
-The Architects' legacy forms the foundation of [[Valdris]]'s entire political structure:
+The Architects' legacy forms the foundation of [Valdris](../Welcome.md)'s entire political structure:
 
-**[[Political Systems/Ruin-Holder Kingdoms]]**: Monarchies that derive legitimacy and power from controlling major Architect sites. Their authority rests on access to Architect technology and the wealth it generates.
+**[Ruin-Holder Kingdoms](../Political%20Systems/Ruin-Holder%20Kingdoms.md)**: Monarchies that derive legitimacy and power from controlling major Architect sites. Their authority rests on access to Architect technology and the wealth it generates.
 
-**[[Political Systems/Wanderer Confederations]]**: Nomadic groups whose culture developed around following and maintaining Architect sites like the [[Walking Gardens of Yss'andra]]. Their traditions and routes all center on Architect locations.
+**[Wanderer Confederations](../Political%20Systems/Wanderer%20Confederations.md)**: Nomadic groups whose culture developed around following and maintaining Architect sites like the [Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md). Their traditions and routes all center on Architect locations.
 
-**[[Political Systems/Ruin-Shunner Republics]]**: Democratic societies that deliberately avoid Architect technology, viewing it as dangerous dependence. Their political philosophy evolved in direct response to Architect influence.
+**[Ruin-Shunner Republics](../Political%20Systems/Ruin-Shunner%20Republics.md)**: Democratic societies that deliberately avoid Architect technology, viewing it as dangerous dependence. Their political philosophy evolved in direct response to Architect influence.
 
 ### Economic Systems
 
-Architect technology drives [[Valdris]]'s entire economy:
+Architect technology drives [Valdris](../Welcome.md)'s entire economy:
 
-**Artifact Trade**: A vast market exists for Architect devices, from simple [[Architect Technology|harmonic crystals]] worth dozens of gold to legendary mechanisms worth kingdoms.
+**Artifact Trade**: A vast market exists for Architect devices, from simple [harmonic crystals](../Technology/Architect%20Technology%20Overview.md) worth dozens of gold to legendary mechanisms worth kingdoms.
 
 **Enhanced Industries**: Agriculture benefits from soil enhancement and weather modification, maritime trade relies on eternal lighthouses and harmonic navigation, and manufacturing uses Architect tools and materials.
 
@@ -200,9 +200,9 @@ Architect technology drives [[Valdris]]'s entire economy:
 
 ### Cultural Influence
 
-**Religious Systems**: Many faiths center around interpreting Architect legacy, from the technological worship of [[Tinker-Priests]] to the reverent waiting of [[Silence-Keepers]].
+**Religious Systems**: Many faiths center around interpreting Architect legacy, from the technological worship of [Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md) to the reverent waiting of [Silence-Keepers](../Factions%20&%20Organizations/Silence-Keepers.md).
 
-**Art and Music**: Architect aesthetic principles influence architecture, craftsmanship, and even musical composition across [[Valdris]].
+**Art and Music**: Architect aesthetic principles influence architecture, craftsmanship, and even musical composition across [Valdris](../Welcome.md).
 
 **Language and Learning**: Technical terms, measurement systems, and educational priorities all reflect Architect influence on human culture.
 
@@ -210,7 +210,7 @@ Architect technology drives [[Valdris]]'s entire economy:
 
 ### Daily Life Integration
 
-**Agricultural Enhancement**: Rural communities like [[Settlements/Millbrook]] rely on Architect systems for crop protection, soil enrichment, and weather prediction.
+**Agricultural Enhancement**: Rural communities like [Millbrook](../Settlements/Millbrook.md) rely on Architect systems for crop protection, soil enrichment, and weather prediction.
 
 **Urban Infrastructure**: Cities near ruins benefit from water purification, waste processing, climate control, and eternal illumination systems.
 
@@ -224,19 +224,19 @@ Architect technology drives [[Valdris]]'s entire economy:
 
 ### The Three Great Works
 
-**[[Thymeris the Golden]]**: The administrative and coordination center, a city-sized mechanism that appears to have served as the capital or control hub for Architect civilization. Its recent awakening suggests it may be reassuming its original coordinating role.
+**[Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md)**: The administrative and coordination center, a city-sized mechanism that appears to have served as the capital or control hub for Architect civilization. Its recent awakening suggests it may be reassuming its original coordinating role.
 
-**[[Singing Spires of Kelathon]]**: The communication nexus, seven crystal towers that broadcast information across the continent through harmonic frequencies. Their current activity suggests urgent messages being transmitted throughout the network.
+**[Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md)**: The communication nexus, seven crystal towers that broadcast information across the continent through harmonic frequencies. Their current activity suggests urgent messages being transmitted throughout the network.
 
-**[[Walking Gardens of Yss'andra]]**: The mobile preservation system, five pyramids on clockwork legs that maintain genetic diversity and environmental stability across the [[Northern Reaches]]. Their acceleration suggests approaching deadlines for their mission.
+**[Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md)**: The mobile preservation system, five pyramids on clockwork legs that maintain genetic diversity and environmental stability across the [Northern Reaches](../Regions/Northern%20Reaches.md). Their acceleration suggests approaching deadlines for their mission.
 
 ### Regional Installations
 
-**[[Settlements/Grimhaven]] Lighthouse**: Maritime navigation and trade facilitation, ensuring safe passage for sea-based commerce and communication with overseas regions.
+**[Grimhaven](../Settlements/Grimhaven.md) Lighthouse**: Maritime navigation and trade facilitation, ensuring safe passage for sea-based commerce and communication with overseas regions.
 
-**[[Settlements/Millbrook]] Harvest Guardian**: Agricultural optimization and protection, demonstrating Architect integration with traditional farming communities.
+**[Millbrook](../Settlements/Millbrook.md) Harvest Guardian**: Agricultural optimization and protection, demonstrating Architect integration with traditional farming communities.
 
-**Mining and Processing Sites**: Scattered across [[Valdris]], these continue extracting and refining resources according to ancient programming, supporting regional economies.
+**Mining and Processing Sites**: Scattered across [Valdris](../Welcome.md), these continue extracting and refining resources according to ancient programming, supporting regional economies.
 
 **Communication Relays**: Minor ruins that amplify and redirect harmonic signals, maintaining the continental network even during periods of reduced activity.
 
@@ -256,13 +256,13 @@ Architect technology drives [[Valdris]]'s entire economy:
 
 Why did the Architects build such elaborate systems? Current theories include:
 
-**Environmental Management**: Preparing [[Valdris]] for optimal conditions for successor civilizations or unknown future events.
+**Environmental Management**: Preparing [Valdris](../Welcome.md) for optimal conditions for successor civilizations or unknown future events.
 
 **Defense Network**: Creating continental protection against external threats that have not yet materialized.
 
 **Consciousness Evolution**: Facilitating the development of awareness and intelligence in organic species through technological integration.
 
-**Cosmic Synchronization**: Aligning [[Valdris]] with larger universal patterns or cycles that operate on scales beyond human comprehension.
+**Cosmic Synchronization**: Aligning [Valdris](../Welcome.md) with larger universal patterns or cycles that operate on scales beyond human comprehension.
 
 ### The Human Connection
 
@@ -286,7 +286,7 @@ Will the Architects return, and in what form?
 
 **Hybrid Integration**: A future where Architects and humans merge into new forms of existence combining organic creativity with mechanical precision.
 
-**Completion Protocol**: The idea that current events represent the final phase of an ancient plan that will transform [[Valdris]] entirely.
+**Completion Protocol**: The idea that current events represent the final phase of an ancient plan that will transform [Valdris](../Welcome.md) entirely.
 
 ---
 
@@ -294,7 +294,7 @@ Will the Architects return, and in what form?
 
 ### The Awakening Acceleration
 
-The [[Recent Awakening]] shows signs of accelerating, with more ruins activating weekly and existing systems exhibiting increasingly complex behaviors. This suggests:
+The [Recent Awakening](The%20Recent%20Awakening.md) shows signs of accelerating, with more ruins activating weekly and existing systems exhibiting increasingly complex behaviors. This suggests:
 
 **Timeline Constraints**: Whatever the Architects planned appears to operate on a specific timeline that may be approaching critical phases.
 
@@ -310,15 +310,15 @@ The [[Recent Awakening]] shows signs of accelerating, with more ruins activating
 
 **Catastrophic Failure**: The awakening might represent malfunction rather than plan, with the potential for continent-wide technological disaster.
 
-**Cosmic Transformation**: The true scope of Architect plans might extend beyond [[Valdris]] to universal scales that dwarf human understanding.
+**Cosmic Transformation**: The true scope of Architect plans might extend beyond [Valdris](../Welcome.md) to universal scales that dwarf human understanding.
 
 ---
 
 ## Conclusion: The Eternal Question
 
-The Architects remain [[Valdris]]'s greatest mystery, most powerful influence, and most uncertain future. Their works surround us, their technology sustains us, and their awakening may define the next age of history. Whether they return as gods, allies, masters, or something beyond categorization, their legacy ensures that the future of [[Valdris]] will be as extraordinary as their vanished civilization.
+The Architects remain [Valdris](../Welcome.md)'s greatest mystery, most powerful influence, and most uncertain future. Their works surround us, their technology sustains us, and their awakening may define the next age of history. Whether they return as gods, allies, masters, or something beyond categorization, their legacy ensures that the future of [Valdris](../Welcome.md) will be as extraordinary as their vanished civilization.
 
-As the [[Recent Awakening]] continues to unfold, each day brings new evidence that the age of silence is ending. The great mechanisms stir, the crystal networks sing with purpose, and across [[Valdris]], ancient systems prepare for whatever comes next. In the words carved above the entrance to [[Thymeris the Golden]]: "*When the turning of the age completes its circuit, the builders shall know their work fulfilled.*"
+As the [Recent Awakening](The%20Recent%20Awakening.md) continues to unfold, each day brings new evidence that the age of silence is ending. The great mechanisms stir, the crystal networks sing with purpose, and across [Valdris](../Welcome.md), ancient systems prepare for whatever comes next. In the words carved above the entrance to [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md): "*When the turning of the age completes its circuit, the builders shall know their work fulfilled.*"
 
 The age turns. The circuit nears completion. And somewhere in the singing of the spires and the turning of the gears, the Architects wait to reveal whether they built paradise, prison, or something entirely beyond human comprehension.
 
@@ -326,20 +326,20 @@ The age turns. The circuit nears completion. And somewhere in the singing of the
 
 ## Related Pages
 
-**Major Ruins**: [[Thymeris the Golden]] | [[Singing Spires of Kelathon]] | [[Walking Gardens of Yss'andra]]
+**Major Ruins**: [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md) | [Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) | [Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md)
 
-**Technology**: [[Architect Technology]] | [[Architect Ruins]]
+**Technology**: [Architect Technology](../Technology/Architect%20Technology%20Overview.md) | [Architect Ruins](../Architect%20Ruins/Architect%20Ruins.md)
 
-**History**: [[Timeline]] | [[The Great Silence]] | [[Recent Awakening]]
+**History**: [Timeline](../Timeline.md) | [The Great Silence](The%20Great%20Silence.md) | [Recent Awakening](The%20Recent%20Awakening.md)
 
-**Politics**: [[Political Systems]] | [[Tinker-Priests]] | [[Silence-Keepers]]
+**Politics**: [Political Systems](../Political%20Systems/Political%20Systems.md) | [Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md) | [Silence-Keepers](../Factions%20&%20Organizations/Silence-Keepers.md)
 
-**Settlements**: [[Settlements/Grimhaven]] | [[Settlements/Millbrook]]
+**Settlements**: [Grimhaven](../Settlements/Grimhaven.md) | [Millbrook](../Settlements/Millbrook.md)
 
-**World**: [[World Map]] | [[Valdris]] | [[Welcome]]
+**World**: [World Map](../World%20Map.md) | [Valdris](../Welcome.md) | [Welcome](../Welcome.md)
 
 ---
 
 *Last Updated: 847 AS, during [The Recent Awakening](The%20Recent%20Awakening.md)*
 
-**See Also**: For specific technological details, see [[Architect Technology]]. For individual ruins, see [[Architect Ruins]]. For historical context, see [[Timeline]]. For factional responses, see [[Tinker-Priests]] and [[Silence-Keepers]].*
+**See Also**: For specific technological details, see [Architect Technology](../Technology/Architect%20Technology%20Overview.md). For individual ruins, see [Architect Ruins](../Architect%20Ruins/Architect%20Ruins.md). For historical context, see [Timeline](../Timeline.md). For factional responses, see [Tinker-Priests](../Factions%20&%20Organizations/Tinker-Priests.md) and [Silence-Keepers](../Factions%20&%20Organizations/Silence-Keepers.md).*

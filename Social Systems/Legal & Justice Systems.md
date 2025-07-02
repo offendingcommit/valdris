@@ -4,7 +4,7 @@
 
 ---
 
-Justice in [[Valdris]] reflects the fundamental philosophical divisions between its three great political systems. From the hierarchical courts of [[Political Systems/Ruin-Holder Kingdoms]] where mechanical status determines legal standing, through the consensus-based arbitration of [[Political Systems/Ruin-Shunner Republics]], to the mobile justice of [[Political Systems/Wanderer Confederations]], each system has developed unique approaches to law, order, and conflict resolution shaped by their core cultural values.
+Justice in [Valdris](Valdris.md) reflects the fundamental philosophical divisions between its three great political systems. From the hierarchical courts of [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) where mechanical status determines legal standing, through the consensus-based arbitration of [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md), to the mobile justice of [Wanderer Confederations](Wanderer%20Confederations.md), each system has developed unique approaches to law, order, and conflict resolution shaped by their core cultural values.
 
 ## Fundamental Legal Philosophies
 
@@ -13,16 +13,16 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 **"Order Through Hierarchy"** - Justice administered according to mechanical rank and divine order.
 
 **Core Legal Principles**:
-- **Mechanical Divine Right**: Crown-Gear bearers derive authority from [[Architect Ruins|Architect]] connection
+- **Mechanical Divine Right**: Crown-Gear bearers derive authority from [Architect](Architect%20Ruins.md) connection
 - **Hierarchical Standing**: Legal status determined by position in mechanical aristocracy
 - **Precedent Through Rank**: Higher-status decisions override lower-status judgments
-- **Technological Testimony**: [[Architect Ruins|Architect]] devices used as evidence and witnesses
+- **Technological Testimony**: [Architect](Architect%20Ruins.md) devices used as evidence and witnesses
 
 **Justice Philosophy**:
 - Law exists to maintain social order and mechanical hierarchy
 - Punishment should reinforce proper relationships between social ranks
 - Individual rights exist within the context of societal position
-- [[Architect Ruins|Architect]] technology serves as ultimate arbiter of truth
+- [Architect](Architect%20Ruins.md) technology serves as ultimate arbiter of truth
 
 ### Wanderer Mobile Justice
 
@@ -66,7 +66,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 - **Judges**: Gear-Crowned monarchs or their appointed representatives
 - **Jurisdiction**: Matters affecting crown authority, major ruin disputes, inter-noble conflicts
 - **Procedure**: Formal ceremony with mechanical ritual elements
-- **Evidence**: [[Architect Ruins|Architect]] devices serve as truth-determining instruments
+- **Evidence**: [Architect](Architect%20Ruins.md) devices serve as truth-determining instruments
 - **Appeals**: Only to higher-ranking Crown-Gear bearers
 
 **Noble House Courts** (Regional Authority):
@@ -80,7 +80,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 - **Judges**: Senior Merchant-Mechanists elected by trading houses
 - **Jurisdiction**: Commercial disputes, contract enforcement, trade standard violations
 - **Procedure**: Practical hearings focused on commercial impact
-- **Evidence**: Financial records and [[Architect Ruins|Architect]] trade devices
+- **Evidence**: Financial records and [Architect](Architect%20Ruins.md) trade devices
 - **Appeals**: Limited to cases affecting broader noble interests
 
 **Common Magistrates** (Local Authority):
@@ -162,7 +162,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 
 **Crimes Against Crown** (Highest Severity):
 - **Crown-Gear Damage**: Interfering with royal mechanical connections
-- **Ruin Sabotage**: Damaging major [[Architect Ruins|Architect]] installations
+- **Ruin Sabotage**: Damaging major [Architect](Architect%20Ruins.md) installations
 - **Hierarchy Violation**: Commoners claiming inappropriate noble status
 - **Penalties**: Exile, status reduction, mechanical privilege revocation
 
@@ -209,7 +209,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 **Crimes Against Community** (High Severity):
 - **Resource Hoarding**: Accumulating wealth or resources beyond reasonable community benefit
 - **Skill Withholding**: Refusing to share knowledge or abilities needed by community
-- **[[Architect Ruins|Architect]] Contamination**: Introducing forbidden technology into community spaces
+- **[Architect](Architect%20Ruins.md) Contamination**: Introducing forbidden technology into community spaces
 - **Penalties**: Wealth redistribution, mandatory teaching obligations, technology surrender
 
 **Personal Crimes** (Moderate Severity):
@@ -222,7 +222,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 
 **Ruin-Holder Punitive Justice**:
 - **Hierarchy Reinforcement**: Punishments emphasize proper social relationships
-- **Mechanical Consequences**: Loss of [[Architect Ruins|Architect]] access as primary penalty
+- **Mechanical Consequences**: Loss of [Architect](Architect%20Ruins.md) access as primary penalty
 - **Status Degradation**: Reduction in social rank for serious offenses
 - **Public Example**: Visible consequences to maintain social order
 
@@ -243,10 +243,10 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 ### Property Law Variations
 
 **Ruin-Holder Property Rights**:
-- **Mechanical Hierarchy**: Property rights determined by social rank and [[Architect Ruins|Architect]] access
+- **Mechanical Hierarchy**: Property rights determined by social rank and [Architect](Architect%20Ruins.md) access
 - **Noble Monopolies**: Ruin-Lords control major resources within their territories
 - **Inheritance Traditions**: Property passes to those capable of mechanical mastery
-- **[[Architect Ruins|Architect]] Supremacy**: Ancient technology overrides other property claims
+- **[Architect](Architect%20Ruins.md) Supremacy**: Ancient technology overrides other property claims
 
 **Wanderer Portable Property**:
 - **Mobile Ownership**: Property rights focus on transportable possessions
@@ -292,17 +292,17 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 - **Diplomatic Immunity**: Special status for cross-system representatives
 
 **Resolution Mechanisms**:
-- **Neutral Territories**: Areas like [[Settlements/Grimhaven]] with special legal status
+- **Neutral Territories**: Areas like [Grimhaven](Grimhaven.md) with special legal status
 - **Extradition Treaties**: Agreements for transferring criminals between systems
 - **Arbitration Panels**: Mixed tribunals with representatives from all relevant systems
 - **Diplomatic Protocols**: Formal procedures for resolving inter-system legal conflicts
 
-### [[Architect Ruins|Architect]] Ruin Law
+### [Architect](Architect%20Ruins.md) Ruin Law
 
 **Universal Legal Principles**:
 - **Discovery Rights**: First activation often grants significant legal claims
 - **Safety Regulations**: All systems recognize need for ruin safety protocols
-- **Sacred Protections**: [[Tinker-Priests]] and [[Silence-Keepers]] enjoy special access rights
+- **Sacred Protections**: [Tinker-Priests](Tinker-Priests.md) and [Silence-Keepers](Silence-Keepers.md) enjoy special access rights
 - **Emergency Protocols**: Shared procedures for handling dangerous awakening events
 
 **System-Specific Approaches**:
@@ -310,7 +310,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 - **Wanderer**: Traditional access routes and community usage rights
 - **Shunner**: Democratic consultation and collective benefit evaluation
 
-**[[The Recent Awakening]] Legal Challenges**:
+**[The Recent Awakening](The%20Recent%20Awakening.md) Legal Challenges**:
 - **New Activations**: Previously dormant ruins creating fresh ownership disputes
 - **Changed Functions**: Existing legal agreements becoming obsolete due to awakening changes
 - **Communication Rights**: Legal status of individuals capable of awakening communication
@@ -320,13 +320,13 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 
 ### Religious and Cultural Law
 
-**[[Tinker-Priests]] Canon Law**:
-- **Sacred Obligations**: Religious duties regarding [[Architect Ruins|Architect]] technology maintenance
+**[Tinker-Priests](Tinker-Priests.md) Canon Law**:
+- **Sacred Obligations**: Religious duties regarding [Architect](Architect%20Ruins.md) technology maintenance
 - **Ritual Requirements**: Ceremonial procedures for mechanical blessings and consecrations
 - **Clerical Immunity**: Special legal protections for religious practitioners
 - **Cross-System Recognition**: Universal acknowledgment of Tinker-Priest authority
 
-**[[Silence-Keepers]] Mystical Law**:
+**[Silence-Keepers](Silence-Keepers.md) Mystical Law**:
 - **Sealed Territory Rights**: Authority over dormant and dangerous ruins
 - **Prophetic Authority**: Legal weight given to awakening predictions and warnings
 - **Mystical Evidence**: Supernatural insights accepted in certain legal proceedings
@@ -370,7 +370,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 
 **Property and Contract Disputes**:
 - **Inheritance Conflicts**: Complex claims involving multiple heirs and legal systems
-- **[[Architect Ruins|Architect]] Discovery**: Legal battles over newly awakened ruins and their ownership
+- **[Architect](Architect%20Ruins.md) Discovery**: Legal battles over newly awakened ruins and their ownership
 - **Commercial Fraud**: Investigation of complex schemes involving cross-system trade
 - **Contract Enforcement**: Ensuring compliance with agreements despite political tensions
 
@@ -393,7 +393,7 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 **Criminal Investigation Mechanics**:
 - **Evidence Gathering**: Different systems accept different types of proof
 - **Witness Testimony**: Cultural protocols affecting witness reliability and acceptance
-- **[[Architect Ruins|Architect]] Evidence**: Mechanical devices serving as investigative tools
+- **[Architect](Architect%20Ruins.md) Evidence**: Mechanical devices serving as investigative tools
 - **Cross-Border Pursuit**: Jurisdictional challenges in criminal investigations
 
 **Legal Consequences for Characters**:
@@ -454,4 +454,4 @@ Justice in [[Valdris]] reflects the fundamental philosophical divisions between 
 
 ---
 
-*For related social mechanics, see [[Social Systems/Social Hierarchy Overview]] and [[Social Systems/Cultural Interactions]]. For political context, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]]. For conflict resolution, see [[Social Systems/Marriage & Family Structures]].*
+*For related social mechanics, see [Social Hierarchy Overview](Social%20Hierarchy%20Overview.md) and [Cultural Interactions](Cultural%20Interactions.md). For political context, see [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md). For conflict resolution, see [Marriage & Family Structures](Marriage%20%26%20Family%20Structures.md).*

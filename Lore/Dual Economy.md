@@ -1,10 +1,10 @@
 # The Dual Economy of Valdris
 
-In the shadow of the [[Walking Gardens of Yss'andra]] and beneath the towering [[Singing Spires of Kelathon]], the people of Valdris have woven two economies together like gears in an [Architect](Architect.md) mechanism—one ancient and familiar, the other gleaming with otherworldly promise. This dual system has shaped kingdoms, sparked wars, and defined the very fabric of society since the first salvagers emerged from [[Thymeris the Golden]] with arms full of impossible treasures.
+In the shadow of the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) and beneath the towering [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), the people of Valdris have woven two economies together like gears in an [Architect](Architect.md) mechanism—one ancient and familiar, the other gleaming with otherworldly promise. This dual system has shaped kingdoms, sparked wars, and defined the very fabric of society since the first salvagers emerged from [Thymeris the Golden](Thymeris%20the%20Golden.md) with arms full of impossible treasures.
 
 ## The Traditional Economy: Foundation of Daily Life
 
-The backbone of Valdris remains its traditional economy—a system as old as the first settlements that arose after [The Great Silence](The%20Great%20Silence.md). Copper pennies change hands in [[Millbrook]]'s market squares for bushels of wheat, while silver crowns purchase fine wool cloaks and sturdy iron tools. Gold sovereigns, though rare in common circulation, seal deals for land, livestock, and the loyalty of skilled craftsmen.
+The backbone of Valdris remains its traditional economy—a system as old as the first settlements that arose after [The Great Silence](The%20Great%20Silence.md). Copper pennies change hands in [Millbrook](Millbrook.md)'s market squares for bushels of wheat, while silver crowns purchase fine wool cloaks and sturdy iron tools. Gold sovereigns, though rare in common circulation, seal deals for land, livestock, and the loyalty of skilled craftsmen.
 
 ### Traditional Currency Standards
 - **Copper Penny**: The laborer's coin, worth a loaf of bread or mug of ale
@@ -12,7 +12,7 @@ The backbone of Valdris remains its traditional economy—a system as old as the
 - **Gold Sovereign**: A month's comfortable living, the price of a good horse
 - **Platinum Royal**: Rarely seen outside noble treasuries, worth a small farm
 
-This familiar system governs the necessities of life: food from [[Millbrook]]'s fertile fields, timber from the Greenvale forests, iron from mountain mines, and the countless everyday goods that keep civilization running. Traditional guilds—the Blacksmiths, Weavers, Carpenters, and Merchants—still wield considerable influence in cities where [Architect](Architect.md) artifacts remain curiosities rather than commodities.
+This familiar system governs the necessities of life: food from [Millbrook](Millbrook.md)'s fertile fields, timber from the Greenvale forests, iron from mountain mines, and the countless everyday goods that keep civilization running. Traditional guilds—the Blacksmiths, Weavers, Carpenters, and Merchants—still wield considerable influence in cities where [Architect](Architect.md) artifacts remain curiosities rather than commodities.
 
 ## The Architect Economy: Power Beyond Price
 
@@ -51,7 +51,7 @@ The intersection of these two economies creates fascinating dynamics. While a Gr
 
 ### The Valuation Council
 
-In [[Grimhaven]] and other major trading centers, the Valuation Council maintains the precarious balance. These experts—part merchant, part scholar, part mystic—assess artifacts through rigorous testing:
+In [Grimhaven](Grimhaven.md) and other major trading centers, the Valuation Council maintains the precarious balance. These experts—part merchant, part scholar, part mystic—assess artifacts through rigorous testing:
 
 1. **Functionality Assessment**: Does it work? How reliably? What exactly does it do?
 2. **Rarity Evaluation**: How many similar items exist? Where was it found?
@@ -66,19 +66,19 @@ The dual economy has reshaped Valdris's ancient trade routes. Traditional paths 
 ### Primary Trade Routes
 
 **The Golden Circuit**
-Starting at [[Thymeris the Golden]], this route connects the richest artifact source to:
-- [[Grimhaven]]: Primary artifact market and gray trade hub
+Starting at [Thymeris the Golden](Thymeris%20the%20Golden.md), this route connects the richest artifact source to:
+- [Grimhaven](Grimhaven.md): Primary artifact market and gray trade hub
 - Ironhold: Industrial processing and reverse-engineering attempts
 - Queenscrown: Noble collections and political trades
 
 **The Singing Road**
-Following the musical emanations of the [[Singing Spires of Kelathon]]:
+Following the musical emanations of the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md):
 - Crystal Harbor: Specializing in resonance-based artifacts
 - Melody Falls: Where crystal formations are harvested
 - Echo Valley: Underground markets for sonic weapons
 
 **The Garden Path**
-The mobile route following the [[Walking Gardens of Yss'andra]]:
+The mobile route following the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md):
 - Changes seasonally with the Gardens' movements
 - Temporary markets spring up in its wake
 - Specialists in botanical and biological artifacts
@@ -97,9 +97,9 @@ Trade flows shift dramatically with the seasons:
 - **Autumn**: Harvest brings food/artifact exchange peaks
 - **Winter**: Dangerous salvage attempts by the desperate, premium prices
 
-## The Gray Markets of [[Grimhaven]]
+## The Gray Markets of [Grimhaven](Grimhaven.md)
 
-In the shadowy alleys of [[Grimhaven]], the dual economy takes on darker shades. The Gray Market operates beyond the reach of Valuation Councils and tax collectors, where dangerous artifacts change hands without questions asked.
+In the shadowy alleys of [Grimhaven](Grimhaven.md), the dual economy takes on darker shades. The Gray Market operates beyond the reach of Valuation Councils and tax collectors, where dangerous artifacts change hands without questions asked.
 
 ### Black Tide Bazaar
 Hidden beneath the lighthouse district, accessible only at low tide:
@@ -157,7 +157,7 @@ As the artifact economy has matured, so too have the criminals who prey upon it.
 
 The dual economy has created new power structures that challenge traditional nobility:
 
-### [[Thymeris the Golden]] Syndicate
+### [Thymeris the Golden](Thymeris%20the%20Golden.md) Syndicate
 - Controls primary access to the richest artifact source
 - Maintains private army of salvagers and guards
 - Sets baseline prices for many common artifacts
@@ -275,13 +275,13 @@ While many suffer, some thrive:
 
 The dual economy has led to regional specialization based on local ruins and resources:
 
-### [[Millbrook]] - The Traditional Backbone
+### [Millbrook](Millbrook.md) - The Traditional Backbone
 - Maintains primarily traditional economy
 - Food security allows selective artifact adoption
 - Exports grain for artifact credit
 - Conservative approach preserves stability
 
-### [[Grimhaven]] - The Gray Gateway
+### [Grimhaven](Grimhaven.md) - The Gray Gateway
 - Embraces both economies fully
 - Specializes in questionable trades
 - Launders dangerous artifacts
@@ -319,7 +319,7 @@ The dual economy provides rich opportunities for adventure:
 A desperate merchant has mortgaged everything on a shipment of Grade V artifacts. When bandits strike, they need protection—but can only pay in product. Do the heroes take payment in dangerous, possibly cursed artifacts? And what happens when they discover the "bandits" are actually customs agents from a kingdom that claims the artifacts were stolen from their ruins?
 
 ### The Forger's Apprentice
-A talented young forger wants out of the business but knows too much. They offer the party a fortune in "authentication secrets" in exchange for protection and passage to a new life. But their former master, connected to the Raven's Market, won't let such valuable knowledge walk away. The party must navigate [[Grimhaven]]'s underworld while questioning whether they're helping a victim or enabling a criminal.
+A talented young forger wants out of the business but knows too much. They offer the party a fortune in "authentication secrets" in exchange for protection and passage to a new life. But their former master, connected to the Raven's Market, won't let such valuable knowledge walk away. The party must navigate [Grimhaven](Grimhaven.md)'s underworld while questioning whether they're helping a victim or enabling a criminal.
 
 ### The Activated Vault
 A previously dormant ruin has awakened, but initial reports suggest its treasures are beyond imagination—Grade VIII and IX artifacts in pristine condition. A bidding war erupts between factions wanting to hire the party for the salvage mission. But why are some bidders more interested in ensuring the vault remains sealed? What do they know about what's inside?
@@ -331,7 +331,7 @@ Someone is flooding the market with perfect forgeries, so good they're passing a
 A Wanderer caravan carries a Grade X artifact, not knowing what they have. Various factions have noticed, and the caravan is being stalked across the wasteland. The party must protect the Wanderers, but when they learn what the artifact does—reset a large area to its pre-[Architect](Architect.md) state—they face an impossible choice. Do they let it reach its destination, knowing it could erase both wonders and dangers? Or do they betray their charges for what they believe is the greater good?
 
 ### The Barter Chain
-To save a poisoned noble, the party needs a specific healing artifact. But the owner wants a navigation crystal from the Singing Spires. The holder of that wants grain futures from [[Millbrook]]. Each link in the barter chain adds complexity, time pressure, and moral complications. How far will the party go, and what compromises will they make, to complete the chain before their patron dies?
+To save a poisoned noble, the party needs a specific healing artifact. But the owner wants a navigation crystal from the Singing Spires. The holder of that wants grain futures from [Millbrook](Millbrook.md). Each link in the barter chain adds complexity, time pressure, and moral complications. How far will the party go, and what compromises will they make, to complete the chain before their patron dies?
 
 ## The Future of Trade
 
@@ -339,6 +339,6 @@ As Valdris faces the Awakening, its dual economy stands at a crossroads. Will th
 
 Some seers speak of the "Third Economy"—one based on information and prediction, where knowing which ruins will activate when becomes the ultimate currency. Others whisper of artifacts that can create other artifacts, threatening to make scarcity itself obsolete.
 
-Whatever comes, the merchants still hawk their wares, salvagers still brave the ruins, and in [[Grimhaven]]'s shadows, deals are still struck for treasures beyond imagination. The great machine of commerce turns on, its gears both mundane and miraculous, driving the world of Valdris toward an uncertain but undoubtedly profitable future.
+Whatever comes, the merchants still hawk their wares, salvagers still brave the ruins, and in [Grimhaven](Grimhaven.md)'s shadows, deals are still struck for treasures beyond imagination. The great machine of commerce turns on, its gears both mundane and miraculous, driving the world of Valdris toward an uncertain but undoubtedly profitable future.
 
 *In the end, copper still buys bread, and wonders still command kingdoms. The wise merchant knows when to deal in each.*

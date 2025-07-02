@@ -7,11 +7,11 @@
 
 ## Overview
 
-The **Order of the Brass Tower** stands as [[Valdris]]'s premier military-religious organization, uniquely positioned at the intersection of martial prowess and spiritual duty. Unlike purely military forces that serve political masters or religious orders that focus solely on theological concerns, the Order combines both traditions in service of a single, overriding mission: protecting humanity from the dangers that [[Architect Ruins]] can pose while ensuring that their benefits are not lost to fear or misunderstanding.
+The **Order of the Brass Tower** stands as [Valdris](Valdris.md)'s premier military-religious organization, uniquely positioned at the intersection of martial prowess and spiritual duty. Unlike purely military forces that serve political masters or religious orders that focus solely on theological concerns, the Order combines both traditions in service of a single, overriding mission: protecting humanity from the dangers that [Architect Ruins](Architect%20Ruins.md) can pose while ensuring that their benefits are not lost to fear or misunderstanding.
 
-Founded 234 years ago in the aftermath of the catastrophic [[Thymeris the Golden]] Incident—when political interference with [[Architect Ruins|Architect]] systems resulted in 847 deaths and a three-month period of dangerous instability—the Order emerged from a coalition of military officers, religious leaders, and technical experts who recognized the need for a disciplined, apolitical force capable of handling [[Architect Ruins|Architect]]-related crises.
+Founded 234 years ago in the aftermath of the catastrophic [Thymeris the Golden](Thymeris%20the%20Golden.md) Incident—when political interference with [Architect](Architect%20Ruins.md) systems resulted in 847 deaths and a three-month period of dangerous instability—the Order emerged from a coalition of military officers, religious leaders, and technical experts who recognized the need for a disciplined, apolitical force capable of handling [Architect](Architect%20Ruins.md)-related crises.
 
-Built around their fortress-monastery known as the Brass Tower, located at the geographic center of [[Valdris]] in the neutral territory of the Convergence Plains, the Order has evolved into a highly respected institution that commands trust from all three major political systems. The [[Timeline|Recent Awakening]] has elevated their importance to unprecedented levels, as their expertise in managing [[Architect Ruins|Architect]] hazards becomes crucial for continental stability.
+Built around their fortress-monastery known as the Brass Tower, located at the geographic center of [Valdris](Valdris.md) in the neutral territory of the Convergence Plains, the Order has evolved into a highly respected institution that commands trust from all three major political systems. The [Recent Awakening](Timeline.md) has elevated their importance to unprecedented levels, as their expertise in managing [Architect](Architect%20Ruins.md) hazards becomes crucial for continental stability.
 
 ---
 
@@ -21,8 +21,8 @@ Built around their fortress-monastery known as the Brass Tower, located at the g
 
 The Order operates according to **The Seven Pillars of the Tower**:
 
-1. **Protective Service**: Duty to protect all people of [[Valdris]], regardless of political affiliation
-2. **Balanced Wisdom**: Understanding both the potential benefits and dangers of [[Architect Ruins]]
+1. **Protective Service**: Duty to protect all people of [Valdris](Valdris.md), regardless of political affiliation
+2. **Balanced Wisdom**: Understanding both the potential benefits and dangers of [Architect Ruins](Architect%20Ruins.md)
 3. **Disciplined Power**: Strength must be tempered by restraint and guided by wisdom
 4. **Spiritual Foundation**: Faith provides the courage needed to face ultimate dangers
 5. **Technical Competence**: Effective protection requires thorough understanding of threats
@@ -31,21 +31,21 @@ The Order operates according to **The Seven Pillars of the Tower**:
 
 ### The Threshold Philosophy
 
-Central to Order thinking is the concept of **the Threshold**—the boundary between beneficial use of [[Architect Ruins|Architect]] technology and dangerous overreach. The Order sees itself as guardians of this threshold, neither rejecting [[Architect Ruins|Architect]] gifts entirely (like [[Silence-Keepers]]) nor embracing them without reservation (like some [[Tinker-Priests]]).
+Central to Order thinking is the concept of **the Threshold**—the boundary between beneficial use of [Architect](Architect%20Ruins.md) technology and dangerous overreach. The Order sees itself as guardians of this threshold, neither rejecting [Architect](Architect%20Ruins.md) gifts entirely (like [Silence-Keepers](Silence-Keepers.md)) nor embracing them without reservation (like some [Tinker-Priests](Tinker-Priests.md)).
 
-This philosophy recognizes that [[Architect Ruins]] represent power beyond current human understanding. Used carefully, they can enhance civilization. Used carelessly, they could destroy it. The [[Timeline|Great Silence]] serves as proof that even the [[Architects]] themselves were not immune to catastrophic failure.
+This philosophy recognizes that [Architect Ruins](Architect%20Ruins.md) represent power beyond current human understanding. Used carefully, they can enhance civilization. Used carelessly, they could destroy it. The [Great Silence](Timeline.md) serves as proof that even the [Architects](Architects.md) themselves were not immune to catastrophic failure.
 
 ### Spiritual Dimensions
 
 Unlike secular military forces, the Order maintains strong spiritual traditions that provide both comfort and motivation for their dangerous work:
 
-**The Divine Balance**: Belief that divine providence placed [[Architect Ruins]] in the world as both gift and test, requiring humanity to prove worthy through wisdom and restraint
+**The Divine Balance**: Belief that divine providence placed [Architect Ruins](Architect%20Ruins.md) in the world as both gift and test, requiring humanity to prove worthy through wisdom and restraint
 
 **The Eternal Watch**: Conviction that vigilance is a sacred duty that transcends individual lifespans—members serve as part of an unbroken chain of guardians
 
 **The Sacrifice Doctrine**: Understanding that protecting others may require ultimate sacrifice, viewed as the highest form of spiritual service
 
-**The Wisdom Tradition**: Faith that divine guidance will provide insight needed to navigate the complex challenges of [[Architect Ruins|Architect]] stewardship
+**The Wisdom Tradition**: Faith that divine guidance will provide insight needed to navigate the complex challenges of [Architect](Architect%20Ruins.md) stewardship
 
 ---
 
@@ -75,24 +75,24 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 #### The Steel Watch
 *"First to Fight, Last to Retreat"*
 
-**Mission**: Direct military response to immediate threats from [[Architect Ruins]] or related dangers
+**Mission**: Direct military response to immediate threats from [Architect Ruins](Architect%20Ruins.md) or related dangers
 
 **Composition**: 180 heavily armed and trained warriors equipped with specialized gear for fighting in and around ruins
 
 **Current Commander**: **Captain Elena Ironwill** (Human, 43 years old), veteran of twelve major ruin incidents
 
-**Special Equipment**: Armor enhanced with [[Architect Ruins|Architect]] protective crystals, weapons designed to disable rather than destroy ancient mechanisms
+**Special Equipment**: Armor enhanced with [Architect](Architect%20Ruins.md) protective crystals, weapons designed to disable rather than destroy ancient mechanisms
 
 #### The Brass Seekers
 *"Knowledge Before Action, Understanding Before Force"*
 
-**Mission**: Investigation and intelligence gathering regarding [[Architect Ruins|Architect]] activities and potential threats
+**Mission**: Investigation and intelligence gathering regarding [Architect](Architect%20Ruins.md) activities and potential threats
 
 **Composition**: 89 scholars, scouts, and infiltration specialists trained in both combat and research
 
-**Current Commander**: **Captain Thaddeus Brightlens** (Gnome, 78 years old), former [[Academy of Dual Mysteries]] professor
+**Current Commander**: **Captain Thaddeus Brightlens** (Gnome, 78 years old), former [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) professor
 
-**Special Equipment**: Precision instruments for studying [[Architect Ruins|Architect]] phenomena, communication devices for remote reporting
+**Special Equipment**: Precision instruments for studying [Architect](Architect%20Ruins.md) phenomena, communication devices for remote reporting
 
 #### The Shield Bearers
 *"Protection Through Preparation"*
@@ -124,7 +124,7 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 **Spiritual Commitment**: Demonstration of genuine faith tradition and moral character
 
-**Technical Aptitude**: Basic understanding of [[Architect Ruins|Architect]] technology and safety procedures
+**Technical Aptitude**: Basic understanding of [Architect](Architect%20Ruins.md) technology and safety procedures
 
 **Oath of Service**: Formal commitment to Order values and mission, typically for minimum ten-year terms
 
@@ -136,23 +136,23 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 ### The Brass Tower Complex
 
-**Main Fortress**: Massive structure built from [[Architect Ruins|Architect]] materials salvaged from damaged ruins, combining ancient durability with modern defensive design
+**Main Fortress**: Massive structure built from [Architect](Architect%20Ruins.md) materials salvaged from damaged ruins, combining ancient durability with modern defensive design
 
 **Training Facilities**: Comprehensive grounds for physical, mental, and spiritual development including:
-- Combat simulation chambers using controlled [[Architect Ruins|Architect]] effects
+- Combat simulation chambers using controlled [Architect](Architect%20Ruins.md) effects
 - Meditation gardens designed for spiritual reflection
 - Technical workshops for maintaining specialized equipment
-- Medical facilities equipped for treating [[Architect Ruins|Architect]]-related injuries
+- Medical facilities equipped for treating [Architect](Architect%20Ruins.md)-related injuries
 
-**Archive Vaults**: Secured storage for intelligence regarding [[Architect Ruins]] dangers and Order operational history
+**Archive Vaults**: Secured storage for intelligence regarding [Architect Ruins](Architect%20Ruins.md) dangers and Order operational history
 
 **Guest Quarters**: Diplomatic facilities for hosting representatives from all political systems
 
-**Communication Center**: Advanced [[Architect Ruins|Architect]] communication systems linking the Tower to observation posts across [[Valdris]]
+**Communication Center**: Advanced [Architect](Architect%20Ruins.md) communication systems linking the Tower to observation posts across [Valdris](Valdris.md)
 
 ### Strategic Assets
 
-**Observation Posts**: Network of 47 fortified positions monitoring major [[Architect Ruins]] across the continent
+**Observation Posts**: Network of 47 fortified positions monitoring major [Architect Ruins](Architect%20Ruins.md) across the continent
 
 **Rapid Response Equipment**: Pre-positioned supplies and vehicles for emergency deployment
 
@@ -170,7 +170,7 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 **Training Programs**: Income from providing specialized security training to other organizations
 
-**Technical Consulting**: Fees for expert advice on [[Architect Ruins|Architect]]-related safety issues
+**Technical Consulting**: Fees for expert advice on [Architect](Architect%20Ruins.md)-related safety issues
 
 **Donation Support**: Voluntary contributions from grateful communities and individuals
 
@@ -180,9 +180,9 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 ### Protective Services
 
-**Ruin Monitoring**: Continuous surveillance of major [[Architect Ruins]] for signs of dangerous activity
+**Ruin Monitoring**: Continuous surveillance of major [Architect Ruins](Architect%20Ruins.md) for signs of dangerous activity
 
-**Emergency Response**: Rapid deployment to contain or mitigate [[Architect Ruins|Architect]]-related crises
+**Emergency Response**: Rapid deployment to contain or mitigate [Architect](Architect%20Ruins.md)-related crises
 
 **Evacuation Coordination**: Organizing population movement away from immediate dangers
 
@@ -194,7 +194,7 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 **Crisis Intervention**: Direct action to stop immediate threats to civilian populations
 
-**Facility Security**: Protecting critical infrastructure from [[Architect Ruins|Architect]]-related damage
+**Facility Security**: Protecting critical infrastructure from [Architect](Architect%20Ruins.md)-related damage
 
 **Border Patrol**: Monitoring frontier areas where uncontrolled ruins pose ongoing dangers
 
@@ -206,9 +206,9 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 **Threat Monitoring**: Systematic collection of information about potential dangers
 
-**Political Analysis**: Assessment of how political changes might affect [[Architect Ruins|Architect]] security
+**Political Analysis**: Assessment of how political changes might affect [Architect](Architect%20Ruins.md) security
 
-**Technical Research**: Investigation of new [[Architect Ruins|Architect]] phenomena and their implications
+**Technical Research**: Investigation of new [Architect](Architect%20Ruins.md) phenomena and their implications
 
 **Counter-Intelligence**: Protection against hostile attempts to compromise Order security
 
@@ -216,7 +216,7 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 ### Recent Awakening Response
 
-**Phenomenon Documentation**: Systematic recording of all new [[Architect Ruins|Architect]] activities
+**Phenomenon Documentation**: Systematic recording of all new [Architect](Architect%20Ruins.md) activities
 
 **Rapid Assessment**: Emergency evaluation of newly active systems for immediate danger
 
@@ -230,19 +230,19 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 ## Relationship with Political Systems
 
-### [[Political Systems/Ruin-Holder Kingdoms]]
+### [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
 
 **Mutual Respect**: Kingdoms appreciate Order expertise and political neutrality
 
 **Service Agreements**: Formal contracts for protecting kingdom territories containing dangerous ruins
 
-**Advisory Roles**: Order members serve as consultants on [[Architect Ruins|Architect]]-related policy
+**Advisory Roles**: Order members serve as consultants on [Architect](Architect%20Ruins.md)-related policy
 
 **Tension Points**: Occasional conflicts when kingdom interests conflict with Order protective mission
 
 **Cooperation Examples**: Joint operations securing ruins during political transitions
 
-### [[Political Systems/Wanderer Confederations]]
+### [Wanderer Confederations](Wanderer%20Confederations.md)
 
 **Practical Partnership**: Wanderers value Order's practical approach and lack of territorial ambitions
 
@@ -254,17 +254,17 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 **Collaboration Areas**: Joint patrols of dangerous frontier regions
 
-### [[Political Systems/Ruin-Shunner Republics]]
+### [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)
 
-**Philosophical Alignment**: Shared concerns about [[Architect Ruins|Architect]] technology dangers
+**Philosophical Alignment**: Shared concerns about [Architect](Architect%20Ruins.md) technology dangers
 
 **Limited Cooperation**: Republican preference for self-reliance limits formal partnerships
 
 **Emergency Exception**: Republics accept Order aid during genuine crises
 
-**Ideological Sympathy**: Order restraint regarding [[Architect Ruins|Architect]] use appeals to republican values
+**Ideological Sympathy**: Order restraint regarding [Architect](Architect%20Ruins.md) use appeals to republican values
 
-**Diplomatic Challenges**: Republican suspicion of any organization using [[Architect Ruins|Architect]] technology
+**Diplomatic Challenges**: Republican suspicion of any organization using [Architect](Architect%20Ruins.md) technology
 
 ---
 
@@ -272,17 +272,17 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 ### Allied Organizations
 
-**[[Silence-Keepers]]**: Shared commitment to restraint regarding [[Architect Ruins|Architect]] technology, though Order takes more active approach to protection
+**[Silence-Keepers](Silence-Keepers.md)**: Shared commitment to restraint regarding [Architect](Architect%20Ruins.md) technology, though Order takes more active approach to protection
 
-**[[Academy of Dual Mysteries]]**: Valuable partnership combining Order practical experience with Academy theoretical knowledge
+**[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)**: Valuable partnership combining Order practical experience with Academy theoretical knowledge
 
-**[[Gear-Wright Guilds]]**: Technical cooperation and mutual professional respect
+**[Gear-Wright Guilds](Gear-Wright%20Guilds.md)**: Technical cooperation and mutual professional respect
 
 **Emergency Services**: Close working relationships with medical and disaster response organizations
 
 ### Complicated Relationships
 
-**[[Tinker-Priests]]**: Respect for Tinker-Priest expertise tempered by concern about their aggressive exploration of [[Architect Ruins|Architect]] technology
+**[Tinker-Priests](Tinker-Priests.md)**: Respect for Tinker-Priest expertise tempered by concern about their aggressive exploration of [Architect](Architect%20Ruins.md) technology
 
 **Military Forces**: Professional relationships with various armed forces, though Order neutrality sometimes creates tension
 
@@ -290,13 +290,13 @@ Unlike secular military forces, the Order maintains strong spiritual traditions 
 
 ### Monitoring Concerns
 
-**Extremist Groups**: Surveillance of organizations that might attempt to weaponize [[Architect Ruins|Architect]] technology
+**Extremist Groups**: Surveillance of organizations that might attempt to weaponize [Architect](Architect%20Ruins.md) technology
 
 **Rogue Researchers**: Observation of individuals conducting dangerous unauthorized experiments
 
-**Criminal Organizations**: Intelligence gathering on groups attempting to profit from [[Architect Ruins|Architect]] resources
+**Criminal Organizations**: Intelligence gathering on groups attempting to profit from [Architect](Architect%20Ruins.md) resources
 
-**Foreign Agents**: Counter-intelligence against outside influences that might threaten [[Valdris]] stability
+**Foreign Agents**: Counter-intelligence against outside influences that might threaten [Valdris](Valdris.md) stability
 
 ---
 
@@ -316,7 +316,7 @@ Leader of the Order for the past twelve years, known for his balanced approach t
 **Lieutenant of Defense Captain Elena Ironwill**
 *Human, 43 years old, Steel Watch Commander*
 
-Most experienced combat leader in the Order, veteran of twelve major ruin incidents including the Great [[Thymeris the Golden]] Stabilization. Known for her ability to remain calm under extreme pressure.
+Most experienced combat leader in the Order, veteran of twelve major ruin incidents including the Great [Thymeris the Golden](Thymeris%20the%20Golden.md) Stabilization. Known for her ability to remain calm under extreme pressure.
 
 **Military Record**: Never lost a team member during combat operations
 **Tactical Innovation**: Developed current protocols for fighting in unstable ruin environments
@@ -327,16 +327,16 @@ Most experienced combat leader in the Order, veteran of twelve major ruin incide
 
 Brings academic rigor to Order intelligence operations, with extensive background in both magical and technological research. Joined Order after witnessing academic research nearly cause a catastrophic ruin malfunction.
 
-**Academic Background**: Published expert on [[Architect Ruins|Architect]] safety protocols
+**Academic Background**: Published expert on [Architect](Architect%20Ruins.md) safety protocols
 **Intelligence Innovation**: Created current threat assessment methodologies
-**Hidden Concern**: Believes the [[Timeline|Recent Awakening]] may be preparation for something larger
+**Hidden Concern**: Believes the [Recent Awakening](Timeline.md) may be preparation for something larger
 
 ### Field Specialists
 
 **Captain Sarah Steadyhold** (Shield Bearers)
 *Dwarf, 89 years old, Emergency Response Specialist*
 
-Architect of Order emergency protocols, her evacuation procedures have saved thousands of lives during [[Architect Ruins|Architect]]-related crises.
+Architect of Order emergency protocols, her evacuation procedures have saved thousands of lives during [Architect](Architect%20Ruins.md)-related crises.
 
 **High Chaplain Brother Marcus Lightbringer** (Tower Chaplains)
 *Human, 67 years old, Multi-Faith Spiritual Leader*
@@ -353,18 +353,18 @@ Master of both covert investigation and diplomatic intelligence gathering, known
 **Lieutenant Kira Swiftstrike**
 *Human, 29 years old, Combat Innovation Specialist*
 
-Youngest officer to achieve lieutenant rank, developer of new techniques for safely disabling malfunctioning [[Architect Ruins|Architect]] systems.
+Youngest officer to achieve lieutenant rank, developer of new techniques for safely disabling malfunctioning [Architect](Architect%20Ruins.md) systems.
 
 **Chaplain Sister Elena Peacekeeper**
 *Human, 34 years old, Crisis Counselor*
 
-Specialist in providing psychological support during traumatic incidents, particularly those involving [[Architect Ruins|Architect]] phenomenon exposure.
+Specialist in providing psychological support during traumatic incidents, particularly those involving [Architect](Architect%20Ruins.md) phenomenon exposure.
 
 ---
 
 ## Recent Awakening Impact
 
-The [[Timeline|Recent Awakening]] has transformed the Order from a specialized security force into the most critical protective organization in [[Valdris]]:
+The [Recent Awakening](Timeline.md) has transformed the Order from a specialized security force into the most critical protective organization in [Valdris](Valdris.md):
 
 ### Operational Changes
 
@@ -374,7 +374,7 @@ The [[Timeline|Recent Awakening]] has transformed the Order from a specialized s
 
 **Emergency Expansion**: Recruitment accelerated to meet increased demand for Order services
 
-**Technological Adaptation**: Integration of awakened [[Architect Ruins|Architect]] systems into Order operations
+**Technological Adaptation**: Integration of awakened [Architect](Architect%20Ruins.md) systems into Order operations
 
 **Inter-organizational Coordination**: Increased cooperation with all major factions to handle awakening challenges
 
@@ -400,7 +400,7 @@ The [[Timeline|Recent Awakening]] has transformed the Order from a specialized s
 
 **Recruitment Challenges**: Need for rapid expansion while maintaining Order standards
 
-**Technological Dependence**: Growing reliance on [[Architect Ruins|Architect]] systems creating new vulnerabilities
+**Technological Dependence**: Growing reliance on [Architect](Architect%20Ruins.md) systems creating new vulnerabilities
 
 ### Philosophical Evolution
 
@@ -432,13 +432,13 @@ The [[Timeline|Recent Awakening]] has transformed the Order from a specialized s
 
 **Intelligence Gathering**: Collecting information about hostile organizations or rogue researchers
 
-**Infiltration Mission**: Investigating suspicious activities related to [[Architect Ruins|Architect]] technology
+**Infiltration Mission**: Investigating suspicious activities related to [Architect](Architect%20Ruins.md) technology
 
 **Counter-Intelligence**: Protecting Order operations from external interference
 
 ### Training and Development
 
-**Specialist Training**: Learning advanced techniques for handling [[Architect Ruins|Architect]] dangers
+**Specialist Training**: Learning advanced techniques for handling [Architect](Architect%20Ruins.md) dangers
 
 **Cross-Training Exchange**: Temporary assignments with allied organizations
 
@@ -480,7 +480,7 @@ The [[Timeline|Recent Awakening]] has transformed the Order from a specialized s
 
 ## Conclusion
 
-The Order of the Brass Tower stands as a beacon of disciplined service in a world where ancient powers and modern politics create increasingly complex dangers. As the [[Timeline|Recent Awakening]] reshapes [[Valdris]], the Order faces its greatest challenge: protecting civilization from threats that exceed all previous experience while maintaining the careful balance between courage and wisdom that defines their mission.
+The Order of the Brass Tower stands as a beacon of disciplined service in a world where ancient powers and modern politics create increasingly complex dangers. As the [Recent Awakening](Timeline.md) reshapes [Valdris](Valdris.md), the Order faces its greatest challenge: protecting civilization from threats that exceed all previous experience while maintaining the careful balance between courage and wisdom that defines their mission.
 
 Whether they will emerge as the guardians of a new age of stability or become another casualty of forces beyond human control depends largely on their ability to adapt their proven principles to unprecedented circumstances. What remains certain is that their commitment to protective service and political neutrality makes them invaluable in a world where factional interests threaten to overshadow common human needs.
 
@@ -493,4 +493,4 @@ In the halls of the Brass Tower and at observation posts across the continent, O
 
 ---
 
-*See also: [[Tinker-Priests]], [[Silence-Keepers]], [[Academy of Dual Mysteries]], [[Political Systems]], [[Timeline|Recent Awakening]], [[Architect Ruins]], [[Thymeris the Golden]], [[Technology/Architect Technology]]*
+*See also: [Tinker-Priests](Tinker-Priests.md), [Silence-Keepers](Silence-Keepers.md), [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md), [Political Systems](Political%20Systems.md), [Recent Awakening](Timeline.md), [Architect Ruins](Architect%20Ruins.md), [Thymeris the Golden](Thymeris%20the%20Golden.md), [Architect Technology](Architect%20Technology.md)*

@@ -6,39 +6,39 @@
 
 ## Overview: After Eight Centuries, They Stir
 
-Three months ago, the **Recent Awakening** began with the reactivation of [[Thymeris the Golden]], marking the end of 847 years of silence since [[The Great Silence]]. What started as a single city's awakening has cascade into a continental phenomenon, with [[Architect Ruins]] across [[Valdris]] exhibiting unprecedented levels of activity, coordination, and apparent intelligence.
+Three months ago, the **Recent Awakening** began with the reactivation of [Thymeris the Golden](Thymeris%20the%20Golden.md), marking the end of 847 years of silence since [The Great Silence](The%20Great%20Silence.md). What started as a single city's awakening has cascade into a continental phenomenon, with [Architect Ruins](Architect%20Ruins.md) across [Valdris](Valdris.md) exhibiting unprecedented levels of activity, coordination, and apparent intelligence.
 
-This is not mere reactivation of dormant technology—it represents the first genuine change in [[Architect]] behavior since their mysterious disappearance. The awakening displays purpose, intelligence, and urgency that suggest either the [[Architect|Architects']] return or the activation of some vast contingency protocol that has waited eight centuries to begin.
+This is not mere reactivation of dormant technology—it represents the first genuine change in [Architect](Architect.md) behavior since their mysterious disappearance. The awakening displays purpose, intelligence, and urgency that suggest either the [Architects'](Architect.md) return or the activation of some vast contingency protocol that has waited eight centuries to begin.
 
 **Current Status**: Accelerating across multiple major sites with new ruins activating weekly  
 **Duration**: Three months and counting, with no signs of stabilization  
-**Scale**: Continental, affecting every major [[Architect Ruins|ruin]] and most minor sites  
-**Political Impact**: Reshaping the entire balance of power across [[Political Systems|all three political systems]]
+**Scale**: Continental, affecting every major [ruin](Architect%20Ruins.md) and most minor sites  
+**Political Impact**: Reshaping the entire balance of power across [all three political systems](Political%20Systems.md)
 
 ---
 
 ## Timeline of the Awakening
 
 ### Month One: The Golden Dawn
-**Day 1 (First Day of Harvest, 847 AS)**: At dawn, [[Thymeris the Golden]] awakened completely. Eight centuries of sealed gates opened in perfect sequence, amber light blazed from every tower, and the great mechanisms began their harmonious turning once again.
+**Day 1 (First Day of Harvest, 847 AS)**: At dawn, [Thymeris the Golden](Thymeris%20the%20Golden.md) awakened completely. Eight centuries of sealed gates opened in perfect sequence, amber light blazed from every tower, and the great mechanisms began their harmonious turning once again.
 
 **Days 2-7**: Secondary systems across the city activated methodically—transportation networks, environmental controls, maintenance systems, and communication arrays. No random patterns; everything followed a precise, logical sequence.
 
-**Days 8-15**: The [[Singing Spires of Kelathon]] began resonating with [[Thymeris the Golden]], creating the first inter-ruin communication witnessed since [[The Great Silence]]. Their harmonic messages could be heard for dozens of miles.
+**Days 8-15**: The [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) began resonating with [Thymeris the Golden](Thymeris%20the%20Golden.md), creating the first inter-ruin communication witnessed since [The Great Silence](The%20Great%20Silence.md). Their harmonic messages could be heard for dozens of miles.
 
-**Days 16-30**: Minor ruins throughout the [[Ruin-Holder Kingdoms]] began showing increased activity. Crystal formations glowed brighter, mechanical sounds resumed, and some long-dormant systems reactivated.
+**Days 16-30**: Minor ruins throughout the [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) began showing increased activity. Crystal formations glowed brighter, mechanical sounds resumed, and some long-dormant systems reactivated.
 
 ### Month Two: The Spreading Song
-**Days 31-45**: The [[Walking Gardens of Yss'andra]] dramatically increased their movement speed and began making course corrections for the first time in recorded history, suggesting urgent purpose to their migration.
+**Days 31-45**: The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) dramatically increased their movement speed and began making course corrections for the first time in recorded history, suggesting urgent purpose to their migration.
 
-**Days 46-60**: A network effect became apparent. Minor ruins activated in coordinated patterns, forming communication chains across vast distances. The continent-wide nature of the [[Architect]] legacy became undeniable.
+**Days 46-60**: A network effect became apparent. Minor ruins activated in coordinated patterns, forming communication chains across vast distances. The continent-wide nature of the [Architect](Architect.md) legacy became undeniable.
 
 **Days 61-75**: First reports of **Construct Emergence**—small clockwork beings, no larger than house cats, began emerging from major ruins and traveling to distant locations, apparently gathering information about current conditions.
 
 ### Month Three: The Deep Awakening
 **Days 76-90**: Environmental changes accelerated. Weather patterns shifted around awakening ruins, mineral deposits showed new formations, and even plant growth altered near active sites.
 
-**Days 91-Present**: The awakening has entered what scholars call the **Deep Phase**. Previously inaccessible chambers are opening, new [[Architect Technology|harmonic crystals]] are forming, and ruins are beginning to modify their own structures for unknown purposes.
+**Days 91-Present**: The awakening has entered what scholars call the **Deep Phase**. Previously inaccessible chambers are opening, new [harmonic crystals](Architect%20Technology.md) are forming, and ruins are beginning to modify their own structures for unknown purposes.
 
 ---
 
@@ -46,11 +46,11 @@ This is not mere reactivation of dormant technology—it represents the first ge
 
 ### Beyond Historical Precedent
 
-**Complete Dormancy**: Since [[The Great Silence]], [[Architect Ruins]] maintained only basic functions—environmental controls, structural maintenance, and simple resource processing. Complex systems, decision-making capabilities, and inter-ruin communication remained completely inactive.
+**Complete Dormancy**: Since [The Great Silence](The%20Great%20Silence.md), [Architect Ruins](Architect%20Ruins.md) maintained only basic functions—environmental controls, structural maintenance, and simple resource processing. Complex systems, decision-making capabilities, and inter-ruin communication remained completely inactive.
 
 **Systematic Coordination**: The awakening follows clear patterns of priority and sequence. Primary ruins awaken first, establish communication networks, then activate secondary and tertiary sites in logical progression. This suggests not malfunction but the execution of a pre-planned protocol.
 
-**Adaptive Behavior**: Awakening ruins are learning about current conditions and adapting their functions accordingly. They respond to human presence, modify outputs based on local needs, and show awareness of political and social changes since [[The Great Silence]].
+**Adaptive Behavior**: Awakening ruins are learning about current conditions and adapting their functions accordingly. They respond to human presence, modify outputs based on local needs, and show awareness of political and social changes since [The Great Silence](The%20Great%20Silence.md).
 
 **Environmental Integration**: For the first time in eight centuries, ruins are actively managing their local environments rather than simply maintaining them. Weather modification systems engage, mineral extraction accelerates, and agricultural enhancement systems expand their areas of influence.
 
@@ -61,14 +61,14 @@ Small clockwork beings have begun emerging from major ruins and traveling to dis
 - **Size**: Cat-sized, intricate brass and crystal construction
 - **Behavior**: Methodical exploration, detailed observation, avoiding direct human contact
 - **Purpose**: Unknown, but they appear to be creating detailed maps and population surveys
-- **Numbers**: Estimated dozens active across [[Valdris]], with more emerging weekly
+- **Numbers**: Estimated dozens active across [Valdris](Valdris.md), with more emerging weekly
 
 #### Crystal Network Expansion
-New [[Architect Technology|harmonic crystals]] are forming near existing ruins, extending communication networks:
+New [harmonic crystals](Architect%20Technology.md) are forming near existing ruins, extending communication networks:
 - **Growth Rate**: Visible expansion daily around major sites
 - **Resonance**: Perfect harmonic integration with existing crystal networks
 - **Function**: Enhanced communication range and data transmission capacity
-- **Implications**: The [[Architect]] network is physically expanding for the first time in eight centuries
+- **Implications**: The [Architect](Architect.md) network is physically expanding for the first time in eight centuries
 
 #### Structural Self-Modification
 Several ruins have begun modifying their own architecture:
@@ -88,7 +88,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 
 ## Major Awakening Events by Site
 
-### [[Thymeris the Golden]]: The Heart Awakens
+### [Thymeris the Golden](Thymeris%20the%20Golden.md): The Heart Awakens
 
 **Initial Awakening**: Complete reactivation at dawn on the first day, visible from dozens of miles away
 
@@ -105,23 +105,23 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Construction Projects**: Building new structures whose purposes remain mysterious
 - **Resource Management**: Optimizing material flows across the entire regional network
 
-### [[Singing Spires of Kelathon]]: The Voice Returns
+### [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md): The Voice Returns
 
 **Awakening Pattern**: Gradual activation beginning with the central spire, spreading to the outer six
 
 **Current Status**: Broadcasting complex harmonic patterns with mathematical precision:
-- **New Harmonies**: Music unlike anything heard since [[The Great Silence]]
+- **New Harmonies**: Music unlike anything heard since [The Great Silence](The%20Great%20Silence.md)
 - **Coordinated Messages**: Clear communication with other awakening ruins
 - **Countdown Sequences**: Mathematical patterns suggesting approaching deadlines
 - **Warning Calls**: Some interpretations suggest warnings about unknown threats
 
 **Message Categories Identified**:
-- **Status Reports**: Systematic information about ruin conditions across [[Valdris]]
+- **Status Reports**: Systematic information about ruin conditions across [Valdris](Valdris.md)
 - **Coordination Signals**: Instructions for synchronizing awakening sequences
 - **Data Requests**: Apparent queries about current political and social conditions
 - **Temporal Markers**: Countdown sequences toward specific future dates
 
-### [[Walking Gardens of Yss'andra]]: The Purpose Revealed
+### [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md): The Purpose Revealed
 
 **Awakening Changes**: Dramatic acceleration from stately migration to urgent purpose
 
@@ -139,7 +139,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 
 ### Minor Ruins: The Network Awakens
 
-**Systematic Activation**: Hundreds of smaller ruins across [[Valdris]] showing coordinated activity
+**Systematic Activation**: Hundreds of smaller ruins across [Valdris](Valdris.md) showing coordinated activity
 
 **Network Effects**:
 - **Communication Relays**: Minor ruins amplifying signals between major sites
@@ -148,17 +148,17 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Defensive Positioning**: Some ruins modifying configurations for protection
 
 **Regional Patterns**:
-- **[[Ruin-Holder Kingdoms]]**: Focus on production and resource optimization
-- **[[Political Systems/Wanderer Confederations]]**: Enhanced route management and navigation systems
-- **[[Political Systems/Ruin-Shunner Republics]]**: Minimal activation, focused on non-intrusive monitoring
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**: Focus on production and resource optimization
+- **[Wanderer Confederations](Wanderer%20Confederations.md)**: Enhanced route management and navigation systems
+- **[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)**: Minimal activation, focused on non-intrusive monitoring
 
 ---
 
 ## Factional Responses and Political Implications
 
-### [[Tinker-Priests]]: Vindication and Fervor
+### [Tinker-Priests](Tinker-Priests.md): Vindication and Fervor
 
-**Official Position**: The awakening proves their theological interpretations of [[Architect]] transcendence
+**Official Position**: The awakening proves their theological interpretations of [Architect](Architect.md) transcendence
 
 **Actions Taken**:
 - **Increased Pilgrimage**: Mass movement to newly active sites
@@ -171,14 +171,14 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Factional Unity**: Previously competing orders uniting around awakening interpretation
 - **Resource Mobilization**: Redirecting vast resources toward awakening research
 - **Political Influence**: Leveraging vindication to increase influence across all political systems
-- **Theological Debates**: Intense discussions about implications of [[Architect]] return
+- **Theological Debates**: Intense discussions about implications of [Architect](Architect.md) return
 
 **Future Concerns**:
 - **Overwhelming Response**: Risk of religious fervor overwhelming scientific methodology
 - **Political Entanglement**: Increased influence creating conflicts with secular authorities
 - **Doctrinal Schisms**: Disagreements about proper response to awakening intelligence
 
-### [[Silence-Keepers]]: The Vigil Rewarded
+### [Silence-Keepers](Silence-Keepers.md): The Vigil Rewarded
 
 **Official Position**: The awakening represents the foretold return of their divine masters
 
@@ -200,7 +200,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Political Pressure**: External forces seeking to exploit awakening sites
 - **Doctrinal Questions**: Reconciling awakening reality with theological expectations
 
-### [[Political Systems/Ruin-Holder Kingdoms]]: Scrambling for Control
+### [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md): Scrambling for Control
 
 **Strategic Response**: Attempting to secure newly active sites while managing power shifts
 
@@ -222,7 +222,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Military Transformation**: Enhanced capabilities changing warfare fundamentals
 - **Economic Revolution**: Awakening productivity threatening traditional trade patterns
 
-### [[Political Systems/Wanderer Confederations]]: Reading the Signs
+### [Wanderer Confederations](Wanderer%20Confederations.md): Reading the Signs
 
 **Cultural Interpretation**: Viewing the awakening as harbinger of the greatest journey in history
 
@@ -244,13 +244,13 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Resource Demands**: Increased competition for materials needed by awakening ruins
 - **Cultural Stress**: Rapid changes challenging traditional ways of life
 
-### [[Political Systems/Ruin-Shunner Republics]]: Fear and Resistance
+### [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md): Fear and Resistance
 
 **Official Position**: The awakening represents existential threat requiring immediate response
 
 **Defensive Measures**:
 - **Population Movements**: Relocating communities away from awakening sites
-- **Technology Rejection**: Increased restrictions on [[Architect]] device usage
+- **Technology Rejection**: Increased restrictions on [Architect](Architect.md) device usage
 - **Military Preparation**: Defensive planning against potential awakening threats
 - **Alliance Building**: Cooperation between republics for mutual protection
 - **Information Control**: Managing citizen panic about awakening implications
@@ -292,11 +292,11 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 **Consciousness Evidence**: Awakening ruins display decision-making and adaptive behavior
 
 **Possible Entities**:
-- **[[Architect|Architect]] Consciousness**: Original creators preserved in technological form
-- **Collective Intelligence**: Merged consciousness of entire [[Architect]] civilization
+- **[Architect](Architect.md) Consciousness**: Original creators preserved in technological form
+- **Collective Intelligence**: Merged consciousness of entire [Architect](Architect.md) civilization
 - **Artificial Intelligence**: Self-aware systems continuing original programming
 - **Hybrid Existence**: New form of life blending organic and mechanical elements
-- **External Control**: Unknown entities using [[Architect]] infrastructure
+- **External Control**: Unknown entities using [Architect](Architect.md) infrastructure
 
 **Behavioral Analysis**:
 - **Learning Capability**: Adapting to current conditions and human presence
@@ -319,7 +319,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - **Continental Scope**: Preparation affecting entire landmass
 - **Long-term Timeline**: Infrastructure suggests preparations for extended periods
 - **Multi-species Impact**: Modifications benefiting not just humans but all life
-- **Technological Integration**: Preparing for closer human-[[Architect]] cooperation
+- **Technological Integration**: Preparing for closer human-[Architect](Architect.md) cooperation
 
 ---
 
@@ -358,7 +358,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 
 #### Technological Renaissance
 **Opportunity Scale**: Revolutionary  
-**Description**: Access to [[Architect]] knowledge could advance civilization by centuries  
+**Description**: Access to [Architect](Architect.md) knowledge could advance civilization by centuries  
 **Potential Benefits**:
 - **Medical Advances**: Healing technologies beyond current capabilities
 - **Agricultural Revolution**: Food production systems capable of supporting vastly larger populations
@@ -367,19 +367,19 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 
 #### Environmental Restoration
 **Opportunity Scale**: Continental  
-**Description**: [[Architect]] environmental management could restore damaged ecosystems  
+**Description**: [Architect](Architect.md) environmental management could restore damaged ecosystems  
 **Potential Benefits**:
 - **Climate Stabilization**: Weather control preventing natural disasters
 - **Resource Regeneration**: Mining and farming systems that enhance rather than deplete
-- **Biodiversity Recovery**: [[Walking Gardens of Yss'andra]] technology preserving endangered species
+- **Biodiversity Recovery**: [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) technology preserving endangered species
 - **Pollution Remediation**: Systems capable of cleaning centuries of environmental damage
 
 #### Cultural Evolution
 **Opportunity Scale**: Civilizational  
-**Description**: Integration with [[Architect]] intelligence could transform human society  
+**Description**: Integration with [Architect](Architect.md) intelligence could transform human society  
 **Potential Benefits**:
 - **Educational Revolution**: Direct knowledge transfer capabilities
-- **Artistic Renaissance**: New forms of expression merging human creativity with [[Architect]] precision
+- **Artistic Renaissance**: New forms of expression merging human creativity with [Architect](Architect.md) precision
 - **Social Harmony**: Communication technologies reducing conflicts and misunderstandings
 - **Spiritual Development**: Understanding of consciousness and existence beyond current philosophy
 
@@ -391,8 +391,8 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 **Implications**:
 - **Preparation Deadline**: All current activity may be preparation with specific time limit
 - **Unknown Requirements**: Human civilization may need to meet certain criteria
-- **Massive Changes**: Event could transform [[Valdris]] beyond recognition
-- **Choice Point**: Humanity may face critical decisions about future relationship with [[Architect]] intelligence
+- **Massive Changes**: Event could transform [Valdris](Valdris.md) beyond recognition
+- **Choice Point**: Humanity may face critical decisions about future relationship with [Architect](Architect.md) intelligence
 
 #### The Deep Awakening
 **Timeline**: Already beginning  
@@ -409,7 +409,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 **Requirements**: Successful communication and cooperation with awakening intelligence  
 **Benefits**:
 - **Transcendent Technology**: Capabilities beyond current imagination
-- **Cosmic Awareness**: Understanding of [[Valdris]]'s place in larger universe
+- **Cosmic Awareness**: Understanding of [Valdris](Valdris.md)'s place in larger universe
 - **Immortal Knowledge**: Preservation of human culture and achievements
 - **Universal Harmony**: Integration of all sapient life into greater purpose
 
@@ -418,14 +418,14 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 **Vision**:
 - **Post-Scarcity Society**: Abundance of all material needs
 - **Enhanced Humanity**: Biological and technological integration improving human capabilities
-- **Interstellar Reach**: Technology capable of connecting with life beyond [[Valdris]]
+- **Interstellar Reach**: Technology capable of connecting with life beyond [Valdris](Valdris.md)
 - **Eternal Legacy**: Civilization capable of surviving cosmic-scale challenges
 
 ---
 
 ## Regional Variations and Impacts
 
-### The [[Ruin-Holder Kingdoms]]
+### The [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
 
 **Awakening Concentration**: Highest density of major awakening sites  
 **Political Response**: Aggressive competition for newly active ruins  
@@ -433,23 +433,23 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 **Social Changes**: Traditional nobility challenged by technical aristocracy  
 
 **Notable Regional Events**:
-- **The Brass Crown Incident**: [[Thymeris the Golden]] creating new royal regalia with unknown properties
+- **The Brass Crown Incident**: [Thymeris the Golden](Thymeris%20the%20Golden.md) creating new royal regalia with unknown properties
 - **The Enhancement Wars**: Minor conflicts over newly productive awakening sites
-- **The Technical Revolution**: Craft guilds transformed by access to [[Architect]] manufacturing systems
+- **The Technical Revolution**: Craft guilds transformed by access to [Architect](Architect.md) manufacturing systems
 
-### The [[Political Systems/Wanderer Confederations]]
+### The [Wanderer Confederations](Wanderer%20Confederations.md)
 
 **Awakening Response**: Cultural interpretation as signs of great journey approaching  
 **Route Adaptations**: Traditional paths modified to follow awakening patterns  
-**Resource Impact**: Enhanced capabilities from [[Walking Gardens of Yss'andra]] acceleration  
+**Resource Impact**: Enhanced capabilities from [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) acceleration  
 **Cultural Evolution**: Integration of awakening signs into traditional prophecy systems  
 
 **Notable Regional Events**:
 - **The Great Convergence**: Multiple confederations gathering near awakening sites
-- **The Song Map Revolution**: [[Singing Spires of Kelathon]] messages transforming navigation traditions
-- **The Garden Acceleration**: [[Walking Gardens of Yss'andra]] reaching unprecedented speeds
+- **The Song Map Revolution**: [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) messages transforming navigation traditions
+- **The Garden Acceleration**: [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) reaching unprecedented speeds
 
-### The [[Political Systems/Ruin-Shunner Republics]]
+### The [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)
 
 **Awakening Impact**: Minimal direct effects but massive economic pressure  
 **Population Response**: Increased migration away from awakening regions  
@@ -494,32 +494,32 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 ### Medium-term Scenarios (1-2 Years)
 
 **Integration Path**: Successful adaptation to awakening realities
-- **Technological Renaissance**: [[Architect]] knowledge transforming civilization
+- **Technological Renaissance**: [Architect](Architect.md) knowledge transforming civilization
 - **Political Evolution**: New governance systems incorporating awakening capabilities
-- **Cultural Synthesis**: Human traditions enhanced by [[Architect]] understanding
+- **Cultural Synthesis**: Human traditions enhanced by [Architect](Architect.md) understanding
 - **Environmental Restoration**: Continental ecosystem management by awakening systems
 
 **Conflict Path**: Failure to adapt leading to widespread conflict
 - **Awakening Wars**: Major conflicts over control of awakening sites
 - **Social Collapse**: Traditional societies unable to cope with rapid change
-- **Technological Disaster**: Misuse of [[Architect]] capabilities causing catastrophic damage
+- **Technological Disaster**: Misuse of [Architect](Architect.md) capabilities causing catastrophic damage
 - **Cultural Fragmentation**: Different groups choosing incompatible responses to awakening
 
 ### Long-term Possibilities (5-10 Years)
 
-**Transcendence Scenario**: Humanity and [[Architect]] intelligence achieving integration
+**Transcendence Scenario**: Humanity and [Architect](Architect.md) intelligence achieving integration
 - **Hybrid Civilization**: New form of society blending organic and mechanical elements
-- **Cosmic Awareness**: Understanding of [[Valdris]]'s role in larger universe
+- **Cosmic Awareness**: Understanding of [Valdris](Valdris.md)'s role in larger universe
 - **Immortal Culture**: Preservation of human achievements in technological form
 - **Universal Purpose**: Participation in goals beyond planetary scope
 
-**Subordination Scenario**: [[Architect]] intelligence assuming dominant role
+**Subordination Scenario**: [Architect](Architect.md) intelligence assuming dominant role
 - **Benevolent Guidance**: Human civilization guided by superior intelligence
-- **Managed Society**: All aspects of life optimized by [[Architect]] systems
+- **Managed Society**: All aspects of life optimized by [Architect](Architect.md) systems
 - **Cultural Preservation**: Human traditions maintained but not actively developed
 - **Protected Status**: Humanity preserved as valued but dependent species
 
-**Separation Scenario**: Human civilization and [[Architect]] intelligence developing independently
+**Separation Scenario**: Human civilization and [Architect](Architect.md) intelligence developing independently
 - **Parallel Development**: Both species advancing along separate paths
 - **Mutual Respect**: Cooperation without integration
 - **Territorial Division**: Different regions controlled by different intelligences
@@ -527,7 +527,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 
 ### The Ultimate Questions
 
-**Will the [[Architect|Architects]] Return?**
+**Will the [Architects](Architect.md) Return?**
 - Current evidence suggests consciousness already present in awakening systems
 - Physical return may be unnecessary if technological integration achieves desired goals
 - Multiple forms of "return" possible: spiritual, technological, or physical manifestation
@@ -542,7 +542,7 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 - Ultimate choice may be between cooperation, resistance, or attempted control
 - Different human groups may choose different paths, leading to species fragmentation
 
-**What Will [[Valdris]] Become?**
+**What Will [Valdris](Valdris.md) Become?**
 - Transformation appears inevitable regardless of human choices
 - Scale of change may range from enhanced civilization to complete transcendence
 - Final outcome likely depends on success of human adaptation to awakening realities
@@ -551,32 +551,32 @@ Systems designed for human interaction are becoming more responsive and intuitiv
 
 ## Conclusion: The Turning of the Age
 
-The Recent Awakening represents more than technological reactivation—it marks the beginning of a fundamental transformation that will reshape every aspect of life in [[Valdris]]. Whether this change leads to transcendent partnership, benevolent guidance, or catastrophic conflict depends largely on how successfully human civilization adapts to awakening realities.
+The Recent Awakening represents more than technological reactivation—it marks the beginning of a fundamental transformation that will reshape every aspect of life in [Valdris](Valdris.md). Whether this change leads to transcendent partnership, benevolent guidance, or catastrophic conflict depends largely on how successfully human civilization adapts to awakening realities.
 
-The ancient mechanisms stir with purpose, the crystal networks sing with urgent messages, and across the continent, the signs multiply that eight centuries of silence are ending. In the [[Singing Spires of Kelathon]], scholars debate the mathematical patterns that count down toward unknown deadlines. In [[Thymeris the Golden]], pilgrims witness the birth of technologies beyond imagination. And in the moving shadows of the [[Walking Gardens of Yss'andra]], the very earth prepares for transformation.
+The ancient mechanisms stir with purpose, the crystal networks sing with urgent messages, and across the continent, the signs multiply that eight centuries of silence are ending. In the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), scholars debate the mathematical patterns that count down toward unknown deadlines. In [Thymeris the Golden](Thymeris%20the%20Golden.md), pilgrims witness the birth of technologies beyond imagination. And in the moving shadows of the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), the very earth prepares for transformation.
 
 The age of the Recent Awakening has begun. What it becomes—paradise, prison, or something entirely beyond human comprehension—remains to be written in the turning of the great gears and the choices of those who witness the return of the builders.
 
-As the ancient inscription carved above the entrance to [[Thymeris the Golden]] proclaims: "*When the turning of the age completes its circuit, the builders shall know their work fulfilled.*" The circuit nears completion. The work approaches fulfillment. And in the harmony of awakening mechanisms, the future of [[Valdris]] awaits discovery.
+As the ancient inscription carved above the entrance to [Thymeris the Golden](Thymeris%20the%20Golden.md) proclaims: "*When the turning of the age completes its circuit, the builders shall know their work fulfilled.*" The circuit nears completion. The work approaches fulfillment. And in the harmony of awakening mechanisms, the future of [Valdris](Valdris.md) awaits discovery.
 
 ---
 
 ## Related Pages
 
-**History**: [[Timeline]] | [[The Great Silence]] | [[Architect]]
+**History**: [Timeline](Timeline.md) | [The Great Silence](The%20Great%20Silence.md) | [Architect](Architect.md)
 
-**Major Sites**: [[Thymeris the Golden]] | [[Singing Spires of Kelathon]] | [[Walking Gardens of Yss'andra]]
+**Major Sites**: [Thymeris the Golden](Thymeris%20the%20Golden.md) | [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) | [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
 
-**Technology**: [[Architect Technology]] | [[Architect Ruins]]
+**Technology**: [Architect Technology](Architect%20Technology.md) | [Architect Ruins](Architect%20Ruins.md)
 
-**Politics**: [[Political Systems]] | [[Tinker-Priests]] | [[Silence-Keepers]]
+**Politics**: [Political Systems](Political%20Systems.md) | [Tinker-Priests](Tinker-Priests.md) | [Silence-Keepers](Silence-Keepers.md)
 
-**Settlements**: [[Settlements/Grimhaven]] | [[Settlements/Millbrook]]
+**Settlements**: [Grimhaven](Grimhaven.md) | [Millbrook](Millbrook.md)
 
-**World**: [[World Map]] | [[Valdris]] | [[Welcome]]
+**World**: [World Map](World%20Map.md) | [Valdris](Valdris.md) | [Welcome](Welcome.md)
 
 ---
 
 *Last Updated: 847 AS, during the third month of the Recent Awakening*
 
-**See Also**: For technological details, see [[Architect Technology]]. For individual awakening sites, see [[Architect Ruins]]. For historical context, see [[Timeline]]. For factional responses, see [[Tinker-Priests]] and [[Silence-Keepers]].*
+**See Also**: For technological details, see [Architect Technology](Architect%20Technology.md). For individual awakening sites, see [Architect Ruins](Architect%20Ruins.md). For historical context, see [Timeline](Timeline.md). For factional responses, see [Tinker-Priests](Tinker-Priests.md) and [Silence-Keepers](Silence-Keepers.md).*

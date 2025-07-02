@@ -68,10 +68,10 @@ A folk orchestral instrumental celebrating the honest rhythms of traditional cra
 ---
 
 ## Campaign Usage
-- Background for [[Ruin-Shunner Republics]] scenes
+- Background for [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) scenes
 - Atmosphere during craft and building activities
-- Perfect for [[Settlements]] like [[Millbrook]]
+- Perfect for [Settlements](Settlements.md) like [Millbrook](Millbrook.md)
 - Market and workshop background music
 - Character themes for artisans and farmers
 - Community gathering and festival scenes
-- Links to [[Political Systems/Ruin-Shunner Republics]]
+- Links to [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)

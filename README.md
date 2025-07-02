@@ -38,7 +38,7 @@ Whether you're looking for a complete campaign world, inspiration for your own s
    - Select the Valdris directory
 
 3. **Explore the World**
-   - Start with the [[Welcome]] page
+   - Start with the [Welcome](Welcome.md) page
    - Browse locations, NPCs, and lore through linked notes
    - Use Obsidian's graph view to visualize connections
 
@@ -66,7 +66,7 @@ Valdris is a continent where ancient mysteries and modern ambitions collide, whe
 ## 🛠️ How to Use with Obsidian
 
 ### Navigation
-- **Wiki-style links**: Click [[bracketed text]] to navigate between related content
+- **Wiki-style links**: Click [bracketed text](bracketed%20text.md) to navigate between related content
 - **Tags**: Use #location, #npc, #quest, etc. to find related content
 - **Graph View**: Visualize connections between people, places, and events
 - **Search**: Ctrl/Cmd + Shift + F to search across all content
@@ -105,7 +105,7 @@ We believe the best worlds are built together! Whether you're adding a tavern, d
 5. **Add appropriate tags and links**
 6. **Submit a Pull Request** with a clear description
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md.md) for detailed guidelines.
 
 ## 📜 License
 

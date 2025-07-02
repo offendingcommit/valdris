@@ -7,11 +7,11 @@
 
 ## Overview of Known Architect Devices
 
-The [[Architects]]' technological legacy permeates every aspect of [[Valdris|Valdris]] life, from the grandest ruins to the humblest farming tool. After eight centuries of study since the [[Great Silence]], scholars have catalogued thousands of devices, though understanding remains fragmentary at best. What we call "technology" may be something far more profound—a fusion of mechanism, consciousness, and principles that transcend our understanding of physics.
+The [Architects](Architects.md)' technological legacy permeates every aspect of [Valdris](Valdris.md) life, from the grandest ruins to the humblest farming tool. After eight centuries of study since the [Great Silence](Great%20Silence.md), scholars have catalogued thousands of devices, though understanding remains fragmentary at best. What we call "technology" may be something far more profound—a fusion of mechanism, consciousness, and principles that transcend our understanding of physics.
 
 ### Classification Systems
 
-The [[Tinker-Priests]] employ a five-tier classification for [[Architect Ruins|Architect]] devices:
+The [Tinker-Priests](Tinker-Priests.md) employ a five-tier classification for [Architect](Architect%20Ruins.md) devices:
 
 **Tier I - Passive Mechanisms**: Simple devices requiring no activation
 - Self-maintaining materials (never-rust alloys, eternal lubricants)
@@ -19,7 +19,7 @@ The [[Tinker-Priests]] employ a five-tier classification for [[Architect Ruins|A
 - Acoustic amplifiers and dampeners
 
 **Tier II - Responsive Systems**: React to environmental stimuli
-- [[Millbrook]]'s Harvest Guardian (seasonal awareness)
+- [Millbrook](Millbrook.md)'s Harvest Guardian (seasonal awareness)
 - Automatic doors and bridges
 - Light sources that adjust to ambient conditions
 
@@ -29,12 +29,12 @@ The [[Tinker-Priests]] employ a five-tier classification for [[Architect Ruins|A
 - Communication arrays between ruins
 
 **Tier IV - Autonomous Entities**: Self-directed systems with apparent intelligence
-- [[Thymeris the Golden]]'s Bridge Configuration system
-- [[Walking Gardens of Yss'andra]]'s navigation intelligence
+- [Thymeris the Golden](Thymeris%20the%20Golden.md)'s Bridge Configuration system
+- [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)'s navigation intelligence
 - Repair constructs that maintain ruins
 
 **Tier V - Transcendent Mechanisms**: Defy conventional understanding
-- The [[Great Silence]] itself (theorized as technology)
+- The [Great Silence](Great%20Silence.md) itself (theorized as technology)
 - Consciousness transfer devices (theoretical)
 - Reality-altering harmonics
 
@@ -42,7 +42,7 @@ The [[Tinker-Priests]] employ a five-tier classification for [[Architect Ruins|A
 
 ### Harmonic Crystals
 
-The most ubiquitous [[Architect Ruins|Architect]] artifacts, these crystalline structures appear in every major ruin and countless minor sites. They range from thumbnail-sized resonators to tower-sized arrays like those in the [[Singing Spires of Kelathon]].
+The most ubiquitous [Architect](Architect%20Ruins.md) artifacts, these crystalline structures appear in every major ruin and countless minor sites. They range from thumbnail-sized resonators to tower-sized arrays like those in the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md).
 
 **Common Properties**:
 - Store and transmit various forms of energy
@@ -54,39 +54,39 @@ The most ubiquitous [[Architect Ruins|Architect]] artifacts, these crystalline s
 **Known Applications**:
 - Communication between distant ruins
 - Power sources for larger mechanisms
-- Healing accelerators (rare, mostly in [[Thymeris the Golden]])
+- Healing accelerators (rare, mostly in [Thymeris the Golden](Thymeris%20the%20Golden.md))
 - Navigation aids for ships and caravans
 - Weather prediction and modification (theoretical)
 
 ### Clockwork Mechanisms
 
-The [[Architects]] elevated mechanical engineering to an art form, creating clockwork so precise it continues functioning after eight centuries. These mechanisms appear to violate several principles of physics, maintaining motion without apparent power sources.
+The [Architects](Architects.md) elevated mechanical engineering to an art form, creating clockwork so precise it continues functioning after eight centuries. These mechanisms appear to violate several principles of physics, maintaining motion without apparent power sources.
 
 **Notable Examples**:
-- The Great Gears of [[Thymeris the Golden]]
-- [[Millbrook]]'s Harvest Guardian internal mechanisms
+- The Great Gears of [Thymeris the Golden](Thymeris%20the%20Golden.md)
+- [Millbrook](Millbrook.md)'s Harvest Guardian internal mechanisms
 - Pocket chronometers that track multiple time streams
 - Self-winding automatons found in sealed chambers
 - The Continental Clock (theoretical mega-structure)
 
 ### Living Metal
 
-Perhaps the most disturbing [[Architect Ruins|Architect]] innovation, living metal blurs the line between mechanism and organism. This material can:
+Perhaps the most disturbing [Architect](Architect%20Ruins.md) innovation, living metal blurs the line between mechanism and organism. This material can:
 - Self-repair minor damage
 - Adapt to environmental conditions
 - Respond to mental commands (rare specimens)
 - Form temporary structures when activated
 - "Remember" previous configurations
 
-[[Tinker-Priests]] theorize that living metal represents the [[Architects]]' attempt to merge consciousness with matter itself.
+[Tinker-Priests](Tinker-Priests.md) theorize that living metal represents the [Architects](Architects.md)' attempt to merge consciousness with matter itself.
 
 ## Clockwork and Mechanical Principles
 
 ### The Doctrine of Perfect Motion
 
-[[Architect Ruins|Architect]] clockwork operates on principles that confound modern engineers. Their mechanisms exhibit:
+[Architect](Architect%20Ruins.md) clockwork operates on principles that confound modern engineers. Their mechanisms exhibit:
 
-**Perpetual Motion**: Gears turn without apparent power sources, violating thermodynamic laws. [[Tinker-Priests]] propose several theories:
+**Perpetual Motion**: Gears turn without apparent power sources, violating thermodynamic laws. [Tinker-Priests](Tinker-Priests.md) propose several theories:
 - Micro-harmonic energy absorption from environment
 - Temporal loops creating energy from nothing
 - Connection to extra-dimensional power sources
@@ -98,7 +98,7 @@ Perhaps the most disturbing [[Architect Ruins|Architect]] innovation, living met
 
 ### Sacred Geometries
 
-[[Architect Ruins|Architect]] mechanical designs follow consistent geometric patterns:
+[Architect](Architect%20Ruins.md) mechanical designs follow consistent geometric patterns:
 - **The Heptagon**: Seven-sided configurations appear in major installations
 - **The Golden Spiral**: Gear ratios following this proportion demonstrate unusual properties
 - **Crystalline Lattices**: Mechanical structures mirroring crystal growth patterns
@@ -108,7 +108,7 @@ Perhaps the most disturbing [[Architect Ruins|Architect]] innovation, living met
 
 ### The Language of Vibration
 
-[[Architect Ruins|Architect]] technology speaks through harmonic resonance. Every crystal, every gear, every structure vibrates at specific frequencies that interconnect in vast symphonies of mechanical communication.
+[Architect](Architect%20Ruins.md) technology speaks through harmonic resonance. Every crystal, every gear, every structure vibrates at specific frequencies that interconnect in vast symphonies of mechanical communication.
 
 **Primary Resonance Types**:
 1. **Carrier Waves**: Base frequencies that transmit information
@@ -119,7 +119,7 @@ Perhaps the most disturbing [[Architect Ruins|Architect]] innovation, living met
 
 ### Crystal Networks
 
-Major [[Architect Ruins|Architect]] sites form continental networks through harmonic crystal arrays. The [[Recent Awakening]] has revealed:
+Major [Architect](Architect%20Ruins.md) sites form continental networks through harmonic crystal arrays. The [Recent Awakening](Recent%20Awakening.md) has revealed:
 - Synchronization between distant ruins
 - Information sharing across the network
 - Coordinated responses to threats
@@ -129,7 +129,7 @@ Major [[Architect Ruins|Architect]] sites form continental networks through harm
 
 ### Agricultural Enhancement
 
-Rural communities like [[Millbrook]] demonstrate how [[Architect Ruins|Architect]] technology enhances traditional farming:
+Rural communities like [Millbrook](Millbrook.md) demonstrate how [Architect](Architect%20Ruins.md) technology enhances traditional farming:
 - Harvest Guardians monitor and protect crops
 - Harmonic frequencies promote plant growth
 - Weather modification arrays (limited range)
@@ -138,11 +138,11 @@ Rural communities like [[Millbrook]] demonstrate how [[Architect Ruins|Architect
 
 ### Maritime Applications
 
-[[Grimhaven]] exemplifies maritime integration:
-- The [[Architect Lighthouse]] provides eternal navigation
+[Grimhaven](Grimhaven.md) exemplifies maritime integration:
+- The [Architect Lighthouse](Architect%20Lighthouse.md) provides eternal navigation
 - Ship hulls reinforced with never-rust alloys
 - Harmonic compasses pointing to ruins rather than magnetic north
-- Deep-sea exploration using [[Architect Ruins|Architect]] diving bells
+- Deep-sea exploration using [Architect](Architect%20Ruins.md) diving bells
 - Storm prediction through crystal resonance
 
 ### Urban Infrastructure
@@ -174,7 +174,7 @@ Scattered reports describe devices that interface directly with consciousness:
 - Dream manifestation chambers
 - Soul-binding mechanisms (heavily restricted)
 
-The [[Tinker-Priests]] have declared such devices **Forbidden Technology**, punishable by exile or death to possess.
+The [Tinker-Priests](Tinker-Priests.md) have declared such devices **Forbidden Technology**, punishable by exile or death to possess.
 
 ### Reality Anchors
 
@@ -189,7 +189,7 @@ Most examples have been destroyed or sealed after catastrophic incidents.
 
 ### Weapon Systems
 
-The [[Architects]] created few obvious weapons, suggesting either peaceful intent or weapons so subtle we don't recognize them:
+The [Architects](Architects.md) created few obvious weapons, suggesting either peaceful intent or weapons so subtle we don't recognize them:
 - Harmonic disruptors (disintegrate matter)
 - Consciousness scramblers
 - Automated defense constructs
@@ -200,12 +200,12 @@ The [[Architects]] created few obvious weapons, suggesting either peaceful inten
 
 ### Technological Renaissance
 
-The [[Recent Awakening]] three months ago has dramatically altered [[Architect Ruins|Architect]] technology across [[Valdris]]:
+The [Recent Awakening](Recent%20Awakening.md) three months ago has dramatically altered [Architect](Architect%20Ruins.md) technology across [Valdris](Valdris.md):
 
 **Reactivation Cascade**: Dormant systems coming online in sequence
-- [[Thymeris the Golden]] fully awakened after centuries
-- [[Walking Gardens of Yss'andra]] accelerating movement
-- [[Singing Spires of Kelathon]] exhibiting new harmonic patterns
+- [Thymeris the Golden](Thymeris%20the%20Golden.md) fully awakened after centuries
+- [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) accelerating movement
+- [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) exhibiting new harmonic patterns
 - Minor ruins showing unprecedented activity
 
 **Enhanced Responsiveness**: Existing technology becoming more active
@@ -222,8 +222,8 @@ The [[Recent Awakening]] three months ago has dramatically altered [[Architect R
 
 ### The Acceleration Theory
 
-[[Tinker-Priests]] and scholars debate the meaning of these changes:
-- Preparation for the [[Architects]]' return
+[Tinker-Priests](Tinker-Priests.md) and scholars debate the meaning of these changes:
+- Preparation for the [Architects](Architects.md)' return
 - Automated response to unknown trigger
 - Countdown to catastrophic event
 - Evolution of technology toward consciousness
@@ -231,16 +231,16 @@ The [[Recent Awakening]] three months ago has dramatically altered [[Architect R
 
 ## Regional Variations in Technology Use
 
-### [[Ruin-Holder Kingdoms]]
+### [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
 
 These monarchies have mastered practical applications:
 - Crown-Gears granting authority over ruins
-- Brass Legions equipped with [[Architect Ruins|Architect]] weapons
+- Brass Legions equipped with [Architect](Architect%20Ruins.md) weapons
 - Palace complexes integrated with ancient systems
 - Artifact monopolies driving economics
 - Ceremonial technology reinforcing divine right
 
-### [[Wanderer Confederations]]
+### [Wanderer Confederations](Wanderer%20Confederations.md)
 
 Nomadic groups approach technology differently:
 - Portable artifacts for navigation
@@ -249,9 +249,9 @@ Nomadic groups approach technology differently:
 - Oral traditions encoding activation sequences
 - Spiritual relationship with mechanisms
 
-### [[Ruin-Shunner Communities]]
+### [Ruin-Shunner Communities](Ruin-Shunner%20Communities.md)
 
-These isolationists demonstrate it's possible to thrive without [[Architect Ruins|Architect]] technology:
+These isolationists demonstrate it's possible to thrive without [Architect](Architect%20Ruins.md) technology:
 - Traditional crafts replacing artifacts
 - Natural alternatives to harmonic enhancement
 - Warning systems for technology detection
@@ -266,7 +266,7 @@ Despite centuries of study, fundamental questions remain:
 - **Power Source**: What fuels perpetual motion?
 - **Consciousness**: Are the ruins truly aware?
 - **Purpose**: Why build such elaborate systems?
-- **Departure**: Why did the [[Architects]] vanish?
+- **Departure**: Why did the [Architects](Architects.md) vanish?
 - **Return**: Will they come back?
 
 ### Schools of Thought
@@ -283,7 +283,7 @@ Despite centuries of study, fundamental questions remain:
 - Map continental energy flows
 - Pursue consciousness-machine merger
 
-**Catastrophists**: Technology precipitated the [[Architects]]' doom
+**Catastrophists**: Technology precipitated the [Architects](Architects.md)' doom
 - Warn against full activation
 - Document danger signs
 - Advocate for limited use
@@ -299,7 +299,7 @@ Despite centuries of study, fundamental questions remain:
 
 ### The Great Silence
 
-The simultaneous disappearance of all [[Architects]] 847 years ago may itself be technological:
+The simultaneous disappearance of all [Architects](Architects.md) 847 years ago may itself be technological:
 - Activation of continental-scale device
 - Mass consciousness transfer
 - Temporal displacement event
@@ -315,14 +315,14 @@ Many ruins show evidence of removed components:
 - Powered systems with no visible source
 - Control rooms stripped of interfaces
 
-Who removed these components? The [[Architects]] themselves? Early explorers? Or something else?
+Who removed these components? The [Architects](Architects.md) themselves? Early explorers? Or something else?
 
 ### The Sleeping Systems
 
 Vast mechanisms lie dormant beneath major ruins:
-- [[Thymeris the Golden]]'s sealed lower levels
-- The Undersongs beneath [[Singing Spires of Kelathon]]
-- [[Walking Gardens of Yss'andra]]'s root networks
+- [Thymeris the Golden](Thymeris%20the%20Golden.md)'s sealed lower levels
+- The Undersongs beneath [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
+- [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)'s root networks
 - Deep structures detected by harmonic scanning
 - Continental connections awaiting activation
 
@@ -330,27 +330,27 @@ Vast mechanisms lie dormant beneath major ruins:
 
 Why create such elaborate technology? Competing theories:
 - Preparation for cosmic event
-- Terraforming [[Valdris]] for unknown purpose
+- Terraforming [Valdris](Valdris.md) for unknown purpose
 - Grand experiment in consciousness evolution
 - Defensive network against external threat
 - Art for its own sake by post-scarcity civilization
 
 ### The Human Interface
 
-Growing evidence suggests [[Architect Ruins|Architect]] technology was designed for human use:
+Growing evidence suggests [Architect](Architect%20Ruins.md) technology was designed for human use:
 - Control interfaces at human height
 - Harmonic frequencies within human hearing
 - Mental interfaces compatible with human consciousness
 - Medical systems treating human conditions
 - Environmental controls maintaining human-friendly conditions
 
-Were we created by the [[Architects]]? Did they modify themselves to become us? Or is this convergent evolution?
+Were we created by the [Architects](Architects.md)? Did they modify themselves to become us? Or is this convergent evolution?
 
 ---
 
 ## Conclusion
 
-[[Architect Ruins|Architect]] technology remains [[Valdris]]'s greatest mystery and most potent force for change. As the [[Recent Awakening]] accelerates technological activity across the continent, we stand at a crossroads. Will we master these ancient works, be mastered by them, or find a path of coexistence with forces beyond our comprehension?
+[Architect](Architect%20Ruins.md) technology remains [Valdris](Valdris.md)'s greatest mystery and most potent force for change. As the [Recent Awakening](Recent%20Awakening.md) accelerates technological activity across the continent, we stand at a crossroads. Will we master these ancient works, be mastered by them, or find a path of coexistence with forces beyond our comprehension?
 
 The gears turn, the crystals sing, and the ancient mechanisms stir with renewed purpose. Whether this heralds doom or transcendence, one truth remains: we live in the shadow of giants whose dreams became our reality, and whose legacy shapes our destiny.
 
@@ -358,8 +358,8 @@ The gears turn, the crystals sing, and the ancient mechanisms stir with renewed 
 
 ---
 
-*For specific ruins and their unique technologies, see: [[Thymeris the Golden]], [[Singing Spires of Kelathon]], [[Walking Gardens of Yss'andra]], [[Grimhaven]], [[Millbrook]]*
+*For specific ruins and their unique technologies, see: [Thymeris the Golden](Thymeris%20the%20Golden.md), [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), [Grimhaven](Grimhaven.md), [Millbrook](Millbrook.md)*
 
-*For political and social impacts, see: [[Ruin-Holder Kingdoms]], [[Wanderer Confederations]], [[Ruin-Shunner Communities]]*
+*For political and social impacts, see: [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), [Ruin-Shunner Communities](Ruin-Shunner%20Communities.md)*
 
-*For recent developments, see: [[Recent Awakening]], [[Timeline]]*
+*For recent developments, see: [Recent Awakening](Recent%20Awakening.md), [Timeline](Timeline.md)*

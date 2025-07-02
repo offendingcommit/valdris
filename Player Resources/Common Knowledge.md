@@ -4,7 +4,7 @@
 
 ## Overview
 
-This page contains the basic facts and common knowledge that any character from [[Valdris]] would know, regardless of their background, education, or social class. This information represents the shared cultural knowledge that binds the diverse peoples of the continent together.
+This page contains the basic facts and common knowledge that any character from [Valdris](Valdris.md) would know, regardless of their background, education, or social class. This information represents the shared cultural knowledge that binds the diverse peoples of the continent together.
 
 ---
 
@@ -12,9 +12,9 @@ This page contains the basic facts and common knowledge that any character from 
 
 ### The Great Silence (Year 0 AS)
 
-Every person in [[Valdris]] knows the fundamental story of [[The Great Silence]]:
+Every person in [Valdris](Valdris.md) knows the fundamental story of [The Great Silence](The%20Great%20Silence.md):
 
-- **847 years ago**, the [[Architect|Architects]] vanished simultaneously across the entire continent
+- **847 years ago**, the [Architects](Architect.md) vanished simultaneously across the entire continent
 - **Everything stopped at once** - meals half-eaten, projects abandoned mid-construction, no warning or preparation
 - **All major ruins went dormant**, sealing themselves away from human access
 - **This event marks Year 0 AS** (After Silence), and we now live in the year 847 AS
@@ -23,11 +23,11 @@ The Silence is the defining moment of history. Every culture, religion, and poli
 
 ### The Recent Awakening (3 Months Ago)
 
-Everyone in [[Valdris]] has heard about or witnessed the recent changes:
+Everyone in [Valdris](Valdris.md) has heard about or witnessed the recent changes:
 
-- **[[Thymeris the Golden]] blazes with amber light** visible for dozens of miles
-- **The [[Singing Spires of Kelathon]] sing new songs** that carry across valleys
-- **[[Walking Gardens of Yss'andra]] move faster** than they have in centuries
+- **[Thymeris the Golden](Thymeris%20the%20Golden.md) blazes with amber light** visible for dozens of miles
+- **The [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) sing new songs** that carry across valleys
+- **[Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) move faster** than they have in centuries
 - **Small clockwork creatures** have been seen emerging from ruins
 - **Local ruins hum and glow** where they've been silent for lifetimes
 
@@ -37,16 +37,16 @@ These events are the talk of every tavern, market, and gathering place. Even rem
 
 ## The Three Ways of Life
 
-Every person in [[Valdris]] understands there are three different approaches to dealing with the [[Architect|Architect]] legacy:
+Every person in [Valdris](Valdris.md) understands there are three different approaches to dealing with the [Architect](Architect.md) legacy:
 
 ### Ruin-Holders
 *"The ruins are our inheritance"*
 
-- **Kingdoms built around major [[Architect Ruins]]**
+- **Kingdoms built around major [Architect Ruins](Architect%20Ruins.md)**
 - **Rulers derive power from controlling ancient technology**
 - **Believe humans are the rightful inheritors** of Architect works
 - **Common folk benefit from** enhanced agriculture, eternal lighthouses, weather protection
-- **Examples**: The realm around [[Thymeris the Golden]], territories near major ruins
+- **Examples**: The realm around [Thymeris the Golden](Thymeris%20the%20Golden.md), territories near major ruins
 
 ### Ruin-Shunners  
 *"Independence through our own hands"*
@@ -55,7 +55,7 @@ Every person in [[Valdris]] understands there are three different approaches to 
 - **Value self-reliance and traditional craftsmanship**
 - **Fear dependence on things they don't understand**
 - **Build impressive works through purely human skill**
-- **Examples**: [[Stonehaven]] and other Quiet Lands settlements
+- **Examples**: [Stonehaven](Stonehaven.md) and other Quiet Lands settlements
 
 ### Wanderers
 *"Follow the signs and read the patterns"*
@@ -64,7 +64,7 @@ Every person in [[Valdris]] understands there are three different approaches to 
 - **See themselves as guardians and interpreters** of Architect works
 - **Follow traditional routes connecting ruins**
 - **Expert traders and lore-keepers**
-- **Examples**: The communities that follow the [[Walking Gardens of Yss'andra]]
+- **Examples**: The communities that follow the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
 
 ---
 
@@ -79,7 +79,7 @@ Every person in [[Valdris]] understands there are three different approaches to 
 - **Safer seas** guided by eternal lighthouse beacons
 
 **Common Artifacts**: Small items most people have encountered:
-- **[[Architect Technology|Harmonic crystals]]** for preserving food or amplifying sound
+- **[Harmonic crystals](Architect%20Technology.md)** for preserving food or amplifying sound
 - **Ever-burning torches** that never consume fuel
 - **Self-sharpening tools** that maintain their edges
 - **Water purifiers** that ensure clean drinking water
@@ -120,14 +120,14 @@ Despite Architect wonders, daily life remains fundamentally medieval:
 ### Common Superstitions
 
 **Good Luck**: 
-- Finding a [[Architect Technology|harmonic crystal]] that resonates to your touch
-- Hearing the [[Singing Spires of Kelathon|Spires]] on a clear night
-- Seeing the [[Walking Gardens of Yss'andra|Gardens]] in the distance
+- Finding a [harmonic crystal](Architect%20Technology.md) that resonates to your touch
+- Hearing the [Spires](Singing%20Spires%20of%20Kelathon.md) on a clear night
+- Seeing the [Gardens](Walking%20Gardens%20of%20Yss%27andra.md) in the distance
 
 **Bad Luck**:
 - Disturbing sealed chambers in ruins
 - Trying to force your way into dormant technology
-- Ignoring the warnings of [[Silence-Keepers]]
+- Ignoring the warnings of [Silence-Keepers](Silence-Keepers.md)
 
 **Protective Traditions**:
 - Leaving small offerings at minor ruins
@@ -141,9 +141,9 @@ Despite Architect wonders, daily life remains fundamentally medieval:
 ### Shared Music and Stories
 
 **Songs Everyone Knows**:
-- **"[[When the Music Stopped]]"** - The ballad of the Great Silence
-- **"[[Seven Spires Singing]]"** - Children's counting song about the [[Singing Spires of Kelathon|Spires]]
-- **"[[The Endless Road]]"** - Traditional Wanderer traveling song
+- **"[When the Music Stopped](When%20the%20Music%20Stopped.md)"** - The ballad of the Great Silence
+- **"[Seven Spires Singing](Seven%20Spires%20Singing.md)"** - Children's counting song about the [Spires](Singing%20Spires%20of%20Kelathon.md)
+- **"[The Endless Road](The%20Endless%20Road.md)"** - Traditional Wanderer traveling song
 
 **Common Tales**:
 - **The Last Architect** - Stories about the final moments before the Silence
@@ -188,12 +188,12 @@ Despite Architect wonders, daily life remains fundamentally medieval:
 
 ### Regional Variations
 
-**Northern Reaches**: Close to the [[Walking Gardens of Yss'andra]]
+**Northern Reaches**: Close to the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
 - More integrated with Architect agriculture
 - Expertise in interpreting garden movement patterns
 - Seasonal festivals following garden migrations
 
-**Eastern Kingdoms**: Near [[Thymeris the Golden]]
+**Eastern Kingdoms**: Near [Thymeris the Golden](Thymeris%20the%20Golden.md)
 - Strong Ruin-Holder influence and Architect integration
 - Advanced knowledge of mechanical systems
 - Formal education in Architect studies
@@ -203,7 +203,7 @@ Despite Architect wonders, daily life remains fundamentally medieval:
 - Skill in creating alternatives to Architect technology
 - Democratic traditions and community decision-making
 
-**Coastal Regions**: Influenced by the [[Settlements/Grimhaven|Grimhaven]] Lighthouse
+**Coastal Regions**: Influenced by the [Grimhaven](Settlements/Grimhaven.md) Lighthouse
 - Maritime culture with Architect navigation aids
 - Trade connections across the seas
 - Mixed populations from various political systems
@@ -255,7 +255,7 @@ Despite Architect wonders, daily life remains fundamentally medieval:
 
 ### The Common Tongue
 
-**Universal Language**: Nearly everyone in [[Valdris]] speaks the Common Tongue
+**Universal Language**: Nearly everyone in [Valdris](Valdris.md) speaks the Common Tongue
 - Evolved from pre-Silence trade languages
 - Contains many loan words from ancient Architect terminology
 - Serves as the standard for commerce, diplomacy, and learning
@@ -296,16 +296,16 @@ Despite Architect wonders, daily life remains fundamentally medieval:
 
 ## Connections
 
-**For specific regional knowledge**: See individual settlement pages like [[Stonehaven]], [[Kelathon]], [[Grimhaven]], and [[Millbrook]]
+**For specific regional knowledge**: See individual settlement pages like [Stonehaven](Stonehaven.md), [Kelathon](Kelathon.md), [Grimhaven](Grimhaven.md), and [Millbrook](Millbrook.md)
 
-**For factional perspectives**: See [[Tinker-Priests]], [[Silence-Keepers]], and [[Political Systems]]
+**For factional perspectives**: See [Tinker-Priests](Tinker-Priests.md), [Silence-Keepers](Silence-Keepers.md), and [Political Systems](Political%20Systems.md)
 
-**For technological details**: See [[Architect Technology]] and [[Architect Ruins]]
+**For technological details**: See [Architect Technology](Architect%20Technology.md) and [Architect Ruins](Architect%20Ruins.md)
 
-**For historical context**: See [[Timeline]], [[The Great Silence]], and [[Recent Awakening]]
+**For historical context**: See [Timeline](Timeline.md), [The Great Silence](The%20Great%20Silence.md), and [Recent Awakening](Recent%20Awakening.md)
 
 ---
 
-*This knowledge forms the foundation that every character from [[Valdris]] carries with them, regardless of their specific background or chosen path through the changing world.*
+*This knowledge forms the foundation that every character from [Valdris](Valdris.md) carries with them, regardless of their specific background or chosen path through the changing world.*
 
 #player-safe #common-knowledge #foundational-lore #character-creation

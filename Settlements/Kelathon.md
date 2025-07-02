@@ -4,19 +4,19 @@
 
 ## Overview
 
-Kelathon stands as one of the most haunting settlements in all of [[Valdris]], a city of 3,200 souls built in the resonant embrace of the [[Singing Spires of Kelathon]]. Unlike other communities that maintain cautious distance from [[Architect Ruins]], Kelathon has grown up around and within the acoustic field of the seven crystal towers, creating a unique civilization adapted to life amid otherworldly music.
+Kelathon stands as one of the most haunting settlements in all of [Valdris](Valdris.md), a city of 3,200 souls built in the resonant embrace of the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md). Unlike other communities that maintain cautious distance from [Architect Ruins](Architect%20Ruins.md), Kelathon has grown up around and within the acoustic field of the seven crystal towers, creating a unique civilization adapted to life amid otherworldly music.
 
-The settlement exists in a delicate harmony with forces beyond human understanding. Its people have learned to read the spires' moods, predict their songs, and even find beauty in the psychological effects that drive visitors mad. Since the [[Recent Awakening]] began five years ago, the spires' increased activity has transformed Kelathon from a quiet research outpost into a bustling center of acoustic study, musical pilgrimage, and dangerous tourism.
+The settlement exists in a delicate harmony with forces beyond human understanding. Its people have learned to read the spires' moods, predict their songs, and even find beauty in the psychological effects that drive visitors mad. Since the [Recent Awakening](Recent%20Awakening.md) began five years ago, the spires' increased activity has transformed Kelathon from a quiet research outpost into a bustling center of acoustic study, musical pilgrimage, and dangerous tourism.
 
-Built across the terraced slopes of the [[Singing Hills]], Kelathon's architecture reflects both practical necessity and artistic inspiration drawn from centuries of exposure to impossible harmonies. The city serves as a crucial nexus where multiple political powers compete for access to the spires, where scholars from across the continent pursue acoustic mysteries, and where artists seek transcendent inspiration—often at the cost of their sanity.
+Built across the terraced slopes of the [Singing Hills](Singing%20Hills.md), Kelathon's architecture reflects both practical necessity and artistic inspiration drawn from centuries of exposure to impossible harmonies. The city serves as a crucial nexus where multiple political powers compete for access to the spires, where scholars from across the continent pursue acoustic mysteries, and where artists seek transcendent inspiration—often at the cost of their sanity.
 
 ## Physical Description
 
 ### The Resonance Ward
 
-The heart of Kelathon surrounds the [[Singing Spires of Kelathon]] themselves, built on carefully engineered platforms that respect the acoustic properties of the ancient towers. This district is restricted to authorized researchers, [[Tinker-Priests]], and specially trained guides. Buildings here are constructed from sound-dampening stone and feature thick walls designed to provide acoustic shelter during the most intense performances.
+The heart of Kelathon surrounds the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) themselves, built on carefully engineered platforms that respect the acoustic properties of the ancient towers. This district is restricted to authorized researchers, [Tinker-Priests](Tinker-Priests.md), and specially trained guides. Buildings here are constructed from sound-dampening stone and feature thick walls designed to provide acoustic shelter during the most intense performances.
 
-The **Melodic Monastery** dominates this ward—a fortress-like structure built by the [[Silence-Keepers]] to house their observers and protect researchers from the spires' more dangerous effects. Its distinctive spiral towers echo the geometry of the ancient ruins while providing essential refuge when the crystal towers sing their most overwhelming compositions.
+The **Melodic Monastery** dominates this ward—a fortress-like structure built by the [Silence-Keepers](Silence-Keepers.md) to house their observers and protect researchers from the spires' more dangerous effects. Its distinctive spiral towers echo the geometry of the ancient ruins while providing essential refuge when the crystal towers sing their most overwhelming compositions.
 
 ### The Echo Quarter
 
@@ -38,17 +38,17 @@ This district includes numerous workshops where local artisans create musical in
 
 ### Surrounding Environment
 
-Kelathon sits within the crystalline landscape of the [[Singing Hills]], where the spires' influence has created unique geological and ecological conditions. The hills are dotted with smaller crystal formations that create an intricate network of acoustic resonance, carrying the spires' songs across vast distances while filtering and transforming them.
+Kelathon sits within the crystalline landscape of the [Singing Hills](Singing%20Hills.md), where the spires' influence has created unique geological and ecological conditions. The hills are dotted with smaller crystal formations that create an intricate network of acoustic resonance, carrying the spires' songs across vast distances while filtering and transforming them.
 
 The **Crystal Gardens** to the east feature mineral formations that grow in mathematical patterns mirroring the spires' harmonic structures. Local botanists cultivate plants that have adapted to the acoustic environment, including the famous "echo blooms" that open and close in response to specific musical frequencies.
 
-Transport to Kelathon follows carefully mapped routes designed to provide optimal acoustic experiences while avoiding the most dangerous zones. The **Melody Road** from [[Grimhaven]] offers safe passage but includes mandatory rest stops at acoustic shelters. The **Pilgrim's Path** from the south provides a more scenic but challenging approach through areas where the spires' songs are most intense.
+Transport to Kelathon follows carefully mapped routes designed to provide optimal acoustic experiences while avoiding the most dangerous zones. The **Melody Road** from [Grimhaven](Grimhaven.md) offers safe passage but includes mandatory rest stops at acoustic shelters. The **Pilgrim's Path** from the south provides a more scenic but challenging approach through areas where the spires' songs are most intense.
 
 ## Culture and Society
 
 ### Social Structure
 
-Kelathon's society has evolved around the necessity of living with the [[Singing Spires of Kelathon]]'s psychological effects. The city's hierarchy reflects both practical needs and spiritual beliefs about the spires' significance:
+Kelathon's society has evolved around the necessity of living with the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)'s psychological effects. The city's hierarchy reflects both practical needs and spiritual beliefs about the spires' significance:
 
 **The Resonant Council** governs the city, consisting of representatives from major factions who have proven their ability to maintain psychological stability during extended spire exposure. Leadership requires not political power but demonstrated "acoustic clarity"—the rare ability to think rationally while experiencing the spires' songs.
 
@@ -82,7 +82,7 @@ Life in Kelathon revolves around the spires' unpredictable performance schedule.
 
 **Acoustic Research and Consultation**: Kelathon's primary economic engine revolves around the scientific and magical study of sound. The city hosts the world's leading experts in acoustic magic, harmonic theory, and crystal resonance. Research institutions pay substantial fees for access to the spires and the expertise of local scholars.
 
-**Musical Tourism and Pilgrimage**: Visitors from across [[Valdris]] come to experience the spires' otherworldly performances. The hospitality industry provides specialized services including acoustic guides, protective equipment rental, psychological counseling, and "song recovery" treatments for those overwhelmed by the experience.
+**Musical Tourism and Pilgrimage**: Visitors from across [Valdris](Valdris.md) come to experience the spires' otherworldly performances. The hospitality industry provides specialized services including acoustic guides, protective equipment rental, psychological counseling, and "song recovery" treatments for those overwhelmed by the experience.
 
 **Crystal Harvesting and Processing**: The hills around Kelathon contain valuable resonant crystals created by centuries of spire influence. These materials are essential for creating advanced musical instruments, acoustic enhancement devices, and magical focusing tools. Harvesting requires careful coordination with the spires' active periods.
 
@@ -96,7 +96,7 @@ Life in Kelathon revolves around the spires' unpredictable performance schedule.
 
 **Imports**: Food and raw materials (since local agriculture is limited by acoustic disruption), mundane manufactured goods, scholarly books and instruments, protective materials for construction, and medical supplies for treating spire-related psychological effects.
 
-**Major Trade Partners**: [[Grimhaven]] serves as the primary connection to broader [[Valdris]] trade networks. [[Millbrook]] provides agricultural products and textiles. The [[Political Systems/Wanderer Confederations]] maintain routes bringing exotic goods and foreign scholars seeking acoustic knowledge.
+**Major Trade Partners**: [Grimhaven](Grimhaven.md) serves as the primary connection to broader [Valdris](Valdris.md) trade networks. [Millbrook](Millbrook.md) provides agricultural products and textiles. The [Wanderer Confederations](Wanderer%20Confederations.md) maintain routes bringing exotic goods and foreign scholars seeking acoustic knowledge.
 
 ### Unique Resources
 
@@ -104,7 +104,7 @@ Life in Kelathon revolves around the spires' unpredictable performance schedule.
 
 **Interpretive Knowledge**: Generations of residents have developed unparalleled expertise in predicting, understanding, and safely experiencing the spires' performances. This knowledge cannot be easily replicated elsewhere and forms the foundation of Kelathon's economic value.
 
-**Psychological Resilience Training**: The city has developed unique therapeutic techniques for building resistance to harmful acoustic effects while preserving the ability to appreciate the spires' artistic value. These methods are increasingly valuable as other [[Architect Ruins]] become more active.
+**Psychological Resilience Training**: The city has developed unique therapeutic techniques for building resistance to harmful acoustic effects while preserving the ability to appreciate the spires' artistic value. These methods are increasingly valuable as other [Architect Ruins](Architect%20Ruins.md) become more active.
 
 ## Key Locations
 
@@ -112,7 +112,7 @@ Life in Kelathon revolves around the spires' unpredictable performance schedule.
 
 **Type**: Religious and Research Complex
 
-The imposing headquarters of the [[Silence-Keepers]] in Kelathon, built to withstand the most intense spire performances while allowing observation and study. The monastery features laboratories for acoustic analysis, meditation chambers for developing psychological resistance, and emergency treatment facilities for visitors suffering song madness. The building's unique architecture incorporates acoustic principles that allow researchers to study the spires while remaining protected from their most dangerous effects.
+The imposing headquarters of the [Silence-Keepers](Silence-Keepers.md) in Kelathon, built to withstand the most intense spire performances while allowing observation and study. The monastery features laboratories for acoustic analysis, meditation chambers for developing psychological resistance, and emergency treatment facilities for visitors suffering song madness. The building's unique architecture incorporates acoustic principles that allow researchers to study the spires while remaining protected from their most dangerous effects.
 
 ### The Harmony Plaza
 
@@ -130,7 +130,7 @@ The finest lodging in Kelathon, catering to wealthy scholars, noble tourists, an
 
 **Type**: Specialized Academic Institution
 
-Housing the world's most comprehensive collection of spire music analysis, this library contains thousands of attempts to transcribe, decode, and understand the spires' impossible harmonies. Scholars from across [[Valdris]] come here to study previous research and contribute their own theories. The building features specialized acoustic chambers where researchers can safely listen to recorded spire fragments.
+Housing the world's most comprehensive collection of spire music analysis, this library contains thousands of attempts to transcribe, decode, and understand the spires' impossible harmonies. Scholars from across [Valdris](Valdris.md) come here to study previous research and contribute their own theories. The building features specialized acoustic chambers where researchers can safely listen to recorded spire fragments.
 
 ### The Crystal Gardens
 
@@ -152,7 +152,7 @@ The primary marketplace for acoustic equipment, protective gear, and spire-relat
 
 The continent's leading expert on the linguistic aspects of the spires' songs, Lyra has spent thirty years documenting and analyzing the towers' musical patterns. Her work has identified hundreds of recurring "musical words" and basic grammatical structures within the compositions.
 
-**Motivation**: To prove that the spires' songs contain actual language and decode their messages before the [[Recent Awakening]] reaches its mysterious conclusion.
+**Motivation**: To prove that the spires' songs contain actual language and decode their messages before the [Recent Awakening](Recent%20Awakening.md) reaches its mysterious conclusion.
 
 **Secret**: She has begun to dream in the spires' musical language and fears she may be losing her human perspective, but the knowledge she's gaining is too valuable to abandon.
 
@@ -170,11 +170,11 @@ A skilled musician and trained psychologist who serves as Kelathon's chief guide
 
 *Dwarf, 156 years old, Leader of the Resonant Council*
 
-A former [[Tinker-Priests|Tinker-Priest]] who settled in Kelathon and eventually became the city's primary political leader. His experience with [[Architect Ruins]] gives him unique perspective on managing the relationship between ancient technology and modern society.
+A former [Tinker-Priest](Tinker-Priests.md) who settled in Kelathon and eventually became the city's primary political leader. His experience with [Architect Ruins](Architect%20Ruins.md) gives him unique perspective on managing the relationship between ancient technology and modern society.
 
 **Motivation**: To maintain Kelathon's independence and protect its residents from the political forces seeking to exploit the spires for their own ends.
 
-**Secret**: He has discovered evidence that the spires' recent changes are part of a larger pattern affecting all [[Architect Ruins]], but sharing this knowledge could trigger continental conflicts over the ancient sites.
+**Secret**: He has discovered evidence that the spires' recent changes are part of a larger pattern affecting all [Architect Ruins](Architect%20Ruins.md), but sharing this knowledge could trigger continental conflicts over the ancient sites.
 
 ### Dr. Marcus Goldensong
 
@@ -190,7 +190,7 @@ A brilliant but controversial scholar who runs a private research company studyi
 
 *Human, 28 years old, Healer and Counselor*
 
-A member of the [[Silence-Keepers]] who specializes in treating visitors suffering from spire-induced psychological effects. Her gentle manner and innovative therapeutic approaches have made her the most sought-after counselor in the city.
+A member of the [Silence-Keepers](Silence-Keepers.md) who specializes in treating visitors suffering from spire-induced psychological effects. Her gentle manner and innovative therapeutic approaches have made her the most sought-after counselor in the city.
 
 **Motivation**: To develop better treatments for song madness and help more people safely experience the spires' transformative beauty.
 
@@ -208,7 +208,7 @@ A local resident whose family has lived in Kelathon for five generations, Echo k
 
 ## Recent Awakening Impact
 
-The [[Recent Awakening]] has transformed Kelathon from a quiet research outpost into a bustling center of unprecedented activity and opportunity:
+The [Recent Awakening](Recent%20Awakening.md) has transformed Kelathon from a quiet research outpost into a bustling center of unprecedented activity and opportunity:
 
 ### Physical Changes
 
@@ -224,7 +224,7 @@ A generational divide has emerged between older residents who prefer cautious tr
 
 ### Economic Explosion
 
-Research funding from across [[Valdris]] has flooded into Kelathon as scholars seek to understand the awakening's implications. Property values have skyrocketed, creating wealth for longtime residents but also pricing out some traditional families. The city struggles to balance economic opportunity with preservation of its unique cultural identity.
+Research funding from across [Valdris](Valdris.md) has flooded into Kelathon as scholars seek to understand the awakening's implications. Property values have skyrocketed, creating wealth for longtime residents but also pricing out some traditional families. The city struggles to balance economic opportunity with preservation of its unique cultural identity.
 
 New industries have emerged around awakening-related phenomena, including specialized equipment for studying enhanced spire activity, consulting services for other communities experiencing acoustic anomalies, and therapeutic programs for the psychological effects of intensified exposure.
 
@@ -232,7 +232,7 @@ New industries have emerged around awakening-related phenomena, including specia
 
 The spires' enhanced capabilities have created both unprecedented opportunities and serious risks. Some visitors now experience prophetic visions or enhanced magical abilities after exposure, while others suffer more severe psychological effects than ever recorded before. The city has had to develop new safety protocols and emergency response procedures.
 
-The spires' apparent ability to communicate with other [[Architect Ruins]] has made Kelathon a crucial observation point for understanding the awakening's broader implications, attracting attention from political powers seeking strategic advantage.
+The spires' apparent ability to communicate with other [Architect Ruins](Architect%20Ruins.md) has made Kelathon a crucial observation point for understanding the awakening's broader implications, attracting attention from political powers seeking strategic advantage.
 
 ## Political Situation
 
@@ -244,15 +244,15 @@ Leadership requires demonstrated psychological resilience and deep understanding
 
 ### External Relations
 
-**The Harmonial Principality**: This small [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holder Kingdom]] claims sovereignty over Kelathon based on historical land grants, but lacks resources to effectively control the city. Prince **Melodious Fairwind** maintains a garrison at nearby **Echohaven** and periodically attempts to assert authority, creating ongoing diplomatic tension.
+**The Harmonial Principality**: This small [Ruin-Holder Kingdom](Political%20Systems/Ruin-Holder%20Kingdoms.md) claims sovereignty over Kelathon based on historical land grants, but lacks resources to effectively control the city. Prince **Melodious Fairwind** maintains a garrison at nearby **Echohaven** and periodically attempts to assert authority, creating ongoing diplomatic tension.
 
-**The Whisperwind Confederation**: Multiple [[Political Systems/Wanderer Confederations|Wanderer Confederations]] argue that the spires are "songs for all peoples" and resist exclusive control attempts. They provide crucial trade routes and cultural exchange but complicate governance by supporting various research groups with competing agendas.
+**The Whisperwind Confederation**: Multiple [Wanderer Confederations](Political%20Systems/Wanderer%20Confederations.md) argue that the spires are "songs for all peoples" and resist exclusive control attempts. They provide crucial trade routes and cultural exchange but complicate governance by supporting various research groups with competing agendas.
 
-**The Quiet Valley Republic**: This [[Political Systems/Ruin-Shunner Republics|Ruin-Shunner Republic]] views Kelathon as a dangerous aberration requiring containment. They advocate for quarantine zones and restrictions on spire research, putting them in direct conflict with the city's economic and academic interests.
+**The Quiet Valley Republic**: This [Ruin-Shunner Republic](Political%20Systems/Ruin-Shunner%20Republics.md) views Kelathon as a dangerous aberration requiring containment. They advocate for quarantine zones and restrictions on spire research, putting them in direct conflict with the city's economic and academic interests.
 
-**Academic Powers**: Universities and scholarly institutions from [[Grimhaven]], [[Millbrook]], and across [[Valdris]] maintain competing research stations in Kelathon, each seeking exclusive access to spire data. These relationships provide essential funding but create complex political dynamics as different academic factions pursue conflicting theories about the ruins.
+**Academic Powers**: Universities and scholarly institutions from [Grimhaven](Grimhaven.md), [Millbrook](Millbrook.md), and across [Valdris](Valdris.md) maintain competing research stations in Kelathon, each seeking exclusive access to spire data. These relationships provide essential funding but create complex political dynamics as different academic factions pursue conflicting theories about the ruins.
 
-The [[Recent Awakening]] has intensified all these relationships, with each faction believing that understanding Kelathon's enhanced activity could provide strategic advantages in the broader awakening across [[Valdris]].
+The [Recent Awakening](Recent%20Awakening.md) has intensified all these relationships, with each faction believing that understanding Kelathon's enhanced activity could provide strategic advantages in the broader awakening across [Valdris](Valdris.md).
 
 ## Adventure Opportunities
 
@@ -268,7 +268,7 @@ The [[Recent Awakening]] has intensified all these relationships, with each fact
 
 ### Long-term Campaigns
 
-- **The [Architect](Architect.md)'s Symphony**: The spires may be part of a continent-spanning musical composition involving all major [[Architect Ruins]]. The party could uncover this pattern and their role in either completing or preventing the ancient symphony, with implications for the entire future of [[Valdris]].
+- **The [Architect](Architect.md)'s Symphony**: The spires may be part of a continent-spanning musical composition involving all major [Architect Ruins](Architect%20Ruins.md). The party could uncover this pattern and their role in either completing or preventing the ancient symphony, with implications for the entire future of [Valdris](Valdris.md).
 
 - **The Harmony Wars**: Competition for control over Kelathon escalates into open conflict between various factions. The party serves as diplomats, investigators, or independent agents trying to prevent war while protecting the spires from exploitation or destruction.
 
@@ -278,26 +278,26 @@ The [[Recent Awakening]] has intensified all these relationships, with each fact
 
 - **The Perfect Performance**: Characters with musical abilities attempt to harmonize with the spires' songs, potentially unlocking new capabilities in the ancient towers or triggering dangerous resonance effects that threaten the entire region.
 
-- **The Translation Project**: The party protects and assists [[Lyra Dawnwhisper]] in a crucial effort to decode the spires' linguistic content, facing interference from factions who fear what the ancient messages might reveal about the [[Architects]]' return.
+- **The Translation Project**: The party protects and assists [Lyra Dawnwhisper](Lyra%20Dawnwhisper.md) in a crucial effort to decode the spires' linguistic content, facing interference from factions who fear what the ancient messages might reveal about the [Architects](Architects.md)' return.
 
 - **The Resonance Crisis**: Someone attempts to use technological or magical amplification to broadcast the spires' songs across the continent, threatening to drive entire populations mad. The party must identify the perpetrators and stop the amplification while managing widespread psychological effects.
 
 ## Connections to the Wider World
 
-Kelathon's unique position as the only major settlement built around an active [[Singing Spires of Kelathon|acoustic ruin]] makes it a crucial nexus for understanding the [[Recent Awakening]]'s broader implications across [[Valdris]]:
+Kelathon's unique position as the only major settlement built around an active [acoustic ruin](Singing%20Spires%20of%20Kelathon.md) makes it a crucial nexus for understanding the [Recent Awakening](Recent%20Awakening.md)'s broader implications across [Valdris](Valdris.md):
 
-**Research Networks**: Scholars from Kelathon collaborate with researchers at [[Thymeris the Golden]], the [[Walking Gardens of Yss'andra]], and other major ruins, sharing data about synchronization patterns between different sites. The city serves as a communication hub for academic institutions studying the awakening.
+**Research Networks**: Scholars from Kelathon collaborate with researchers at [Thymeris the Golden](Thymeris%20the%20Golden.md), the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), and other major ruins, sharing data about synchronization patterns between different sites. The city serves as a communication hub for academic institutions studying the awakening.
 
 **Trade Connections**: The specialized goods produced in Kelathon—resonant crystals, acoustic equipment, and therapeutic services—are increasingly valuable as other communities deal with awakening-related phenomena. Trade routes carry not just goods but also knowledge about managing ancient technologies.
 
-**Political Implications**: The competing claims over Kelathon reflect broader tensions between [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]] about how to respond to the awakening. The city's eventual fate may set precedents for governance of other newly active ruins.
+**Political Implications**: The competing claims over Kelathon reflect broader tensions between [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) about how to respond to the awakening. The city's eventual fate may set precedents for governance of other newly active ruins.
 
-**Cultural Influence**: Kelathon's music, art, and literature inspired by the spires spread throughout [[Valdris]], influencing artistic movements and spiritual practices. The city's unique perspective on living with ancient technology provides models that other communities may need to adopt as the awakening continues.
+**Cultural Influence**: Kelathon's music, art, and literature inspired by the spires spread throughout [Valdris](Valdris.md), influencing artistic movements and spiritual practices. The city's unique perspective on living with ancient technology provides models that other communities may need to adopt as the awakening continues.
 
-The city stands at the intersection of scholarly inquiry, political competition, economic opportunity, and spiritual wonder—a microcosm of [[Valdris]]'s broader struggle to understand and adapt to the return of [[Architect]] technology. Whatever secrets the spires ultimately reveal, Kelathon will likely be at the center of their discovery and their consequences for the world.
+The city stands at the intersection of scholarly inquiry, political competition, economic opportunity, and spiritual wonder—a microcosm of [Valdris](Valdris.md)'s broader struggle to understand and adapt to the return of [Architect](Architect.md) technology. Whatever secrets the spires ultimately reveal, Kelathon will likely be at the center of their discovery and their consequences for the world.
 
 ---
 
-*For additional information, see [[Singing Spires of Kelathon]], [[Architect Ruins]], [[Political Systems]], [[Timeline]], and [[World Map]]*
+*For additional information, see [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), [Architect Ruins](Architect%20Ruins.md), [Political Systems](Political%20Systems.md), [Timeline](Timeline.md), and [World Map](World%20Map.md)*
 
 #settlement #major-location #[Architect](Architect.md)-ruins #acoustic-phenomena #research-center

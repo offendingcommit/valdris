@@ -69,9 +69,9 @@ Bringing loved ones safely here
 ---
 
 ## Campaign Integration
-- Traditional work song of [[Grimhaven]] sailors
+- Traditional work song of [Grimhaven](Grimhaven.md) sailors
 - References the [Architect](Architect.md) lighthouse that burns without fuel
 - Sung while loading ships and working the docks
-- Links to [[Settlements/Grimhaven]]
+- Links to [Grimhaven](Grimhaven.md)
 - Represents maritime culture and [Architect](Architect.md) integration
 - Often heard during ship departures and arrivals

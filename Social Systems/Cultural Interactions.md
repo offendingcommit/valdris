@@ -4,13 +4,13 @@
 
 ---
 
-The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Holder Kingdoms|Ruin-Holder]], [[Political Systems/Wanderer Confederations|Wanderer]], and [[Political Systems/Ruin-Shunner Republics|Shunner]]—have developed distinct customs, values, and social protocols over eight centuries. Understanding these differences is crucial for successful diplomacy, trade, and adventure in a world where cultural misunderstandings can escalate into violent conflicts.
+The three great cultural traditions of [Valdris](Valdris.md)—[Ruin-Holder](Political%20Systems/Ruin-Holder%20Kingdoms.md), [Wanderer](Political%20Systems/Wanderer%20Confederations.md), and [Shunner](Political%20Systems/Ruin-Shunner%20Republics.md)—have developed distinct customs, values, and social protocols over eight centuries. Understanding these differences is crucial for successful diplomacy, trade, and adventure in a world where cultural misunderstandings can escalate into violent conflicts.
 
 ## Core Cultural Philosophies
 
 ### Ruin-Holder Worldview
 
-**"The Mechanism Eternal"** - Core belief that [[Architect Ruins|Architect]] technology represents divine order.
+**"The Mechanism Eternal"** - Core belief that [Architect](Architect%20Ruins.md) technology represents divine order.
 
 **Fundamental Values**:
 - **Hierarchy**: Natural order reflected in social stratification
@@ -22,7 +22,7 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 - Formal ceremonies involving mechanical rituals
 - Art emphasizing geometric precision and metallic materials
 - Language rich in technical terminology and hierarchical honorifics
-- Music featuring complex harmonies mimicking [[Architect Ruins|Architect]] frequencies
+- Music featuring complex harmonies mimicking [Architect](Architect%20Ruins.md) frequencies
 
 **Daily Customs**:
 - **Morning Devotion**: Brief meditation on nearest functional mechanism
@@ -83,7 +83,7 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 **Ruin-Holder Formal Address**:
 - Use mechanical titles and hierarchical honorifics
 - Speak slowly and deliberately to show thoughtful consideration
-- Reference [[Architect Ruins|Architect]] technology to demonstrate understanding
+- Reference [Architect](Architect%20Ruins.md) technology to demonstrate understanding
 - **Example**: "Honored Gear-Knight, by the eternal mechanism's grace..."
 - **Social DC**: Persuasion/Deception +2 when proper protocol observed
 
@@ -91,7 +91,7 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 - Include directional references and travel metaphors
 - Share information freely and expect reciprocation
 - Use circular storytelling that eventually reaches the point
-- **Example**: "The road from [[Settlements/Grimhaven]] carries word that..."
+- **Example**: "The road from [Grimhaven](Grimhaven.md) carries word that..."
 - **Social DC**: Insight +2 to understand implied route information
 
 **Shunner Collective Communication**:
@@ -106,14 +106,14 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 **Formal Negotiation Protocols**:
 
 **Tri-System Diplomatic Meeting**:
-1. **Ruin-Holder Protocol**: Host provides functioning [[Architect Ruins|Architect]] space
+1. **Ruin-Holder Protocol**: Host provides functioning [Architect](Architect%20Ruins.md) space
 2. **Wanderer Protocol**: All participants must have traveled to reach meeting
 3. **Shunner Protocol**: Decisions made by group consensus, not authority
-4. **Neutral Ground**: Often held in places like [[Settlements/Grimhaven]]
+4. **Neutral Ground**: Often held in places like [Grimhaven](Grimhaven.md)
 
 **Cultural Liaison Requirements**:
 - Each system brings cultural interpreter
-- [[Tinker-Priests]] often serve as neutral mediators
+- [Tinker-Priests](Tinker-Priests.md) often serve as neutral mediators
 - Written agreements must accommodate different legal traditions
 - Ceremonial elements from each culture included in proceedings
 
@@ -122,7 +122,7 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 **Appropriate Cultural Gifts**:
 
 **To Ruin-Holders**:
-- **Ideal**: Functional [[Architect Ruins|Architect]] artifacts or precision-crafted mechanical items
+- **Ideal**: Functional [Architect](Architect%20Ruins.md) artifacts or precision-crafted mechanical items
 - **Acceptable**: Fine metalwork, geometric art, technical manuals
 - **Insulting**: Crude craftsmanship, temporary items, folk art
 - **Game Effect**: +4 Charisma when giving appropriate gifts
@@ -136,7 +136,7 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 **To Shunners**:
 - **Ideal**: Raw materials, tool-making knowledge, seeds for collective gardens
 - **Acceptable**: Craft techniques, democratic literature, community recipes
-- **Insulting**: Individual luxury items, [[Architect Ruins|Architect]] technology, status symbols
+- **Insulting**: Individual luxury items, [Architect](Architect%20Ruins.md) technology, status symbols
 - **Game Effect**: +2 Charisma and guild membership consideration
 
 ## Cultural Conflict Resolution
@@ -149,12 +149,12 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 - **Shunners** demand community benefit over individual profit
 
 **Philosophical Conflicts**:
-- **Technology Dependence**: Fundamental disagreement over [[Architect Ruins|Architect]] technology use
+- **Technology Dependence**: Fundamental disagreement over [Architect](Architect%20Ruins.md) technology use
 - **Authority Structures**: Hierarchical versus egalitarian governance
 - **Individual versus Collective**: Rights and responsibilities balance
 
 **Economic Competition**:
-- **Quality Standards**: Shunner pure-craft versus [[Architect Ruins|Architect]]-enhanced production
+- **Quality Standards**: Shunner pure-craft versus [Architect](Architect%20Ruins.md)-enhanced production
 - **Trade Access**: Wanderer route control versus settlement-based commerce
 - **Price Setting**: Market forces versus collective pricing decisions
 
@@ -169,10 +169,10 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 4. **Hybrid Resolution**: Combining elements from all three approaches
 
 **Neutral Mediators**:
-- **[[Tinker-Priests]]**: Religious authority transcending political boundaries
+- **[Tinker-Priests](Tinker-Priests.md)**: Religious authority transcending political boundaries
 - **Independent Merchants**: Economic interest in maintaining trade relationships
 - **Scholar Enclaves**: Academic institutions with tri-system representation
-- **[[Silence-Keepers]]**: Mystical authority commanding universal respect
+- **[Silence-Keepers](Silence-Keepers.md)**: Mystical authority commanding universal respect
 
 ### De-escalation Protocols
 
@@ -245,13 +245,13 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 
 **Inter-Faith Dynamics**:
 
-**[[Tinker-Priests]] Across Systems**:
+**[Tinker-Priests](Tinker-Priests.md) Across Systems**:
 - **Ruin-Holder Relations**: Formal recognition as divine interpreters
 - **Wanderer Relations**: Respected for route blessings and mechanical meditation
 - **Shunner Relations**: Tolerated for medical devices and emergency consultation
 
-**[[Silence-Keepers]] Universal Position**:
-- **Mystery Maintenance**: All systems respect their connection to [[Architect Ruins|Architect]] consciousness
+**[Silence-Keepers](Silence-Keepers.md) Universal Position**:
+- **Mystery Maintenance**: All systems respect their connection to [Architect](Architect%20Ruins.md) consciousness
 - **Neutral Territory**: Their enclaves serve as diplomatic meeting places
 - **Warning Tradition**: Their prophecies influence policy across political boundaries
 
@@ -285,8 +285,8 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 
 **Diplomatic Crisis Scenarios**:
 - **Inheritance Dispute**: Wanderer claims to traditional Ruin-Holder noble territory
-- **Trade Embargo**: Shunner republics refusing to trade [[Architect Ruins|Architect]]-enhanced goods
-- **Religious Conflict**: Competing interpretations of [[The Recent Awakening]] meaning
+- **Trade Embargo**: Shunner republics refusing to trade [Architect](Architect%20Ruins.md)-enhanced goods
+- **Religious Conflict**: Competing interpretations of [The Recent Awakening](The%20Recent%20Awakening.md) meaning
 
 **Cross-Cultural Romance Complications**:
 - **Forbidden Love**: Partners from philosophically opposed systems
@@ -320,7 +320,7 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 **External Threats**:
 - **Cultural Conquest**: One system attempting to impose values on others
 - **Economic Pressure**: Trade relationships threatening cultural independence
-- **[[The Recent Awakening]] Disruption**: Ancient patterns challenging cultural stability
+- **[The Recent Awakening](The%20Recent%20Awakening.md) Disruption**: Ancient patterns challenging cultural stability
 
 ## Game Master Resources
 
@@ -357,11 +357,11 @@ The three great cultural traditions of [[Valdris]]—[[Political Systems/Ruin-Ho
 - **Shunners**: Highlight community benefit, fair pricing, and authentic craftsmanship
 
 **Cultural Celebration Calendar**:
-- **Spring Awakening**: Tri-system celebration of [[The Recent Awakening]]
+- **Spring Awakening**: Tri-system celebration of [The Recent Awakening](The%20Recent%20Awakening.md)
 - **Harvest Sharing**: Shunner tradition increasingly adopted by others
 - **Route Blessing Season**: Wanderer ceremonies marking safe travel periods
 - **Mechanism Maintenance Days**: Ruin-Holder technical festivals
 
 ---
 
-*For related social mechanics, see [[Social Systems/Social Hierarchy Overview]] and [[Social Systems/Legal & Justice Systems]]. For political context, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]]. For settlement-specific cultural variations, see [[Settlements]].*
+*For related social mechanics, see [Social Hierarchy Overview](Social%20Hierarchy%20Overview.md) and [Legal & Justice Systems](Legal%20%26%20Justice%20Systems.md). For political context, see [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md). For settlement-specific cultural variations, see [Settlements](Settlements.md).*

@@ -89,8 +89,8 @@ Copper Springs and Crystal Dreams - A Pub Song
 ---
 
 ## Campaign Integration
-- Popular in taverns with [[Tinker-Priests]] presence
+- Popular in taverns with [Tinker-Priests](Tinker-Priests.md) presence
 - References mysterious alcohol infused with [Architect](Architect.md) essence
-- Often sung in [[Settlements]] near active ruins
+- Often sung in [Settlements](Settlements.md) near active ruins
 - Could lead to [Adventure Hooks](Adventure%20Hooks.md) about strange dreams
-- Links to [[Factions & Organizations/Tinker-Priests]]
+- Links to [Tinker-Priests](Tinker-Priests.md)

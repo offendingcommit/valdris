@@ -4,17 +4,17 @@
 
 ---
 
-The social hierarchies of [[Valdris]] create a complex web of status, privilege, and opportunity that player characters must navigate with care. This overview provides practical guidance for understanding and interacting with the intricate class systems detailed in [[Lore/Social Hierarchy]].
+The social hierarchies of [Valdris](Valdris.md) create a complex web of status, privilege, and opportunity that player characters must navigate with care. This overview provides practical guidance for understanding and interacting with the intricate class systems detailed in [Social Hierarchy](Social%20Hierarchy.md).
 
 ## Quick Reference: Social Recognition
 
 ### Immediate Status Indicators
 
 **Visual Cues** (Passive Insight DC 12):
-- **Crown-Gear Regalia**: Unmistakable mark of [[Political Systems/Ruin-Holder Kingdoms]] nobility
-- **Travel-Worn Quality**: Indicates [[Political Systems/Wanderer Confederations]] membership
-- **Practical Clothing**: Suggests [[Political Systems/Ruin-Shunner Republics]] values
-- **[[Architect Ruins|Architect]] Artifacts**: Visible technology denotes high status across all systems
+- **Crown-Gear Regalia**: Unmistakable mark of [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) nobility
+- **Travel-Worn Quality**: Indicates [Wanderer Confederations](Wanderer%20Confederations.md) membership
+- **Practical Clothing**: Suggests [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) values
+- **[Architect](Architect%20Ruins.md) Artifacts**: Visible technology denotes high status across all systems
 
 **Behavioral Patterns** (Insight DC 15):
 - **Mechanical Gestures**: Unconscious interaction with devices reveals technical training
@@ -36,11 +36,11 @@ The social hierarchies of [[Valdris]] create a complex web of status, privilege,
 
 Regardless of political system, certain types command universal respect:
 
-**[[Tinker-Priests]]** (Status: High across all systems)
+**[Tinker-Priests](Tinker-Priests.md)** (Status: High across all systems)
 - **Recognition**: Mechanical prayer wheels, blessed tools
 - **Interaction Protocol**: Respectful deference expected
 - **Game Effect**: +2 to social interactions when faith is relevant
-- **Adventure Hook**: Competing interpretations of [[The Recent Awakening]]
+- **Adventure Hook**: Competing interpretations of [The Recent Awakening](The%20Recent%20Awakening.md)
 
 **Independent Mechanics** (Status: Valuable regardless of politics)
 - **Recognition**: Tool quality, problem-solving reputation
@@ -48,7 +48,7 @@ Regardless of political system, certain types command universal respect:
 - **Game Effect**: Access to restricted areas for "maintenance"
 - **Adventure Hook**: Mechanical sabotage investigation
 
-**[[Silence-Keepers]]** (Status: Feared/Respected)
+**[Silence-Keepers](Silence-Keepers.md)** (Status: Feared/Respected)
 - **Recognition**: Sealed lips tattoo, silent bearing
 - **Interaction Protocol**: Cautious respect
 - **Game Effect**: Advantage on rolls involving sealed ruins
@@ -56,35 +56,35 @@ Regardless of political system, certain types command universal respect:
 
 ### Status Modifiers by Region
 
-**Eastern Kingdoms** (+/- to Charisma checks based on proximity to [[Thymeris the Golden]]):
+**Eastern Kingdoms** (+/- to Charisma checks based on proximity to [Thymeris the Golden](Thymeris%20the%20Golden.md)):
 - Mechanical nobility: +4
 - Traditional crafters: -2
 - Wanderer traders: -1
 - Unknown origins: -3
 
-**Western Republics** (+/- to Charisma checks in [[Political Systems/Ruin-Shunner Republics]]):
+**Western Republics** (+/- to Charisma checks in [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)):
 - Guild masters: +3
-- [[Architect Ruins|Architect]] enthusiasts: -4
+- [Architect](Architect%20Ruins.md) enthusiasts: -4
 - Collective contributors: +2
 - Individual wealth displayers: -2
 
-**Northern Routes** (+/- to Charisma checks with [[Political Systems/Wanderer Confederations]]):
+**Northern Routes** (+/- to Charisma checks with [Wanderer Confederations](Wanderer%20Confederations.md)):
 - Route-singers: +5
 - Stationary dwellers: -1
 - Navigation skills: +2
 - Heavy equipment: -3
 
-## The [[The Recent Awakening|Recent Awakening]] Effect
+## The [Recent Awakening](The%20Recent%20Awakening.md) Effect
 
 ### Status Disruption
 
 **Sudden Affinity Discovery**:
-- Random NPCs (1d20 = 20) gain [[Architect Ruins|Architect]] affinity overnight
+- Random NPCs (1d20 = 20) gain [Architect](Architect%20Ruins.md) affinity overnight
 - Former commoners challenge established hierarchy
 - **Game Effect**: Previous social interactions may be invalidated
 
 **Mechanical Preference Manifestation**:
-- [[Architect Ruins|Architect]] devices show preference for certain individuals
+- [Architect](Architect%20Ruins.md) devices show preference for certain individuals
 - Status independent of traditional markers
 - **Game Effect**: Equipment may grant/deny features based on character background
 
@@ -99,7 +99,7 @@ Regardless of political system, certain types command universal respect:
 - Can communicate with newly active systems
 - **Recognition**: Ability to activate dormant devices
 - **Status**: Rapidly rising across all systems
-- **Game Effect**: Gain Expertise in [[Architect Ruins|Architect]]-related ability checks
+- **Game Effect**: Gain Expertise in [Architect](Architect%20Ruins.md)-related ability checks
 
 **Crisis Managers** (Situation-Dependent Elite):
 - Leaders who successfully navigate awakening disasters
@@ -114,7 +114,7 @@ Regardless of political system, certain types command universal respect:
 **Meeting Nobility** (Ruin-Holder Kingdoms):
 1. **Approach Protocol**: Wait for acknowledgment before speaking
 2. **Status Recognition**: Address by proper mechanical title
-3. **Gift Tradition**: Present functional [[Architect Ruins|Architect]] device if possible
+3. **Gift Tradition**: Present functional [Architect](Architect%20Ruins.md) device if possible
 4. **Failure Consequence**: -4 to all social rolls with noble house
 
 **Confederation Courtesy** (Wanderer Groups):
@@ -146,7 +146,7 @@ Regardless of political system, certain types command universal respect:
 ### Cross-Cultural Complications
 
 **Social Faux Pas Table** (d12):
-1. Displaying [[Architect Ruins|Architect]] technology in Shunner territory
+1. Displaying [Architect](Architect%20Ruins.md) technology in Shunner territory
 2. Refusing hospitality from Wanderer caravan
 3. Speaking directly to Ruin-Holder nobility without proper introduction
 4. Critiquing route knowledge to experienced Wanderer
@@ -157,7 +157,7 @@ Regardless of political system, certain types command universal respect:
 9. Assuming merchant status grants noble privilege
 10. Violating travel etiquette on sacred routes
 11. Misunderstanding collective decision timeframes
-12. Inappropriate [[Tinker-Priests|Tinker-Priest]] consultation request
+12. Inappropriate [Tinker-Priest](Tinker-Priests.md) consultation request
 
 ## Adventure Integration
 
@@ -166,7 +166,7 @@ Regardless of political system, certain types command universal respect:
 **Noble House Politics** (High-Status PCs):
 - Inheritance disputes over malfunctioning Crown-Gears
 - Diplomatic marriages between rival Ruin-Lords
-- Court intrigue involving [[Architect Ruins|Architect]] technology secrets
+- Court intrigue involving [Architect](Architect%20Ruins.md) technology secrets
 
 **Cross-System Diplomacy** (Any Status):
 - Negotiate trade agreements between conflicting hierarchies
@@ -175,7 +175,7 @@ Regardless of political system, certain types command universal respect:
 
 **Social Mobility Campaigns** (Low-Status PCs):
 - Earn recognition through heroic deeds
-- Discover hidden noble lineage or [[Architect Ruins|Architect]] affinity
+- Discover hidden noble lineage or [Architect](Architect%20Ruins.md) affinity
 - Lead movements challenging traditional hierarchies
 
 ### Status as Character Development
@@ -213,7 +213,7 @@ Regardless of political system, certain types command universal respect:
 ### Change and Tradition
 
 **Ongoing Tensions**:
-- [[The Recent Awakening]] challenging established order
+- [The Recent Awakening](The%20Recent%20Awakening.md) challenging established order
 - Generational conflicts over traditional versus adaptive approaches
 - Technology versus authenticity in social organization
 - Individual achievement versus collective responsibility
@@ -224,13 +224,13 @@ Regardless of political system, certain types command universal respect:
 - Using high status to protect versus exploit lower classes
 - Balancing system loyalty with universal humanitarian values
 - Deciding when to challenge versus work within existing hierarchies
-- Managing the corrupting influence of [[Architect Ruins|Architect]] technology access
+- Managing the corrupting influence of [Architect](Architect%20Ruins.md) technology access
 
 ---
 
 ## Regional Status Variations
 
-### [[Settlements/Grimhaven]] (Neutral Port)
+### [Grimhaven](Grimhaven.md) (Neutral Port)
 
 **Local Hierarchy**:
 1. **Harbor Master**: Controls all maritime access
@@ -242,10 +242,10 @@ Regardless of political system, certain types command universal respect:
 **Social Dynamics**:
 - Status shifts with tide schedules and ship arrivals
 - Political neutrality creates unique diplomatic opportunities
-- [[Architect Ruins|Architect]] lighthouse technology grants keeper special status
+- [Architect](Architect%20Ruins.md) lighthouse technology grants keeper special status
 - Cross-system marriages more common and accepted
 
-### [[Settlements/Millbrook]] (Agricultural Hub)
+### [Millbrook](Millbrook.md) (Agricultural Hub)
 
 **Local Hierarchy**:
 1. **Mill Owner**: Controls food processing
@@ -257,7 +257,7 @@ Regardless of political system, certain types command universal respect:
 **Social Dynamics**:
 - Seasonal labor creates temporary status shifts
 - Harvest success dramatically affects local standing
-- Traditional methods valued over [[Architect Ruins|Architect]] enhancement
+- Traditional methods valued over [Architect](Architect%20Ruins.md) enhancement
 - Strong community bonds across class lines
 
 ### Border Territories
@@ -290,7 +290,7 @@ Regardless of political system, certain types command universal respect:
 1. Ancient bloodline with failing Crown-Gear
 2. Nouveau riche merchants seeking legitimacy
 3. Military house built on Gear-Knight traditions
-4. Scholarly house studying [[Architect Ruins|Architect]] mysteries
+4. Scholarly house studying [Architect](Architect%20Ruins.md) mysteries
 5. Declining house desperate to maintain status
 6. Rising house exploiting awakening opportunities
 
@@ -306,10 +306,10 @@ Regardless of political system, certain types command universal respect:
 1. Craft-focused leadership emphasizing traditional skills
 2. Idealistic youth challenging pragmatic elders
 3. Reformed confederation members embracing stability
-4. Anti-[[Architect Ruins|Architect]] extremists promoting purity
+4. Anti-[Architect](Architect%20Ruins.md) extremists promoting purity
 5. Pragmatic engineers balancing ideology with necessity
 6. Democratic experimenters pushing collective boundaries
 
 ---
 
-*For detailed social stratification information, see [[Lore/Social Hierarchy]]. For cultural interaction mechanics, see [[Social Systems/Cultural Interactions]]. For political context, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]].*
+*For detailed social stratification information, see [Social Hierarchy](Social%20Hierarchy.md). For cultural interaction mechanics, see [Cultural Interactions](Cultural%20Interactions.md). For political context, see [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md).*

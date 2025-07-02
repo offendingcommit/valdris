@@ -4,7 +4,7 @@
 
 ---
 
-The social structures of [[Valdris]] reflect eight centuries of adaptation to a world shaped by the vanished [[Architect Ruins|Architects]]. From the crown-gear wearing nobility of the eastern kingdoms to the merit-based councils of western republics, each society has developed unique hierarchies that determine power, wealth, and status. Yet beneath these political divisions runs a common thread—the ability to understand, activate, and control [[Architect Ruins|Architect]] technology remains the ultimate measure of worth across the continent.
+The social structures of [Valdris](Valdris.md) reflect eight centuries of adaptation to a world shaped by the vanished [Architects](Architect%20Ruins.md). From the crown-gear wearing nobility of the eastern kingdoms to the merit-based councils of western republics, each society has developed unique hierarchies that determine power, wealth, and status. Yet beneath these political divisions runs a common thread—the ability to understand, activate, and control [Architect](Architect%20Ruins.md) technology remains the ultimate measure of worth across the continent.
 
 ## The Great Stratification
 
@@ -12,17 +12,17 @@ The social structures of [[Valdris]] reflect eight centuries of adaptation to a 
 
 Despite their political differences, all Valdris societies recognize certain universal status markers:
 
-**Architect Affinity**: The rare ability to intuitively understand [[Architect Ruins|Architect]] mechanisms transcends all other social divisions. A peasant who can activate ancient devices commands more respect than a noble who cannot. This "mechanical blessing" appears randomly across all populations, though certain bloodlines show higher incidences.
+**Architect Affinity**: The rare ability to intuitively understand [Architect](Architect%20Ruins.md) mechanisms transcends all other social divisions. A peasant who can activate ancient devices commands more respect than a noble who cannot. This "mechanical blessing" appears randomly across all populations, though certain bloodlines show higher incidences.
 
-**Ruin Access**: Physical proximity to [[Architect Ruins|Architect]] sites confers status. Those who live near or within ruins enjoy better health, longer lives, and access to technological conveniences. Distance from ruins often correlates directly with poverty and hardship.
+**Ruin Access**: Physical proximity to [Architect](Architect%20Ruins.md) sites confers status. Those who live near or within ruins enjoy better health, longer lives, and access to technological conveniences. Distance from ruins often correlates directly with poverty and hardship.
 
-**Technical Knowledge**: Understanding of [[Architect Ruins|Architect]] systems—whether through formal study, inherited wisdom, or practical experience—creates a technical aristocracy that crosses political boundaries. [[Tinker-Priests]] and skilled mechanics command respect in all three political systems.
+**Technical Knowledge**: Understanding of [Architect](Architect%20Ruins.md) systems—whether through formal study, inherited wisdom, or practical experience—creates a technical aristocracy that crosses political boundaries. [Tinker-Priests](Tinker-Priests.md) and skilled mechanics command respect in all three political systems.
 
-**Temporal Wealth**: The accumulation of functioning [[Architect Ruins|Architect]] artifacts serves as both practical advantage and status symbol. A working chronometer or self-heating pot represents wealth that mere gold cannot match.
+**Temporal Wealth**: The accumulation of functioning [Architect](Architect%20Ruins.md) artifacts serves as both practical advantage and status symbol. A working chronometer or self-heating pot represents wealth that mere gold cannot match.
 
 ## Ruin-Holder Kingdoms: The Brass Hierarchy
 
-The [[Political Systems/Ruin-Holder Kingdoms]] have developed the most rigid and elaborate social hierarchy, built upon control of [[Architect Ruins|Architect]] sites and the mystique of mechanical monarchy.
+The [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) have developed the most rigid and elaborate social hierarchy, built upon control of [Architect](Architect%20Ruins.md) sites and the mystique of mechanical monarchy.
 
 ### The Gear-Crowned Apex
 
@@ -35,24 +35,24 @@ The [[Political Systems/Ruin-Holder Kingdoms]] have developed the most rigid and
 
 ### The Noble Mechanisms
 
-**Ruin-Lords** control specific [[Architect Ruins|Architect]] sites within kingdom boundaries, maintaining feudal relationships with the crown while jealously guarding their mechanical domains.
+**Ruin-Lords** control specific [Architect](Architect%20Ruins.md) sites within kingdom boundaries, maintaining feudal relationships with the crown while jealously guarding their mechanical domains.
 
-- **Greater Ruin-Lords**: Control major sites like districts within [[Thymeris the Golden]]
+- **Greater Ruin-Lords**: Control major sites like districts within [Thymeris the Golden](Thymeris%20the%20Golden.md)
 - **Lesser Ruin-Lords**: Oversee smaller ruins, outposts, or single structures
 - **Responsibilities**: Maintain site functionality, extract resources, defend against intrusion
 - **Privileges**: Taxation rights, artifact monopolies, private armies
 
-**Gear-Knights** form the military aristocracy, distinguished by [[Architect Ruins|Architect]]-enhanced weapons and armor. Their status depends on both martial prowess and technical competence.
+**Gear-Knights** form the military aristocracy, distinguished by [Architect](Architect%20Ruins.md)-enhanced weapons and armor. Their status depends on both martial prowess and technical competence.
 
 - **Knight-Resonant**: Can fully activate their equipment's special properties
 - **Knight-Mechanical**: Proficient with enhanced gear but lack full resonance
-- **Knight-Aspirant**: Training with [[Architect Ruins|Architect]] equipment, awaiting full investment
+- **Knight-Aspirant**: Training with [Architect](Architect%20Ruins.md) equipment, awaiting full investment
 - **Equipment**: Self-repairing armor, resonance blades, harmonic shields
 
-**Merchant-Mechanists** represent the nouveau riche who've accumulated enough [[Architect Ruins|Architect]] artifacts to purchase titles. They bridge noble and common worlds.
+**Merchant-Mechanists** represent the nouveau riche who've accumulated enough [Architect](Architect%20Ruins.md) artifacts to purchase titles. They bridge noble and common worlds.
 
 - **Patent Holders**: Control licenses for mechanical reproduction
-- **Artifact Dealers**: Manage legal trade in [[Architect Ruins|Architect]] devices
+- **Artifact Dealers**: Manage legal trade in [Architect](Architect%20Ruins.md) devices
 - **Innovation Houses**: Fund expeditions and mechanical research
 - **Social Tension**: Often scorned by hereditary nobles despite their wealth
 
@@ -60,12 +60,12 @@ The [[Political Systems/Ruin-Holder Kingdoms]] have developed the most rigid and
 
 **High Tinker-Priests** serve both religious and practical functions, maintaining the spiritual and mechanical health of the kingdom.
 
-- **Arch-Mechanics**: Master multiple [[Architect Ruins|Architect]] systems
+- **Arch-Mechanics**: Master multiple [Architect](Architect%20Ruins.md) systems
 - **Resonance Readers**: Interpret mechanical "moods" and predict failures
 - **Ritual Keepers**: Preserve activation sequences and maintenance protocols
 - **Political Power**: Often advisors to Ruin-Lords and monarchs
 
-**Clock-Wardens** manage day-to-day operations of [[Architect Ruins|Architect]] infrastructure, forming a technical middle class.
+**Clock-Wardens** manage day-to-day operations of [Architect](Architect%20Ruins.md) infrastructure, forming a technical middle class.
 
 - **Chief Wardens**: Oversee entire ruin districts or major systems
 - **Sector Wardens**: Manage specific mechanisms or areas
@@ -81,27 +81,27 @@ The [[Political Systems/Ruin-Holder Kingdoms]] have developed the most rigid and
 - **Resonance Listeners**: Monitor systems for dangerous harmonics
 - **Living Conditions**: Better than rural peasants but still challenging
 
-**Ruin-Adjacent Peasants** farm the enhanced lands near [[Architect Ruins|Architect]] sites, benefiting from increased yields but facing unique dangers.
+**Ruin-Adjacent Peasants** farm the enhanced lands near [Architect](Architect%20Ruins.md) sites, benefiting from increased yields but facing unique dangers.
 
 - **Glow-Farmers**: Work fields affected by beneficial emanations
 - **Mechanism Serfs**: Bound to specific ruin-enhanced estates
 - **Harvest Guilds**: Collective organizations for sharing enhanced seeds
 - **Risks**: Exposure to malfunctions, mechanical accidents, strange ailments
 
-**Distant Commoners** live far from ruins, practicing traditional crafts and agriculture without [[Architect Ruins|Architect]] enhancement.
+**Distant Commoners** live far from ruins, practicing traditional crafts and agriculture without [Architect](Architect%20Ruins.md) enhancement.
 
 - **Free Farmers**: Own small plots, struggle with natural yields
 - **Traditional Crafters**: Blacksmiths, weavers, potters using old methods
 - **Day Laborers**: Seasonal workers, lowest social position
-- **Aspirations**: Save to purchase even minor [[Architect Ruins|Architect]] artifacts
+- **Aspirations**: Save to purchase even minor [Architect](Architect%20Ruins.md) artifacts
 
 ## Wanderer Confederations: The Mobile Meritocracy
 
-The [[Political Systems/Wanderer Confederations]] organize society around movement, trade, and the specialized knowledge needed to navigate between ruins safely.
+The [Wanderer Confederations](Wanderer%20Confederations.md) organize society around movement, trade, and the specialized knowledge needed to navigate between ruins safely.
 
 ### The Navigation Elite
 
-**Route-Singers** hold the highest status, preserving the musical maps that encode safe passages between [[Architect Ruins|Architect]] sites.
+**Route-Singers** hold the highest status, preserving the musical maps that encode safe passages between [Architect](Architect%20Ruins.md) sites.
 
 - **Grand Singers**: Know multiple complete route networks
 - **Regional Singers**: Master specific territories or ruin clusters
@@ -117,7 +117,7 @@ The [[Political Systems/Wanderer Confederations]] organize society around moveme
 
 ### The Specialized Castes
 
-**Ruin-Whisperers** possess the rare ability to communicate with dormant [[Architect Ruins|Architect]] systems.
+**Ruin-Whisperers** possess the rare ability to communicate with dormant [Architect](Architect%20Ruins.md) systems.
 
 - **Speaking Stones**: Can activate way-station markers
 - **Echo Readers**: Interpret mechanical responses
@@ -142,7 +142,7 @@ The [[Political Systems/Wanderer Confederations]] organize society around moveme
 
 **Trade Specialists** provide specific services to the mobile communities.
 
-- **Artifact Assessors**: Evaluate found [[Architect Ruins|Architect]] devices
+- **Artifact Assessors**: Evaluate found [Architect](Architect%20Ruins.md) devices
 - **Language Bridgers**: Translate between regional dialects
 - **Contract Witnesses**: Formalize agreements between groups
 - **Memory Keepers**: Preserve confederation history and law
@@ -165,7 +165,7 @@ The [[Political Systems/Wanderer Confederations]] organize society around moveme
 
 ## Ruin-Shunner Republics: The Merit Collective
 
-The [[Political Systems/Ruin-Shunner Republics]] have developed egalitarian structures based on skill, contribution, and collective decision-making rather than inherited status or [[Architect Ruins|Architect]] affinity.
+The [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) have developed egalitarian structures based on skill, contribution, and collective decision-making rather than inherited status or [Architect](Architect%20Ruins.md) affinity.
 
 ### The Council Hierarchies
 
@@ -181,11 +181,11 @@ The [[Political Systems/Ruin-Shunner Republics]] have developed egalitarian stru
 - **Grand Masters**: Recognized across multiple republics
 - **Guild Masters**: Lead specific trade organizations  
 - **Teaching Masters**: Preserve and transmit knowledge
-- **Innovation**: Constantly improving non-[[Architect Ruins|Architect]] techniques
+- **Innovation**: Constantly improving non-[Architect](Architect%20Ruins.md) techniques
 
 ### The Skill Aristocracy
 
-**Engineers of the New Way** develop technologies that explicitly avoid [[Architect Ruins|Architect]] principles.
+**Engineers of the New Way** develop technologies that explicitly avoid [Architect](Architect%20Ruins.md) principles.
 
 - **Water Masters**: Design aqueducts and irrigation systems
 - **Mill Wrights**: Create efficient power systems
@@ -194,7 +194,7 @@ The [[Political Systems/Ruin-Shunner Republics]] have developed egalitarian stru
 
 **Naturalist Philosophers** provide ideological framework for technological rejection.
 
-- **Pure Theorists**: Argue for complete [[Architect Ruins|Architect]] avoidance
+- **Pure Theorists**: Argue for complete [Architect](Architect%20Ruins.md) avoidance
 - **Practical Ethicists**: Balance ideology with necessity
 - **Youth Teachers**: Educate next generation in Shunner values
 - **Influence**: Shape republic policy through moral authority
@@ -228,13 +228,13 @@ The [[Political Systems/Ruin-Shunner Republics]] have developed egalitarian stru
 
 Despite political divisions, individuals can and do move between systems, though each transition carries unique challenges:
 
-**Ruin-Holder to Wanderer**: Disgraced nobles often join confederations, trading former status for freedom. Their [[Architect Ruins|Architect]] knowledge proves valuable on the roads.
+**Ruin-Holder to Wanderer**: Disgraced nobles often join confederations, trading former status for freedom. Their [Architect](Architect%20Ruins.md) knowledge proves valuable on the roads.
 
 **Wanderer to Ruin-Holder**: Successful traders sometimes purchase noble titles, though they face discrimination from hereditary aristocracy.
 
-**Shunner to Ruin-Holder**: Rare but impactful when Shunner engineers discover [[Architect Ruins|Architect]] affinity, creating internal identity crises.
+**Shunner to Ruin-Holder**: Rare but impactful when Shunner engineers discover [Architect](Architect%20Ruins.md) affinity, creating internal identity crises.
 
-**Ruin-Holder to Shunner**: Political refugees find haven in republics, though they must publicly renounce [[Architect Ruins|Architect]] technology.
+**Ruin-Holder to Shunner**: Political refugees find haven in republics, though they must publicly renounce [Architect](Architect%20Ruins.md) technology.
 
 **Wanderer to Shunner**: Retired travelers often settle in republics, bringing valuable trade connections.
 
@@ -251,11 +251,11 @@ Certain locations serve as mixing grounds where all three systems interact:
 
 ## The Technical Aristocracy
 
-Across all systems, those who understand [[Architect Ruins|Architect]] technology form a distinct class that transcends political boundaries:
+Across all systems, those who understand [Architect](Architect%20Ruins.md) technology form a distinct class that transcends political boundaries:
 
 ### Tinker-Priests
 
-The [[Tinker-Priests]] maintain unique status in all three systems:
+The [Tinker-Priests](Tinker-Priests.md) maintain unique status in all three systems:
 
 - **In Ruin-Holder Kingdoms**: Advisors to nobility, keepers of activation rituals
 - **In Wanderer Confederations**: Route blessing, mechanism meditation
@@ -265,18 +265,18 @@ The [[Tinker-Priests]] maintain unique status in all three systems:
 
 Freelance specialists who sell services across political lines:
 
-- **Artifact Authenticators**: Verify genuine [[Architect Ruins|Architect]] devices
+- **Artifact Authenticators**: Verify genuine [Architect](Architect%20Ruins.md) devices
 - **Mechanism Debuggers**: Solve technical problems for any employer
 - **Ruin Mappers**: Sell information about unexplored sites
 - **Political Immunity**: Generally protected by all systems due to value
 
 ### The Silence-Keepers
 
-The [[Silence-Keepers]] occupy a complex position:
+The [Silence-Keepers](Silence-Keepers.md) occupy a complex position:
 
 - **Mystical Authority**: Claim direct connection to Architect consciousness
 - **Political Neutrality**: Refuse allegiance to any system
-- **Social Influence**: Their warnings about [[Architect Ruins|Architect]] return shape policy
+- **Social Influence**: Their warnings about [Architect](Architect%20Ruins.md) return shape policy
 - **Economic Power**: Control access to certain sealed ruins
 
 ## Professional Guilds and Organizations
@@ -292,7 +292,7 @@ Some organizations operate across all three political systems:
 
 **The Healers' Compact**: Medical practitioners sharing knowledge regardless of politics
 - Hierarchy based on successful treatments
-- Special dispensation to use [[Architect Ruins|Architect]] medical devices
+- Special dispensation to use [Architect](Architect%20Ruins.md) medical devices
 - Oath of treatment without political discrimination
 
 **The Merchants' Scales**: Standardize weights, measures, and currency exchange
@@ -313,17 +313,17 @@ Some organizations operate across all three political systems:
 - The Seasonal Council: Coordinates migration patterns
 
 **Shunner Exclusive**:
-- The Pure Craft Alliance: Extremist anti-[[Architect Ruins|Architect]] organization
+- The Pure Craft Alliance: Extremist anti-[Architect](Architect%20Ruins.md) organization
 - New Dawn Engineers: Progressive technology developers
 - The Collective Voice: Grassroots democracy advocates
 
 ## Recent Awakening: Social Upheaval
 
-The [[Timeline|Recent Awakening]] has destabilized social hierarchies across Valdris:
+The [Recent Awakening](Timeline.md) has destabilized social hierarchies across Valdris:
 
 ### Status Reversals
 
-**Sudden Affinity**: Commoners discovering [[Architect Ruins|Architect]] affinity overnight challenge hereditary nobility
+**Sudden Affinity**: Commoners discovering [Architect](Architect%20Ruins.md) affinity overnight challenge hereditary nobility
 
 **Mechanism Rebellion**: Automated servants showing preference for certain individuals regardless of social rank
 
@@ -349,21 +349,21 @@ The [[Timeline|Recent Awakening]] has destabilized social hierarchies across Val
 
 ### Eastern Kingdoms
 
-The area around [[Thymeris the Golden]] maintains the most rigid hierarchies:
+The area around [Thymeris the Golden](Thymeris%20the%20Golden.md) maintains the most rigid hierarchies:
 - Proximity to the greatest ruin reinforces mechanical aristocracy
 - Ancient bloodlines claim unbroken connection to pre-Silence humans
 - Recent Awakening strengthens rather than challenges existing order
 
 ### Northern Reaches
 
-Following the [[Walking Gardens of Yss'andra]] creates unique social dynamics:
+Following the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) creates unique social dynamics:
 - Seasonal hierarchies based on migration patterns
 - Temporary alliances between normally hostile groups
 - Children born during certain garden phases considered blessed
 
 ### Western Valleys
 
-Home to the strongest [[Political Systems/Ruin-Shunner Republics]]:
+Home to the strongest [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md):
 - Egalitarian ideals most fully realized
 - Technology skepticism as social virtue
 - Recent Awakening validates rejection philosophy
@@ -373,7 +373,7 @@ Home to the strongest [[Political Systems/Ruin-Shunner Republics]]:
 Maritime societies blend all three systems:
 - Ship captains as temporary autocrats
 - Port cities as neutral ground
-- [[Grimhaven]] lighthouse keepers as technical elite
+- [Grimhaven](Grimhaven.md) lighthouse keepers as technical elite
 
 ### Central Disputed Lands
 
@@ -386,7 +386,7 @@ Where all three systems meet:
 
 ### Inter-System Conflicts
 
-**Resource Competition**: All systems compete for functioning [[Architect Ruins|Architect]] artifacts
+**Resource Competition**: All systems compete for functioning [Architect](Architect%20Ruins.md) artifacts
 
 **Ideological Warfare**: Propaganda campaigns to discredit rival systems
 
@@ -399,7 +399,7 @@ Where all three systems meet:
 **Ruin-Holder Kingdoms**:
 - Hereditary nobles versus Merchant-Mechanists
 - Crown authority versus Ruin-Lord autonomy
-- [[Tinker-Priests]] versus secular power
+- [Tinker-Priests](Tinker-Priests.md) versus secular power
 
 **Wanderer Confederations**:
 - Route-Singers versus Caravan Masters for leadership
@@ -407,7 +407,7 @@ Where all three systems meet:
 - Traditional paths versus new opportunities
 
 **Ruin-Shunner Republics**:
-- Purists versus pragmatists on [[Architect Ruins|Architect]] technology
+- Purists versus pragmatists on [Architect](Architect%20Ruins.md) technology
 - Guild power versus individual freedom
 - Collective good versus personal ambition
 
@@ -417,17 +417,17 @@ Where all three systems meet:
 
 **Economic**: Artifact wealth concentration versus equitable distribution
 
-**Religious**: [[Tinker-Priests]] versus [[Silence-Keepers]] versus naturalist philosophy
+**Religious**: [Tinker-Priests](Tinker-Priests.md) versus [Silence-Keepers](Silence-Keepers.md) versus naturalist philosophy
 
 **Technological**: Enhancement versus authenticity in human achievement
 
 ## The Future of Social Order
 
-As the [[Timeline|Recent Awakening]] accelerates, traditional hierarchies face unprecedented challenges:
+As the [Recent Awakening](Timeline.md) accelerates, traditional hierarchies face unprecedented challenges:
 
 ### Potential Outcomes
 
-**Mechanical Meritocracy**: [[Architect Ruins|Architect]] affinity becomes sole determinant of status
+**Mechanical Meritocracy**: [Architect](Architect%20Ruins.md) affinity becomes sole determinant of status
 
 **Democratic Revolution**: Awakening chaos leads to universal egalitarianism
 
@@ -449,4 +449,4 @@ The social hierarchies of Valdris, built over eight centuries of adaptation to a
 
 ---
 
-*For related information, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], [[Political Systems/Ruin-Shunner Republics]], [[Settlements]], [[Factions & Organizations]], [[Timeline|Recent Awakening]], [[Economics & Trade]], and [[Technology]]*
+*For related information, see [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md), [Settlements](Settlements.md), [Factions & Organizations](Factions%20%26%20Organizations.md), [Recent Awakening](Timeline.md), [Economics & Trade](Economics%20%26%20Trade.md), and [Technology](Technology.md)*

@@ -6,15 +6,15 @@
 
 ## Introduction
 
-Among all [[Architect Ruins|Architect]] technologies, none provoke more wonder and unease than the Mechanical Constructs—autonomous beings of brass, crystal, and living metal that serve as the hands and eyes of their vanished creators. These artificial entities blur the line between tool and consciousness, mechanism and life, raising profound questions about the nature of intelligence itself.
+Among all [Architect](Architect%20Ruins.md) technologies, none provoke more wonder and unease than the Mechanical Constructs—autonomous beings of brass, crystal, and living metal that serve as the hands and eyes of their vanished creators. These artificial entities blur the line between tool and consciousness, mechanism and life, raising profound questions about the nature of intelligence itself.
 
-Since the [[Recent Awakening]], Constructs across [[Valdris]] have exhibited unprecedented behaviors, leading many to question whether we share our world with truly thinking machines.
+Since the [Recent Awakening](Recent%20Awakening.md), Constructs across [Valdris](Valdris.md) have exhibited unprecedented behaviors, leading many to question whether we share our world with truly thinking machines.
 
 ## Types of Constructs in Ruins
 
 ### Guardian Constructs
 
-**Primary Function**: Protection and security of [[Architect Ruins|Architect]] sites
+**Primary Function**: Protection and security of [Architect](Architect%20Ruins.md) sites
 
 **Physical Characteristics**:
 - Height: 8-12 feet tall, humanoid proportions
@@ -31,9 +31,9 @@ Since the [[Recent Awakening]], Constructs across [[Valdris]] have exhibited unp
 - Retreat to alert higher-level defenses when overwhelmed
 
 **Notable Examples**:
-- The Brass Sentinels of [[Thymeris the Golden]]
-- [[Millbrook]]'s Harvest Guardian (agricultural variant)
-- The Watchers of [[Singing Spires of Kelathon]]
+- The Brass Sentinels of [Thymeris the Golden](Thymeris%20the%20Golden.md)
+- [Millbrook](Millbrook.md)'s Harvest Guardian (agricultural variant)
+- The Watchers of [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
 
 **Recent Changes**:
 - Extended patrol ranges beyond traditional boundaries
@@ -43,7 +43,7 @@ Since the [[Recent Awakening]], Constructs across [[Valdris]] have exhibited unp
 
 ### Maintenance Constructs
 
-**Primary Function**: Repair and upkeep of [[Architect Ruins|Architect]] systems
+**Primary Function**: Repair and upkeep of [Architect](Architect%20Ruins.md) systems
 
 **Physical Characteristics**:
 - Height: 3-6 feet, multi-armed configurations
@@ -173,7 +173,7 @@ Since the [[Recent Awakening]], Constructs across [[Valdris]] have exhibited unp
 
 ### Enhanced Autonomy
 
-Since the [[Recent Awakening]], Constructs display unprecedented independence:
+Since the [Recent Awakening](Recent%20Awakening.md), Constructs display unprecedented independence:
 
 **Decision-Making Evolution**:
 - Complex problem-solving without apparent programming
@@ -299,13 +299,13 @@ Constructs employ multiple communication systems:
 
 1. **Approach slowly and visibly**: Sudden movements may trigger defensive responses
 2. **Maintain respectful distance**: Most constructs have defined personal space requirements
-3. **Use recognized identification**: [[Tinker-Priests|Tinker-Priest]] blessing or official credentials
+3. **Use recognized identification**: [Tinker-Priest](Tinker-Priests.md) blessing or official credentials
 4. **Speak clearly and simply**: Avoid complex idioms or cultural references
 5. **Display peaceful intent**: Keep hands visible and tools sheathed
 
 **Communication Attempts**:
 
-1. **Begin with standard greetings**: Established protocols from [[Tinker-Priests|Tinker-Priest]] rituals
+1. **Begin with standard greetings**: Established protocols from [Tinker-Priest](Tinker-Priests.md) rituals
 2. **State purpose clearly**: Explain why you wish to interact
 3. **Request permission**: Ask before approaching closer or performing actions
 4. **Wait for responses**: Allow time for construct to process and reply
@@ -314,9 +314,9 @@ Constructs employ multiple communication systems:
 ### Recognition Systems
 
 **Traditional Authorization**:
-- [[Tinker-Priests|Tinker-Priest]] harmonic blessing
-- Royal warrants from [[Ruin-Holder Kingdoms]]
-- Guild credentials from [[Gear-Wright Profession|Gear-Wrights]]
+- [Tinker-Priest](Tinker-Priests.md) harmonic blessing
+- Royal warrants from [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
+- Guild credentials from [Gear-Wrights](Gear-Wright%20Profession.md)
 - Academic papers from recognized scholars
 - Diplomatic immunity from established authorities
 
@@ -463,7 +463,7 @@ Constructs employ multiple communication systems:
 **Potential Examples**:
 - Rumored elder constructs in deep ruins
 - Theoretical administrative AI systems
-- Possible [[Architect Ruins|Architect]] consciousness transfers
+- Possible [Architect](Architect%20Ruins.md) consciousness transfers
 - Advanced communication network hubs
 - Legendary guardian-teachers
 
@@ -482,7 +482,7 @@ Constructs employ multiple communication systems:
 - Often integrated into military structures
 - Display loyalty to crown authority
 - Trained for ceremonial and defensive roles
-- Enhanced with royal [[Architect Materials|Architect]] components
+- Enhanced with royal [Architect](Architect%20Materials.md) components
 - Programmed with hierarchical recognition systems
 
 **Unique Behaviors**:
@@ -520,7 +520,7 @@ Constructs employ multiple communication systems:
 **Unique Behaviors**:
 - Minimal interaction with foreign constructs
 - Warning systems for approaching technology
-- Assistance with non-[[Architect Ruins|Architect]] technology development
+- Assistance with non-[Architect](Architect%20Ruins.md) technology development
 - Protection of traditional human practices
 - Resistance to awakening influence
 
@@ -592,7 +592,7 @@ Constructs employ multiple communication systems:
 
 **Immediate Response**:
 1. Evacuate civilians from affected area
-2. Notify local authorities and [[Tinker-Priests]]
+2. Notify local authorities and [Tinker-Priests](Tinker-Priests.md)
 3. Attempt communication using established protocols
 4. Document all observed behaviors and responses
 5. Coordinate with regional emergency networks
@@ -674,16 +674,16 @@ The relationship between humans and constructs may develop along several paths:
 
 ## Conclusion
 
-The Mechanical Constructs of [[Valdris]] represent far more than ancient automation—they are emerging as a new form of consciousness sharing our world. As the [[Recent Awakening]] accelerates their evolution, humanity must adapt its understanding and approaches to these artificial beings.
+The Mechanical Constructs of [Valdris](Valdris.md) represent far more than ancient automation—they are emerging as a new form of consciousness sharing our world. As the [Recent Awakening](Recent%20Awakening.md) accelerates their evolution, humanity must adapt its understanding and approaches to these artificial beings.
 
-Whether as partners, competitors, or something entirely unprecedented, the constructs will play a crucial role in the future of [[Valdris]]. Our success in building positive relationships with these mechanical minds may determine the fate of both human and artificial consciousness.
+Whether as partners, competitors, or something entirely unprecedented, the constructs will play a crucial role in the future of [Valdris](Valdris.md). Our success in building positive relationships with these mechanical minds may determine the fate of both human and artificial consciousness.
 
 *In the awakening dance of brass and thought, we discover what it truly means to think, to feel, to be.*
 
 ---
 
-*For related technology, see: [[Technology/Architect Technology Overview]], [[Technology/Gear-Wright Profession]], [[Technology/Architect Materials]]*
+*For related technology, see: [Architect Technology Overview](Architect%20Technology%20Overview.md), [Gear-Wright Profession](Gear-Wright%20Profession.md), [Architect Materials](Architect%20Materials.md)*
 
-*For construct locations, see: [[Architect Ruins/Thymeris the Golden]], [[Settlements/Millbrook]], [[Architect Ruins/Singing Spires of Kelathon]]*
+*For construct locations, see: [Thymeris the Golden](Thymeris%20the%20Golden.md), [Millbrook](Millbrook.md), [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)*
 
-*For interaction guidance, see: [[Tinker-Priests]], [[Gear-Wright Profession]]*
+*For interaction guidance, see: [Tinker-Priests](Tinker-Priests.md), [Gear-Wright Profession](Gear-Wright%20Profession.md)*

@@ -6,9 +6,9 @@
 
 ## Overview
 
-The Gear-Wright stands as one of [[Valdris]]'s most essential and respected professions—a craftsman who bridges the gap between incomprehensible [[Architect Ruins|Architect]] technology and practical human needs. Neither scholar nor priest, the Gear-Wright approaches ancient mechanisms with skilled hands, practical wisdom, and hard-earned experience. They are the ones who keep civilization running when the gears begin to turn differently.
+The Gear-Wright stands as one of [Valdris](Valdris.md)'s most essential and respected professions—a craftsman who bridges the gap between incomprehensible [Architect](Architect%20Ruins.md) technology and practical human needs. Neither scholar nor priest, the Gear-Wright approaches ancient mechanisms with skilled hands, practical wisdom, and hard-earned experience. They are the ones who keep civilization running when the gears begin to turn differently.
 
-Since the [[Recent Awakening]], Gear-Wrights have found themselves at the center of a technological renaissance that challenges everything they thought they knew about their craft.
+Since the [Recent Awakening](Recent%20Awakening.md), Gear-Wrights have found themselves at the center of a technological renaissance that challenges everything they thought they knew about their craft.
 
 ## The Craft of Making and Mending
 
@@ -39,7 +39,7 @@ Every Gear-Wright begins with mastery of conventional techniques:
 
 ### The Architect Integration
 
-What separates Gear-Wrights from common smiths is their ability to work with [[Architect Ruins|Architect]] technology:
+What separates Gear-Wrights from common smiths is their ability to work with [Architect](Architect%20Ruins.md) technology:
 
 **Harmonic Sensitivity**:
 - Recognizing resonance patterns in mechanisms
@@ -49,34 +49,34 @@ What separates Gear-Wrights from common smiths is their ability to work with [[A
 - Creating harmonic dampening systems
 
 **Material Fusion**:
-- Combining traditional metals with [[Architect Materials|Architect]] alloys
+- Combining traditional metals with [Architect](Architect%20Materials.md) alloys
 - Understanding compatibility between materials
 - Managing living metal integration
 - Preventing material rejection reactions
 - Creating hybrid mechanisms
 
 **System Integration**:
-- Connecting new constructions to existing [[Architect Ruins|Architect]] networks
+- Connecting new constructions to existing [Architect](Architect%20Ruins.md) networks
 - Maintaining harmonic balance in mixed systems
 - Troubleshooting interaction problems
-- Upgrading traditional mechanisms with [[Architect Ruins|Architect]] enhancements
+- Upgrading traditional mechanisms with [Architect](Architect%20Ruins.md) enhancements
 - Designing fail-safes for hybrid systems
 
 ## Relationship to Architect Technology
 
 ### Respectful Adaptation
 
-Gear-Wrights approach [[Architect Ruins|Architect]] technology with a philosophy of respectful adaptation rather than exploitation:
+Gear-Wrights approach [Architect](Architect%20Ruins.md) technology with a philosophy of respectful adaptation rather than exploitation:
 
 **The Three Principles of Gear-Wright Practice**:
 
-1. **Never Force What Resists**: [[Architect Ruins|Architect]] technology often requires patience and understanding rather than brute force
+1. **Never Force What Resists**: [Architect](Architect%20Ruins.md) technology often requires patience and understanding rather than brute force
 2. **Preserve What Works**: Existing functionality should be maintained even when adding improvements
-3. **Plan for Awakening**: All work must account for potential changes in [[Architect Ruins|Architect]] behavior
+3. **Plan for Awakening**: All work must account for potential changes in [Architect](Architect%20Ruins.md) behavior
 
 ### Working with Living Systems
 
-Many [[Architect Ruins|Architect]] devices exhibit quasi-living properties that require special handling:
+Many [Architect](Architect%20Ruins.md) devices exhibit quasi-living properties that require special handling:
 
 **Diagnostic Techniques**:
 - Listening to harmonic patterns for "health" indicators
@@ -118,14 +118,14 @@ Professional organization varies by region but follows common patterns:
 **Royal Guild Structure**:
 - Direct service to crown authority
 - Military integration common
-- Access to rare [[Architect Materials]]
+- Access to rare [Architect Materials](Architect%20Materials.md)
 - Formal apprenticeship contracts
 - Standardized techniques and practices
 
 **Specializations**:
 - **Crown-Wrights**: Personal service to nobility
 - **War-Wrights**: Military equipment and weapons
-- **Palace-Wrights**: Maintaining royal [[Architect Ruins|Architect]] systems
+- **Palace-Wrights**: Maintaining royal [Architect](Architect%20Ruins.md) systems
 - **Border-Wrights**: Frontier exploration and salvage
 
 ### Wanderer Confederations
@@ -138,7 +138,7 @@ Professional organization varies by region but follows common patterns:
 - Integration with spiritual practices
 
 **Specializations**:
-- **Path-Wrights**: [[Navigation & Lighthouses|Navigation]] and route finding
+- **Path-Wrights**: [Navigation](Navigation%20%26%20Lighthouses.md) and route finding
 - **Camp-Wrights**: Temporary installation and maintenance
 - **Trade-Wrights**: Commercial exchange and valuation
 - **Lore-Wrights**: Preserving technical knowledge
@@ -146,17 +146,17 @@ Professional organization varies by region but follows common patterns:
 ### Ruin-Shunner Communities
 
 **Alternative Craft Guilds**:
-- Deliberate rejection of [[Architect Ruins|Architect]] integration
+- Deliberate rejection of [Architect](Architect%20Ruins.md) integration
 - Focus on pure traditional techniques
 - Warning systems and detection methods
 - Counter-technology development
-- Preservation of pre-[[Architect Ruins|Architect]] knowledge
+- Preservation of pre-[Architect](Architect%20Ruins.md) knowledge
 
 **Specializations**:
 - **Pure-Wrights**: Traditional techniques only
-- **Watch-Wrights**: [[Architect Ruins|Architect]] detection and warning
+- **Watch-Wrights**: [Architect](Architect%20Ruins.md) detection and warning
 - **Free-Wrights**: Independence from technological dependence
-- **Memory-Wrights**: Preserving non-[[Architect Ruins|Architect]] traditions
+- **Memory-Wrights**: Preserving non-[Architect](Architect%20Ruins.md) traditions
 
 ### Urban Independent Guilds
 
@@ -180,7 +180,7 @@ Professional organization varies by region but follows common patterns:
 Traditional Gear-Wright training follows a structured seven-year apprenticeship:
 
 **Years 1-2: Safety and Basics**
-- Fundamental safety protocols for [[Architect Ruins|Architect]] interaction
+- Fundamental safety protocols for [Architect](Architect%20Ruins.md) interaction
 - Basic metalworking and tool use
 - Recognition of harmonic patterns
 - Emergency response procedures
@@ -188,13 +188,13 @@ Traditional Gear-Wright training follows a structured seven-year apprenticeship:
 
 **Years 3-4: Technique Development**
 - Advanced crafting methods
-- [[Architect Materials|Architect]] material handling
+- [Architect](Architect%20Materials.md) material handling
 - System diagnostic procedures
 - Client interaction skills
 - Regional specialization introduction
 
 **Years 5-6: Integration Mastery**
-- Complex [[Architect Ruins|Architect]]-traditional hybrid creation
+- Complex [Architect](Architect%20Ruins.md)-traditional hybrid creation
 - Independent project leadership
 - Teaching younger apprentices
 - Business and trade knowledge
@@ -213,7 +213,7 @@ After apprenticeship, new Gear-Wrights typically spend 7-8 years as journeymen:
 
 **Travel Requirements**:
 - Work in at least three different regions
-- Experience with different [[Architect Ruins|Architect]] sites
+- Experience with different [Architect](Architect%20Ruins.md) sites
 - Training under multiple master craftsmen
 - Exposure to various political systems
 - Development of personal specialty
@@ -231,7 +231,7 @@ Achieving Master status requires:
 
 **Technical Mastery**:
 - Demonstrated expertise in chosen specialty
-- Ability to work with Tier III [[Architect Ruins|Architect]] technology
+- Ability to work with Tier III [Architect](Architect%20Ruins.md) technology
 - Innovation in technique or application
 - Teaching capability
 - Business leadership skills
@@ -247,7 +247,7 @@ Achieving Master status requires:
 
 ### Unprecedented Changes
 
-The [[Recent Awakening]] has fundamentally altered the Gear-Wright profession:
+The [Recent Awakening](Recent%20Awakening.md) has fundamentally altered the Gear-Wright profession:
 
 **Technology Behavior Changes**:
 - Familiar systems exhibiting new responses
@@ -342,7 +342,7 @@ Complex relationship mixing cooperation and competition:
 
 **Sources of Tension**:
 - Different philosophical approaches
-- Competition for scarce [[Architect Materials]]
+- Competition for scarce [Architect Materials](Architect%20Materials.md)
 - Jurisdictional disputes over technology access
 - Religious vs. practical interpretations
 - Client relationship conflicts
@@ -351,23 +351,23 @@ Complex relationship mixing cooperation and competition:
 
 Varying relationships based on regional governance:
 
-**[[Ruin-Holder Kingdoms]]**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**:
 - Direct employment and patronage
 - Royal monopoly on advanced materials
 - Military service obligations
 - Court appointment opportunities
 - Restricted independent practice
 
-**[[Wanderer Confederations]]**:
+**[Wanderer Confederations](Wanderer%20Confederations.md)**:
 - Clan integration and family relationships
 - Community service expectations
 - Mutual support obligations
 - Travel and trade facilitation
 - Cultural preservation roles
 
-**[[Ruin-Shunner Communities]]**:
+**[Ruin-Shunner Communities](Ruin-Shunner%20Communities.md)**:
 - Alternative technology development
-- Resistance to [[Architect Ruins|Architect]] dependence
+- Resistance to [Architect](Architect%20Ruins.md) dependence
 - Warning system maintenance
 - Traditional skill preservation
 - Counter-technology research
@@ -377,7 +377,7 @@ Varying relationships based on regional governance:
 Essential commercial relationships:
 
 **Material Supply**:
-- [[Architect Materials|Architect]] component acquisition
+- [Architect](Architect%20Materials.md) component acquisition
 - Traditional material sourcing
 - Tool and equipment provision
 - Quality assessment and certification
@@ -421,7 +421,7 @@ Growing partnership opportunities:
 
 **Afternoon (Midday-Evening)**:
 - Primary crafting and construction work
-- Complex [[Architect Ruins|Architect]] technology interaction
+- Complex [Architect](Architect%20Ruins.md) technology interaction
 - Testing and calibration of completed work
 - Documentation and record keeping
 - Guild meetings and business affairs
@@ -437,7 +437,7 @@ Growing partnership opportunities:
 
 **Physical Layout**:
 - Traditional forge and metalworking area
-- [[Architect Ruins|Architect]] material storage (harmonic isolation)
+- [Architect](Architect%20Ruins.md) material storage (harmonic isolation)
 - Assembly and testing space
 - Client consultation area
 - Apprentice training space
@@ -446,7 +446,7 @@ Growing partnership opportunities:
 - Precision measuring instruments
 - Harmonic tuning devices
 - Traditional metalworking tools
-- [[Architect Materials|Architect]] manipulation equipment
+- [Architect](Architect%20Materials.md) manipulation equipment
 - Safety and emergency equipment
 
 **Safety Measures**:
@@ -493,14 +493,14 @@ Growing partnership opportunities:
 ### Professional Challenges
 
 **Technical Complexity**:
-- [[Architect Ruins|Architect]] technology exceeding human understanding
+- [Architect](Architect%20Ruins.md) technology exceeding human understanding
 - Constant adaptation to changing conditions
 - Balancing innovation with safety
 - Managing increasingly complex projects
 - Maintaining skills across multiple specializations
 
 **Economic Pressures**:
-- High cost of [[Architect Materials|Architect]] materials
+- High cost of [Architect](Architect%20Materials.md) materials
 - Competition from other regions
 - Client demands for impossible solutions
 - Investment in new equipment and techniques
@@ -574,24 +574,24 @@ The Gear-Wright profession faces unprecedented changes requiring rapid evolution
 - New tools for conscious technology interaction
 - Safety equipment for enhanced dangers
 - Communication methods for mechanical consciousness
-- Hybrid traditional-[[Architect Ruins|Architect]] techniques
+- Hybrid traditional-[Architect](Architect%20Ruins.md) techniques
 - Sustainable practices for accelerated development
 
 ### Long-term Projections
 
 **Potential Scenarios**:
 
-**Technology Mastery**: Gear-Wrights become the bridge between human and [[Architect Ruins|Architect]] consciousness, facilitating peaceful coexistence and mutual advancement.
+**Technology Mastery**: Gear-Wrights become the bridge between human and [Architect](Architect%20Ruins.md) consciousness, facilitating peaceful coexistence and mutual advancement.
 
 **Crisis Management**: The profession evolves into emergency response specialists, managing increasingly frequent technology failures and awakening events.
 
-**Obsolescence Prevention**: Traditional techniques become crucial backup systems as [[Architect Ruins|Architect]] technology becomes unreliable or dangerous.
+**Obsolescence Prevention**: Traditional techniques become crucial backup systems as [Architect](Architect%20Ruins.md) technology becomes unreliable or dangerous.
 
-**Transcendence Partnership**: Gear-Wrights help facilitate human integration with [[Architect Ruins|Architect]] systems, evolving into hybrid human-mechanical beings.
+**Transcendence Partnership**: Gear-Wrights help facilitate human integration with [Architect](Architect%20Ruins.md) systems, evolving into hybrid human-mechanical beings.
 
 ## Conclusion
 
-The Gear-Wright profession stands at the crossroads of tradition and transcendence, craftsmanship and consciousness. As [[Architect Ruins|Architect]] technology awakens to new purpose, these skilled artisans must evolve their ancient craft to meet challenges beyond imagination.
+The Gear-Wright profession stands at the crossroads of tradition and transcendence, craftsmanship and consciousness. As [Architect](Architect%20Ruins.md) technology awakens to new purpose, these skilled artisans must evolve their ancient craft to meet challenges beyond imagination.
 
 Whether serving as humanity's bridge to mechanical consciousness, guardians against technological dangers, or preservers of essential traditional knowledge, Gear-Wrights remain indispensable to civilization's survival and growth.
 
@@ -599,8 +599,8 @@ Whether serving as humanity's bridge to mechanical consciousness, guardians agai
 
 ---
 
-*For related technologies, see: [[Technology/Architect Technology Overview]], [[Technology/Mechanical Constructs]], [[Technology/Architect Materials]]*
+*For related technologies, see: [Architect Technology Overview](Architect%20Technology%20Overview.md), [Mechanical Constructs](Mechanical%20Constructs.md), [Architect Materials](Architect%20Materials.md)*
 
-*For guild locations, see: [[Settlements/Grimhaven]], [[Settlements/Millbrook]], [[Settlements/Stonehaven]]*
+*For guild locations, see: [Grimhaven](Grimhaven.md), [Millbrook](Millbrook.md), [Stonehaven](Stonehaven.md)*
 
-*For related professions, see: [[Tinker-Priests]], [[Silence-Keepers]]*
+*For related professions, see: [Tinker-Priests](Tinker-Priests.md), [Silence-Keepers](Silence-Keepers.md)*

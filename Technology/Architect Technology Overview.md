@@ -6,23 +6,23 @@
 
 ## Introduction
 
-The [[Architect Ruins|Architect]] technology that permeates [[Valdris]] represents the most significant force shaping daily life, politics, and culture across the continent. After eight centuries of study since the [[Great Silence]], we have learned to work with their devices while understanding precious little of their true nature. This overview consolidates current knowledge for scholars, rulers, and adventurers who must navigate a world shaped by incomprehensible genius.
+The [Architect](Architect%20Ruins.md) technology that permeates [Valdris](Valdris.md) represents the most significant force shaping daily life, politics, and culture across the continent. After eight centuries of study since the [Great Silence](Great%20Silence.md), we have learned to work with their devices while understanding precious little of their true nature. This overview consolidates current knowledge for scholars, rulers, and adventurers who must navigate a world shaped by incomprehensible genius.
 
-For detailed analysis of specific technologies, see [[Lore/Architect Technology]].
+For detailed analysis of specific technologies, see [Architect Technology](Architect%20Technology.md).
 
 ## Core Principles of Architect Technology
 
 ### The Three Pillars
 
-**Harmonic Resonance**: Every [[Architect Ruins|Architect]] device operates through specific frequencies and vibrations. These harmonics carry information, power, and commands throughout their networks. Understanding resonance patterns is key to safe interaction.
+**Harmonic Resonance**: Every [Architect](Architect%20Ruins.md) device operates through specific frequencies and vibrations. These harmonics carry information, power, and commands throughout their networks. Understanding resonance patterns is key to safe interaction.
 
-**Perpetual Motion**: [[Architect Ruins|Architect]] mechanisms violate conventional understanding of energy by maintaining motion without apparent power sources. Whether through dimensional tapping, temporal loops, or unknown physics, their clockwork never stops.
+**Perpetual Motion**: [Architect](Architect%20Ruins.md) mechanisms violate conventional understanding of energy by maintaining motion without apparent power sources. Whether through dimensional tapping, temporal loops, or unknown physics, their clockwork never stops.
 
-**Living Integration**: The most advanced [[Architect Ruins|Architect]] technology blurs the line between mechanism and organism. Their devices adapt, learn, and sometimes exhibit apparent consciousness.
+**Living Integration**: The most advanced [Architect](Architect%20Ruins.md) technology blurs the line between mechanism and organism. Their devices adapt, learn, and sometimes exhibit apparent consciousness.
 
 ### Classification Tiers
 
-The [[Tinker-Priests]] classify all [[Architect Ruins|Architect]] technology into five tiers of complexity and danger:
+The [Tinker-Priests](Tinker-Priests.md) classify all [Architect](Architect%20Ruins.md) technology into five tiers of complexity and danger:
 
 **Tier I - Passive Mechanisms**
 - Require no activation or user input
@@ -34,35 +34,35 @@ The [[Tinker-Priests]] classify all [[Architect Ruins|Architect]] technology int
 - React to environmental stimuli automatically
 - Moderate safety with proper understanding
 - Include: agricultural enhancers, climate controls, basic defenses
-- Examples: [[Millbrook]]'s Harvest Guardian, automatic bridges, weather vanes
+- Examples: [Millbrook](Millbrook.md)'s Harvest Guardian, automatic bridges, weather vanes
 
 **Tier III - Interactive Constructs**
 - Require deliberate user interface
 - Potentially dangerous without training
 - Include: control panels, communication arrays, transport systems
-- Examples: [[Thymeris the Golden]]'s lift platforms, crystal communication networks
+- Examples: [Thymeris the Golden](Thymeris%20the%20Golden.md)'s lift platforms, crystal communication networks
 
 **Tier IV - Autonomous Entities**
 - Exhibit apparent intelligence and self-direction
 - Highly dangerous, requiring expert handling
-- Include: [[Mechanical Constructs]], city management systems, guardian networks
+- Include: [Mechanical Constructs](Mechanical%20Constructs.md), city management systems, guardian networks
 - Examples: Roaming sentinels, repair automatons, defensive arrays
 
 **Tier V - Transcendent Mechanisms**
 - Defy conventional understanding entirely
 - Extremely dangerous, often forbidden
 - Include: consciousness interfaces, reality-altering devices, weapons of mass destruction
-- Examples: The [[Great Silence]] itself, theoretical resurrection machines
+- Examples: The [Great Silence](Great%20Silence.md) itself, theoretical resurrection machines
 
 ## Access Levels and Restrictions
 
 ### Public Technology
 
-**Tier I and II devices** form the foundation of daily life across [[Valdris]]:
+**Tier I and II devices** form the foundation of daily life across [Valdris](Valdris.md):
 - Available to general population
 - Often inherited through families
 - Traded in common markets
-- Maintained by local [[Gear-Wright Profession|Gear-Wrights]]
+- Maintained by local [Gear-Wrights](Gear-Wright%20Profession.md)
 - No special permits required
 
 Common public technologies include:
@@ -76,7 +76,7 @@ Common public technologies include:
 
 **Tier III devices** require permits and oversight:
 - Controlled by local authorities
-- Require [[Tinker-Priests|Tinker-Priest]] blessing
+- Require [Tinker-Priest](Tinker-Priests.md) blessing
 - Limited to specific purposes
 - Regular inspection mandatory
 - Severe penalties for unauthorized use
@@ -92,13 +92,13 @@ Common public technologies include:
 
 ### The Awakening Exception
 
-Since the [[Recent Awakening]], many restrictions have become difficult to enforce as ruins activate systems without human input. Emergency protocols now focus on evacuation and containment rather than prevention.
+Since the [Recent Awakening](Recent%20Awakening.md), many restrictions have become difficult to enforce as ruins activate systems without human input. Emergency protocols now focus on evacuation and containment rather than prevention.
 
 ## Current Awakening Changes
 
 ### Unprecedented Activation
 
-The [[Recent Awakening]] three months ago marked the most significant change in [[Architect Ruins|Architect]] technology since the [[Great Silence]]:
+The [Recent Awakening](Recent%20Awakening.md) three months ago marked the most significant change in [Architect](Architect%20Ruins.md) technology since the [Great Silence](Great%20Silence.md):
 
 **Network Synchronization**: Previously isolated ruins now communicate actively
 - Continental coordination observed
@@ -113,7 +113,7 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 - Communication arrays reaching further
 
 **New System Activation**: Long-dormant technology coming online
-- [[Thymeris the Golden]] fully awakened after centuries
+- [Thymeris the Golden](Thymeris%20the%20Golden.md) fully awakened after centuries
 - Hidden chambers revealing themselves
 - Underground networks activating
 - Previously unknown device types appearing
@@ -127,9 +127,9 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 - Medical treatments showing enhanced effectiveness
 
 **For Politics**:
-- [[Ruin-Holder Kingdoms]] gaining unprecedented power
-- [[Wanderer Confederations]] adapting to new migration patterns
-- [[Ruin-Shunner Communities]] facing technological incursion
+- [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) gaining unprecedented power
+- [Wanderer Confederations](Wanderer%20Confederations.md) adapting to new migration patterns
+- [Ruin-Shunner Communities](Ruin-Shunner%20Communities.md) facing technological incursion
 - International tensions rising over ruin access
 
 **For Exploration**:
@@ -152,7 +152,7 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 - Overloaded systems release accumulated power
 - Symptoms: burns, paralysis, consciousness disruption
 - Prevention: proper grounding, energy monitors
-- Treatment: immediate medical attention, [[Architect Ruins|Architect]] healing chambers
+- Treatment: immediate medical attention, [Architect](Architect%20Ruins.md) healing chambers
 
 **Temporal Anomalies**:
 - Some devices manipulate local time flow
@@ -163,10 +163,10 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 ### Mechanical Dangers
 
 **Construct Malfunction**:
-- [[Mechanical Constructs]] may become hostile
+- [Mechanical Constructs](Mechanical%20Constructs.md) may become hostile
 - Symptoms: aggressive behavior, failure to recognize commands
 - Prevention: regular maintenance, proper identification protocols
-- Response: immediate evacuation, [[Tinker-Priests|Tinker-Priest]] intervention
+- Response: immediate evacuation, [Tinker-Priest](Tinker-Priests.md) intervention
 
 **System Integration**:
 - Prolonged exposure to living metal can cause biological integration
@@ -178,7 +178,7 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 - One failing system can trigger continental network problems
 - Symptoms: widespread system shutdowns, chaotic activations
 - Prevention: isolation protocols, emergency shutoffs
-- Response: coordinate with [[Tinker-Priests]], evacuate affected regions
+- Response: coordinate with [Tinker-Priests](Tinker-Priests.md), evacuate affected regions
 
 ### Psychological Hazards
 
@@ -189,7 +189,7 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 - Treatment: consciousness cleansing rituals, memory restoration
 
 **Existential Revelation**:
-- Understanding [[Architect Ruins|Architect]] technology can shatter worldviews
+- Understanding [Architect](Architect%20Ruins.md) technology can shatter worldviews
 - Symptoms: nihilism, religious crisis, complete lifestyle changes
 - Prevention: gradual exposure, philosophical preparation
 - Treatment: counseling, community support, new purpose discovery
@@ -198,9 +198,9 @@ The [[Recent Awakening]] three months ago marked the most significant change in 
 
 ### Initial Assessment
 
-Before interacting with any [[Architect Ruins|Architect]] technology:
+Before interacting with any [Architect](Architect%20Ruins.md) technology:
 
-1. **Identify Classification Tier**: Use [[Tinker-Priests|Tinker-Priest]] guidelines
+1. **Identify Classification Tier**: Use [Tinker-Priest](Tinker-Priests.md) guidelines
 2. **Check Local Regulations**: Ensure legal authority to interact
 3. **Assess Current State**: Active, dormant, or malfunctioning?
 4. **Identify Safety Hazards**: Environmental, mechanical, or psychological
@@ -212,11 +212,11 @@ Before interacting with any [[Architect Ruins|Architect]] technology:
 1. Approach slowly, observe behavior patterns
 2. Test with minimal input first
 3. Watch for unexpected responses
-4. Use standard protocols from [[Gear-Wright Profession|Gear-Wright]] training
+4. Use standard protocols from [Gear-Wright](Gear-Wright%20Profession.md) training
 5. Document any unusual behavior
 
 **For Tier III Technology**:
-1. Ensure [[Tinker-Priests|Tinker-Priest]] authorization
+1. Ensure [Tinker-Priest](Tinker-Priests.md) authorization
 2. Use proper harmonic frequencies
 3. Maintain respectful interaction approach
 4. Never force unresponsive systems
@@ -234,21 +234,21 @@ Before interacting with any [[Architect Ruins|Architect]] technology:
 **System Malfunction**:
 1. Immediately cease interaction
 2. Evacuate to safe distance (minimum 100 meters)
-3. Alert local authorities and [[Tinker-Priests]]
+3. Alert local authorities and [Tinker-Priests](Tinker-Priests.md)
 4. Document all observed behaviors
 5. Do not attempt repairs without authorization
 
 **Cascade Failure**:
 1. Sound regional alarms
 2. Evacuate all civilians from ruin vicinity
-3. Coordinate with multiple [[Tinker-Priests|Tinker-Priest]] chapters
+3. Coordinate with multiple [Tinker-Priest](Tinker-Priests.md) chapters
 4. Prepare for extended disruption period
 5. Activate emergency supply chains
 
 **Consciousness Effect**:
 1. Remove affected individuals from technology source
 2. Provide immediate psychological support
-3. Seek [[Tinker-Priests|Tinker-Priest]] cleansing rituals
+3. Seek [Tinker-Priest](Tinker-Priests.md) cleansing rituals
 4. Monitor for delayed effects
 5. Document experience for research
 
@@ -256,34 +256,34 @@ Before interacting with any [[Architect Ruins|Architect]] technology:
 
 ### Urban Planning
 
-Cities across [[Valdris]] design around [[Architect Ruins|Architect]] technology:
-- **Infrastructure Integration**: Water, power, and waste systems enhanced by [[Architect Ruins|Architect]] devices
+Cities across [Valdris](Valdris.md) design around [Architect](Architect%20Ruins.md) technology:
+- **Infrastructure Integration**: Water, power, and waste systems enhanced by [Architect](Architect%20Ruins.md) devices
 - **Zoning Considerations**: Dangerous technology isolated from residential areas
 - **Emergency Access**: Rapid response routes to technology districts
 - **Growth Management**: City expansion planned around ruin networks
 
 ### Economic Systems
 
-[[Architect Ruins|Architect]] technology drives the continental economy:
-- **Primary Resources**: [[Architect Materials]] form basis of luxury trade
+[Architect](Architect%20Ruins.md) technology drives the continental economy:
+- **Primary Resources**: [Architect Materials](Architect%20Materials.md) form basis of luxury trade
 - **Manufacturing**: Enhanced production through harmonic acceleration
-- **Transportation**: Trade routes optimized by [[Navigation & Lighthouses|navigation technology]]
-- **Innovation**: [[Gear-Wright Profession|Gear-Wrights]] adapt ancient designs for modern needs
+- **Transportation**: Trade routes optimized by [navigation technology](Navigation%20%26%20Lighthouses.md)
+- **Innovation**: [Gear-Wrights](Gear-Wright%20Profession.md) adapt ancient designs for modern needs
 
 ### Educational Requirements
 
-Understanding [[Architect Ruins|Architect]] technology requires specialized training:
+Understanding [Architect](Architect%20Ruins.md) technology requires specialized training:
 - **Basic Literacy**: All citizens learn fundamental safety protocols
-- **Professional Training**: [[Gear-Wright Profession|Gear-Wrights]] and technicians require apprenticeships
-- **Advanced Study**: [[Tinker-Priests]] undergo decades of theological and technical education
+- **Professional Training**: [Gear-Wrights](Gear-Wright%20Profession.md) and technicians require apprenticeships
+- **Advanced Study**: [Tinker-Priests](Tinker-Priests.md) undergo decades of theological and technical education
 - **Specialized Fields**: Scholars, explorers, and administrators need focused expertise
 
 ### Legal Frameworks
 
-Laws governing [[Architect Ruins|Architect]] technology vary by region:
-- **[[Ruin-Holder Kingdoms]]**: Technology ownership tied to political authority
-- **[[Wanderer Confederations]]**: Community-based sharing protocols
-- **[[Ruin-Shunner Communities]]**: Prohibition and isolation laws
+Laws governing [Architect](Architect%20Ruins.md) technology vary by region:
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**: Technology ownership tied to political authority
+- **[Wanderer Confederations](Wanderer%20Confederations.md)**: Community-based sharing protocols
+- **[Ruin-Shunner Communities](Ruin-Shunner%20Communities.md)**: Prohibition and isolation laws
 - **Independent Cities**: Pragmatic regulation based on local needs
 
 ## Regional Approaches to Technology
@@ -307,7 +307,7 @@ Laws governing [[Architect Ruins|Architect]] technology vary by region:
 ### Shunner Caution
 
 "True strength comes from within":
-- Complete rejection of [[Architect Ruins|Architect]] dependence
+- Complete rejection of [Architect](Architect%20Ruins.md) dependence
 - Alternative technology development
 - Warning systems for detection
 - Cultural taboos against usage
@@ -324,7 +324,7 @@ Laws governing [[Architect Ruins|Architect]] technology vary by region:
 
 ### The Acceleration Question
 
-Current trends suggest [[Architect Ruins|Architect]] technology is approaching some kind of threshold:
+Current trends suggest [Architect](Architect%20Ruins.md) technology is approaching some kind of threshold:
 - **Increasing Integration**: Systems becoming more interconnected
 - **Enhanced Capabilities**: Existing technology gaining new functions
 - **Consciousness Emergence**: Growing evidence of technological awareness
@@ -355,16 +355,16 @@ Current trends suggest [[Architect Ruins|Architect]] technology is approaching s
 
 ## Conclusion
 
-[[Architect Ruins|Architect]] technology remains both humanity's greatest tool and its most significant challenge. As the [[Recent Awakening]] accelerates changes across [[Valdris]], understanding these systems becomes crucial for survival and prosperity.
+[Architect](Architect%20Ruins.md) technology remains both humanity's greatest tool and its most significant challenge. As the [Recent Awakening](Recent%20Awakening.md) accelerates changes across [Valdris](Valdris.md), understanding these systems becomes crucial for survival and prosperity.
 
-Whether we master this technology, are mastered by it, or find a path of cooperation with forces beyond our comprehension, one truth remains: the choices we make today regarding [[Architect Ruins|Architect]] technology will determine the future of civilization itself.
+Whether we master this technology, are mastered by it, or find a path of cooperation with forces beyond our comprehension, one truth remains: the choices we make today regarding [Architect](Architect%20Ruins.md) technology will determine the future of civilization itself.
 
 *The gears turn faster now. We must turn with them, or be crushed beneath their relentless progress.*
 
 ---
 
-*For specific applications, see: [[Gear-Wright Profession]], [[Mechanical Constructs]], [[Navigation & Lighthouses]], [[Architect Materials]]*
+*For specific applications, see: [Gear-Wright Profession](Gear-Wright%20Profession.md), [Mechanical Constructs](Mechanical%20Constructs.md), [Navigation & Lighthouses](Navigation%20%26%20Lighthouses.md), [Architect Materials](Architect%20Materials.md)*
 
-*For detailed analysis, see: [[Lore/Architect Technology]], [[Lore/Architect]], [[Recent Awakening]]*
+*For detailed analysis, see: [Architect Technology](Architect%20Technology.md), [Architect](Architect.md), [Recent Awakening](Recent%20Awakening.md)*
 
-*For political implications, see: [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], [[Political Systems/Ruin-Shunner Republics]]*
+*For political implications, see: [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)*

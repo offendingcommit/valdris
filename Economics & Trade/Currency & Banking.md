@@ -4,24 +4,24 @@
 
 ## Quick Navigation
 
-- [[#Regional Currency Systems]]
-- [[#Banking Institutions]]
-- [[#Artifact Valuation Methods]]
-- [[#Exchange Mechanisms]]
-- [[#Credit and Investment]]
-- [[#Political Tensions]]
-- [[#Awakening Financial Impact]]
-- [[#Adventure Opportunities]]
+- [#Regional Currency Systems](%23Regional%20Currency%20Systems.md)
+- [#Banking Institutions](%23Banking%20Institutions.md)
+- [#Artifact Valuation Methods](%23Artifact%20Valuation%20Methods.md)
+- [#Exchange Mechanisms](%23Exchange%20Mechanisms.md)
+- [#Credit and Investment](%23Credit%20and%20Investment.md)
+- [#Political Tensions](%23Political%20Tensions.md)
+- [#Awakening Financial Impact](%23Awakening%20Financial%20Impact.md)
+- [#Adventure Opportunities](%23Adventure%20Opportunities.md)
 
 ---
 
 ## Regional Currency Systems
 
-The monetary landscape of [[Valdris]] reflects its political fragmentation and dual economic nature. Traditional precious metal currencies handle daily commerce, while [[Architect Technology|Architect artifacts]] function as a parallel luxury market with its own complex valuation systems.
+The monetary landscape of [Valdris](Valdris.md) reflects its political fragmentation and dual economic nature. Traditional precious metal currencies handle daily commerce, while [Architect artifacts](Architect%20Technology.md) function as a parallel luxury market with its own complex valuation systems.
 
 ### Traditional Currencies
 
-**[[Settlements/Grimhaven]] Maritime Standard**:
+**[Grimhaven](Grimhaven.md) Maritime Standard**:
 - **Copper Wheels** (common currency): Ship's wheel design, 12 to 1 silver
 - **Silver Anchors** (major purchases): Anchor motif with rope border, 20 to 1 gold  
 - **Gold Lighthouses** (large transactions): Lighthouse design with beacon detail
@@ -37,7 +37,7 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 
 *Current Value*: 1 Gold Crown = 200 Copper Clips
 
-**[[Political Systems/Wanderer Confederations]] Trade Script**:
+**[Wanderer Confederations](Wanderer%20Confederations.md) Trade Script**:
 - **Copper Paths** (practical): Irregular shapes following traditional clan markers
 - **Silver Bridges** (clan trade): Bridge designs connecting clan symbols
 - **Gold Horizons** (convergence currency): Used only during Great Convergences
@@ -45,7 +45,7 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 
 *Current Value*: 1 Gold Horizon = 300 Copper Paths (fluctuates seasonally)
 
-**[[Political Systems/Ruin-Shunner Republics]] Democratic Mint**:
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) Democratic Mint**:
 - **Copper Hands** (labor currency): Hand motif symbolizing honest work
 - **Silver Hammers** (craft value): Hammer and anvil design
 - **Gold Anvils** (master craft): Anvil with sparks, representing skilled labor
@@ -114,13 +114,13 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 
 **Thymeris Acquisition Guild** (Exclusive membership):
 - **Services**: Fresh excavation financing, ruin exploration loans, discovery rights
-- **Specialization**: Direct relationships with [[Factions & Organizations/Tinker-Priests]]
-- **Holdings**: Vaults within [[Architect Ruins/Thymeris the Golden]] itself
+- **Specialization**: Direct relationships with [Tinker-Priests](Tinker-Priests.md)
+- **Holdings**: Vaults within [Thymeris the Golden](Thymeris%20the%20Golden.md) itself
 - **Access**: Restricted to licensed archaeologists and approved investors
 
 **The Crystal Exchange** (Academic-affiliated):
 - **Services**: Research funding, artifact study loans, scholarly investment
-- **Specialization**: [[Factions & Organizations/Academy of Dual Mysteries]] partnerships
+- **Specialization**: [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) partnerships
 - **Holdings**: University-protected facilities with academic oversight
 - **Ethics**: Strict research-only policies, no military applications
 
@@ -135,7 +135,7 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 - **Power Scaling**: Magnitude of effect when activated
 - **Integration Potential**: Can it work with other artifacts?
 
-**Academic Classification** (used by [[Factions & Organizations/Academy of Dual Mysteries]]):
+**Academic Classification** (used by [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)):
 - **Historical Significance**: Connection to pre-Silence civilization
 - **Technical Complexity**: Sophistication of internal mechanisms
 - **Research Value**: Potential for advancing understanding
@@ -171,7 +171,7 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 - Condition disagreements about repair vs. original state
 
 **Resolution Mechanisms**:
-- **Arbitration Panels**: Mix of merchants, scholars, and [[Factions & Organizations/Tinker-Priests]]
+- **Arbitration Panels**: Mix of merchants, scholars, and [Tinker-Priests](Tinker-Priests.md)
 - **Trial Periods**: Temporary use agreements to verify functionality
 - **Multiple Assessments**: Independent evaluations from different guilds
 - **Awakening Clauses**: Contracts adjusting for post-purchase behavioral changes
@@ -267,26 +267,26 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 **Artifact-Enhanced Assessment**:
 - **Device Portfolio**: Collection value and diversification
 - **Technical Knowledge**: Ability to maintain and operate artifacts
-- **Institutional Relationships**: Connections with [[Factions & Organizations/Tinker-Priests]] or [[Factions & Organizations/Academy of Dual Mysteries]]
+- **Institutional Relationships**: Connections with [Tinker-Priests](Tinker-Priests.md) or [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)
 - **Awakening Adaptation**: Demonstrated ability to handle changing artifact behaviors
 
 ## Political Tensions
 
 ### Currency Wars
 
-**[[Political Systems/Ruin-Holder Kingdoms]] Advantages**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) Advantages**:
 - Stable artifact supplies supporting currency backing
 - Political leverage through controlled access to valuable ruins
 - Military superiority funded by artifact taxation
 - Diplomatic influence via artifact gifts and trade agreements
 
-**[[Political Systems/Ruin-Shunner Republics]] Resistance**:
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) Resistance**:
 - Deliberate avoidance of artifact-backed currencies
 - Democratic oversight preventing economic manipulation
 - Traditional trade relationships independent of ruins
 - Agricultural surpluses providing alternative value backing
 
-**[[Political Systems/Wanderer Confederations]] Flexibility**:
+**[Wanderer Confederations](Wanderer%20Confederations.md) Flexibility**:
 - Multiple currency systems reducing dependence on any single standard
 - Seasonal economic cycles providing political independence
 - Cultural values resisting permanent financial entanglements
@@ -341,7 +341,7 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 **Banking House Changes**:
 - Increased reserves for unexpected market volatility
 - New training programs for staff dealing with artifact economics
-- Partnership agreements with [[Factions & Organizations/Tinker-Priests]] for technical advice
+- Partnership agreements with [Tinker-Priests](Tinker-Priests.md) for technical advice
 - Emergency protocols for handling awakening-related disruptions
 
 **Regulatory Responses**:
@@ -372,7 +372,7 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 
 **"Currency Sabotage"**: A series of perfectly timed economic disruptions is destabilizing multiple political systems simultaneously. Players must uncover whether this represents natural market forces, international conspiracy, or something connected to the Architect awakening.
 
-**"The Artifact Standard War"**: Competing factions want to establish their artifacts as backing for a universal currency, potentially unifying [[Valdris]]'s economy under their control. Players become caught between rival banking houses, political systems, and possibly awakening forces with their own agenda.
+**"The Artifact Standard War"**: Competing factions want to establish their artifacts as backing for a universal currency, potentially unifying [Valdris](Valdris.md)'s economy under their control. Players become caught between rival banking houses, political systems, and possibly awakening forces with their own agenda.
 
 **"Economic Espionage"**: Players discover their seemingly routine courier work involves carrying coded financial intelligence between rival banking houses. The information concerns locations of newly awakened ruins and could trigger economic warfare if it falls into the wrong hands.
 
@@ -388,17 +388,17 @@ The monetary landscape of [[Valdris]] reflects its political fragmentation and d
 
 ## Related Documentation
 
-- [[Economics & Trade/Dual Economy Overview]]: Economic system foundations
-- [[Economics & Trade/Trade Routes & Networks]]: Commercial infrastructure context
-- [[Economics & Trade/Resource Distribution]]: Material economics
-- [[Economics & Trade/Guild Economics]]: Professional financial structures
-- [[Political Systems/Ruin-Holder Kingdoms]]: Artifact-based economic advantages
-- [[Political Systems/Wanderer Confederations]]: Mobile banking culture
-- [[Political Systems/Ruin-Shunner Republics]]: Traditional financial systems
-- [[Factions & Organizations/Tinker-Priests]]: Artifact authentication authorities
+- [Dual Economy Overview](Dual%20Economy%20Overview.md): Economic system foundations
+- [Trade Routes & Networks](Trade%20Routes%20%26%20Networks.md): Commercial infrastructure context
+- [Resource Distribution](Resource%20Distribution.md): Material economics
+- [Guild Economics](Guild%20Economics.md): Professional financial structures
+- [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md): Artifact-based economic advantages
+- [Wanderer Confederations](Wanderer%20Confederations.md): Mobile banking culture
+- [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md): Traditional financial systems
+- [Tinker-Priests](Tinker-Priests.md): Artifact authentication authorities
 
 ---
 
-*In [[Valdris]], managing money means navigating between two worlds—the familiar realm of coins and ledgers, and the mysterious domain of artifacts whose value can change without warning.*
+*In [Valdris](Valdris.md), managing money means navigating between two worlds—the familiar realm of coins and ledgers, and the mysterious domain of artifacts whose value can change without warning.*
 
 #currency #banking #finance #artifacts #awakening #political-economy

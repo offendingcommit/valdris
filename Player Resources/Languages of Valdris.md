@@ -4,7 +4,7 @@
 
 ## Overview
 
-Communication in [[Valdris]] reflects both its medieval social structure and the unique influence of [[Architect|Architect]] technology. While most inhabitants speak a common tongue evolved from pre-Silence trade languages, regional dialects, specialized vocabularies, and ancient harmonic communication methods create a rich linguistic landscape that has become even more complex since the [[Recent Awakening]].
+Communication in [Valdris](Valdris.md) reflects both its medieval social structure and the unique influence of [Architect](Architect.md) technology. While most inhabitants speak a common tongue evolved from pre-Silence trade languages, regional dialects, specialized vocabularies, and ancient harmonic communication methods create a rich linguistic landscape that has become even more complex since the [Recent Awakening](Recent%20Awakening.md).
 
 ---
 
@@ -12,15 +12,15 @@ Communication in [[Valdris]] reflects both its medieval social structure and the
 
 ### Origin and Development
 
-**Historical Foundation**: The Common Tongue emerged during the chaotic years following [[The Great Silence]], when scattered communities needed a shared language for trade and coordination.
+**Historical Foundation**: The Common Tongue emerged during the chaotic years following [The Great Silence](The%20Great%20Silence.md), when scattered communities needed a shared language for trade and coordination.
 
 **Linguistic Fusion**: The language combines elements from:
 - **Pre-Silence Trading Languages**: Commercial vocabularies from ancient trade networks
 - **Regional Dialects**: Local languages that survived the Silence
-- **[[Architect Technology|Architect]] Terminology**: Technical terms adapted from ancient inscriptions
+- **[Architect](Architect%20Technology.md) Terminology**: Technical terms adapted from ancient inscriptions
 - **Political Influences**: Vocabulary shaped by the three major political systems
 
-**Current Status**: Nearly universal across [[Valdris]], serving as the primary language for commerce, diplomacy, and inter-regional communication.
+**Current Status**: Nearly universal across [Valdris](Valdris.md), serving as the primary language for commerce, diplomacy, and inter-regional communication.
 
 ### Structure and Characteristics
 
@@ -32,7 +32,7 @@ Communication in [[Valdris]] reflects both its medieval social structure and the
 
 **Vocabulary Sources**:
 - **Trade Terms**: Extensive commercial and crafting vocabulary
-- **[[Architect Technology|Architect]] Loans**: Technical and philosophical concepts
+- **[Architect](Architect%20Technology.md) Loans**: Technical and philosophical concepts
 - **Political Language**: Terms reflecting democratic, monarchical, and nomadic traditions
 - **Regional Specialties**: Words specific to different environments and occupations
 
@@ -40,11 +40,11 @@ Communication in [[Valdris]] reflects both its medieval social structure and the
 - **Standard Script**: Simple alphabet suitable for quick writing
 - **Formal Script**: Ceremonial version for important documents
 - **Trade Notation**: Simplified system for commercial records
-- **[[Architect Technology|Architect]] Integration**: Some inscriptions blend Common script with ancient symbols
+- **[Architect](Architect%20Technology.md) Integration**: Some inscriptions blend Common script with ancient symbols
 
 ### Architect Linguistic Influence
 
-The Common Tongue contains numerous concepts and terms derived from [[Architect|Architect]] sources:
+The Common Tongue contains numerous concepts and terms derived from [Architect](Architect.md) sources:
 
 **Technical Vocabulary**:
 - **"Harmonic"**: Beyond musical meaning - implies perfect balance, beauty, or function
@@ -59,9 +59,9 @@ The Common Tongue contains numerous concepts and terms derived from [[Architect|
 - **"Ruin-touched"**: Changed by contact with ancient technology
 
 **Time and Measurement**:
-- **"Silence-years"**: The standard calendar counting from [[The Great Silence]]
-- **"Spire-hours"**: Time measured by the harmonic patterns of [[Singing Spires of Kelathon]]
-- **"Garden-seasons"**: Agricultural cycles based on [[Walking Gardens of Yss'andra]] movements
+- **"Silence-years"**: The standard calendar counting from [The Great Silence](The%20Great%20Silence.md)
+- **"Spire-hours"**: Time measured by the harmonic patterns of [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
+- **"Garden-seasons"**: Agricultural cycles based on [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) movements
 - **"Crystal-moments"**: Very brief periods, inspired by harmonic frequencies
 
 ---
@@ -85,7 +85,7 @@ The Common Tongue contains numerous concepts and terms derived from [[Architect|
 
 **Example Phrases**:
 - *"Windward-walking with stone-memory"*: Traveling toward difficult terrain with careful attention to landmarks
-- *"Garden-blessed soil-singing"*: Land that has been enhanced by the [[Walking Gardens of Yss'andra]]
+- *"Garden-blessed soil-singing"*: Land that has been enhanced by the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
 - *"Seven-road crossing of the doubt-season"*: A complex decision point during uncertain times
 
 **Cultural Usage**:
@@ -99,25 +99,25 @@ The Common Tongue contains numerous concepts and terms derived from [[Architect|
 
 **Characteristics**:
 - **Hierarchical Grammar**: Verb forms and pronouns indicate social relationships
-- **Technical Precision**: Extensive vocabulary for [[Architect Technology|Architect]] technology and governance
+- **Technical Precision**: Extensive vocabulary for [Architect](Architect%20Technology.md) technology and governance
 - **Ceremonial Registers**: Different levels of formality for various social situations
 - **Historical Depth**: Archaic forms preserved for legal and religious purposes
 
 **Unique Features**:
 - **Status Markers**: Grammar automatically indicates relative social position
-- **Technical Integration**: Seamless use of [[Architect Technology|Architect]] terminology
+- **Technical Integration**: Seamless use of [Architect](Architect%20Technology.md) terminology
 - **Legal Language**: Precise vocabulary for contracts, laws, and formal agreements
 - **Academic Style**: Specialized forms for scholarly and research contexts
 
 **Example Phrases**:
-- *"By royal understanding of the amber-city's wisdom"*: Formal invocation of authority derived from [[Thymeris the Golden]]
+- *"By royal understanding of the amber-city's wisdom"*: Formal invocation of authority derived from [Thymeris the Golden](Thymeris%20the%20Golden.md)
 - *"Grant me the gear-knowledge to serve properly"*: Polite request for technical instruction
 - *"The harmonic-patterns suggest favorable aspects"*: Formal way of expressing optimism about plans
 
 **Cultural Usage**:
 - **Court Proceedings**: Required for all formal government business
 - **Academic Papers**: Standard for scholarly communication
-- **Religious Ceremonies**: Especially in [[Tinker-Priests|Tinker-Priest]] rituals
+- **Religious Ceremonies**: Especially in [Tinker-Priest](Tinker-Priests.md) rituals
 - **International Diplomacy**: Expected in formal treaty negotiations
 
 ### Western Plain-Speech
@@ -125,7 +125,7 @@ The Common Tongue contains numerous concepts and terms derived from [[Architect|
 
 **Characteristics**:
 - **Democratic Grammar**: Verb forms emphasize equality and shared decision-making
-- **Traditional Vocabulary**: Deliberately avoids [[Architect Technology|Architect]] terminology
+- **Traditional Vocabulary**: Deliberately avoids [Architect](Architect%20Technology.md) terminology
 - **Practical Focus**: Extensive terminology for crafts, agriculture, and community organization
 - **Clarity Emphasis**: Values directness and transparency over eloquence
 
@@ -178,7 +178,7 @@ The Common Tongue contains numerous concepts and terms derived from [[Architect|
 
 ### Architect Harmonic Language
 
-**Nature**: The [[Architect|Architects]] communicated through complex harmonic patterns that combined music, mathematics, and meaning.
+**Nature**: The [Architects](Architect.md) communicated through complex harmonic patterns that combined music, mathematics, and meaning.
 
 **Current Understanding**:
 - **Basic Patterns**: Simple harmonics for yes/no, danger/safety, approach/avoid
@@ -187,13 +187,13 @@ The Common Tongue contains numerous concepts and terms derived from [[Architect|
 - **Network Communication**: Frequencies that coordinate between different ruins
 
 **Human Interpretation**:
-- **[[Tinker-Priests]]**: Devoted to learning and translating harmonic language
-- **[[Silence-Keepers]]**: Preserve traditional interpretations of warning patterns
-- **[[Singing Spires of Kelathon|Kelathon]] Residents**: Daily exposure has created intuitive understanding
+- **[Tinker-Priests](Tinker-Priests.md)**: Devoted to learning and translating harmonic language
+- **[Silence-Keepers](Silence-Keepers.md)**: Preserve traditional interpretations of warning patterns
+- **[Kelathon](Singing%20Spires%20of%20Kelathon.md) Residents**: Daily exposure has created intuitive understanding
 - **Sensitive Individuals**: Some people naturally interpret harmonic meanings
 
 **Recent Developments**:
-The [[Recent Awakening]] has introduced new harmonic patterns:
+The [Recent Awakening](Recent%20Awakening.md) has introduced new harmonic patterns:
 - **Coordination Sequences**: Complex harmonics coordinating between awakening ruins
 - **Information Requests**: Patterns that seem to seek specific data about current conditions
 - **Status Reports**: Harmonics that appear to communicate operational status
@@ -209,7 +209,7 @@ The [[Recent Awakening]] has introduced new harmonic patterns:
 
 #### Tinker-Priest Technical Language
 
-**Purpose**: Precise communication about [[Architect Technology|Architect]] technology and spiritual concepts
+**Purpose**: Precise communication about [Architect](Architect%20Technology.md) technology and spiritual concepts
 
 **Characteristics**:
 - **Sacred Terminology**: Religious language for discussing technological transcendence
@@ -220,8 +220,8 @@ The [[Recent Awakening]] has introduced new harmonic patterns:
 **Example Concepts**:
 - **"Gear-soul"**: The consciousness that inhabits complex mechanical systems
 - **"Harmonic-blessing"**: Successful activation of ancient technology
-- **"Silence-teaching"**: Knowledge gained through meditation on [[The Great Silence]]
-- **"Awakening-witness"**: One who has observed significant [[Recent Awakening]] events
+- **"Silence-teaching"**: Knowledge gained through meditation on [The Great Silence](The%20Great%20Silence.md)
+- **"Awakening-witness"**: One who has observed significant [Recent Awakening](Recent%20Awakening.md) events
 
 #### Merchant House Codes
 
@@ -250,7 +250,7 @@ The [[Recent Awakening]] has introduced new harmonic patterns:
 - **Innovation Terms**: Language for describing improvements and new techniques
 
 **Regional Specializations**:
-- **[[Stonehaven]] Metalworking**: Advanced terminology for traditional smithing
+- **[Stonehaven](Stonehaven.md) Metalworking**: Advanced terminology for traditional smithing
 - **Wanderer Leatherwork**: Specialized vocabulary for portable goods
 - **Coastal Shipbuilding**: Maritime construction and repair terminology
 - **Border Region Adaptations**: Terms for combining different cultural techniques
@@ -259,7 +259,7 @@ The [[Recent Awakening]] has introduced new harmonic patterns:
 
 #### Silence-Keeper Warning Systems
 
-**Purpose**: Communicate danger levels and protective guidance around [[Architect Ruins]]
+**Purpose**: Communicate danger levels and protective guidance around [Architect Ruins](Architect%20Ruins.md)
 
 **Methods**:
 - **Gesture Codes**: Silent hand signals for dangerous environments
@@ -284,7 +284,7 @@ The [[Recent Awakening]] has introduced new harmonic patterns:
 - **Academic Papers**: Political intelligence concealed in scholarly research
 
 **Current Challenges**:
-The [[Recent Awakening]] has disrupted traditional diplomatic channels:
+The [Recent Awakening](Recent%20Awakening.md) has disrupted traditional diplomatic channels:
 - **Route Changes**: Traditional message paths affected by awakening ruins
 - **Encryption Failure**: Some coded systems disrupted by harmonic interference
 - **New Priorities**: Changing political situations require updated communication protocols
@@ -358,17 +358,17 @@ The [[Recent Awakening]] has disrupted traditional diplomatic channels:
 - **Philosophical Concepts**: Advanced ideas about consciousness and existence
 
 **Recent Developments**:
-The [[Recent Awakening]] has revealed new inscriptions and activated previously dormant text
+The [Recent Awakening](Recent%20Awakening.md) has revealed new inscriptions and activated previously dormant text
 
 #### Pre-Silence Scripts
 
-**Status**: Fragmentary remains of languages spoken before [[The Great Silence]]
+**Status**: Fragmentary remains of languages spoken before [The Great Silence](The%20Great%20Silence.md)
 
 **Archaeological Value**:
 - **Historical Context**: Information about life before the Architects vanished
 - **Linguistic Evolution**: Understanding how Common Tongue developed
 - **Cultural Insight**: Religious, political, and social practices of ancient civilizations
-- **Technical Knowledge**: Some pre-Silence innovations not dependent on [[Architect Technology]]
+- **Technical Knowledge**: Some pre-Silence innovations not dependent on [Architect Technology](Architect%20Technology.md)
 
 ---
 
@@ -397,21 +397,21 @@ The [[Recent Awakening]] has revealed new inscriptions and activated previously 
 - **Emergency Protocols**: Automatic distress signals in dangerous situations
 
 **Resonance Networks**:
-- **Ruin-to-Ruin**: Communication between major [[Architect Ruins]]
+- **Ruin-to-Ruin**: Communication between major [Architect Ruins](Architect%20Ruins.md)
 - **Settlement Integration**: Towns near ruins can access broader networks
 - **Emergency Broadcasting**: Urgent warnings transmitted across vast distances
 - **Status Monitoring**: Automated reports on ruin activity and system status
 
 **Recent Awakening Changes**:
 - **Expanded Range**: Communication networks reaching previously isolated areas
-- **New Frequencies**: Harmonic patterns not heard since [[The Great Silence]]
+- **New Frequencies**: Harmonic patterns not heard since [The Great Silence](The%20Great%20Silence.md)
 - **Automatic Translation**: Some systems now provide cross-language communication
 - **Unpredictable Behavior**: Previously reliable networks showing inconsistent function
 
 ### Future Developments
 
 **Potential Advances**:
-As the [[Recent Awakening]] continues, communication may undergo dramatic changes:
+As the [Recent Awakening](Recent%20Awakening.md) continues, communication may undergo dramatic changes:
 
 - **Universal Translation**: Complete language barrier elimination
 - **Thought Communication**: Direct mind-to-mind contact through harmonic resonance
@@ -436,11 +436,11 @@ As the [[Recent Awakening]] continues, communication may undergo dramatic change
 **Curriculum**:
 - **Common Tongue Mastery**: Advanced grammar, composition, and literature
 - **Eastern Formal**: Required for court positions and legal careers
-- **[[Architect Technology|Architect]] Studies**: Introduction to harmonic language principles
+- **[Architect](Architect%20Technology.md) Studies**: Introduction to harmonic language principles
 - **International Languages**: Diplomatic and trade languages from overseas
 
 **Specializations**:
-- **Technical Translation**: [[Architect Technology|Architect]] inscription interpretation
+- **Technical Translation**: [Architect](Architect%20Technology.md) inscription interpretation
 - **Diplomatic Communication**: International relations and treaty language
 - **Commercial Language**: Business correspondence and trade negotiation
 - **Historical Research**: Ancient scripts and linguistic archaeology
@@ -478,7 +478,7 @@ As the [[Recent Awakening]] continues, communication may undergo dramatic change
 ### Private Language Instruction
 
 **Specialist Teachers**:
-- **[[Tinker-Priests]]**: Harmonic language and technical communication
+- **[Tinker-Priests](Tinker-Priests.md)**: Harmonic language and technical communication
 - **Diplomatic Corps**: International languages and formal protocols
 - **Merchant Families**: Commercial languages and trade negotiations
 - **Academic Scholars**: Ancient scripts and linguistic research
@@ -486,7 +486,7 @@ As the [[Recent Awakening]] continues, communication may undergo dramatic change
 **Tutoring Availability**:
 - **Major Cities**: Wide variety of language instruction available
 - **Trade Centers**: Commercial and international language focus
-- **Ruin-Adjacent Communities**: Specialized [[Architect Technology|Architect]] language instruction
+- **Ruin-Adjacent Communities**: Specialized [Architect](Architect%20Technology.md) language instruction
 - **Remote Areas**: Limited options, mostly traditional dialects
 
 ### Self-Directed Learning
@@ -513,14 +513,14 @@ As the [[Recent Awakening]] continues, communication may undergo dramatic change
 Each political system has developed distinct communication preferences that can create barriers:
 
 - **Formality Conflicts**: Eastern Formal vs. Western Plain-Speech expectations
-- **Technical Vocabulary**: Different approaches to [[Architect Technology|Architect]] terminology
+- **Technical Vocabulary**: Different approaches to [Architect](Architect%20Technology.md) terminology
 - **Cultural Sensitivity**: Avoiding language that offends different political philosophies
 - **Legal Terminology**: Different legal systems using incompatible language
 
 ### Awakening-Related Disruptions
 
 **Communication Infrastructure**:
-The [[Recent Awakening]] has affected traditional communication methods:
+The [Recent Awakening](Recent%20Awakening.md) has affected traditional communication methods:
 
 - **Route Disruptions**: Message paths blocked by newly active ruins
 - **Harmonic Interference**: Ancient systems interfering with established signals
@@ -570,7 +570,7 @@ The [[Recent Awakening]] has affected traditional communication methods:
 **Career-Specific Language Needs**:
 - **Government Service**: Formal languages required for different political systems
 - **International Trade**: Multiple languages necessary for overseas commerce
-- **Technical Fields**: Specialized vocabulary for [[Architect Technology|Architect]] studies and traditional crafts
+- **Technical Fields**: Specialized vocabulary for [Architect](Architect%20Technology.md) studies and traditional crafts
 - **Religious Vocations**: Sacred languages and specialized terminology
 
 **Advancement Opportunities**:
@@ -600,9 +600,9 @@ The [[Recent Awakening]] has affected traditional communication methods:
 ### Emerging Trends
 
 **Technological Integration**:
-As the [[Recent Awakening]] continues, communication is likely to undergo significant changes:
+As the [Recent Awakening](Recent%20Awakening.md) continues, communication is likely to undergo significant changes:
 
-- **Enhanced Translation**: Automatic language conversion through [[Architect Technology|Architect]] systems
+- **Enhanced Translation**: Automatic language conversion through [Architect](Architect%20Technology.md) systems
 - **Direct Communication**: Harmonic systems enabling thought-to-thought contact
 - **Historical Access**: Potential communication with preserved Architect consciousness
 - **Network Expansion**: Continental communication systems becoming fully operational
@@ -622,7 +622,7 @@ As the [[Recent Awakening]] continues, communication is likely to undergo signif
 - **Generational Gaps**: Older and younger generations developing incompatible communication preferences
 
 **Social Disruption**:
-- **Communication Dependence**: Over-reliance on [[Architect Technology|Architect]] systems creating vulnerability
+- **Communication Dependence**: Over-reliance on [Architect](Architect%20Technology.md) systems creating vulnerability
 - **Privacy Concerns**: Advanced communication networks potentially monitoring all interaction
 - **Access Inequality**: Technological communication advantages creating social stratification
 - **System Failure**: Catastrophic communication breakdown during technological malfunction
@@ -645,22 +645,22 @@ As the [[Recent Awakening]] continues, communication is likely to undergo signif
 
 ## Conclusion
 
-The linguistic landscape of [[Valdris]] reflects both its medieval social structure and its unique relationship with [[Architect|Architect]] technology. The [[Recent Awakening]] has introduced new possibilities and challenges for communication across the continent.
+The linguistic landscape of [Valdris](Valdris.md) reflects both its medieval social structure and its unique relationship with [Architect](Architect.md) technology. The [Recent Awakening](Recent%20Awakening.md) has introduced new possibilities and challenges for communication across the continent.
 
-Whether through the democratic clarity of Western Plain-Speech, the formal precision of Eastern Royal dialects, the adaptive flexibility of Wanderer Cant, or the emerging possibilities of harmonic communication, language in [[Valdris]] serves not just as a tool for practical communication but as an expression of cultural identity, political philosophy, and relationship to the ancient technological legacy that shapes the world.
+Whether through the democratic clarity of Western Plain-Speech, the formal precision of Eastern Royal dialects, the adaptive flexibility of Wanderer Cant, or the emerging possibilities of harmonic communication, language in [Valdris](Valdris.md) serves not just as a tool for practical communication but as an expression of cultural identity, political philosophy, and relationship to the ancient technological legacy that shapes the world.
 
-As the awakening continues to unfold, the peoples of [[Valdris]] must balance preservation of their linguistic heritage with adaptation to new technological realities. The choices made about communication in the coming years will help determine whether the diverse cultures of the continent can maintain their unique identities while benefiting from improved understanding and cooperation.
+As the awakening continues to unfold, the peoples of [Valdris](Valdris.md) must balance preservation of their linguistic heritage with adaptation to new technological realities. The choices made about communication in the coming years will help determine whether the diverse cultures of the continent can maintain their unique identities while benefiting from improved understanding and cooperation.
 
-The future of language in [[Valdris]] remains unwritten, but like everything else in this land of awakening ruins, it promises to be extraordinary.
+The future of language in [Valdris](Valdris.md) remains unwritten, but like everything else in this land of awakening ruins, it promises to be extraordinary.
 
 ---
 
 ## Related Resources
 
-**Essential Context**: [[Common Knowledge]] - Basic information all characters should know about communication
-**Character Background**: [[Character Creation Guide]] - How language choices reflect character origin and allegiances
+**Essential Context**: [Common Knowledge](Common%20Knowledge.md) - Basic information all characters should know about communication
+**Character Background**: [Character Creation Guide](Character%20Creation%20Guide.md) - How language choices reflect character origin and allegiances
 **Cultural Information**: Settlement and faction pages for regional communication customs
-**Current Events**: [[Recent Awakening]] - How current events are affecting communication systems
-**Technology Context**: [[Architect Technology]] - Technical details about harmonic communication systems
+**Current Events**: [Recent Awakening](Recent%20Awakening.md) - How current events are affecting communication systems
+**Technology Context**: [Architect Technology](Architect%20Technology.md) - Technical details about harmonic communication systems
 
 #player-safe #languages #communication #regional-dialects #cultural-identity #harmonic-language

@@ -7,15 +7,15 @@
 
 ## Overview
 
-The Wanderer Confederations represent [[Valdris]]'s embrace of perpetual motion and the philosophy that wisdom lies not in controlling the [[Architect Ruins]] but in understanding the paths between them. Where [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holders]] plant their banners atop brass towers and [[Political Systems/Ruin-Shunner Republics|Shunners]] build their walls against ancient mysteries, the Wanderers have woven their entire civilization into the spaces between—the roads, routes, and hidden passages that connect the scattered wonders of a broken world.
+The Wanderer Confederations represent [Valdris](Valdris.md)'s embrace of perpetual motion and the philosophy that wisdom lies not in controlling the [Architect Ruins](Architect%20Ruins.md) but in understanding the paths between them. Where [Ruin-Holders](Political%20Systems/Ruin-Holder%20Kingdoms.md) plant their banners atop brass towers and [Shunners](Political%20Systems/Ruin-Shunner%20Republics.md) build their walls against ancient mysteries, the Wanderers have woven their entire civilization into the spaces between—the roads, routes, and hidden passages that connect the scattered wonders of a broken world.
 
-Born from the earliest Ruin-Runners who survived the [[Timeline|Great Silence]] by moving between active sites, the Confederations have evolved into a sophisticated network of nomadic tribes, trading caravans, and mobile settlements. They are the blood that flows through [[Valdris]]'s veins, carrying goods, knowledge, and news across a continent too vast and dangerous for any single power to control.
+Born from the earliest Ruin-Runners who survived the [Great Silence](Timeline.md) by moving between active sites, the Confederations have evolved into a sophisticated network of nomadic tribes, trading caravans, and mobile settlements. They are the blood that flows through [Valdris](Valdris.md)'s veins, carrying goods, knowledge, and news across a continent too vast and dangerous for any single power to control.
 
 ## The Philosophy of Endless Motion
 
 ### The Doctrine of the Open Path
 
-Wanderer philosophy centers on a fundamental rejection of permanence. They believe the [[Architect Ruins|Architects]] intended their ruins as waypoints rather than destinations—nodes in a vast network meant to be traveled, not occupied. This belief stems from their discovery that many [[Architect Ruins|Architect]] mechanisms respond better to transient interaction than permanent habitation.
+Wanderer philosophy centers on a fundamental rejection of permanence. They believe the [Architects](Architect%20Ruins.md) intended their ruins as waypoints rather than destinations—nodes in a vast network meant to be traveled, not occupied. This belief stems from their discovery that many [Architect](Architect%20Ruins.md) mechanisms respond better to transient interaction than permanent habitation.
 
 The core tenets of Wanderer philosophy:
 - **Motion is Life**: Stagnation leads to decay, both physical and spiritual
@@ -25,14 +25,14 @@ The core tenets of Wanderer philosophy:
 
 ### The Endless Road
 
-Central to Wanderer culture is the concept of the **Endless Road**—not a physical path but a spiritual journey that encompasses all possible routes through [[Valdris]]. Their traditional song, "[[Music/The Endless Road - Wanderer Folk Song|The Endless Road]]," captures this philosophy:
+Central to Wanderer culture is the concept of the **Endless Road**—not a physical path but a spiritual journey that encompasses all possible routes through [Valdris](Valdris.md). Their traditional song, "[The Endless Road](Music/The%20Endless%20Road%20-%20Wanderer%20Folk%20Song.md)," captures this philosophy:
 
 *"No walls can hold, no crown can bind  
 The open road calls heart and mind  
 Where ruins wake and fortunes wind  
 Upon the endless road"*
 
-This philosophy shapes every aspect of Wanderer life, from their governance structures to their economic systems to their approach to the [[Timeline|Recent Awakening]].
+This philosophy shapes every aspect of Wanderer life, from their governance structures to their economic systems to their approach to the [Recent Awakening](Timeline.md).
 
 ## Governance: The Council of Pathfinders
 
@@ -44,7 +44,7 @@ The Wanderer Confederations operate through a complex web of autonomous groups u
 
 **Regional Confederations**: Groups sharing common territories or trade routes form loose confederations, meeting seasonally at predetermined locations. These gatherings, called **Crossroad Councils**, address disputes, share route information, and coordinate responses to threats.
 
-**The Grand Council of Pathfinders**: Once every three years, representatives from all major confederations gather at the **Convergence of Paths**—a location that changes based on the movements of the [[Walking Gardens of Yss'andra]]. This supreme council addresses matters affecting all Wanderers and maintains the **Great Song-Map Archive**.
+**The Grand Council of Pathfinders**: Once every three years, representatives from all major confederations gather at the **Convergence of Paths**—a location that changes based on the movements of the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md). This supreme council addresses matters affecting all Wanderers and maintains the **Great Song-Map Archive**.
 
 ### Pathfinder Hierarchy
 
@@ -60,7 +60,7 @@ Leadership among Wanderers is earned through demonstrated knowledge and successf
 
 ### The Song-Map Tradition
 
-Unique among [[Valdris]]'s political systems, the Wanderers encode their laws, territories, and governance structures in music. The **Song-Maps** serve multiple functions:
+Unique among [Valdris](Valdris.md)'s political systems, the Wanderers encode their laws, territories, and governance structures in music. The **Song-Maps** serve multiple functions:
 
 **Navigation**: Complex melodies encode safe routes, dangerous areas, and seasonal variations in passability. A trained Wanderer can navigate hundreds of miles guided only by memorized songs.
 
@@ -74,27 +74,27 @@ Unique among [[Valdris]]'s political systems, the Wanderers encode their laws, t
 
 ### Trade Route Monopolies
 
-The Wanderer economy rests on their unparalleled knowledge of safe passage through [[Valdris]]. They maintain effective monopolies on several critical services:
+The Wanderer economy rests on their unparalleled knowledge of safe passage through [Valdris](Valdris.md). They maintain effective monopolies on several critical services:
 
-**Inter-Ruin Trade**: Only Wanderers know the safe routes between major [[Architect Ruins]], especially those that activate or deactivate seasonally. They charge premium prices for transporting goods between [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holder]] territories.
+**Inter-Ruin Trade**: Only Wanderers know the safe routes between major [Architect Ruins](Architect%20Ruins.md), especially those that activate or deactivate seasonally. They charge premium prices for transporting goods between [Ruin-Holder](Political%20Systems/Ruin-Holder%20Kingdoms.md) territories.
 
 **Exotic Goods**: Many valuable resources exist only in dangerous or remote locations. Wanderer traders risk these journeys, returning with:
 - Architect components from partially-active ruins
 - Rare minerals from the Crystal Valleys
-- Preserved foods from the [[Walking Gardens of Yss'andra]]
+- Preserved foods from the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
 - Medicinal plants that grow only near specific ruins
 
 **Information Brokerage**: In a continent where communication travels only as fast as the swiftest messenger, Wanderers serve as the primary news network. Information often proves more valuable than physical goods.
 
 ### The Scavenging Traditions
 
-Beyond trade, Wanderers have perfected the art of sustainable scavenging from [[Architect Ruins]]:
+Beyond trade, Wanderers have perfected the art of sustainable scavenging from [Architect Ruins](Architect%20Ruins.md):
 
 **Ruin-Running**: Quick expeditions into dangerous sites to recover specific items. Wanderers excel at "grab and go" operations that minimize exposure to automated defenses.
 
 **Salvage Rights**: Complex traditional laws govern who can salvage from which ruins. Generally, the confederation that first mapped a site maintains priority claims, though these rights can be traded or shared.
 
-**Recycling Networks**: Wanderers have developed sophisticated techniques for repurposing [[Architect Ruins|Architect]] materials. A broken component worthless to [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holders]] might become valuable trade goods in Wanderer hands.
+**Recycling Networks**: Wanderers have developed sophisticated techniques for repurposing [Architect](Architect%20Ruins.md) materials. A broken component worthless to [Ruin-Holders](Political%20Systems/Ruin-Holder%20Kingdoms.md) might become valuable trade goods in Wanderer hands.
 
 ### Mobile Industries
 
@@ -143,9 +143,9 @@ Each major confederation maintains elite military units:
 
 **Scout-Riders**: Light cavalry specializing in reconnaissance and harassment. They know every hidden path and secret water source in their territories.
 
-**Ruin-Dancers**: Specialists who use [[Architect Ruins]] as weapons, leading enemies into automated defenses or triggering dangerous mechanisms.
+**Ruin-Dancers**: Specialists who use [Architect Ruins](Architect%20Ruins.md) as weapons, leading enemies into automated defenses or triggering dangerous mechanisms.
 
-**Siege-Breakers**: The only Wanderer heavy units, equipped with salvaged [[Architect Ruins|Architect]] weapons for defending Caravan Cities or breaking through blockades.
+**Siege-Breakers**: The only Wanderer heavy units, equipped with salvaged [Architect](Architect%20Ruins.md) weapons for defending Caravan Cities or breaking through blockades.
 
 **Song-Blades**: Elite warriors who fight while singing, using the rhythms to coordinate complex group tactics that confuse and demoralize enemies.
 
@@ -165,27 +165,27 @@ When forced to defend, Wanderers employ unique tactics:
 
 ### The Iron Road Federation
 
-Controlling the eastern trade routes between [[Thymeris the Golden]] and the northern ports, the Iron Road Federation is the wealthiest confederation. Led by **Pathfinder Kesh Iron-Route**, they maintain:
+Controlling the eastern trade routes between [Thymeris the Golden](Thymeris%20the%20Golden.md) and the northern ports, the Iron Road Federation is the wealthiest confederation. Led by **Pathfinder Kesh Iron-Route**, they maintain:
 - 50 major caravans
 - 12,000 active traders
-- Exclusive agreements with three [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holder Kingdoms]]
-- The most complete Song-Maps of eastern [[Valdris]]
+- Exclusive agreements with three [Ruin-Holder Kingdoms](Political%20Systems/Ruin-Holder%20Kingdoms.md)
+- The most complete Song-Maps of eastern [Valdris](Valdris.md)
 
 ### The Garden-Followers
 
-This confederation has dedicated itself to following the [[Walking Gardens of Yss'andra]] for over 400 years. They are the only people who can reliably predict the Gardens' movements and maintain exclusive rights to harvest certain plants. Led by **Elder Pathfinder Mirwen Thornwick**, they number only 3,000 but wield enormous cultural influence.
+This confederation has dedicated itself to following the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) for over 400 years. They are the only people who can reliably predict the Gardens' movements and maintain exclusive rights to harvest certain plants. Led by **Elder Pathfinder Mirwen Thornwick**, they number only 3,000 but wield enormous cultural influence.
 
 ### The Storm Dancers
 
 Operating in the treacherous Western Reaches, the Storm Dancers navigate territories others consider impassable. They specialize in:
-- Weather prediction through [[Architect Ruins|Architect]] atmospheric devices
-- Trading with isolated [[Political Systems/Ruin-Shunner Republics|Ruin-Shunner]] communities
+- Weather prediction through [Architect](Architect%20Ruins.md) atmospheric devices
+- Trading with isolated [Ruin-Shunner](Ruin-Shunner%20Republics.md) communities
 - Recovering artifacts from storm-damaged ruins
 - Maintaining the only reliable routes through the Lightning Fields
 
 ### The Twilight Confederation
 
-A newer group formed in response to the [[Timeline|Recent Awakening]], the Twilight Confederation specializes in exploring newly activated ruins. They take enormous risks but have made several spectacular discoveries, including three previously unknown [[Architect Ruins|Architect]] sites.
+A newer group formed in response to the [Recent Awakening](Timeline.md), the Twilight Confederation specializes in exploring newly activated ruins. They take enormous risks but have made several spectacular discoveries, including three previously unknown [Architect](Architect%20Ruins.md) sites.
 
 ## Cultural Values: Freedom in Motion
 
@@ -203,7 +203,7 @@ Wanderer culture celebrates impermanence and adaptability:
 
 ### Sacred Relationship with the Walking Gardens
 
-The [[Walking Gardens of Yss'andra]] hold special significance in Wanderer culture:
+The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) hold special significance in Wanderer culture:
 
 **Living Ancestors**: Many Wanderers believe the Gardens represent the ideal fusion of motion and growth, traveling while nurturing life.
 
@@ -229,11 +229,11 @@ In a culture without permanent libraries or archives, memory becomes sacred:
 
 ### Route Disruptions
 
-The [[Timeline|Recent Awakening]] has thrown Wanderer society into crisis:
+The [Recent Awakening](Timeline.md) has thrown Wanderer society into crisis:
 
-**Changing Passages**: Previously reliable routes have become dangerous as dormant [[Architect Ruins]] activate. Some passages that were impassable for centuries have suddenly opened.
+**Changing Passages**: Previously reliable routes have become dangerous as dormant [Architect Ruins](Architect%20Ruins.md) activate. Some passages that were impassable for centuries have suddenly opened.
 
-**Accelerated Gardens**: The [[Walking Gardens of Yss'andra]]'s increased speed has disrupted centuries of planning. Confederations struggle to maintain their traditional intersections with the Gardens' path.
+**Accelerated Gardens**: The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)'s increased speed has disrupted centuries of planning. Confederations struggle to maintain their traditional intersections with the Gardens' path.
 
 **New Discoveries**: Seventeen previously unknown ruins have been discovered in the past three months, creating opportunities and dangers as confederations race to claim mapping rights.
 
@@ -257,7 +257,7 @@ Wanderers are rapidly evolving their traditions to meet new challenges:
 
 **Updated Song-Maps**: Emergency councils work to encode new route information into the traditional songs, while some advocate for written supplements—heresy to traditionalists.
 
-**Defensive Innovations**: Caravans now travel with specialists in [[Architect Ruins|Architect]] technology, something previously left to [[Tinker-Priests]] and [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holders]].
+**Defensive Innovations**: Caravans now travel with specialists in [Architect](Architect%20Ruins.md) technology, something previously left to [Tinker-Priests](Tinker-Priests.md) and [Ruin-Holders](Political%20Systems/Ruin-Holder%20Kingdoms.md).
 
 **Youth Movements**: Younger Wanderers, calling themselves "Awakening Dancers," actively seek out activating ruins, viewing danger as opportunity.
 
@@ -267,9 +267,9 @@ Wanderers are rapidly evolving their traditions to meet new challenges:
 
 ### Versus Ruin-Holder Kingdoms
 
-The relationship between Wanderers and [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holders]] remains tense but economically necessary:
+The relationship between Wanderers and [Ruin-Holders](Political%20Systems/Ruin-Holder%20Kingdoms.md) remains tense but economically necessary:
 
-**Territorial Disputes**: Ruin-Holders view Wanderers as trespassers and thieves who pillage "their" ruins. Wanderers counter that no one can own the [[Architect Ruins|Architects']] legacy.
+**Territorial Disputes**: Ruin-Holders view Wanderers as trespassers and thieves who pillage "their" ruins. Wanderers counter that no one can own the [Architects'](../Architect%20Ruins.md) legacy.
 
 **Trade Dependencies**: Despite mutual antagonism, Ruin-Holders depend on Wanderer trade networks for exotic goods and inter-kingdom commerce.
 
@@ -279,9 +279,9 @@ The relationship between Wanderers and [[Political Systems/Ruin-Holder Kingdoms|
 
 ### Versus Ruin-Shunner Republics
 
-Wanderer-[[Political Systems/Ruin-Shunner Republics|Shunner]] relations tend toward cautious cooperation:
+Wanderer-[Shunner](Political%20Systems/Ruin-Shunner%20Republics.md) relations tend toward cautious cooperation:
 
-**Philosophical Differences**: Shunners disapprove of Wanderer engagement with [[Architect Ruins|Architect]] technology but appreciate their independence from the ruins.
+**Philosophical Differences**: Shunners disapprove of Wanderer engagement with [Architect](Architect%20Ruins.md) technology but appreciate their independence from the ruins.
 
 **Trade Partnerships**: Wanderers provide the primary commercial link between isolated Shunner communities, carrying their crafts to wider markets.
 
@@ -306,15 +306,15 @@ Not all threats come from outside:
 ### Pathfinder Kesh Iron-Route
 *Human, 52, Leader of the Iron Road Federation*
 
-The most influential Pathfinder of the current generation, Kesh controls more trade routes than any other individual. Her encyclopedic knowledge of eastern passages combines with shrewd political instincts to maintain her federation's dominance. She wears traditional Wanderer traveling clothes enhanced with subtle [[Architect Ruins|Architect]] devices that help navigation.
+The most influential Pathfinder of the current generation, Kesh controls more trade routes than any other individual. Her encyclopedic knowledge of eastern passages combines with shrewd political instincts to maintain her federation's dominance. She wears traditional Wanderer traveling clothes enhanced with subtle [Architect](Architect%20Ruins.md) devices that help navigation.
 
 **Public Goal**: Establish permanent Wanderer trading posts in major cities  
-**Secret**: She's discovered a route to a completely intact [[Architect Ruins|Architect]] city but fears what revealing it might unleash
+**Secret**: She's discovered a route to a completely intact [Architect](Architect%20Ruins.md) city but fears what revealing it might unleash
 
 ### Elder Pathfinder Mirwen Thornwick
 *Half-Elf, 198, Leader of the Garden-Followers*
 
-Having followed the [[Walking Gardens of Yss'andra]] for over 170 years, Mirwen knows their patterns better than anyone alive. Her confederation holds the secret to predicting the Gardens' movements and guards this knowledge jealously. Age has made her cautious about the Recent Awakening's effects on her beloved Gardens.
+Having followed the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) for over 170 years, Mirwen knows their patterns better than anyone alive. Her confederation holds the secret to predicting the Gardens' movements and guards this knowledge jealously. Age has made her cautious about the Recent Awakening's effects on her beloved Gardens.
 
 **Public Goal**: Protect the Gardens from exploitation during the Awakening  
 **Secret**: The Gardens have been "speaking" to her in dreams, warning of an approaching catastrophe
@@ -325,7 +325,7 @@ Having followed the [[Walking Gardens of Yss'andra]] for over 170 years, Mirwen 
 Young and ambitious, Jakara has made her reputation navigating the Western Reaches' most dangerous passages. She advocates for aggressive exploration of awakening ruins and has gathered a following among younger Wanderers. Her weather-prediction abilities border on supernatural.
 
 **Public Goal**: Map every new passage created by the Awakening  
-**Secret**: She's been using a stolen [[Architect Ruins|Architect]] weather-control device
+**Secret**: She's been using a stolen [Architect](Architect%20Ruins.md) weather-control device
 
 ### Master Trader Gorin Copperwheel
 *Dwarf, 143, Caravan City Mayor of Wheel-Wind*
@@ -333,12 +333,12 @@ Young and ambitious, Jakara has made her reputation navigating the Western Reach
 The elected leader of the largest Caravan City, Gorin manages the complex logistics of keeping 10,000 people mobile and prosperous. His political acumen equals his organizational skills, making him a key voice in confederation politics.
 
 **Public Goal**: Transform Wheel-Wind into a mobile embassy between all three political systems  
-**Secret**: He's stockpiling [[Architect Ruins|Architect]] weapons, believing war is inevitable
+**Secret**: He's stockpiling [Architect](Architect%20Ruins.md) weapons, believing war is inevitable
 
 ### The Unnamed Scout
 *Race Unknown, Age Unknown, Legendary Explorer*
 
-Known only by reputation, the Unnamed Scout appears at crucial moments to guide caravans through impossible situations. Some believe they're a spirit of the road itself; others think they're an [[Architect Ruins|Architect]] construct that never ceased functioning.
+Known only by reputation, the Unnamed Scout appears at crucial moments to guide caravans through impossible situations. Some believe they're a spirit of the road itself; others think they're an [Architect](Architect%20Ruins.md) construct that never ceased functioning.
 
 **Public Goal**: Unknown  
 **Secret**: They're searching for something specific among the ruins, checking each one methodically
@@ -349,21 +349,21 @@ Known only by reputation, the Unnamed Scout appears at crucial moments to guide 
 
 **The Lost Caravan**: The wealthiest trade caravan in recent memory has vanished while attempting a new route through awakening ruins. Their cargo included diplomatic gifts that, if lost, could spark a war. The confederation offers unprecedented rewards for their recovery.
 
-**The Singing Route**: A young Trail-Singer claims to have heard new verses in an ancient Song-Map—verses that describe a safe passage to the heart of [[Thymeris the Golden]]. The confederation needs brave souls to verify this potentially revolutionary discovery.
+**The Singing Route**: A young Trail-Singer claims to have heard new verses in an ancient Song-Map—verses that describe a safe passage to the heart of [Thymeris the Golden](Thymeris%20the%20Golden.md). The confederation needs brave souls to verify this potentially revolutionary discovery.
 
-**The Garden Crisis**: The [[Walking Gardens of Yss'andra]] are approaching a massive magical storm. Someone must either find a way to warn the Gardens' guiding intelligence or discover why they seem intent on walking into danger.
+**The Garden Crisis**: The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) are approaching a massive magical storm. Someone must either find a way to warn the Gardens' guiding intelligence or discover why they seem intent on walking into danger.
 
 **The Diplomatic Caravan**: A historic joint expedition between all three political systems requires Wanderer guides. The party must navigate not just physical dangers but also prevent the delegation from destroying itself through internal conflicts.
 
 ### Campaign Themes
 
-**The Great Circuit**: Follow a Wanderer confederation through a complete year-long trade circuit, experiencing the full diversity of [[Valdris]] while uncovering a conspiracy that threatens all trade routes.
+**The Great Circuit**: Follow a Wanderer confederation through a complete year-long trade circuit, experiencing the full diversity of [Valdris](Valdris.md) while uncovering a conspiracy that threatens all trade routes.
 
 **The Caravan City**: Make Wheel-Wind or another Caravan City your mobile base of operations, dealing with internal politics while the city navigates through increasingly dangerous territories.
 
 **The New Paths**: Join the Twilight Confederation in mapping routes through awakening ruins, racing against rivals while avoiding automated defenses and diplomatic incidents.
 
-**The Song-Map Mystery**: Ancient Song-Maps contain hidden messages that, when properly decoded, reveal the true purpose of the [[Architect Ruins|Architect]] road network—and why the Wanderers were meant to travel it.
+**The Song-Map Mystery**: Ancient Song-Maps contain hidden messages that, when properly decoded, reveal the true purpose of the [Architect](Architect%20Ruins.md) road network—and why the Wanderers were meant to travel it.
 
 ### Wanderer-Specific Challenges
 
@@ -377,14 +377,14 @@ Known only by reputation, the Unnamed Scout appears at crucial moments to guide 
 
 ## The Future of the Endless Road
 
-As the [[Timeline|Recent Awakening]] accelerates, the Wanderer Confederations face an existential question: can a culture built on predictable routes and ancient traditions survive in a world where the very ground shifts beneath their wheels?
+As the [Recent Awakening](Timeline.md) accelerates, the Wanderer Confederations face an existential question: can a culture built on predictable routes and ancient traditions survive in a world where the very ground shifts beneath their wheels?
 
-Some Pathfinders advocate for permanent settlements at crucial crossroads, abandoning true nomadism for strategic positioning. Others push for deeper engagement with awakening ruins, believing Wanderers must master [[Architect Ruins|Architect]] technology to survive. Still others cling to tradition, insisting that the Endless Road will provide as it always has.
+Some Pathfinders advocate for permanent settlements at crucial crossroads, abandoning true nomadism for strategic positioning. Others push for deeper engagement with awakening ruins, believing Wanderers must master [Architect](Architect%20Ruins.md) technology to survive. Still others cling to tradition, insisting that the Endless Road will provide as it always has.
 
-Young Wanderers speak of the "Great Convergence"—a prophesied time when all routes lead to a single destination where the [[Architect Ruins|Architects']] purpose will finally be revealed. Whether this represents hope or doom depends on who tells the tale, but all agree that the road ahead has never been more uncertain or more crucial to travel.
+Young Wanderers speak of the "Great Convergence"—a prophesied time when all routes lead to a single destination where the [Architects'](../Architect%20Ruins.md) purpose will finally be revealed. Whether this represents hope or doom depends on who tells the tale, but all agree that the road ahead has never been more uncertain or more crucial to travel.
 
-The ancient greeting of the Wanderers—"May your wheels find purchase and your path stay true"—has taken on new urgency in these awakening times. For a people who have always lived between destinations, the journey itself may prove to be [[Valdris]]'s salvation or its doom.
+The ancient greeting of the Wanderers—"May your wheels find purchase and your path stay true"—has taken on new urgency in these awakening times. For a people who have always lived between destinations, the journey itself may prove to be [Valdris](Valdris.md)'s salvation or its doom.
 
 ---
 
-*For related information, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Ruin-Shunner Republics]], [[Walking Gardens of Yss'andra]], [[Timeline|Recent Awakening]], [[Music/The Endless Road - Wanderer Folk Song]], and [[World Map]]*
+*For related information, see [Political Systems/Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Political Systems/Ruin-Shunner Republics](Ruin-Shunner%20Republics.md), [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), [Recent Awakening](Timeline.md), [Music/The Endless Road - Wanderer Folk Song](../Music/The%20Endless%20Road%20-%20Wanderer%20Folk%20Song.md), and [World Map](World%20Map.md)*

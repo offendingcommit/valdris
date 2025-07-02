@@ -4,44 +4,44 @@
 
 ## Quick Navigation
 
-- [[#Natural Resource Geography]]
-- [[#Architect Material Economy]]
-- [[#Agricultural Production Systems]]
-- [[#Industrial Resource Control]]
-- [[#Resource-Based Political Power]]
-- [[#Awakening Resource Changes]]
-- [[#Adventure Opportunities]]
+- [#Natural Resource Geography](%23Natural%20Resource%20Geography.md)
+- [#Architect Material Economy](%23Architect%20Material%20Economy.md)
+- [#Agricultural Production Systems](%23Agricultural%20Production%20Systems.md)
+- [#Industrial Resource Control](%23Industrial%20Resource%20Control.md)
+- [#Resource-Based Political Power](%23Resource-Based%20Political%20Power.md)
+- [#Awakening Resource Changes](%23Awakening%20Resource%20Changes.md)
+- [#Adventure Opportunities](%23Adventure%20Opportunities.md)
 
 ---
 
 ## Natural Resource Geography
 
-The distribution of natural resources across [[Valdris]] creates the foundation for both traditional economics and political power. Geographic advantages determine which regions prosper through conventional means, while proximity to [[Architect Ruins]] adds another layer of resource inequality that shapes the continent's destiny.
+The distribution of natural resources across [Valdris](Valdris.md) creates the foundation for both traditional economics and political power. Geographic advantages determine which regions prosper through conventional means, while proximity to [Architect Ruins](Architect%20Ruins.md) adds another layer of resource inequality that shapes the continent's destiny.
 
 ### Mineral Wealth Distribution
 
-**[[Regions/The Heartlands]] Deposits**:
+**[The Heartlands](The%20Heartlands.md) Deposits**:
 - **Iron**: Extensive deposits supporting traditional metalworking
 - **Copper**: High-quality ore essential for both traditional and Architect-related crafts
 - **Silver**: Limited deposits creating dependence on trade relationships
 - **Coal**: Abundant fuel sources supporting industrial development
 - **Stone**: Quality building materials including marble and granite
 
-**[[Regions/Cerulean Coast]] Resources**:
+**[Cerulean Coast](Cerulean%20Coast.md) Resources**:
 - **Salt**: Massive deposits from evaporated sea basins
 - **Tin**: Coastal mines providing alloy components
 - **Sand**: Specialized types for glassmaking and construction
 - **Limestone**: Essential for mortar and building construction
 - **Pearls**: Marine cultivation supporting luxury trade
 
-**[[Regions/The Wandering Reaches]] Wealth**:
+**[The Wandering Reaches](The%20Wandering%20Reaches.md) Wealth**:
 - **Precious Metals**: Gold and platinum in remote deposits
 - **Rare Stones**: Gems and semi-precious minerals
 - **Exotic Metals**: Unusual alloys with unknown properties
 - **Crystal Formations**: Natural crystals that sometimes resonate with Architect technology
 - **Meteorite Iron**: Star-metal with unique properties
 
-**[[Regions/The Quiet Lands]] Resources**:
+**[The Quiet Lands](The%20Quiet%20Lands.md) Resources**:
 - **Clay**: Superior pottery and construction materials
 - **Peat**: Alternative fuel sources in forested regions
 - **Timber**: Specialized woods for construction and crafting
@@ -118,7 +118,7 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 - Advanced refinement using partially understood Architect processes
 - Quality enhancement through harmonic resonance treatments
 
-**[[Factions & Organizations/Tinker-Priests]] Methods**:
+**[Tinker-Priests](Tinker-Priests.md) Methods**:
 - Ceremonial approaches respecting Architect intentions
 - Sustainable extraction maintaining ruin functionality
 - Collaborative efforts with active Architect systems
@@ -155,10 +155,10 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 - Transportation networks moving products to urban centers
 
 **Regional Specializations**:
-- **[[Regions/The Heartlands]]**: Grain production feeding major population centers
-- **[[Regions/Cerulean Coast]]**: Salt production and maritime agriculture
-- **[[Regions/The Quiet Lands]]**: Specialty crops and forest products
-- **[[Regions/The Wandering Reaches]]**: Hardy crops adapted to harsh conditions
+- **[The Heartlands](The%20Heartlands.md)**: Grain production feeding major population centers
+- **[Cerulean Coast](Cerulean%20Coast.md)**: Salt production and maritime agriculture
+- **[The Quiet Lands](The%20Quiet%20Lands.md)**: Specialty crops and forest products
+- **[The Wandering Reaches](The%20Wandering%20Reaches.md)**: Hardy crops adapted to harsh conditions
 
 ### Architect-Enhanced Agriculture
 
@@ -174,7 +174,7 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 - **Flavor Enhancement**: Improving taste and appeal of basic crops
 - **Yield Multiplication**: Dramatically increasing production per unit area
 
-**[[Architect Ruins/Walking Gardens of Yss'andra]] Influence**:
+**[Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) Influence**:
 - Revolutionary agricultural techniques demonstrated by mobile gardens
 - Seed varieties adapted to artificial growing conditions
 - Seasonal patterns following garden movement rather than natural cycles
@@ -199,7 +199,7 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 ### Manufacturing Centers
 
 **Traditional Crafting Hubs**:
-- **[[Settlements/Grimhaven]]**: Shipbuilding and maritime equipment
+- **[Grimhaven](Grimhaven.md)**: Shipbuilding and maritime equipment
 - **Heartland Workshops**: Tool production and agricultural implements
 - **Mountain Forges**: Metalworking and specialized alloys
 - **Coastal Kilns**: Pottery, glassware, and ceramic production
@@ -219,7 +219,7 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 - **Specialized Knowledge**: Techniques specific to regional resources
 
 **Architect Technology Specialists**:
-- **[[Factions & Organizations/Gear-Wright Guilds]]**: Professionals working with Architect devices
+- **[Gear-Wright Guilds](Gear-Wright%20Guilds.md)**: Professionals working with Architect devices
 - **Bridge-Workers**: Rare individuals capable of interfacing with Architect systems
 - **Relic Maintainers**: Specialists keeping ancient devices functional
 - **Innovation Researchers**: Professionals developing new applications
@@ -242,19 +242,19 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 
 ### Territorial Advantages
 
-**[[Political Systems/Ruin-Holder Kingdoms]] Strengths**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) Strengths**:
 - Direct control over major Architect material sources
 - State monopolies on high-value resource extraction
 - Military advantages through superior equipment access
 - Diplomatic leverage via resource scarcity manipulation
 
-**[[Political Systems/Wanderer Confederations]] Flexibility**:
+**[Wanderer Confederations](Wanderer%20Confederations.md) Flexibility**:
 - Access to multiple resource sites through mobility
 - Reduced dependency on single source points
 - Expertise in extracting resources from dangerous locations
 - Cultural knowledge of sustainable extraction practices
 
-**[[Political Systems/Ruin-Shunner Republics]] Independence**:
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) Independence**:
 - Strong traditional resource bases independent of ruins
 - Democratic oversight preventing resource exploitation
 - Emphasis on renewable and sustainable resource management
@@ -338,7 +338,7 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 
 **"The Singing Mine"**: A traditional copper mine has begun producing metals that resonate with harmonic frequencies. Investigation reveals the mine has broken into an ancient Architect material processing facility that's awakening and attempting to resume operations.
 
-**"Garden Harvest Rights"**: The [[Architect Ruins/Walking Gardens of Yss'andra]] is approaching a region rich in traditional resources. Multiple factions want to negotiate harvesting agreements, but the garden's route will destroy valuable conventional mining operations.
+**"Garden Harvest Rights"**: The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) is approaching a region rich in traditional resources. Multiple factions want to negotiate harvesting agreements, but the garden's route will destroy valuable conventional mining operations.
 
 **"The Vanishing Stockpile"**: A kingdom's strategic resource reserves are disappearing without explanation. Players discover the materials are being drawn by awakening Architect systems that need them for mysterious reconstruction projects.
 
@@ -370,17 +370,17 @@ The distribution of natural resources across [[Valdris]] creates the foundation 
 
 ## Related Documentation
 
-- [[Economics & Trade/Dual Economy Overview]]: Economic system context
-- [[Economics & Trade/Trade Routes & Networks]]: Resource transportation
-- [[Economics & Trade/Currency & Banking]]: Resource valuation systems
-- [[Economics & Trade/Guild Economics]]: Professional resource management
-- [[Technology/Architect Materials]]: Technical material properties
-- [[Lore/Architect Technology]]: Material integration with ancient systems
-- [[Political Systems/Ruin-Holder Kingdoms]]: Resource-based political power
-- [[Regions/The Heartlands]]: Major resource production zone
+- [Dual Economy Overview](Dual%20Economy%20Overview.md): Economic system context
+- [Trade Routes & Networks](Trade%20Routes%20%26%20Networks.md): Resource transportation
+- [Currency & Banking](Currency%20%26%20Banking.md): Resource valuation systems
+- [Guild Economics](Guild%20Economics.md): Professional resource management
+- [Architect Materials](Architect%20Materials.md): Technical material properties
+- [Architect Technology](Architect%20Technology.md): Material integration with ancient systems
+- [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md): Resource-based political power
+- [The Heartlands](The%20Heartlands.md): Major resource production zone
 
 ---
 
-*Control the resources, control the future. In [[Valdris]], the intersection of traditional wealth and [Architect](Architect.md) mysteries creates opportunities for those bold enough to seize them.*
+*Control the resources, control the future. In [Valdris](Valdris.md), the intersection of traditional wealth and [Architect](Architect.md) mysteries creates opportunities for those bold enough to seize them.*
 
 #resources #materials #extraction #political-power #awakening #economics

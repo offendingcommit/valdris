@@ -6,11 +6,11 @@
 
 ## Overview
 
-The **Cerulean Coast** stretches along the western edge of [[Valdris]], where the continent meets the vast [[Endless Sea]]. This maritime region serves as the primary gateway for international trade and cultural exchange, defined by its dramatic coastline, bustling ports, and the ever-present glow of the [[Eternal Lighthouse]] that has guided ships safely to harbor for over eight centuries.
+The **Cerulean Coast** stretches along the western edge of [Valdris](Valdris.md), where the continent meets the vast [Endless Sea](Endless%20Sea.md). This maritime region serves as the primary gateway for international trade and cultural exchange, defined by its dramatic coastline, bustling ports, and the ever-present glow of the [Eternal Lighthouse](Eternal%20Lighthouse.md) that has guided ships safely to harbor for over eight centuries.
 
-The coast's character is shaped by the marriage of ancient [[Architect Ruins|Architect]] marvels and modern maritime commerce. Here, traditional fishing boats moor beside merchant vessels from distant lands, while the impossible geometry of the [[Eternal Lighthouse]] towers over conventional harbor works built by human hands. The region represents [[Valdris]]'s face to the outside world, balancing the continent's mysterious past with its commercial future.
+The coast's character is shaped by the marriage of ancient [Architect](Architect%20Ruins.md) marvels and modern maritime commerce. Here, traditional fishing boats moor beside merchant vessels from distant lands, while the impossible geometry of the [Eternal Lighthouse](Eternal%20Lighthouse.md) towers over conventional harbor works built by human hands. The region represents [Valdris](Valdris.md)'s face to the outside world, balancing the continent's mysterious past with its commercial future.
 
-Since the [[Timeline|Recent Awakening]], the Cerulean Coast has experienced both unprecedented prosperity and dangerous uncertainty as ancient systems stir and the lighthouse's behavior becomes increasingly unpredictable.
+Since the [Recent Awakening](Timeline.md), the Cerulean Coast has experienced both unprecedented prosperity and dangerous uncertainty as ancient systems stir and the lighthouse's behavior becomes increasingly unpredictable.
 
 ---
 
@@ -21,16 +21,16 @@ Since the [[Timeline|Recent Awakening]], the Cerulean Coast has experienced both
 The Cerulean Coast presents a dramatic and varied landscape carved by millennia of ocean action:
 
 #### **The Grand Cliffs**
-Towering limestone precipices rise up to 300 feet above the sea, honeycombed with sea caves and crowned by the [[Eternal Lighthouse]]. These cliffs provide natural defense and spectacular views but limit access to the sea.
+Towering limestone precipices rise up to 300 feet above the sea, honeycombed with sea caves and crowned by the [Eternal Lighthouse](Eternal%20Lighthouse.md). These cliffs provide natural defense and spectacular views but limit access to the sea.
 
 #### **The Harbor Breaks**
-Where the cliffs give way to lower land, natural and constructed harbors provide shelter for vessels. [[Grimhaven]] occupies the largest of these breaks, its harbor extended by massive stone breakwaters built over generations.
+Where the cliffs give way to lower land, natural and constructed harbors provide shelter for vessels. [Grimhaven](Grimhaven.md) occupies the largest of these breaks, its harbor extended by massive stone breakwaters built over generations.
 
 #### **The Saltmarsh Deltas**
-South of the main cliffs, the [[Silverfish River]] creates extensive marshlands rich in marine life. These shallow waters serve as nurseries for fish and provide protected harbors for smaller vessels.
+South of the main cliffs, the [Silverfish River](Silverfish%20River.md) creates extensive marshlands rich in marine life. These shallow waters serve as nurseries for fish and provide protected harbors for smaller vessels.
 
 #### **The Northern Passages**
-Rocky headlands and hidden coves stretch north toward the [[Northern Reaches]], creating a dangerous but profitable route for smugglers and adventurous traders.
+Rocky headlands and hidden coves stretch north toward the [Northern Reaches](Northern%20Reaches.md), creating a dangerous but profitable route for smugglers and adventurous traders.
 
 #### **The Singing Cliffs**
 Unique rock formations that create haunting melodies when ocean winds pass through their carved passages. Local legends claim the sounds are messages from drowned sailors.
@@ -44,14 +44,14 @@ The coast enjoys a maritime climate moderated by ocean currents:
 - **Winter**: Cold and stormy, with dangerous seas limiting travel
 - **Spring**: Clearing weather marks the return of major shipping seasons
 
-The [[Eternal Lighthouse]] appears to influence local weather patterns, with experienced sailors noting that storms rarely directly strike the main harbor when the lighthouse burns bright.
+The [Eternal Lighthouse](Eternal%20Lighthouse.md) appears to influence local weather patterns, with experienced sailors noting that storms rarely directly strike the main harbor when the lighthouse burns bright.
 
 ### Marine Environment
 
 The waters off the Cerulean Coast teem with life both natural and mysterious:
 
 #### **The Shallow Banks**
-Extensive fishing grounds where traditional catches mix with [[Lighthouse Catch]] - bioluminescent fish that glow with residual [[Architect Ruins|Architect]] energy.
+Extensive fishing grounds where traditional catches mix with [Lighthouse Catch](Lighthouse%20Catch.md) - bioluminescent fish that glow with residual [Architect](Architect%20Ruins.md) energy.
 
 #### **The Deep Channels**
 Shipping lanes maintained by the lighthouse's navigation systems, mysteriously free of the dangerous reefs and seamounts that plague other areas.
@@ -63,28 +63,28 @@ Treacherous waters beyond the lighthouse's protection, where ships are said to b
 
 ## Major Settlements
 
-### [[Grimhaven]]
+### [Grimhaven](Grimhaven.md)
 *The Great Port of Valdris*
 
-The jewel of the Cerulean Coast, [[Grimhaven]] serves as [[Valdris]]'s primary port and largest city. Built in the shadow of the towering [[Eternal Lighthouse]], the city has grown from a fishing village into a cosmopolitan hub where cultures from across the known world converge.
+The jewel of the Cerulean Coast, [Grimhaven](Grimhaven.md) serves as [Valdris](Valdris.md)'s primary port and largest city. Built in the shadow of the towering [Eternal Lighthouse](Eternal%20Lighthouse.md), the city has grown from a fishing village into a cosmopolitan hub where cultures from across the known world converge.
 
 **Key Features:**
 - **The Harbor District**: Massive stone quays capable of handling the largest merchant vessels
-- **Lighthouse Square**: The city's commercial and political center, dominated by the [[Navigation Crown]] palace
+- **Lighthouse Square**: The city's commercial and political center, dominated by the [Navigation Crown](Navigation%20Crown.md) palace
 - **Foreign Quarter**: International district where merchants from distant lands maintain trading houses
 - **The Beacon Hill**: Residential area for the wealthy, offering views of both harbor and lighthouse
 
-### [[Saltwind]]
+### [Saltwind](Saltwind.md)
 *Village of the Lighthouse Catch*
 
-A traditional fishing village specializing in harvesting the mysterious [[Lighthouse Catch]] - bioluminescent fish that appear only in waters touched by the lighthouse's glow. These fish command premium prices as both delicacy and alchemical ingredient.
+A traditional fishing village specializing in harvesting the mysterious [Lighthouse Catch](Lighthouse%20Catch.md) - bioluminescent fish that appear only in waters touched by the lighthouse's glow. These fish command premium prices as both delicacy and alchemical ingredient.
 
 **Key Features:**
 - **The Glowing Nets**: Specialized equipment for catching luminous fish without damaging their properties
 - **The Preservation Houses**: Buildings where the catch is processed using ancient techniques
 - **The Fisherman's Shrine**: Temple where sailors pray for safe voyages and good catches
 
-### [[Cliff's Edge]]
+### [Cliff's Edge](Cliff%27s%20Edge.md)
 *Guardian of the Northern Passages*
 
 A fortified settlement perched on dramatic headlands, serving as both trading post and defensive position guarding the dangerous but lucrative northern shipping routes.
@@ -94,10 +94,10 @@ A fortified settlement perched on dramatic headlands, serving as both trading po
 - **The Smuggler's Rest**: Tavern and inn catering to merchants using unofficial trade routes
 - **The Garrison**: Military outpost maintaining coastal defenses
 
-### [[Tidecrest]]
+### [Tidecrest](Tidecrest.md)
 *Gateway to the Marshes*
 
-A prosperous town built where the [[Silverfish River]] meets the sea, controlling access to the rich [[Saltmarsh Deltas]] and serving as a center for river trade flowing from the interior.
+A prosperous town built where the [Silverfish River](Silverfish%20River.md) meets the sea, controlling access to the rich [Saltmarsh Deltas](Saltmarsh%20Deltas.md) and serving as a center for river trade flowing from the interior.
 
 **Key Features:**
 - **The River Market**: Trading center where inland goods meet maritime commerce
@@ -110,16 +110,16 @@ A prosperous town built where the [[Silverfish River]] meets the sea, controllin
 
 ### The Ruin-Holder Model
 
-The Cerulean Coast operates under a modified [[Political Systems/Ruin-Holder Kingdoms]] system, with authority centered on control of the [[Eternal Lighthouse]] and its associated [[Architect Ruins|Architect]] technology.
+The Cerulean Coast operates under a modified [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) system, with authority centered on control of the [Eternal Lighthouse](Eternal%20Lighthouse.md) and its associated [Architect](Architect%20Ruins.md) technology.
 
 #### The Navigation Crown
 
-**Lady Aurelia Brass-Heart** rules as the **Gear-Crowned** sovereign of [[Grimhaven]] and nominal leader of the entire coast. Her authority derives from the [[Navigation Crown]], an [[Architect Ruins|Architect]] device that allows her to control the lighthouse's functions and maritime guidance systems.
+**Lady Aurelia Brass-Heart** rules as the **Gear-Crowned** sovereign of [Grimhaven](Grimhaven.md) and nominal leader of the entire coast. Her authority derives from the [Navigation Crown](Navigation%20Crown.md), an [Architect](Architect%20Ruins.md) device that allows her to control the lighthouse's functions and maritime guidance systems.
 
 **Powers and Responsibilities:**
 - **Lighthouse Operation**: Maintaining the beacon and navigation systems
 - **Harbor Control**: Regulating maritime traffic and trade
-- **Diplomatic Relations**: Serving as [[Valdris]]'s primary contact with foreign powers
+- **Diplomatic Relations**: Serving as [Valdris](Valdris.md)'s primary contact with foreign powers
 - **Coastal Defense**: Coordinating protection against pirates and foreign threats
 
 #### Regional Autonomy
@@ -176,10 +176,10 @@ The Cerulean Coast's culture is fundamentally shaped by its relationship with th
 
 ### Social Structure
 
-Coastal society reflects both maritime traditions and [[Architect Ruins|Architect]] influence:
+Coastal society reflects both maritime traditions and [Architect](Architect%20Ruins.md) influence:
 
 #### **The Navigation Nobility**
-- **Gear-Crowned**: Lady Aurelia and her family, rulers through [[Architect Ruins|Architect]] technology
+- **Gear-Crowned**: Lady Aurelia and her family, rulers through [Architect](Architect%20Ruins.md) technology
 - **Lighthouse Keepers**: Traditional families maintaining the beacon's functions
 - **Harbor Lords**: Wealthy merchants controlling major trading operations
 - **Ship Masters**: Captains of the largest and most successful vessels
@@ -188,7 +188,7 @@ Coastal society reflects both maritime traditions and [[Architect Ruins|Architec
 - **Guild Artisans**: Shipwrights, sail-makers, and maritime specialists
 - **Merchant Traders**: Successful business operators managing commercial ventures
 - **Professional Sailors**: Experienced mariners with specialized skills
-- **Lighthouse Technicians**: Experts in maintaining [[Architect Ruins|Architect]] systems
+- **Lighthouse Technicians**: Experts in maintaining [Architect](Architect%20Ruins.md) systems
 
 #### **The Coastal Commons**
 - **Fishing Folk**: Traditional communities following ancient maritime traditions
@@ -198,13 +198,13 @@ Coastal society reflects both maritime traditions and [[Architect Ruins|Architec
 
 ### Cultural Exchange
 
-As [[Valdris]]'s primary contact with the outside world, the coast is uniquely cosmopolitan:
+As [Valdris](Valdris.md)'s primary contact with the outside world, the coast is uniquely cosmopolitan:
 
 #### **Foreign Influence**
 - **Trading Languages**: Polyglot maritime pidgin enabling international commerce
 - **Cultural Festivals**: Celebrations incorporating traditions from many lands
 - **Exotic Goods**: Access to luxury items and strange technologies from abroad
-- **International Perspectives**: Broader worldview than other regions of [[Valdris]]
+- **International Perspectives**: Broader worldview than other regions of [Valdris](Valdris.md)
 
 #### **Traditional Preservation**
 - **Maritime Museums**: Collections preserving coastal heritage and seafaring history
@@ -218,12 +218,12 @@ As [[Valdris]]'s primary contact with the outside world, the coast is uniquely c
 
 ### International Commerce
 
-The Cerulean Coast serves as [[Valdris]]'s economic gateway to the world:
+The Cerulean Coast serves as [Valdris](Valdris.md)'s economic gateway to the world:
 
 #### **Major Exports**
-- **[[Architect Artifacts]]**: Carefully controlled trade in ancient technology
-- **[[Lighthouse Catch]]**: Unique bioluminescent fish prized as delicacy and alchemical ingredient
-- **Traditional Crafts**: High-quality goods representing [[Valdris]]'s cultural heritage
+- **[Architect Artifacts](Architect%20Artifacts.md)**: Carefully controlled trade in ancient technology
+- **[Lighthouse Catch](Lighthouse%20Catch.md)**: Unique bioluminescent fish prized as delicacy and alchemical ingredient
+- **Traditional Crafts**: High-quality goods representing [Valdris](Valdris.md)'s cultural heritage
 - **Exotic Resources**: Rare materials and products from across the continent
 
 #### **Key Imports**
@@ -234,15 +234,15 @@ The Cerulean Coast serves as [[Valdris]]'s economic gateway to the world:
 
 #### **Trade Networks**
 - **The Great Circuit**: Continental trade route connecting all major regions
-- **International Shipping**: Regular routes to distant ports across the [[Endless Sea]]
-- **River Commerce**: Inland trade via the [[Silverfish River]] and connecting waterways
+- **International Shipping**: Regular routes to distant ports across the [Endless Sea](Endless%20Sea.md)
+- **River Commerce**: Inland trade via the [Silverfish River](Silverfish%20River.md) and connecting waterways
 - **Coastal Cabotage**: Short-range shipping between coastal settlements
 
 ### Maritime Industries
 
 #### **Fishing and Aquaculture**
 - **Traditional Fishing**: Time-honored methods for catching natural fish species
-- **[[Lighthouse Catch]] Harvesting**: Specialized techniques for capturing bioluminescent fish
+- **[Lighthouse Catch](Lighthouse%20Catch.md) Harvesting**: Specialized techniques for capturing bioluminescent fish
 - **Kelp Farming**: Cultivation of sea vegetables in protected coastal waters
 - **Shellfish Beds**: Management of oyster, clam, and crab populations
 
@@ -260,12 +260,12 @@ The Cerulean Coast serves as [[Valdris]]'s economic gateway to the world:
 
 ### Economic Challenges
 
-#### **[[Lighthouse Malfunctions]]**
-Recent instability in the [[Eternal Lighthouse]] has created serious economic problems:
+#### **[Lighthouse Malfunctions](Lighthouse%20Malfunctions.md)**
+Recent instability in the [Eternal Lighthouse](Eternal%20Lighthouse.md) has created serious economic problems:
 - **Navigation Hazards**: Ships running aground due to inconsistent guidance
 - **Trade Disruption**: Merchants avoiding unreliable ports
 - **Insurance Crisis**: Rising costs for maritime ventures
-- **International Reputation**: Damage to [[Valdris]]'s reliability as a trading partner
+- **International Reputation**: Damage to [Valdris](Valdris.md)'s reliability as a trading partner
 
 #### **Competition and Change**
 - **Technological Obsolescence**: Foreign innovations challenging traditional methods
@@ -279,47 +279,47 @@ Recent instability in the [[Eternal Lighthouse]] has created serious economic pr
 
 ### The Eternal Lighthouse
 
-The coast's defining feature and greatest asset is the massive [[Eternal Lighthouse]], an [[Architect Ruins|Architect]] structure that has guided ships for centuries:
+The coast's defining feature and greatest asset is the massive [Eternal Lighthouse](Eternal%20Lighthouse.md), an [Architect](Architect%20Ruins.md) structure that has guided ships for centuries:
 
 #### **Physical Description**
 - **Impossible Architecture**: Crystalline and metallic tower defying conventional engineering
 - **Eternal Flame**: Beacon that burns without fuel or maintenance
-- **Navigation Systems**: [[Architect Ruins|Architect]] technology providing precise guidance
+- **Navigation Systems**: [Architect](Architect%20Ruins.md) technology providing precise guidance
 - **Harbor Integration**: Ancient foundations extending beneath the modern port
 
 #### **Current Functions**
 - **Maritime Guidance**: Directing ships safely through dangerous waters
 - **Weather Prediction**: Early warning systems for storms and hazardous conditions
-- **Communication Network**: Mysterious signals connecting to other [[Architect Ruins]]
+- **Communication Network**: Mysterious signals connecting to other [Architect Ruins](Architect%20Ruins.md)
 - **Defensive Systems**: Protective barriers shielding the harbor from threats
 
 #### **Control Mechanisms**
-- **[[Navigation Crown]]**: [[Architect Ruins|Architect]] device allowing limited control of lighthouse functions
+- **[Navigation Crown](Navigation%20Crown.md)**: [Architect](Architect%20Ruins.md) device allowing limited control of lighthouse functions
 - **Ancient Protocols**: Predetermined behaviors that operate autonomously
 - **Emergency Overrides**: Crisis response systems that activate under specific conditions
 - **Maintenance Rituals**: Traditional ceremonies required to keep systems functioning
 
 ### Integration Challenges
 
-Unlike other regions that either embrace or reject [[Architect Ruins|Architect]] technology, the coast must navigate a complex relationship:
+Unlike other regions that either embrace or reject [Architect](Architect%20Ruins.md) technology, the coast must navigate a complex relationship:
 
 #### **Practical Dependence**
 - **Economic Foundation**: Regional prosperity depends on lighthouse functions
-- **International Standing**: [[Valdris]]'s reputation as a reliable trading partner
+- **International Standing**: [Valdris](Valdris.md)'s reputation as a reliable trading partner
 - **Safety Requirements**: Lives depend on proper lighthouse operation
 - **Cultural Identity**: The beacon has become central to coastal heritage
 
 #### **Technical Limitations**
 - **Incomplete Understanding**: Limited knowledge of how lighthouse systems actually work
 - **Maintenance Challenges**: Increasing difficulty keeping ancient systems operational
-- **Upgrade Impossibility**: Cannot modify or improve [[Architect Ruins|Architect]] technology
+- **Upgrade Impossibility**: Cannot modify or improve [Architect](Architect%20Ruins.md) technology
 - **Dependency Risk**: Vulnerability if lighthouse systems fail completely
 
 #### **Political Implications**
 - **Authority Questions**: Whether lighthouse control justifies political power
 - **Regional Tensions**: Other areas questioning coast's special status
 - **Succession Concerns**: Uncertainty about future lighthouse keepers
-- **International Complications**: Foreign interest in [[Architect Ruins|Architect]] technology
+- **International Complications**: Foreign interest in [Architect](Architect%20Ruins.md) technology
 
 ---
 
@@ -327,7 +327,7 @@ Unlike other regions that either embrace or reject [[Architect Ruins|Architect]]
 
 ### Lighthouse Instability
 
-The [[Timeline|Recent Awakening]] has dramatically affected the [[Eternal Lighthouse]]:
+The [Recent Awakening](Timeline.md) has dramatically affected the [Eternal Lighthouse](Eternal%20Lighthouse.md):
 
 #### **Behavioral Changes**
 - **Unpredictable Patterns**: Beacon no longer follows traditional schedules
@@ -337,7 +337,7 @@ The [[Timeline|Recent Awakening]] has dramatically affected the [[Eternal Lighth
 
 #### **Navigation Consequences**
 - **Shipping Accidents**: Several vessels run aground due to inconsistent guidance
-- **Route Disruption**: Major shipping lines avoiding [[Grimhaven]] until stability returns
+- **Route Disruption**: Major shipping lines avoiding [Grimhaven](Grimhaven.md) until stability returns
 - **Pilot Challenges**: Harbor guides struggling to adapt to changing conditions
 - **Insurance Crisis**: Maritime insurers raising rates or refusing coverage
 
@@ -394,7 +394,7 @@ Spectral entities that appear during severe weather, interfering with navigation
 Treacherous waters beyond lighthouse protection where ships are lured to destruction:
 - **Location**: Deep ocean areas beyond the lighthouse's reliable range
 - **Phenomena**: False lights, haunting songs, and navigation equipment malfunctions
-- **Theories**: May be connected to submerged [[Architect Ruins]] or competing lighthouse systems
+- **Theories**: May be connected to submerged [Architect Ruins](Architect%20Ruins.md) or competing lighthouse systems
 - **Survival**: Few vessels return from these waters, and survivors tell conflicting stories
 
 #### **Lighthouse Malfunctions**
@@ -402,21 +402,21 @@ Direct consequences of the beacon's increasing instability:
 - **Navigation Errors**: Ships guided into dangerous waters or away from safe harbors
 - **Signal Confusion**: Conflicting or nonsensical guidance from lighthouse systems
 - **System Failures**: Complete temporary shutdowns leaving ships without guidance
-- **Cascade Effects**: Problems spreading to related [[Architect Ruins|Architect]] systems
+- **Cascade Effects**: Problems spreading to related [Architect](Architect%20Ruins.md) systems
 
 ### Political Threats
 
 #### **Authority Challenges**
 Questions about Lady Aurelia's continued legitimacy as lighthouse control weakens:
-- **Noble Opposition**: Traditional aristocrats questioning [[Architect Ruins|Architect]]-based authority
-- **Regional Separatism**: Coastal settlements considering independence from [[Grimhaven]]
-- **Democratic Movements**: Calls for elected leadership rather than [[Architect Ruins|Architect]]-appointed rulers
+- **Noble Opposition**: Traditional aristocrats questioning [Architect](Architect%20Ruins.md)-based authority
+- **Regional Separatism**: Coastal settlements considering independence from [Grimhaven](Grimhaven.md)
+- **Democratic Movements**: Calls for elected leadership rather than [Architect](Architect%20Ruins.md)-appointed rulers
 - **Foreign Interference**: International powers attempting to exploit political weakness
 
 #### **Economic Vulnerability**
 The region's dependence on maritime trade creates specific risks:
 - **Trade Boycotts**: International partners avoiding unreliable trade routes
-- **Competitor Advantage**: Other ports gaining business as [[Grimhaven]] struggles
+- **Competitor Advantage**: Other ports gaining business as [Grimhaven](Grimhaven.md) struggles
 - **Infrastructure Decay**: Reduced investment in harbor and shipping facilities
 - **Skill Exodus**: Maritime professionals seeking opportunities elsewhere
 
@@ -424,7 +424,7 @@ The region's dependence on maritime trade creates specific risks:
 
 #### **Ecosystem Disruption**
 Changes in lighthouse behavior affecting marine life:
-- **[[Lighthouse Catch]] Decline**: Bioluminescent fish populations becoming unpredictable
+- **[Lighthouse Catch](Lighthouse%20Catch.md) Decline**: Bioluminescent fish populations becoming unpredictable
 - **Migration Patterns**: Sea creatures confused by changing lighthouse signals
 - **Breeding Cycles**: Marine reproduction disrupted by altered light patterns
 - **Food Chain Effects**: Cascading impacts throughout the marine ecosystem
@@ -444,7 +444,7 @@ Lighthouse-related environmental protections becoming unreliable:
 
 #### **The Lighthouse Keepers**
 Investigate the lighthouse's increasing instability and help restore stable navigation:
-- **Technical Challenges**: Understanding and repairing [[Architect Ruins|Architect]] systems
+- **Technical Challenges**: Understanding and repairing [Architect](Architect%20Ruins.md) systems
 - **Political Intrigue**: Navigating competing interests in lighthouse control
 - **Ancient Mysteries**: Discovering the true purpose and capabilities of the lighthouse
 - **International Diplomacy**: Managing foreign concerns about trade route reliability
@@ -486,10 +486,10 @@ Address questions about lighthouse control and regional leadership:
 - **Constitutional Convention**: Establishing new frameworks for political authority
 - **Diplomatic Negotiation**: Managing relationships with other regions and foreign powers
 - **Social Reform**: Addressing inequality and representation in coastal society
-- **Technical Governance**: Integrating [[Architect Ruins|Architect]] technology into democratic institutions
+- **Technical Governance**: Integrating [Architect](Architect%20Ruins.md) technology into democratic institutions
 
 #### **The Independence Movement**
-Navigate the growing desire for coastal settlements to break away from [[Grimhaven]]'s control:
+Navigate the growing desire for coastal settlements to break away from [Grimhaven](Grimhaven.md)'s control:
 - **Regional Politics**: Understanding the complex relationships between coastal communities
 - **Economic Analysis**: Evaluating the viability of political independence
 - **Military Preparedness**: Dealing with potential conflicts over political control
@@ -498,9 +498,9 @@ Navigate the growing desire for coastal settlements to break away from [[Grimhav
 ### Exploration and Discovery
 
 #### **The Ancient Harbor**
-Investigate the [[Architect Ruins|Architect]] foundations beneath [[Grimhaven]]'s modern port:
+Investigate the [Architect](Architect%20Ruins.md) foundations beneath [Grimhaven](Grimhaven.md)'s modern port:
 - **Archaeological Exploration**: Uncovering the original purpose of ancient harbor structures
-- **Technical Integration**: Learning to use discovered [[Architect Ruins|Architect]] systems
+- **Technical Integration**: Learning to use discovered [Architect](Architect%20Ruins.md) systems
 - **Historical Research**: Understanding the relationship between ancient and modern civilization
 - **Engineering Challenges**: Safely exploring underwater and underground ruins
 
@@ -509,7 +509,7 @@ Search for missing vessels in the dangerous waters around the coast:
 - **Maritime Investigation**: Tracking missing ships and uncovering their fate
 - **Underwater Exploration**: Diving to explore shipwrecks and seafloor ruins
 - **Survival Challenges**: Operating in hostile marine environments
-- **Mystery Solving**: Understanding the connection between disappearances and [[Architect Ruins|Architect]] activity
+- **Mystery Solving**: Understanding the connection between disappearances and [Architect](Architect%20Ruins.md) activity
 
 ---
 
@@ -517,19 +517,19 @@ Search for missing vessels in the dangerous waters around the coast:
 
 ### Regional Relationships
 
-#### With [[The Quiet Lands]]
+#### With [The Quiet Lands](The%20Quiet%20Lands.md)
 - **Economic**: Primary trade relationship providing traditional goods for international markets
 - **Political**: Generally cooperative despite different governance philosophies
 - **Cultural**: Exchange of knowledge and mutual respect for different approaches
 - **Strategic**: Alliance in maintaining regional independence and security
 
-#### With [[Political Systems/Ruin-Holder Kingdoms]]
-- **Economic**: Complex trade relationships involving [[Architect Ruins|Architect]] technology
+#### With [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
+- **Economic**: Complex trade relationships involving [Architect](Architect%20Ruins.md) technology
 - **Political**: Shared governance model but competing for regional dominance
-- **Cultural**: Similar values regarding [[Architect Ruins|Architect]] heritage but different priorities
+- **Cultural**: Similar values regarding [Architect](Architect%20Ruins.md) heritage but different priorities
 - **Strategic**: Potential cooperation or competition depending on circumstances
 
-#### With [[Political Systems/Wanderer Confederations]]
+#### With [Wanderer Confederations](Wanderer%20Confederations.md)
 - **Economic**: Limited direct trade due to nomadic lifestyle and geographic separation
 - **Political**: Mutual respect for autonomy and local governance
 - **Cultural**: Shared appreciation for adaptability and practical skills
@@ -537,10 +537,10 @@ Search for missing vessels in the dangerous waters around the coast:
 
 ### International Significance
 
-The Cerulean Coast serves as [[Valdris]]'s primary interface with the wider world:
+The Cerulean Coast serves as [Valdris](Valdris.md)'s primary interface with the wider world:
 
 #### **Diplomatic Functions**
-- **Foreign Relations**: Managing [[Valdris]]'s relationships with other nations and powers
+- **Foreign Relations**: Managing [Valdris](Valdris.md)'s relationships with other nations and powers
 - **Treaty Negotiations**: Facilitating agreements regarding trade and maritime law
 - **Cultural Exchange**: Enabling peaceful contact between different civilizations
 - **Conflict Mediation**: Serving as neutral ground for resolving international disputes
@@ -554,8 +554,8 @@ The Cerulean Coast serves as [[Valdris]]'s primary interface with the wider worl
 #### **Strategic Position**
 - **Naval Base**: Potential staging area for maritime expeditions and explorations
 - **Intelligence Center**: Gathering information about foreign activities and intentions
-- **Defensive Position**: Protecting [[Valdris]] from maritime threats and invasions
-- **Cultural Preservation**: Maintaining [[Valdris]]'s unique identity while engaging with the world
+- **Defensive Position**: Protecting [Valdris](Valdris.md) from maritime threats and invasions
+- **Cultural Preservation**: Maintaining [Valdris](Valdris.md)'s unique identity while engaging with the world
 
 ---
 
@@ -567,9 +567,9 @@ The Cerulean Coast faces critical decisions about its future direction:
 
 #### **Lighthouse Crisis Resolution**
 - **Technical Solutions**: Finding ways to stabilize or replace lighthouse functions
-- **Political Adaptation**: Adjusting governance structures to function without reliable [[Architect Ruins|Architect]] authority
+- **Political Adaptation**: Adjusting governance structures to function without reliable [Architect](Architect%20Ruins.md) authority
 - **Economic Diversification**: Reducing dependence on lighthouse-dependent maritime trade
-- **International Relations**: Maintaining [[Valdris]]'s reputation despite technical difficulties
+- **International Relations**: Maintaining [Valdris](Valdris.md)'s reputation despite technical difficulties
 
 #### **Social Integration**
 - **Cultural Balance**: Preserving coastal identity while adapting to changing circumstances
@@ -594,7 +594,7 @@ Creating a prosperous and stable society based on balanced resource use:
 - **Cultural Continuity**: Preserving maritime traditions while adapting to new circumstances
 
 #### **Integration Leadership**
-Serving as a bridge between [[Valdris]]'s different regions and approaches:
+Serving as a bridge between [Valdris](Valdris.md)'s different regions and approaches:
 - **Political Mediation**: Helping resolve conflicts between different governance models
 - **Economic Coordination**: Facilitating trade and cooperation across regional boundaries
 - **Cultural Synthesis**: Creating new traditions that combine the best of different approaches
@@ -603,15 +603,15 @@ Serving as a bridge between [[Valdris]]'s different regions and approaches:
 ---
 
 *"The lighthouse stands as a beacon not just for ships, but for the future - reminding us that some lights must never be allowed to go out, no matter how dark the storm."*  
-— Captain Marina Saltwind, Harbor Master of [[Grimhaven]]
+— Captain Marina Saltwind, Harbor Master of [Grimhaven](Grimhaven.md)
 
 ## Related Articles
-- [[Settlements/Grimhaven]]
-- [[Architect Ruins/Eternal Lighthouse]]
-- [[Political Systems/Ruin-Holder Kingdoms]]
-- [[Timeline|Recent Awakening]]
-- [[World Map]]
-- [[Lore/The Great Silence]]
+- [Grimhaven](Grimhaven.md)
+- [Eternal Lighthouse](Eternal%20Lighthouse.md)
+- [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
+- [Recent Awakening](Timeline.md)
+- [World Map](World%20Map.md)
+- [The Great Silence](The%20Great%20Silence.md)
 
 ---
 

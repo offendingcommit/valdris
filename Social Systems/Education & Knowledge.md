@@ -4,7 +4,7 @@
 
 ---
 
-Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each society's relationship with [[Architect Ruins|Architect]] technology and their fundamental cultural values. From the technical academies of [[Political Systems/Ruin-Holder Kingdoms]] to the traveling schools of [[Political Systems/Wanderer Confederations]] and the guild workshops of [[Political Systems/Ruin-Shunner Republics]], educational systems reflect the deep philosophical divisions that define the continent.
+Knowledge in [Valdris](Valdris.md) serves as both power and survival tool, shaped by each society's relationship with [Architect](Architect%20Ruins.md) technology and their fundamental cultural values. From the technical academies of [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) to the traveling schools of [Wanderer Confederations](Wanderer%20Confederations.md) and the guild workshops of [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md), educational systems reflect the deep philosophical divisions that define the continent.
 
 ## Educational Philosophy by System
 
@@ -16,7 +16,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Stratified Learning**: Advanced knowledge reserved for higher social ranks
 - **Technical Mastery**: Mechanical understanding as path to social advancement
 - **Hereditary Wisdom**: Family traditions preserving specialized knowledge
-- **Divine Mechanism**: [[Architect Ruins|Architect]] technology as ultimate educational goal
+- **Divine Mechanism**: [Architect](Architect%20Ruins.md) technology as ultimate educational goal
 
 **Institutional Structure**:
 - **Crown Academies**: Elite institutions training future nobility
@@ -48,7 +48,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Universal Access**: All community members entitled to education
 - **Practical Focus**: Learning aimed at improving collective life
 - **Democratic Knowledge**: Information decisions made by group consensus
-- **Human Achievement**: Education emphasizing non-[[Architect Ruins|Architect]] capabilities
+- **Human Achievement**: Education emphasizing non-[Architect](Architect%20Ruins.md) capabilities
 
 **Educational Institutions**:
 - **Community Schools**: Local institutions serving all age groups
@@ -84,9 +84,9 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 ### Written Language Traditions
 
 **Technical Script** (Universal):
-- Standardized notation for [[Architect Ruins|Architect]] technology
+- Standardized notation for [Architect](Architect%20Ruins.md) technology
 - Mathematical symbols and engineering diagrams
-- Maintained by [[Tinker-Priests]] across all systems
+- Maintained by [Tinker-Priests](Tinker-Priests.md) across all systems
 - **Game Effect**: Intelligence (Investigation) +2 for technical documents
 
 **Classical Valdris** (Formal/Academic):
@@ -98,7 +98,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 **Trade Tongue** (Commercial):
 - Simplified language for inter-system commerce
 - Combines elements from all three cultural traditions
-- Used in neutral territories and ports like [[Settlements/Grimhaven]]
+- Used in neutral territories and ports like [Grimhaven](Grimhaven.md)
 - **Game Effect**: No language barriers for basic commerce
 
 **Regional Dialects**:
@@ -111,7 +111,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 ### Information Storage Methods
 
 **Ruin-Holder Archives**:
-- **Mechanism Libraries**: [[Architect Ruins|Architect]]-enhanced storage systems
+- **Mechanism Libraries**: [Architect](Architect%20Ruins.md)-enhanced storage systems
 - **Hierarchical Catalogs**: Information organized by social access level
 - **Crown Archives**: State secrets and technical manuals
 - **Family Records**: Private collections of hereditary knowledge
@@ -154,7 +154,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Military Intelligence**: Defense strategies and ruin vulnerability assessments
 - **Trade Monopolies**: Commercial information protecting noble house profits
 
-**Enforcement**: [[Political Systems/Ruin-Holder Kingdoms|Gear-Knights]] monitor information distribution
+**Enforcement**: [Gear-Knights](Political%20Systems/Ruin-Holder%20Kingdoms.md) monitor information distribution
 **Penalties**: Loss of social rank, mechanical privilege revocation, exile
 **Resistance**: Underground networks smuggling prohibited knowledge
 
@@ -169,7 +169,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 **Balance**: Tension between sharing obligation and practical necessity
 
 **Shunner Democratic Censorship**:
-- **[[Architect Ruins|Architect]] Technology**: Information deemed dangerous to community values
+- **[Architect](Architect%20Ruins.md) Technology**: Information deemed dangerous to community values
 - **Individual Aggrandizement**: Knowledge promoting personal power over collective good
 - **External Manipulation**: Information designed to undermine democratic institutions
 - **Resource Hoarding**: Techniques that could enable individual wealth accumulation
@@ -182,16 +182,16 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 
 ### Ruin-Holder Academies
 
-**[[Thymeris the Golden]] Crown Academy**:
+**[Thymeris the Golden](Thymeris%20the%20Golden.md) Crown Academy**:
 - **Purpose**: Train future nobility in governance and technical mastery
-- **Curriculum**: Advanced [[Architect Ruins|Architect]] technology, political theory, military strategy
+- **Curriculum**: Advanced [Architect](Architect%20Ruins.md) technology, political theory, military strategy
 - **Faculty**: Crown-appointed masters with demonstrated noble rank
 - **Student Body**: Children of Gear-Crowned families and exceptional commoners
 - **Game Integration**: Source of noble NPCs, technical consultants, political intrigue
 
 **Regional Mechanism Colleges**:
 - **Purpose**: Train technical middle class for ruin maintenance
-- **Curriculum**: Practical engineering, basic [[Architect Ruins|Architect]] systems, administrative skills
+- **Curriculum**: Practical engineering, basic [Architect](Architect%20Ruins.md) systems, administrative skills
 - **Faculty**: Senior Clock-Wardens and Tinker-Priests
 - **Student Body**: Merchant-Mechanist children, promoted commoners
 - **Game Integration**: Expertise NPCs, technical problem-solving, social mobility storylines
@@ -239,7 +239,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Specialized Training**: Advanced skills in specific crafts
 - **Curriculum**: Master-level techniques, innovation methods, quality control
 - **Faculty**: Master Crafters sharing knowledge freely
-- **Innovation Focus**: Developing non-[[Architect Ruins|Architect]] technological alternatives
+- **Innovation Focus**: Developing non-[Architect](Architect%20Ruins.md) technological alternatives
 - **Game Integration**: Advanced crafting capabilities, technological innovation
 
 **Democratic Philosophy Academies**:
@@ -259,7 +259,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Shunner**: Democratic participation with consensus building
 
 **Hands-On Learning**:
-- **Ruin-Holder**: Supervised operation of [[Architect Ruins|Architect]] systems
+- **Ruin-Holder**: Supervised operation of [Architect](Architect%20Ruins.md) systems
 - **Wanderer**: Practical travel experience with mentorship
 - **Shunner**: Workshop collaboration with peer teaching
 
@@ -274,7 +274,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 **Social Learning Environments**:
 - **Taverns and Inns**: Information exchange during travel and trade
 - **Market Places**: Commercial knowledge and cultural interaction
-- **Religious Gatherings**: [[Tinker-Priests]] and [[Silence-Keepers]] teaching
+- **Religious Gatherings**: [Tinker-Priests](Tinker-Priests.md) and [Silence-Keepers](Silence-Keepers.md) teaching
 - **Festival Celebrations**: Cultural knowledge preservation through celebration
 
 **Family and Community Transmission**:
@@ -297,7 +297,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Purpose**: Share medical knowledge for universal benefit
 - **Membership**: Medical practitioners from all three systems
 - **Methods**: Regular conferences and knowledge exchange programs
-- **Special Status**: Permitted to use [[Architect Ruins|Architect]] medical devices
+- **Special Status**: Permitted to use [Architect](Architect%20Ruins.md) medical devices
 
 **Technical Engineering Networks**:
 - **Purpose**: Advance mechanical and engineering knowledge
@@ -305,18 +305,18 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Methods**: Secret conferences and coded correspondence
 - **Tension**: Balance between system loyalty and professional cooperation
 
-## [[The Recent Awakening]] Educational Impact
+## [The Recent Awakening](The%20Recent%20Awakening.md) Educational Impact
 
 ### Knowledge Disruption
 
 **Traditional Information Obsolescence**:
-- Centuries of accumulated [[Architect Ruins|Architect]] knowledge becoming unreliable
+- Centuries of accumulated [Architect](Architect%20Ruins.md) knowledge becoming unreliable
 - Educational institutions struggling to update curricula
 - Teachers losing authority as students discover new information
 - **Game Effect**: Previous knowledge may be incorrect or dangerous
 
 **New Learning Opportunities**:
-- Previously inactive [[Architect Ruins|Architect]] systems revealing new information
+- Previously inactive [Architect](Architect%20Ruins.md) systems revealing new information
 - Direct communication with ancient mechanisms providing unprecedented insights
 - Cross-system cooperation increasing due to shared uncertainty
 - **Game Effect**: New abilities and knowledge available through awakening experiences
@@ -329,7 +329,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 ### Emerging Educational Needs
 
 **Awakening Response Training**:
-- **Crisis Management**: Handling unexpected [[Architect Ruins|Architect]] activations
+- **Crisis Management**: Handling unexpected [Architect](Architect%20Ruins.md) activations
 - **Communication Protocols**: Interacting with awakened systems safely
 - **Cross-System Cooperation**: Working with traditional enemies during emergencies
 - **Cultural Adaptation**: Preparing for potential Architect return
@@ -380,7 +380,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 
 **Knowledge as Treasure**:
 - **Route Maps**: Valuable navigation information for unexplored territories
-- **Technical Manuals**: [[Architect Ruins|Architect]] operation guides worth significant resources
+- **Technical Manuals**: [Architect](Architect%20Ruins.md) operation guides worth significant resources
 - **Historical Records**: Information revealing locations of lost ruins or treasures
 - **Political Intelligence**: Diplomatic secrets affecting regional power balance
 
@@ -400,7 +400,7 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 - **Guild Master Teachers**: Shunner educators with community influence and technical expertise
 
 **Knowledge Specialists**:
-- **Technical Consultants**: Experts in specific [[Architect Ruins|Architect]] systems or conventional technologies
+- **Technical Consultants**: Experts in specific [Architect](Architect%20Ruins.md) systems or conventional technologies
 - **Cultural Interpreters**: Guides helping navigate foreign social and educational protocols
 - **Information Brokers**: Merchants trading in valuable knowledge and rare documents
 
@@ -425,4 +425,4 @@ Knowledge in [[Valdris]] serves as both power and survival tool, shaped by each 
 
 ---
 
-*For related social mechanics, see [[Social Systems/Social Hierarchy Overview]] and [[Social Systems/Cultural Interactions]]. For institutional context, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]]. For technical education details, see [[Technology/Gear-Wright Profession]] and [[Factions & Organizations/Tinker-Priests]].*
+*For related social mechanics, see [Social Hierarchy Overview](Social%20Hierarchy%20Overview.md) and [Cultural Interactions](Cultural%20Interactions.md). For institutional context, see [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md). For technical education details, see [Gear-Wright Profession](Gear-Wright%20Profession.md) and [Tinker-Priests](Tinker-Priests.md).*

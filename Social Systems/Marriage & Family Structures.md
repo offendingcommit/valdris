@@ -4,7 +4,7 @@
 
 ---
 
-Family structures in [[Valdris]] reflect the fundamental cultural divisions between its three great civilizations, yet love, kinship, and human connection transcend political boundaries. From the mechanical dynasties of [[Political Systems/Ruin-Holder Kingdoms]] to the traveling clans of [[Political Systems/Wanderer Confederations]] and the collective families of [[Political Systems/Ruin-Shunner Republics]], each system has developed unique approaches to marriage, child-rearing, and family organization that both preserve their cultural values and adapt to the challenges of life in a world shaped by ancient mysteries.
+Family structures in [Valdris](Valdris.md) reflect the fundamental cultural divisions between its three great civilizations, yet love, kinship, and human connection transcend political boundaries. From the mechanical dynasties of [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) to the traveling clans of [Wanderer Confederations](Wanderer%20Confederations.md) and the collective families of [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md), each system has developed unique approaches to marriage, child-rearing, and family organization that both preserve their cultural values and adapt to the challenges of life in a world shaped by ancient mysteries.
 
 ## Marriage Customs and Practices
 
@@ -14,14 +14,14 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 
 **Courtship Protocols**:
 - **Formal Introduction**: Families arrange meetings based on social compatibility
-- **Technical Demonstration**: Potential partners display [[Architect Ruins|Architect]] affinity and mechanical skills
+- **Technical Demonstration**: Potential partners display [Architect](Architect%20Ruins.md) affinity and mechanical skills
 - **Status Verification**: Extensive investigation of family heritage and ruin access
 - **Mechanical Compatibility**: Testing whether partners can jointly operate complex devices
 
 **Marriage Ceremonies**:
 - **Crown-Gear Blessing**: High nobility marriages require royal mechanical benediction
-- **Ruin Consecration**: Ceremonies held within or adjacent to family-controlled [[Architect Ruins|Architect]] sites
-- **Mechanical Exchange**: Partners exchange functioning [[Architect Ruins|Architect]] devices as symbols of union
+- **Ruin Consecration**: Ceremonies held within or adjacent to family-controlled [Architect](Architect%20Ruins.md) sites
+- **Mechanical Exchange**: Partners exchange functioning [Architect](Architect%20Ruins.md) devices as symbols of union
 - **Hierarchical Witnesses**: Guest list carefully organized by social rank and mechanical status
 
 **Marriage Types**:
@@ -31,9 +31,9 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 - **Love Matches**: Personal choice marriages (increasingly accepted among lower ranks)
 
 **Legal Framework**:
-- **Inheritance Rights**: Marriage determines [[Architect Ruins|Architect]] access and property succession
+- **Inheritance Rights**: Marriage determines [Architect](Architect%20Ruins.md) access and property succession
 - **Status Elevation**: Marriage can raise social rank through partner's family position
-- **Mechanical Custody**: Complex rules for controlling shared [[Architect Ruins|Architect]] resources
+- **Mechanical Custody**: Complex rules for controlling shared [Architect](Architect%20Ruins.md) resources
 - **Divorce Complications**: Separation requires extensive legal negotiation over technological assets
 
 ### Wanderer Union Practices
@@ -110,7 +110,7 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 
 **Adaptation Strategies**:
 - **Cultural Compromise**: Couples developing hybrid practices honoring both traditions
-- **Geographic Solutions**: Living in neutral territories like [[Settlements/Grimhaven]]
+- **Geographic Solutions**: Living in neutral territories like [Grimhaven](Grimhaven.md)
 - **Professional Integration**: Working in cross-system organizations or merchant networks
 - **Family Bridge-Building**: Gradually introducing families to alternative cultural perspectives
 
@@ -145,13 +145,13 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 - **Extended Relations**: Cousins and distant relatives maintaining family network connections
 
 **Household Composition**:
-- **Technical Staff**: Clock-Wardens and mechanics maintaining family [[Architect Ruins|Architect]] resources
+- **Technical Staff**: Clock-Wardens and mechanics maintaining family [Architect](Architect%20Ruins.md) resources
 - **Service Personnel**: Domestic workers and security staff serving family needs
 - **Apprentice Wards**: Unrelated children training in family mechanical traditions
 - **Marriage Allies**: In-laws and their families creating extended political networks
 
 **Child Development**:
-- **Early Testing**: Identifying mechanical aptitude and [[Architect Ruins|Architect]] affinity
+- **Early Testing**: Identifying mechanical aptitude and [Architect](Architect%20Ruins.md) affinity
 - **Formal Education**: Structured learning in technical skills and social protocols
 - **Status Training**: Instruction in appropriate behavior for family social rank
 - **Marriage Preparation**: Grooming for advantageous alliances and family advancement
@@ -201,13 +201,13 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 ### System-Specific Maturation Practices
 
 **Ruin-Holder Mechanical Trials**:
-- **The Resonance Test**: Adolescents attempt to activate family [[Architect Ruins|Architect]] devices
+- **The Resonance Test**: Adolescents attempt to activate family [Architect](Architect%20Ruins.md) devices
 - **Technical Mastery**: Demonstration of competence in mechanical skills and knowledge
 - **Social Recognition**: Formal acknowledgment of adult status within family hierarchy
 - **Career Assignment**: Selection of life path based on abilities and family needs
 
 **Ceremonies**:
-- **Gear-Binding**: Receiving first personal [[Architect Ruins|Architect]] device
+- **Gear-Binding**: Receiving first personal [Architect](Architect%20Ruins.md) device
 - **Family Registration**: Official recognition within noble house or merchant family
 - **Professional Apprenticeship**: Beginning formal technical or social training
 - **Marriage Eligibility**: Authorization to participate in courtship and alliance formation
@@ -243,7 +243,7 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 **Ruin-Holder Elder Veneration**:
 - **Mechanical Wisdom**: Elderly family members serving as technical advisors and knowledge keepers
 - **Status Maintenance**: Continued recognition of rank and authority despite physical limitations
-- **Resource Control**: Gradual transfer of [[Architect Ruins|Architect]] access to younger generations
+- **Resource Control**: Gradual transfer of [Architect](Architect%20Ruins.md) access to younger generations
 - **Family Legacy**: Elder responsibility for preserving family traditions and mechanical knowledge
 
 **Wanderer Elder Integration**:
@@ -277,7 +277,7 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 **Social Integration Mechanisms**:
 - **Festival Participation**: Community celebrations strengthening family and social bonds
 - **Professional Cooperation**: Work relationships creating extended social networks and support
-- **Religious Community**: [[Tinker-Priests]] and other religious groups providing spiritual family structures
+- **Religious Community**: [Tinker-Priests](Tinker-Priests.md) and other religious groups providing spiritual family structures
 - **Educational Networks**: Schools and learning institutions creating lifelong social connections
 
 ### Conflict Resolution and Family Mediation
@@ -290,17 +290,17 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 
 **Inter-Family Conflicts**:
 - **Marriage Disputes**: Conflicts between families over marriage arrangements or relationship problems
-- **Inheritance Battles**: Disputes over property, [[Architect Ruins|Architect]] access, and family legacy
+- **Inheritance Battles**: Disputes over property, [Architect](Architect%20Ruins.md) access, and family legacy
 - **Business Conflicts**: Commercial disagreements affecting family relationships and social bonds
 - **Cultural Clashes**: Conflicts arising from different family traditions and value systems
 
-## [[The Recent Awakening]] Impact on Families
+## [The Recent Awakening](The%20Recent%20Awakening.md) Impact on Families
 
 ### Traditional Structure Disruption
 
 **Generational Conflicts**:
 - **Technology Attitudes**: Young people excited by awakening versus elders fearing change
-- **Social Mobility**: [[Architect Ruins|Architect]] affinity discoveries challenging traditional family hierarchies
+- **Social Mobility**: [Architect](Architect%20Ruins.md) affinity discoveries challenging traditional family hierarchies
 - **Cultural Values**: Awakening events forcing reconsideration of inherited beliefs and practices
 - **Economic Disruption**: Awakening effects changing family economic circumstances and opportunities
 
@@ -331,14 +331,14 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 **Relationship Drama**:
 - **Forbidden Romance**: Star-crossed lovers from conflicting cultural or political backgrounds
 - **Family Honor**: Characters defending family reputation or pursuing family vengeance
-- **Inheritance Disputes**: Complex conflicts over family property, status, or [[Architect Ruins|Architect]] access
+- **Inheritance Disputes**: Complex conflicts over family property, status, or [Architect](Architect%20Ruins.md) access
 - **Marriage Politics**: Diplomatic marriages creating or resolving political tensions
 
 **Family Crisis Scenarios**:
 - **Missing Relatives**: Family members disappearing under mysterious circumstances
 - **Cultural Conflicts**: Families torn apart by political or cultural differences
 - **Economic Disaster**: Family financial ruin requiring heroic efforts to restore
-- **Awakening Impact**: Family structures disrupted by [[The Recent Awakening]] events
+- **Awakening Impact**: Family structures disrupted by [The Recent Awakening](The%20Recent%20Awakening.md) events
 
 **Coming of Age Adventures**:
 - **Maturation Trials**: Characters participating in or facilitating cultural coming-of-age ceremonies
@@ -408,7 +408,7 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 
 **Random Family Complications** (d12):
 1. Arranged marriage conflicts with personal romantic interests
-2. Inheritance dispute over valuable [[Architect Ruins|Architect]] technology
+2. Inheritance dispute over valuable [Architect](Architect%20Ruins.md) technology
 3. Family member converted to conflicting political or religious system
 4. Economic obligations forcing character into unwanted profession
 5. Family honor requiring dangerous quest or confrontation
@@ -430,4 +430,4 @@ Family structures in [[Valdris]] reflect the fundamental cultural divisions betw
 
 ---
 
-*For related social mechanics, see [[Social Systems/Social Hierarchy Overview]], [[Social Systems/Cultural Interactions]], and [[Social Systems/Legal & Justice Systems]]. For political context, see [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]]. For settlement-specific family variations, see [[Settlements]].*
+*For related social mechanics, see [Social Hierarchy Overview](Social%20Hierarchy%20Overview.md), [Cultural Interactions](Cultural%20Interactions.md), and [Legal & Justice Systems](Legal%20%26%20Justice%20Systems.md). For political context, see [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md). For settlement-specific family variations, see [Settlements](Settlements.md).*

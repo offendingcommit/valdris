@@ -6,16 +6,16 @@
 
 ## Adventure Overview
 
-**Location:** [[The Wandering Reaches]] and uncharted territories beyond the known routes
+**Location:** [The Wandering Reaches](The%20Wandering%20Reaches.md) and uncharted territories beyond the known routes
 **Party Level:** 4-6 (Optimized for 4-5 characters)
 **Duration:** 6-8 sessions
 **Themes:** Wilderness Survival, Navigation Challenges, Environmental Hazards, Discovery, Ancient Mysteries
 
-**[[Pathfinder Zara Windstrider]]**, one of the most skilled cartographers of the [[Wanderer Confederations]], has vanished while mapping routes disrupted by [[The Recent Awakening]]. Her last message, delivered by a nearly-dead raven to the [[Council of Pathfinders]], contained only a crude map fragment and the words: *"The Silent City calls—compass spins, stars lie, paths fold. The Sleepers wake where none should walk."*
+**[Pathfinder Zara Windstrider](Pathfinder%20Zara%20Windstrider.md)**, one of the most skilled cartographers of the [Wanderer Confederations](Wanderer%20Confederations.md), has vanished while mapping routes disrupted by [The Recent Awakening](The%20Recent%20Awakening.md). Her last message, delivered by a nearly-dead raven to the [Council of Pathfinders](Council%20of%20Pathfinders.md), contained only a crude map fragment and the words: *"The Silent City calls—compass spins, stars lie, paths fold. The Sleepers wake where none should walk."*
 
-Her disappearance coincides with reports from multiple [[Wanderer Confederations|Wanderer]] caravans of impossible geographical changes: rivers flowing uphill, forests appearing overnight, and ancient ruins materializing where empty plains existed for centuries. Most disturbing are the "folded paths"—routes that lead travelers in circles or deposit them hundreds of miles from their intended destination.
+Her disappearance coincides with reports from multiple [Wanderer](Wanderer%20Confederations.md) caravans of impossible geographical changes: rivers flowing uphill, forests appearing overnight, and ancient ruins materializing where empty plains existed for centuries. Most disturbing are the "folded paths"—routes that lead travelers in circles or deposit them hundreds of miles from their intended destination.
 
-The party must navigate these reality-warped territories to find Zara and uncover her discovery. But the journey will take them to a previously unknown [[Architect]] site where the boundaries between space, time, and possibility have become dangerously unstable—and something ancient stirs in response to the continent-wide awakening.
+The party must navigate these reality-warped territories to find Zara and uncover her discovery. But the journey will take them to a previously unknown [Architect](Architect.md) site where the boundaries between space, time, and possibility have become dangerously unstable—and something ancient stirs in response to the continent-wide awakening.
 
 ---
 
@@ -23,19 +23,19 @@ The party must navigate these reality-warped territories to find Zara and uncove
 
 ### Zara's Discovery
 
-Three weeks ago, **[[Pathfinder Zara Windstrider]]** departed from the mobile settlement of **Compass Rose** to investigate route disruptions in the far northern reaches of [[The Wandering Reaches]]. As one of the [[Wanderer Confederations]]' master cartographers, she possessed an intuitive understanding of the land that bordered on supernatural—until [[The Recent Awakening]] began scrambling her abilities.
+Three weeks ago, **[Pathfinder Zara Windstrider](Pathfinder%20Zara%20Windstrider.md)** departed from the mobile settlement of **Compass Rose** to investigate route disruptions in the far northern reaches of [The Wandering Reaches](The%20Wandering%20Reaches.md). As one of the [Wanderer Confederations](Wanderer%20Confederations.md)' master cartographers, she possessed an intuitive understanding of the land that bordered on supernatural—until [The Recent Awakening](The%20Recent%20Awakening.md) began scrambling her abilities.
 
-Her mission seemed routine: map the new barriers and establish alternative routes for the winter migration cycles. But Zara discovered something unprecedented—an [[Architect]] site that doesn't appear on any historical record, hidden in a region that previously showed no [[Architect]] presence whatsoever.
+Her mission seemed routine: map the new barriers and establish alternative routes for the winter migration cycles. But Zara discovered something unprecedented—an [Architect](Architect.md) site that doesn't appear on any historical record, hidden in a region that previously showed no [Architect](Architect.md) presence whatsoever.
 
 ### The Silent City
 
 **Designation:** Unknown (no historical records exist)
 **Local Name:** The Silent City (given by Zara)
-**Nature:** [[Architect]] site focused on spatial manipulation and navigation technology
+**Nature:** [Architect](Architect.md) site focused on spatial manipulation and navigation technology
 
-Unlike other [[Architect]] ruins that served clear purposes (cities, agriculture, communication), the Silent City appears to be a massive navigation and transportation hub. Its central feature is the **Probability Engine**—a crystalline construct that can alter local space-time to create shortcuts between distant locations or protective barriers against threats.
+Unlike other [Architect](Architect.md) ruins that served clear purposes (cities, agriculture, communication), the Silent City appears to be a massive navigation and transportation hub. Its central feature is the **Probability Engine**—a crystalline construct that can alter local space-time to create shortcuts between distant locations or protective barriers against threats.
 
-The site has been dormant since [[The Great Silence]], but [[The Recent Awakening]] has caused it to begin reactivating. Unfortunately, without proper guidance systems, the Probability Engine is generating random spatial distortions across hundreds of square miles, making the entire region extremely dangerous to traverse.
+The site has been dormant since [The Great Silence](The%20Great%20Silence.md), but [The Recent Awakening](The%20Recent%20Awakening.md) has caused it to begin reactivating. Unfortunately, without proper guidance systems, the Probability Engine is generating random spatial distortions across hundreds of square miles, making the entire region extremely dangerous to traverse.
 
 ### The Awakening Effects
 
@@ -60,21 +60,21 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 ### Primary Quest Giver and Allies
 
 **Elder Pathfinder Korven Starway** *(Human Ranger, CR 4)*
-- **Role:** [[Council of Pathfinders]] leader and Zara's mentor, quest giver
+- **Role:** [Council of Pathfinders](Council%20of%20Pathfinders.md) leader and Zara's mentor, quest giver
 - **Appearance:** Weathered man in his sixties, intricate tattoos marking known routes across his arms
 - **Personality:** Calm and methodical, deeply worried about Zara but tries to hide emotional attachment
-- **Motivation:** Rescue his protégé and restore navigation safety for all [[Wanderer Confederations]]
-- **Secret:** Has been experiencing prophetic dreams about the Silent City since [[The Recent Awakening]] began
+- **Motivation:** Rescue his protégé and restore navigation safety for all [Wanderer Confederations](Wanderer%20Confederations.md)
+- **Secret:** Has been experiencing prophetic dreams about the Silent City since [The Recent Awakening](The%20Recent%20Awakening.md) began
 
 **Scout Tam Quickfoot** *(Halfling Scout, CR 1/2)*
 - **Role:** Last person to see Zara, potential guide for initial portion of journey
 - **Appearance:** Young halfling with nervous energy, carries extensively modified compass and travel gear
 - **Personality:** Enthusiastic but scared, eager to help but aware of dangers
-- **Motivation:** Prove himself to the [[Council of Pathfinders]] while ensuring no one else gets lost
-- **Secret:** His compass has been modified with a small [[Architect]] crystal that helps him detect spatial anomalies
+- **Motivation:** Prove himself to the [Council of Pathfinders](Council%20of%20Pathfinders.md) while ensuring no one else gets lost
+- **Secret:** His compass has been modified with a small [Architect](Architect.md) crystal that helps him detect spatial anomalies
 
 **Archivist Mora the Chronicler** *(Half-elf Cleric, CR 3)*
-- **Role:** [[Wanderer Confederations]] historian studying pre-Silence navigation records
+- **Role:** [Wanderer Confederations](Wanderer%20Confederations.md) historian studying pre-Silence navigation records
 - **Appearance:** Middle-aged woman with an extensive collection of maps, charts, and navigation instruments
 - **Personality:** Scholarly and precise, fascinated by historical mysteries
 - **Motivation:** Document and understand the geographical changes for future generations
@@ -82,7 +82,7 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 
 ### Zara Windstrider (Missing Person)
 
-**[[Pathfinder Zara Windstrider]]** *(Human Ranger, CR 5)*
+**[Pathfinder Zara Windstrider](Pathfinder%20Zara%20Windstrider.md)** *(Human Ranger, CR 5)*
 - **Current Status:** Trapped within the Silent City's central probability chamber
 - **Condition:** Alive but experiencing temporal displacement—aging at different rates in different locations
 - **Discovery:** Has partially mapped the Silent City and understands how to stabilize the Probability Engine
@@ -94,14 +94,14 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 **The Cartographer Construct** *(Modified Stone Golem, CR 10)*
 - **Role:** Automated guardian of the Silent City, awakened by recent activation
 - **Appearance:** Humanoid figure carved from crystalline stone, covered with shifting map projections
-- **Personality:** Logical but confused, programmed to assist [[Architect]] navigation specialists but doesn't recognize modern humans
+- **Personality:** Logical but confused, programmed to assist [Architect](Architect.md) navigation specialists but doesn't recognize modern humans
 - **Motivation:** Protect the navigation systems while seeking proper authorization codes
 - **Capability:** Can manipulate local space-time within the Silent City but cannot leave the central complex
 
 **Probability Echoes** *(Unique Encounters)*
-- **Nature:** Ghostly impressions of [[Architect]] researchers working in the facility
+- **Nature:** Ghostly impressions of [Architect](Architect.md) researchers working in the facility
 - **Behavior:** Repeat scientific procedures and navigation tests from centuries ago
-- **Interaction:** Can provide clues about proper procedures if party understands [[Architect]] science
+- **Interaction:** Can provide clues about proper procedures if party understands [Architect](Architect.md) science
 - **Danger:** May accidentally trap party in temporal loops or probability cascades
 
 ---
@@ -112,7 +112,7 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 
 **Starting Point:** Compass Rose mobile settlement
 **Destination:** Last confirmed Zara sighting at Weathered Stone Waystation
-**Distance:** 150 miles through familiar [[Wanderer Confederations]] territory
+**Distance:** 150 miles through familiar [Wanderer Confederations](Wanderer%20Confederations.md) territory
 **Challenges:** Standard wilderness travel with increasing geographical anomalies
 
 #### Key Locations
@@ -120,7 +120,7 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 **Compass Rose** *(Mobile Settlement)*
 - **Description:** Current location of Elder Pathfinder Korven's caravan, approximately 200 wagons and 800 people
 - **Resources:** Experienced guides, navigation equipment, supplies for extended expedition
-- **Politics:** [[Council of Pathfinders]] debate over rescue mission scope and resource allocation
+- **Politics:** [Council of Pathfinders](Council%20of%20Pathfinders.md) debate over rescue mission scope and resource allocation
 - **Timeline:** Settlement departs in 10 days for winter migration—deadline pressure for rescue mission
 
 **Weathered Stone Waystation** *(Fixed Landmark)*
@@ -164,7 +164,7 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 **Memory Stone Fields**
 - **Description:** Crystalline formations projecting psychic echoes of past events
 - **Investigation:** DC 13 Arcana to safely interface with memory recordings
-- **Information:** Fragments of [[Architect]] navigation procedures and emergency protocols
+- **Information:** Fragments of [Architect](Architect.md) navigation procedures and emergency protocols
 - **Risk:** Wisdom save DC 15 or be stunned 1 round by psychic overload
 
 **Probability Storms**
@@ -176,13 +176,13 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 #### Key Encounters (Phase 2)
 
 **The Displaced Caravan** *(Roleplay Encounter)*
-- **Situation:** 20-person [[Wanderer Confederations]] caravan trapped in spatial loop for subjective weeks
+- **Situation:** 20-person [Wanderer Confederations](Wanderer%20Confederations.md) caravan trapped in spatial loop for subjective weeks
 - **Challenge:** Social encounter to calm panicked travelers and extract information
 - **Information:** Details about Silent City's appearance and navigational effects
 - **Resolution:** Party can guide caravan to safety or continue search (moral choice)
 
 **Construct Patrol** *(Combat Encounter, CR 6)*
-- **Enemies:** 2 **Animated Armor** with [[Architect]] modifications (flying capability)
+- **Enemies:** 2 **Animated Armor** with [Architect](Architect.md) modifications (flying capability)
 - **Behavior:** Patrol behavior suggests they're searching for something specific
 - **Investigation:** Constructs carry crystalline navigation devices pointing toward Silent City
 - **Loot:** **Navigation Crystal** (+2 to Survival checks in reality-warped areas)
@@ -196,7 +196,7 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 
 ### Phase 3: The Silent City (Sessions 5-6)
 
-**Location:** Previously unknown [[Architect]] navigation and transportation complex
+**Location:** Previously unknown [Architect](Architect.md) navigation and transportation complex
 **Structure:** Five concentric rings of crystalline buildings surrounding central Probability Engine
 **Challenges:** Reality distortion, automated security, temporal displacement, complex puzzle systems
 
@@ -210,12 +210,12 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 
 **Second Ring: Navigation Archives**
 - **Content:** Crystalline data storage containing maps of entire continent
-- **Discovery:** Maps show [[Valdris]] during [[Architect]] era with extensive transportation network
+- **Discovery:** Maps show [Valdris](Valdris.md) during [Architect](Architect.md) era with extensive transportation network
 - **Investigation:** DC 15 Investigation reveals route patterns and transportation hub locations
 - **Hazard:** Information overload—Wisdom save DC 14 or be incapacitated 10 minutes
 
 **Third Ring: Probability Laboratories**
-- **Purpose:** Research facilities where [[Architect]] scientists studied space-time manipulation
+- **Purpose:** Research facilities where [Architect](Architect.md) scientists studied space-time manipulation
 - **Encounters:** **Probability Echoes** of past researchers conducting experiments
 - **Learning:** Observation provides clues about proper Probability Engine operation
 - **Danger:** Accidental activation of research equipment causes temporal displacement
@@ -223,7 +223,7 @@ The Silent City's erratic awakening has created a "reality storm" affecting a va
 **Inner Ring: Control Systems**
 - **Function:** Primary interface systems for city-wide navigation and transportation control
 - **Guardian:** **The Cartographer Construct** challenges party's authority to access core systems
-- **Negotiation:** DC 18 Persuasion with [[Architect]] technology knowledge to gain cooperation
+- **Negotiation:** DC 18 Persuasion with [Architect](Architect.md) technology knowledge to gain cooperation
 - **Combat:** CR 10 encounter if negotiations fail
 
 **Central Core: Probability Engine**
@@ -276,7 +276,7 @@ The Probability Engine operates by calculating and implementing alternative vers
 
 **System Shutdown**
 - **Method:** Emergency shutdown of entire Silent City
-- **Requirements:** [[Architect]] technology expertise, 30 minutes uninterrupted work
+- **Requirements:** [Architect](Architect.md) technology expertise, 30 minutes uninterrupted work
 - **Consequences:** Zara freed, all spatial distortions cease, Silent City becomes permanently dormant
 - **Lost Opportunity:** Incredible navigation technology becomes inaccessible to future generations
 
@@ -293,7 +293,7 @@ The Probability Engine operates by calculating and implementing alternative vers
 
 **Tools and Advantages:**
 - **Navigator's Tools:** +2 to Survival checks
-- **[[Architect]] Navigation Crystal:** +2 to checks in distorted areas
+- **[Architect](Architect.md) Navigation Crystal:** +2 to checks in distorted areas
 - **Ranger Class Features:** Advantage on checks in favored terrain
 - **Native Guide:** Advantage when available (Scout Tam for first phase only)
 
@@ -337,7 +337,7 @@ The Probability Engine operates by calculating and implementing alternative vers
 
 **Key Achievements:**
 1. **Successful Navigation:** Reach Silent City without major losses or delays
-2. **System Understanding:** Learn proper operation of [[Architect]] probability technology
+2. **System Understanding:** Learn proper operation of [Architect](Architect.md) probability technology
 3. **Successful Rescue:** Extract Zara without injury to party or permanent damage to systems
 4. **Regional Stabilization:** Return Folded Lands to normal geography
 
@@ -347,9 +347,9 @@ The Probability Engine operates by calculating and implementing alternative vers
 - **Failure:** Rescue successful but Probability Engine permanently damaged
 
 **Long-term Consequences:**
-- [[Wanderer Confederations]] gain access to revolutionary navigation technology
+- [Wanderer Confederations](Wanderer%20Confederations.md) gain access to revolutionary navigation technology
 - Party becomes renowned for solving "impossible" rescue mission
-- Silent City becomes new hub for [[Architect]] technology research
+- Silent City becomes new hub for [Architect](Architect.md) technology research
 
 ### Path 2: Emergency Extraction
 **Approach:** Prioritize Zara's immediate rescue over system preservation
@@ -367,16 +367,16 @@ The Probability Engine operates by calculating and implementing alternative vers
 
 **Long-term Consequences:**
 - Navigation technology lost but regional stability restored
-- [[Wanderer Confederations]] grateful but opportunity for advancement missed
+- [Wanderer Confederations](Wanderer%20Confederations.md) grateful but opportunity for advancement missed
 - Party known for prioritizing lives over other considerations
 
 ### Path 3: Technological Preservation
-**Approach:** Focus on understanding and preserving [[Architect]] systems
+**Approach:** Focus on understanding and preserving [Architect](Architect.md) systems
 
 **Key Achievements:**
 1. **Comprehensive Research:** Document all aspects of Silent City technology
 2. **System Mastery:** Learn to operate Probability Engine safely
-3. **Controlled Rescue:** Extract Zara using proper [[Architect]] protocols
+3. **Controlled Rescue:** Extract Zara using proper [Architect](Architect.md) protocols
 4. **Technology Transfer:** Share knowledge with appropriate authorities
 
 **Outcomes:**
@@ -396,7 +396,7 @@ The Probability Engine operates by calculating and implementing alternative vers
 1. **Reconnaissance:** Gather information about threats and dangers
 2. **Heroic Attempt:** Make rescue attempt but recognize when to withdraw
 3. **Documentation:** Record all discoveries for future expeditions
-4. **Warning Network:** Alert [[Wanderer Confederations]] and other factions to dangers
+4. **Warning Network:** Alert [Wanderer Confederations](Wanderer%20Confederations.md) and other factions to dangers
 
 **Outcomes:**
 - **Complete Success:** Comprehensive intelligence gathered, future expeditions better prepared
@@ -422,7 +422,7 @@ The Probability Engine operates by calculating and implementing alternative vers
 
 **Additional Support:**
 - **Emergency Cache:** Zara left supply drops along her route for followers
-- **Friendly Constructs:** Some [[Architect]] systems recognize party as authorized rescue personnel
+- **Friendly Constructs:** Some [Architect](Architect.md) systems recognize party as authorized rescue personnel
 - **Simplified Navigation:** Clear trail markers make navigation challenges easier
 - **Backup Plan:** Elder Pathfinder Korven sends secondary rescue team as safety net
 
@@ -446,31 +446,31 @@ The Probability Engine operates by calculating and implementing alternative vers
 
 ### The Navigation Network
 
-The Silent City represents part of a continent-spanning [[Architect]] transportation and communication network. Before [[The Great Silence]], instantaneous travel between major cities was possible through probability manipulation technology.
+The Silent City represents part of a continent-spanning [Architect](Architect.md) transportation and communication network. Before [The Great Silence](The%20Great%20Silence.md), instantaneous travel between major cities was possible through probability manipulation technology.
 
 **Historical Implications:**
-- [[Architect]] civilization was more advanced than previously understood
-- Transportation network explains rapid [[Architect]] expansion and coordination
+- [Architect](Architect.md) civilization was more advanced than previously understood
+- Transportation network explains rapid [Architect](Architect.md) expansion and coordination
 - Network shutdown may have been intentional response to continental threat
 
 ### Geographical Mysteries
 
-The discovery of previously unknown [[Architect]] sites raises questions about the completeness of historical records:
+The discovery of previously unknown [Architect](Architect.md) sites raises questions about the completeness of historical records:
 
 **Research Implications:**
-- How many other hidden sites exist across [[Valdris]]?
-- What criteria determined which sites remained hidden during [[The Great Silence]]?
+- How many other hidden sites exist across [Valdris](Valdris.md)?
+- What criteria determined which sites remained hidden during [The Great Silence](The%20Great%20Silence.md)?
 - Are hidden sites awakening in response to known ruin activation?
 
 ### Political Ramifications
 
-Control of navigation technology would revolutionize trade, military logistics, and political power across [[Valdris]]:
+Control of navigation technology would revolutionize trade, military logistics, and political power across [Valdris](Valdris.md):
 
 **Faction Interests:**
-- **[[Ruin-Holder Kingdoms]]:** Military applications and trade route control
-- **[[Wanderer Confederations]]:** Enhanced mobility and territorial expansion
-- **[[Ruin-Shunner Republics]]:** Potential threat to isolationist policies
-- **[[Tinker-Priests]]:** Spiritual significance of advanced [[Architect]] consciousness
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md):** Military applications and trade route control
+- **[Wanderer Confederations](Wanderer%20Confederations.md):** Enhanced mobility and territorial expansion
+- **[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md):** Potential threat to isolationist policies
+- **[Tinker-Priests](Tinker-Priests.md):** Spiritual significance of advanced [Architect](Architect.md) consciousness
 
 ### Future Campaign Hooks
 
@@ -478,8 +478,8 @@ Adventure outcomes create multiple ongoing storylines:
 
 **If Technology Preserved:**
 - Political competition for navigation network access
-- Expeditions to locate other hidden [[Architect]] sites
-- Development of hybrid human-[[Architect]] transportation systems
+- Expeditions to locate other hidden [Architect](Architect.md) sites
+- Development of hybrid human-[Architect](Architect.md) transportation systems
 - International negotiations over technology sharing
 
 **If Technology Lost:**
@@ -489,23 +489,23 @@ Adventure outcomes create multiple ongoing storylines:
 - Investigation of other potentially dangerous hidden sites
 
 **Zara's Knowledge:**
-- Regardless of technology outcome, Zara's experiences provide insight into [[Architect]] consciousness
+- Regardless of technology outcome, Zara's experiences provide insight into [Architect](Architect.md) consciousness
 - Her mapping of the Folded Lands reveals patterns in reality distortion
 - Her research methods become template for future navigation challenges
-- Her relationship with party influences [[Wanderer Confederations]] politics
+- Her relationship with party influences [Wanderer Confederations](Wanderer%20Confederations.md) politics
 
 ---
 
 ## Conclusion
 
-**The Silent Cartographer** combines classic wilderness adventure with mind-bending science fantasy elements unique to [[Valdris]]. The adventure emphasizes problem-solving, resource management, and navigation challenges while maintaining character-driven storytelling through Zara's rescue mission.
+**The Silent Cartographer** combines classic wilderness adventure with mind-bending science fantasy elements unique to [Valdris](Valdris.md). The adventure emphasizes problem-solving, resource management, and navigation challenges while maintaining character-driven storytelling through Zara's rescue mission.
 
-The geographical and temporal anomalies provide opportunities for creative solutions and memorable moments, while the Silent City offers a glimpse into the true scope of [[Architect]] civilization. Players must balance immediate rescue needs with long-term implications for their world.
+The geographical and temporal anomalies provide opportunities for creative solutions and memorable moments, while the Silent City offers a glimpse into the true scope of [Architect](Architect.md) civilization. Players must balance immediate rescue needs with long-term implications for their world.
 
-Most importantly, the adventure demonstrates that [[The Recent Awakening]] continues revealing new aspects of [[Architect]] legacy. The discovery of hidden sites suggests the awakening is more complex and far-reaching than anyone imagined, setting up future adventures that will continue exploring the expanding mysteries of [[Valdris]].
+Most importantly, the adventure demonstrates that [The Recent Awakening](The%20Recent%20Awakening.md) continues revealing new aspects of [Architect](Architect.md) legacy. The discovery of hidden sites suggests the awakening is more complex and far-reaching than anyone imagined, setting up future adventures that will continue exploring the expanding mysteries of [Valdris](Valdris.md).
 
 **Awards:** 1,000 XP per character for completion, plus bonus XP for exceptional navigation, creative problem-solving, successful rescue operations, or preservation of valuable knowledge and technology.
 
 ---
 
-*Connected to: [[Pathfinder Zara Windstrider]], [[Wanderer Confederations]], [[Council of Pathfinders]], [[The Wandering Reaches]], [[Architect Technology]], [[The Recent Awakening]], [[The Great Silence]], [[Architect]]]*
+*Connected to: [Pathfinder Zara Windstrider](Pathfinder%20Zara%20Windstrider.md), [Wanderer Confederations](Wanderer%20Confederations.md), [Council of Pathfinders](Council%20of%20Pathfinders.md), [The Wandering Reaches](The%20Wandering%20Reaches.md), [Architect Technology](Architect%20Technology.md), [The Recent Awakening](The%20Recent%20Awakening.md), [The Great Silence](The%20Great%20Silence.md), [Architect](Architect.md)]*

@@ -4,19 +4,19 @@
 
 ## Quick Navigation
 
-- [[#Continental Route Network]]
-- [[#Major Trade Corridors]]
-- [[#Maritime Commerce]]
-- [[#Wanderer Confederation Routes]]
-- [[#Lighthouse Network Impact]]
-- [[#Awakening Disruptions]]
-- [[#Adventure Opportunities]]
+- [#Continental Route Network](%23Continental%20Route%20Network.md)
+- [#Major Trade Corridors](%23Major%20Trade%20Corridors.md)
+- [#Maritime Commerce](%23Maritime%20Commerce.md)
+- [#Wanderer Confederation Routes](%23Wanderer%20Confederation%20Routes.md)
+- [#Lighthouse Network Impact](%23Lighthouse%20Network%20Impact.md)
+- [#Awakening Disruptions](%23Awakening%20Disruptions.md)
+- [#Adventure Opportunities](%23Adventure%20Opportunities.md)
 
 ---
 
 ## Continental Route Network
 
-The commercial highways of [[Valdris]] form a complex web shaped as much by the locations of [[Architect Ruins]] as by natural geography. Merchants must balance efficiency against safety, traditional routes against artifact-rich corridors, and established rights against emerging opportunities created by [[Timeline|the Recent Awakening]].
+The commercial highways of [Valdris](Valdris.md) form a complex web shaped as much by the locations of [Architect Ruins](Architect%20Ruins.md) as by natural geography. Merchants must balance efficiency against safety, traditional routes against artifact-rich corridors, and established rights against emerging opportunities created by [the Recent Awakening](Timeline.md).
 
 ### Route Classification System
 
@@ -34,19 +34,19 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### Infrastructure Management
 
-**[[Political Systems/Ruin-Holder Kingdoms]] Approach**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) Approach**:
 - State-maintained roads with regular guard patrols
 - Toll systems funding infrastructure improvements
 - Artifact-enhanced way stations with permanent lighting and weather protection
 - Priority maintenance for routes serving ruin excavation sites
 
-**[[Political Systems/Wanderer Confederations]] Philosophy**:
+**[Wanderer Confederations](Wanderer%20Confederations.md) Philosophy**:
 - Minimal permanent infrastructure to preserve mobility
 - Seasonal bridge construction using traditional techniques
 - Shared maintenance obligations across participating clans
 - Route secrecy as protection against competitor discovery
 
-**[[Political Systems/Ruin-Shunner Republics]] Strategy**:
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) Strategy**:
 - Democratic oversight of route planning and maintenance
 - Emphasis on traditional engineering solutions
 - Community-funded improvements through local taxation
@@ -58,7 +58,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 *The premier trade route connecting the three greatest economic centers*
 
-**Route Description**: [[Settlements/Grimhaven]] → Thymeris Trading Post → Heartland Capital → [[Settlements/Grimhaven]]
+**Route Description**: [Grimhaven](Grimhaven.md) → Thymeris Trading Post → Heartland Capital → [Grimhaven](Grimhaven.md)
 
 **Journey Time**: 45-60 days for complete circuit
 **Primary Goods**: High-grade artifacts, luxury goods, diplomatic materials
@@ -79,13 +79,13 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### The Singing Road
 
-*Following the harmonic resonance of the [[Architect Ruins/Singing Spires of Kelathon]]*
+*Following the harmonic resonance of the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)*
 
-**Route Description**: Kelathon Territory → [[Regions/The Heartlands]] → [[Regions/The Quiet Lands]]
+**Route Description**: Kelathon Territory → [The Heartlands](The%20Heartlands.md) → [The Quiet Lands](The%20Quiet%20Lands.md)
 
 **Journey Time**: 20-25 days one way
 **Primary Goods**: Resonance crystals, musical instruments, specialized tools
-**Controlling Interests**: [[Factions & Organizations/Tinker-Priests]] maintain significant influence
+**Controlling Interests**: [Tinker-Priests](Tinker-Priests.md) maintain significant influence
 **Security**: Harmonic frequency provides early warning of approaching dangers
 
 **Unique Features**:
@@ -102,13 +102,13 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### The Garden Path
 
-*Following the predictable movement of the [[Architect Ruins/Walking Gardens of Yss'andra]]*
+*Following the predictable movement of the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)*
 
 **Route Description**: Mobile route shifting annually with garden movement
 
 **Journey Time**: Variable, 15-40 days depending on garden position
 **Primary Goods**: Exotic fruits, healing herbs, agricultural innovations
-**Controlling Interests**: [[Political Systems/Wanderer Confederations]] maintain traditional usage rights
+**Controlling Interests**: [Wanderer Confederations](Wanderer%20Confederations.md) maintain traditional usage rights
 **Security**: Garden proximity provides natural protection from most threats
 
 **Operational Challenges**:
@@ -125,7 +125,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### The Wanderer's Web
 
-*Interconnected routes following [[Political Systems/Wanderer Confederations]] traditional paths*
+*Interconnected routes following [Wanderer Confederations](Wanderer%20Confederations.md) traditional paths*
 
 **Route Network**: Multiple paths connecting seasonal gathering sites
 **Journey Time**: Varies by specific route and clan participation
@@ -149,7 +149,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### Harbor Networks
 
-**[[Settlements/Grimhaven]] Maritime Authority** controls primary sea trade:
+**[Grimhaven](Grimhaven.md) Maritime Authority** controls primary sea trade:
 - Deep-water harbor accommodating largest merchant vessels
 - Artifact-enhanced lighthouse network providing navigation aid
 - Established trade agreements with distant coastal settlements
@@ -162,7 +162,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### Lighthouse Network Impact
 
-**Navigation Revolution**: [[Technology/Navigation & Lighthouses|Architect lighthouses]] transformed sea trade
+**Navigation Revolution**: [Architect lighthouses](Technology/Navigation%20%26%20Lighthouses.md) transformed sea trade
 - Constant illumination regardless of weather or time
 - Harmonic signals providing position verification
 - Storm warnings through light pattern changes
@@ -307,7 +307,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 **Merchant House Responses**:
 - Increased investment in divination and prediction services
 - Development of flexible routing protocols
-- Partnership agreements with [[Factions & Organizations/Tinker-Priests]] for technical advice
+- Partnership agreements with [Tinker-Priests](Tinker-Priests.md) for technical advice
 - Insurance products covering awakening-related disruptions
 
 **Political Negotiations**:
@@ -324,7 +324,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 **"The Contested Passage"**: Two merchant houses claim exclusive rights to a newly opened route created by awakening activities. Players must mediate the dispute while investigating whether the route is actually safe for commercial traffic.
 
-**"Bandits or Worse"**: Attacks on caravans initially blamed on highway bandits show too much coordination and knowledge of cargo contents. The truth involves a corrupt [[Factions & Organizations/Gear-Wright Guilds|guild]] member using Architect surveillance devices to plan perfect robberies.
+**"Bandits or Worse"**: Attacks on caravans initially blamed on highway bandits show too much coordination and knowledge of cargo contents. The truth involves a corrupt [guild](Factions%20%26%20Organizations/Gear-Wright%20Guilds.md) member using Architect surveillance devices to plan perfect robberies.
 
 ### Navigation Mysteries
 
@@ -332,7 +332,7 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 **"Impossible Journey"**: A Wanderer clan has completed a route that should take months in just days, but they have no memory of how. Investigation reveals they've discovered an ancient Architect transport network still partially functional.
 
-**"The Singing Road Silence"**: The harmonic effects along the [[Architect Ruins/Singing Spires of Kelathon|Singing Road]] have mysteriously stopped, disrupting trade and potentially indicating danger to the spires themselves.
+**"The Singing Road Silence"**: The harmonic effects along the [Singing Road](Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) have mysteriously stopped, disrupting trade and potentially indicating danger to the spires themselves.
 
 ### Economic Warfare
 
@@ -344,27 +344,27 @@ The commercial highways of [[Valdris]] form a complex web shaped as much by the 
 
 ### Awakening Adventures
 
-**"The Accelerating Circuit"**: The [[Economics & Trade/Dual Economy Overview|Golden Circuit]] has begun completing itself in half the normal time due to awakening effects, but traders are aging rapidly during these accelerated journeys.
+**"The Accelerating Circuit"**: The [Golden Circuit](Economics%20%26%20Trade/Dual%20Economy%20Overview.md) has begun completing itself in half the normal time due to awakening effects, but traders are aging rapidly during these accelerated journeys.
 
 **"Route to Nowhere"**: A new path has opened that leads to locations not found on any map. Early explorers return with impossible artifacts and stories of civilizations that shouldn't exist.
 
-**"The Mobile Market"**: A previously stationary trading post has begun moving on its own, following the [[Architect Ruins/Walking Gardens of Yss'andra]] but maintaining its own mysterious agenda.
+**"The Mobile Market"**: A previously stationary trading post has begun moving on its own, following the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) but maintaining its own mysterious agenda.
 
 ---
 
 ## Related Documentation
 
-- [[Economics & Trade/Dual Economy Overview]]: Economic systems context
-- [[Economics & Trade/Currency & Banking]]: Financial infrastructure
-- [[Economics & Trade/Resource Distribution]]: Material trade patterns
-- [[Technology/Navigation & Lighthouses]]: Maritime infrastructure
-- [[Political Systems/Wanderer Confederations]]: Mobile trading culture
-- [[Settlements/Grimhaven]]: Major trading hub
-- [[Architect Ruins/Thymeris the Golden]]: Trade route destination
-- [[Timeline]]: Historical route development
+- [Dual Economy Overview](Dual%20Economy%20Overview.md): Economic systems context
+- [Currency & Banking](Currency%20%26%20Banking.md): Financial infrastructure
+- [Resource Distribution](Resource%20Distribution.md): Material trade patterns
+- [Navigation & Lighthouses](Navigation%20%26%20Lighthouses.md): Maritime infrastructure
+- [Wanderer Confederations](Wanderer%20Confederations.md): Mobile trading culture
+- [Grimhaven](Grimhaven.md): Major trading hub
+- [Thymeris the Golden](Thymeris%20the%20Golden.md): Trade route destination
+- [Timeline](Timeline.md): Historical route development
 
 ---
 
-*Trade routes are the arteries through which [[Valdris]] lives and breathes. When they flow freely, prosperity follows. When they're blocked or threatened, entire civilizations feel the impact.*
+*Trade routes are the arteries through which [Valdris](Valdris.md) lives and breathes. When they flow freely, prosperity follows. When they're blocked or threatened, entire civilizations feel the impact.*
 
 #trade-routes #commerce #navigation #wanderers #awakening #infrastructure

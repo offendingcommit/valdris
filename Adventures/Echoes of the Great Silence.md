@@ -6,16 +6,16 @@
 
 ## Adventure Overview
 
-**Location:** The Sealed Archive beneath [[Kelathon]] and the forbidden depths of [[Thymeris the Golden]]
+**Location:** The Sealed Archive beneath [Kelathon](Kelathon.md) and the forbidden depths of [Thymeris the Golden](Thymeris%20the%20Golden.md)
 **Party Level:** 7-9 (Optimized for 4-5 characters)
 **Duration:** 7-9 sessions
 **Themes:** Historical Investigation, Moral Dilemmas, Ancient Secrets, Political Conspiracy, Knowledge vs. Stability
 
-For 847 years, the cause of [[The Great Silence]] has remained [[Valdris]]'s greatest mystery. Why did the [[Architect]] civilization—at the height of their technological mastery—suddenly cease all activity, leaving their magnificent cities empty and their wondrous machines dormant? The official histories speak of gradual decline, natural disaster, or voluntary withdrawal, but these explanations have never satisfied scholars like [[Archivist Theron Millwright]].
+For 847 years, the cause of [The Great Silence](The%20Great%20Silence.md) has remained [Valdris](Valdris.md)'s greatest mystery. Why did the [Architect](Architect.md) civilization—at the height of their technological mastery—suddenly cease all activity, leaving their magnificent cities empty and their wondrous machines dormant? The official histories speak of gradual decline, natural disaster, or voluntary withdrawal, but these explanations have never satisfied scholars like [Archivist Theron Millwright](Archivist%20Theron%20Millwright.md).
 
-Now, [[The Recent Awakening]] has revealed something unprecedented: a sealed chamber beneath the [[Singing Spires of Kelathon]] containing what appears to be the personal archive of an [[Architect]] researcher named **Resonance-Keeper Vex'halan**. The chamber's crystalline locks respond only to the specific harmonic frequencies produced by the awakened Spires, suggesting it was designed to remain hidden until the ruins stirred to life again.
+Now, [The Recent Awakening](The%20Recent%20Awakening.md) has revealed something unprecedented: a sealed chamber beneath the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) containing what appears to be the personal archive of an [Architect](Architect.md) researcher named **Resonance-Keeper Vex'halan**. The chamber's crystalline locks respond only to the specific harmonic frequencies produced by the awakened Spires, suggesting it was designed to remain hidden until the ruins stirred to life again.
 
-But the [[Silence-Keepers]] have maintained their vigil for nearly nine centuries precisely to prevent such discoveries. They believe some knowledge is too dangerous to uncover, and the truth about [[The Great Silence]] may be one of those secrets. As academic curiosity clashes with ancient wisdom, the party must decide whether the pursuit of truth justifies the risk of unleashing the same forces that once brought an entire civilization to its knees.
+But the [Silence-Keepers](Silence-Keepers.md) have maintained their vigil for nearly nine centuries precisely to prevent such discoveries. They believe some knowledge is too dangerous to uncover, and the truth about [The Great Silence](The%20Great%20Silence.md) may be one of those secrets. As academic curiosity clashes with ancient wisdom, the party must decide whether the pursuit of truth justifies the risk of unleashing the same forces that once brought an entire civilization to its knees.
 
 ---
 
@@ -23,32 +23,32 @@ But the [[Silence-Keepers]] have maintained their vigil for nearly nine centurie
 
 ### The Forbidden Archive
 
-The Sealed Archive exists in a space between the physical and metaphysical—accessed through the seventh Spire of [[Kelathon]] but extending into dimensions that human minds struggle to comprehend. **Resonance-Keeper Vex'halan** was apparently the [[Architect]] equivalent of a historian and crisis analyst, tasked with documenting the approaching catastrophe and preserving critical information for future generations.
+The Sealed Archive exists in a space between the physical and metaphysical—accessed through the seventh Spire of [Kelathon](Kelathon.md) but extending into dimensions that human minds struggle to comprehend. **Resonance-Keeper Vex'halan** was apparently the [Architect](Architect.md) equivalent of a historian and crisis analyst, tasked with documenting the approaching catastrophe and preserving critical information for future generations.
 
 The archive contains three primary elements:
 
-**The Chronicle Crystals** - Complete historical record of the final decades before [[The Great Silence]]
-**The Causality Engine** - [[Architect]] device capable of analyzing and predicting large-scale historical patterns
+**The Chronicle Crystals** - Complete historical record of the final decades before [The Great Silence](The%20Great%20Silence.md)
+**The Causality Engine** - [Architect](Architect.md) device capable of analyzing and predicting large-scale historical patterns
 **The Decision Matrix** - Documentation of the final choice that led to the Great Silence
 
 ### The True Cause
 
-The [[Architect]] civilization faced an existential threat they called the **Entropy Cascade**—a phenomenon where their increasingly sophisticated technology began consuming reality itself. Their mastery of probability manipulation, temporal engineering, and dimensional architecture had reached a point where the universe's fundamental stability was at risk.
+The [Architect](Architect.md) civilization faced an existential threat they called the **Entropy Cascade**—a phenomenon where their increasingly sophisticated technology began consuming reality itself. Their mastery of probability manipulation, temporal engineering, and dimensional architecture had reached a point where the universe's fundamental stability was at risk.
 
-Faced with a choice between technological transcendence (which would unravel local reality) and voluntary technological shutdown (which would cost their civilization but preserve the world), the Architects chose the Great Silence. Every [[Architect]] simultaneously entered temporal stasis, allowing their technology to safely deactivate over several decades while preserving both their civilization and the universe's stability.
+Faced with a choice between technological transcendence (which would unravel local reality) and voluntary technological shutdown (which would cost their civilization but preserve the world), the Architects chose the Great Silence. Every [Architect](Architect.md) simultaneously entered temporal stasis, allowing their technology to safely deactivate over several decades while preserving both their civilization and the universe's stability.
 
 ### The Modern Threat
 
-[[The Recent Awakening]] represents the end of the planned stasis period. The [[Architect]] intended to reawaken after the Entropy Cascade threat had passed, but 847 years of dormancy has left their systems operating on automated protocols without conscious guidance. If the awakening proceeds without [[Architect]] consciousness to guide it, the same technological cascade that threatened reality before could begin again.
+[The Recent Awakening](The%20Recent%20Awakening.md) represents the end of the planned stasis period. The [Architect](Architect.md) intended to reawaken after the Entropy Cascade threat had passed, but 847 years of dormancy has left their systems operating on automated protocols without conscious guidance. If the awakening proceeds without [Architect](Architect.md) consciousness to guide it, the same technological cascade that threatened reality before could begin again.
 
 ### Political Stakes
 
 The discovery has attracted attention from multiple factions with radically different agendas:
 
-**[[Silence-Keepers]]** - Believe the knowledge should remain buried to prevent catastrophic repetition
-**[[Academy of Dual Mysteries]]** - Seek complete understanding to guide safe technological development
-**[[Tinker-Priests]]** - View the information as divine revelation that validates their technological spirituality
-**[[Ruin-Holder Kingdoms]]** - Want to weaponize the knowledge for political and military advantage
+**[Silence-Keepers](Silence-Keepers.md)** - Believe the knowledge should remain buried to prevent catastrophic repetition
+**[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)** - Seek complete understanding to guide safe technological development
+**[Tinker-Priests](Tinker-Priests.md)** - View the information as divine revelation that validates their technological spirituality
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)** - Want to weaponize the knowledge for political and military advantage
 
 ---
 
@@ -56,45 +56,45 @@ The discovery has attracted attention from multiple factions with radically diff
 
 ### Primary Quest Giver and Academic Faction
 
-**[[Archivist Theron Millwright]]** *(Human Wizard, CR 6)*
+**[Archivist Theron Millwright](Archivist%20Theron%20Millwright.md)** *(Human Wizard, CR 6)*
 - **Role:** Primary quest giver and academic leader pushing for archive exploration
 - **Appearance:** Middle-aged man with prematurely gray hair, always carrying multiple journals and research tools
 - **Personality:** Brilliant but obsessive, genuinely believes knowledge serves the greater good
 - **Motivation:** Uncover the truth to prevent repetition of historical mistakes
-- **Secret:** Has been having dreams about the Entropy Cascade since [[The Recent Awakening]] began
+- **Secret:** Has been having dreams about the Entropy Cascade since [The Recent Awakening](The%20Recent%20Awakening.md) began
 
 **Scholar-Mage Elena Dawnheart** *(Elf Wizard, CR 5)*
-- **Role:** [[Academy of Dual Mysteries]] representative and arcane expert
+- **Role:** [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) representative and arcane expert
 - **Appearance:** Elegant elf in her third century, wearing robes that shimmer with contained magical energy
 - **Personality:** Cautious but curious, believes knowledge can be safely contained and studied
 - **Motivation:** Advance magical understanding while maintaining appropriate safeguards
-- **Secret:** Descendant of pre-Silence scholars who attempted to warn the [[Architect]] about technological risks
+- **Secret:** Descendant of pre-Silence scholars who attempted to warn the [Architect](Architect.md) about technological risks
 
 **Artificer-Priest Korven Brightmetal** *(Dwarf Cleric, CR 4)*
-- **Role:** [[Tinker-Priests]] theological expert and technology interpreter
+- **Role:** [Tinker-Priests](Tinker-Priests.md) theological expert and technology interpreter
 - **Appearance:** Elderly dwarf with intricate brass tattoos covering his arms and face
-- **Personality:** Deeply spiritual but pragmatic, sees [[Architect]] technology as divine expression
+- **Personality:** Deeply spiritual but pragmatic, sees [Architect](Architect.md) technology as divine expression
 - **Motivation:** Understand divine will expressed through technological achievement and failure
-- **Secret:** Has fragments of pre-Silence [[Tinker-Priests]] texts suggesting his order's founding was influenced by [[Architect]] guidance
+- **Secret:** Has fragments of pre-Silence [Tinker-Priests](Tinker-Priests.md) texts suggesting his order's founding was influenced by [Architect](Architect.md) guidance
 
 ### Silence-Keeper Opposition
 
 **Vigil-Master Aldain Ironwatch** *(Human Paladin, CR 8)*
-- **Role:** Senior [[Silence-Keepers]] leader and primary antagonist
+- **Role:** Senior [Silence-Keepers](Silence-Keepers.md) leader and primary antagonist
 - **Appearance:** Tall and stern with close-cropped gray hair, wears simple but well-maintained armor
 - **Personality:** Uncompromising and dutiful, genuinely believes preservation of ignorance prevents catastrophe
 - **Motivation:** Prevent knowledge that could trigger another civilization-ending crisis
-- **Secret:** His family line carries genetic memories of the [[The Great Silence]]—he experiences ancestor memories in dreams
+- **Secret:** His family line carries genetic memories of the [The Great Silence](The%20Great%20Silence.md)—he experiences ancestor memories in dreams
 
 **Shadow-Walker Vera Nightwind** *(Half-elf Ranger, CR 6)*
-- **Role:** [[Silence-Keepers]] infiltration specialist and sabotage expert
+- **Role:** [Silence-Keepers](Silence-Keepers.md) infiltration specialist and sabotage expert
 - **Appearance:** Unremarkable woman who blends into crowds, dark clothing with hidden armor
 - **Personality:** Patient and methodical, willing to use any means necessary to preserve the greater good
-- **Motivation:** Protect [[Valdris]] from academic hubris and technological catastrophe
+- **Motivation:** Protect [Valdris](Valdris.md) from academic hubris and technological catastrophe
 - **Capability:** Stealth infiltration, non-lethal takedowns, evidence destruction
 
 **Archive-Warden Golem** *(Modified Stone Golem, CR 10)*
-- **Role:** [[Architect]] guardian awakened by [[Silence-Keepers]] to protect the sealed archive
+- **Role:** [Architect](Architect.md) guardian awakened by [Silence-Keepers](Silence-Keepers.md) to protect the sealed archive
 - **Appearance:** Humanoid figure carved from the same crystal as the Singing Spires, covered with prohibition symbols
 - **Personality:** Single-minded and implacable, programmed to prevent archive access
 - **Motivation:** Execute protection protocols regardless of consequence or context
@@ -103,11 +103,11 @@ The discovery has attracted attention from multiple factions with radically diff
 ### Political Complications
 
 **Lady Brass-Crown Isadora** *(Human Noble, CR 5)*
-- **Role:** [[Ruin-Holder Kingdoms]] representative seeking to claim archive contents
-- **Appearance:** Middle-aged noblewoman in elaborate dress with [[Architect]] jewelry
+- **Role:** [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) representative seeking to claim archive contents
+- **Appearance:** Middle-aged noblewoman in elaborate dress with [Architect](Architect.md) jewelry
 - **Personality:** Sophisticated and manipulative, views knowledge as commodity and weapon
 - **Motivation:** Secure exclusive access to information for political and military advantage
-- **Resources:** Diplomatic immunity, financial backing, [[Order of the Brass Tower]] military support
+- **Resources:** Diplomatic immunity, financial backing, [Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md) military support
 
 **Merchant-Prince Aldwin Goldscale** *(Human Noble, CR 4)*
 - **Role:** Wealthy patron funding academic expedition in exchange for technology rights
@@ -123,7 +123,7 @@ The discovery has attracted attention from multiple factions with radically diff
 ### The Singing Spires Complex
 
 #### Spire Seven: The Archive Gateway
-**Description:** The tallest and most mysteriously resonant of the [[Singing Spires of Kelathon]]
+**Description:** The tallest and most mysteriously resonant of the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
 **Access Challenge:** Harmonic locks require specific musical sequences that change based on awakening patterns
 **Guardians:** 2 **Spectators** modified with sound-based abilities instead of eye rays
 **Environmental Hazard:** Sonic resonance that deals thunder damage to creatures without hearing protection
@@ -143,28 +143,28 @@ The discovery has attracted attention from multiple factions with radically diff
 ### Archive Chamber Layout
 
 #### Chamber 1: Recent History (Years 800-847 AS)
-**Content:** Records of [[Valdris]] development after [[The Great Silence]]
-**Discovery:** [[Architect]] systems were monitoring human civilization development throughout dormancy
-**Evidence:** Detailed analysis of human adaptation to [[Architect]] technology absence
+**Content:** Records of [Valdris](Valdris.md) development after [The Great Silence](The%20Great%20Silence.md)
+**Discovery:** [Architect](Architect.md) systems were monitoring human civilization development throughout dormancy
+**Evidence:** Detailed analysis of human adaptation to [Architect](Architect.md) technology absence
 **Hazard:** Overwhelming information density—Intelligence save DC 15 or gain 1 level of exhaustion
 
-**Key Discovery:** [[Architect]] planned awakening timing based on human technological readiness
+**Key Discovery:** [Architect](Architect.md) planned awakening timing based on human technological readiness
 
 #### Chamber 2: The Countdown (Years 780-800 AS)
 **Content:** Final decades before the voluntary shutdown
-**Discovery:** Detailed documentation of Entropy Cascade development and [[Architect]] response
+**Discovery:** Detailed documentation of Entropy Cascade development and [Architect](Architect.md) response
 **Evidence:** Scientific data proving technology was consuming reality at quantum level
-**Challenge:** Information exists in [[Architect]] mathematical language requiring Arcana DC 18 to interpret
+**Challenge:** Information exists in [Architect](Architect.md) mathematical language requiring Arcana DC 18 to interpret
 
-**Key Discovery:** [[The Great Silence]] was coordinated sacrifice, not catastrophic failure
+**Key Discovery:** [The Great Silence](The%20Great%20Silence.md) was coordinated sacrifice, not catastrophic failure
 
 #### Chamber 3: The Decision Matrix (Year 800 AS)
 **Content:** Record of the final choice and implementation planning
-**Discovery:** Alternative solutions considered and rejected by [[Architect]] leadership
+**Discovery:** Alternative solutions considered and rejected by [Architect](Architect.md) leadership
 **Evidence:** Documentation proving current awakening represents end of planned stasis period
 **Hazard:** **Causality Storm**—proximity to decision point creates temporal paradox risk
 
-**Key Discovery:** Current awakening may repeat Entropy Cascade unless [[Architect]] consciousness guides it
+**Key Discovery:** Current awakening may repeat Entropy Cascade unless [Architect](Architect.md) consciousness guides it
 
 #### Chamber 4: The Forbidden Core (Pre-800 AS)
 **Content:** Complete technological specifications for Entropy Cascade prevention and reversal
@@ -179,17 +179,17 @@ The discovery has attracted attention from multiple factions with radically diff
 ### Research Methodology
 
 **Phase 1: Gaining Access** (Sessions 1-2)
-- Overcome [[Silence-Keepers]] opposition through diplomacy, stealth, or conflict
+- Overcome [Silence-Keepers](Silence-Keepers.md) opposition through diplomacy, stealth, or conflict
 - Solve harmonic locks to enter archive gateway
 - Navigate dimensional entrance safely
 
 **Phase 2: Historical Investigation** (Sessions 3-5)
 - Systematically explore archive chambers in chronological order
-- Interpret [[Architect]] data and documentation
+- Interpret [Architect](Architect.md) data and documentation
 - Survive increasing temporal and reality hazards
 
 **Phase 3: The Decision** (Sessions 6-7)
-- Confront final truth about [[The Great Silence]] and current awakening
+- Confront final truth about [The Great Silence](The%20Great%20Silence.md) and current awakening
 - Choose what knowledge to preserve, share, or destroy
 - Deal with political and ethical consequences of discovery
 
@@ -197,21 +197,21 @@ The discovery has attracted attention from multiple factions with radically diff
 
 #### Accessing the Archive (Complexity 2: 6 successes before 3 failures)
 **Primary Skills:** Arcana (harmonic analysis), Investigation (lock mechanisms), Performance (musical sequences)
-**Secondary Skills:** History ([[Architect]] knowledge), Insight (pattern recognition)
-**Obstacles:** [[Silence-Keepers]] interference, dimensional instability, guardian challenges
+**Secondary Skills:** History ([Architect](Architect.md) knowledge), Insight (pattern recognition)
+**Obstacles:** [Silence-Keepers](Silence-Keepers.md) interference, dimensional instability, guardian challenges
 **Success:** Safe entry to archive with maximum time allowance
 **Failure:** Partial access with reduced time or increased hazards
 
 #### Interpreting Ancient Records (Complexity 3: 8 successes before 3 failures)
-**Primary Skills:** Arcana ([[Architect]] science), History (pre-Silence context), Investigation (data analysis)
-**Secondary Skills:** Religion ([[Architect]] philosophy), Insight (motivational analysis)
+**Primary Skills:** Arcana ([Architect](Architect.md) science), History (pre-Silence context), Investigation (data analysis)
+**Secondary Skills:** Religion ([Architect](Architect.md) philosophy), Insight (motivational analysis)
 **Time Pressure:** Each failure reduces available research time by 30 minutes
 **Success:** Complete understanding of Entropy Cascade and Great Silence
 **Failure:** Partial knowledge with critical gaps in understanding
 
 #### The Moral Decision (No dice roll—pure roleplay)
 **Information Available:** Complete truth about past and future threats
-**Stakeholders:** All major factions, future of [[Valdris]], universal stability
+**Stakeholders:** All major factions, future of [Valdris](Valdris.md), universal stability
 **Options:** Share knowledge, suppress knowledge, or selective revelation
 **Consequences:** Determined by player choice and implementation method
 
@@ -220,10 +220,10 @@ The discovery has attracted attention from multiple factions with radically diff
 ## Combat Encounters
 
 ### Encounter 1: Silence-Keeper Intervention (CR 8)
-**Location:** [[Kelathon]] approaches during initial investigation
+**Location:** [Kelathon](Kelathon.md) approaches during initial investigation
 **Enemies:** **Vigil-Master Aldain Ironwatch** (CR 8) + 4 **Veterans** with Silence-Keeper training
 **Terrain:** Rocky approaches to Singing Spires with acoustic amplification effects
-**Objective:** [[Silence-Keepers]] attempt to prevent archive access through intimidation and force
+**Objective:** [Silence-Keepers](Silence-Keepers.md) attempt to prevent archive access through intimidation and force
 **Tactics:** Non-lethal takedowns preferred, but will escalate if party resists
 **Resolution:** Negotiation possible with DC 18 Persuasion if party demonstrates understanding of risks
 
@@ -233,15 +233,15 @@ The discovery has attracted attention from multiple factions with radically diff
 **Terrain:** Crystalline chamber with harmonic amplification and dimensional instability
 **Objective:** Prevent unauthorized access to historical records
 **Tactics:** Uses sonic attacks and dimensional displacement abilities
-**Alternative:** Can be bypassed with proper [[Architect]] authorization codes (Investigation DC 20)
+**Alternative:** Can be bypassed with proper [Architect](Architect.md) authorization codes (Investigation DC 20)
 
 ### Encounter 3: Political Ambush (CR 9)
 **Location:** Archive exit after information gathering
 **Enemies:** **Lady Brass-Crown Isadora** (CR 5) + 6 **Order of the Brass Tower** soldiers (CR 2 each)
 **Terrain:** Spire complex with multiple levels and escape routes
-**Objective:** Secure archive contents for [[Ruin-Holder Kingdoms]] exclusive use
+**Objective:** Secure archive contents for [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) exclusive use
 **Tactics:** Diplomatic pressure backed by military force, prefers negotiation to open conflict
-**Complications:** [[Silence-Keepers]] may intervene to support or oppose party
+**Complications:** [Silence-Keepers](Silence-Keepers.md) may intervene to support or oppose party
 
 ### Encounter 4: Vex'halan's Echo (CR 9)
 **Location:** Archive core chamber containing most dangerous knowledge
@@ -256,7 +256,7 @@ The discovery has attracted attention from multiple factions with radically diff
 ## Multiple Resolution Paths
 
 ### Path 1: Complete Academic Disclosure
-**Approach:** Share all discovered knowledge with [[Academy of Dual Mysteries]] and broader scholarly community
+**Approach:** Share all discovered knowledge with [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) and broader scholarly community
 
 **Implementation:**
 1. **Public Revelation:** Present findings at major academic conference
@@ -270,8 +270,8 @@ The discovery has attracted attention from multiple factions with radically diff
 - **Worst Case:** Knowledge proliferation triggers competitive cascade development
 
 **Long-term Consequences:**
-- [[Valdris]] enters rapid technological advancement period
-- International cooperation or conflict over [[Architect]] technology
+- [Valdris](Valdris.md) enters rapid technological advancement period
+- International cooperation or conflict over [Architect](Architect.md) technology
 - Risk of cascade remains but with better understanding
 
 ### Path 2: Selective Information Sharing
@@ -291,16 +291,16 @@ The discovery has attracted attention from multiple factions with radically diff
 **Long-term Consequences:**
 - Gradual technological development with safety measures
 - Political tensions over access to restricted knowledge
-- [[Silence-Keepers]] approve but remain vigilant
+- [Silence-Keepers](Silence-Keepers.md) approve but remain vigilant
 
 ### Path 3: Knowledge Suppression
-**Approach:** Support [[Silence-Keepers]] position and destroy or hide all archive contents
+**Approach:** Support [Silence-Keepers](Silence-Keepers.md) position and destroy or hide all archive contents
 
 **Implementation:**
-1. **Archive Destruction:** Use [[Architect]] systems to seal or destroy historical records
+1. **Archive Destruction:** Use [Architect](Architect.md) systems to seal or destroy historical records
 2. **Awakening Interruption:** Attempt to return ruins to dormant state
 3. **Information Control:** Eliminate evidence of discovery and suppress research
-4. **Vigilance Network:** Strengthen [[Silence-Keepers]] monitoring for future threats
+4. **Vigilance Network:** Strengthen [Silence-Keepers](Silence-Keepers.md) monitoring for future threats
 
 **Outcomes:**
 - **Best Case:** Cascade threat eliminated, status quo preserved
@@ -308,8 +308,8 @@ The discovery has attracted attention from multiple factions with radically diff
 - **Worst Case:** Suppression fails and cascade occurs without preparation
 
 **Long-term Consequences:**
-- [[Valdris]] remains at medieval technology level
-- [[Architect]] awakening proceeds without human understanding
+- [Valdris](Valdris.md) remains at medieval technology level
+- [Architect](Architect.md) awakening proceeds without human understanding
 - Future discoveries become more dangerous without context
 
 ### Path 4: Factional Compromise
@@ -329,7 +329,7 @@ The discovery has attracted attention from multiple factions with radically diff
 **Long-term Consequences:**
 - Complex political situation requiring ongoing management
 - Technological development proceeds with oversight
-- International relations become focused on [[Architect]] technology
+- International relations become focused on [Architect](Architect.md) technology
 
 ---
 
@@ -347,19 +347,19 @@ The discovery has attracted attention from multiple factions with radically diff
 **Dilemma:** Which factions or institutions can be trusted with civilization-threatening knowledge?
 
 **Considerations:**
-- **[[Academy of Dual Mysteries]]:** Scholarly objectivity vs. institutional pride
-- **[[Ruin-Holder Kingdoms]]:** Political power vs. responsibility to citizens
-- **[[Tinker-Priests]]:** Spiritual guidance vs. technological obsession
-- **[[Silence-Keepers]]:** Historical wisdom vs. dogmatic suppression
+- **[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md):** Scholarly objectivity vs. institutional pride
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md):** Political power vs. responsibility to citizens
+- **[Tinker-Priests](Tinker-Priests.md):** Spiritual guidance vs. technological obsession
+- **[Silence-Keepers](Silence-Keepers.md):** Historical wisdom vs. dogmatic suppression
 
 ### The Time Pressure Paradox
-**Dilemma:** [[The Recent Awakening]] may require immediate guidance, but hasty decisions risk catastrophic mistakes
+**Dilemma:** [The Recent Awakening](The%20Recent%20Awakening.md) may require immediate guidance, but hasty decisions risk catastrophic mistakes
 
 **Factors:**
-- **Awakening Timeline:** [[Architect]] systems operating on automated protocols without conscious oversight
+- **Awakening Timeline:** [Architect](Architect.md) systems operating on automated protocols without conscious oversight
 - **Research Requirements:** Understanding cascade prevention requires extensive study
 - **Political Reality:** Factions won't wait for perfect knowledge before acting
-- **Historical Precedent:** [[Architect]] had centuries to prepare—humans have months
+- **Historical Precedent:** [Architect](Architect.md) had centuries to prepare—humans have months
 
 ### The Responsibility Burden
 **Dilemma:** Who has the right to make decisions affecting all future civilization?
@@ -367,8 +367,8 @@ The discovery has attracted attention from multiple factions with radically diff
 **Stakeholders:**
 - **Current Generation:** Immediate beneficiaries or victims of technological advancement
 - **Future Generations:** Will inherit consequences of current choices
-- **Other Civilizations:** Entropy Cascade could affect reality beyond [[Valdris]]
-- **[[Architect]] Legacy:** Original creators' intentions and sacrifices
+- **Other Civilizations:** Entropy Cascade could affect reality beyond [Valdris](Valdris.md)
+- **[Architect](Architect.md) Legacy:** Original creators' intentions and sacrifices
 
 ---
 
@@ -383,24 +383,24 @@ The discovery has attracted attention from multiple factions with radically diff
 - Simplify moral choices to focus on party capability rather than universal consequences
 
 **Support Modifications:**
-- **Scholar Allies:** [[Archivist Theron Millwright]] accompanies party as active participant
+- **Scholar Allies:** [Archivist Theron Millwright](Archivist%20Theron%20Millwright.md) accompanies party as active participant
 - **Guardian Cooperation:** Archive systems more willing to assist legitimate researchers
-- **Reduced Opposition:** [[Silence-Keepers]] use intimidation rather than violence
+- **Reduced Opposition:** [Silence-Keepers](Silence-Keepers.md) use intimidation rather than violence
 - **Political Buffer:** Academic institutions provide protection from noble interference
 
 ### For Higher Level Parties (Level 10-12)
 
 **Escalations:**
-- **Multiple Archive Sites:** Discovery leads to network of hidden archives across [[Valdris]]
+- **Multiple Archive Sites:** Discovery leads to network of hidden archives across [Valdris](Valdris.md)
 - **Time Travel Elements:** Archive access allows limited temporal observation or intervention
 - **Cosmic Scope:** Entropy Cascade threatens multiple worlds or dimensional stability
-- **Ancient Survivors:** Encounter actual [[Architect]] consciousness preserved in temporal stasis
+- **Ancient Survivors:** Encounter actual [Architect](Architect.md) consciousness preserved in temporal stasis
 
 **Additional Complexity:**
 - **International Crisis:** Multiple nations mobilize to control or destroy archive contents
 - **Cascade Activation:** Party decisions accidentally trigger minor entropy effects
 - **Philosophical Transformation:** Knowledge fundamentally changes party members' worldview
-- **Ultimate Choice:** Option to join [[Architect]] consciousness or assume their responsibilities
+- **Ultimate Choice:** Option to join [Architect](Architect.md) consciousness or assume their responsibilities
 
 ---
 
@@ -410,34 +410,34 @@ The discovery has attracted attention from multiple factions with radically diff
 
 The archive revelations reframe major historical events:
 
-**[[The Great Silence]]** - Heroic sacrifice rather than civilizational failure
-**[[Valdris]] Development** - Human civilization developed under [[Architect]] monitoring
-**[[The Recent Awakening]]** - Planned reactivation rather than random occurrence
+**[The Great Silence](The%20Great%20Silence.md)** - Heroic sacrifice rather than civilizational failure
+**[Valdris](Valdris.md) Development** - Human civilization developed under [Architect](Architect.md) monitoring
+**[The Recent Awakening](The%20Recent%20Awakening.md)** - Planned reactivation rather than random occurrence
 **Current Events** - All contemporary conflicts occur against backdrop of cosmic threat
 
 ### Technological Understanding
 
-Complete [[Architect]] records provide revolutionary insights:
+Complete [Architect](Architect.md) records provide revolutionary insights:
 
-**True Capabilities** - [[Architect]] technology far exceeds current understanding
+**True Capabilities** - [Architect](Architect.md) technology far exceeds current understanding
 **Safety Protocols** - Proper usage prevents dangerous cascading effects
-**Integration Methods** - Humans can safely adopt [[Architect]] technology with guidance
+**Integration Methods** - Humans can safely adopt [Architect](Architect.md) technology with guidance
 **Ultimate Limits** - Some technological paths are fundamentally too dangerous to pursue
 
 ### Political Ramifications
 
 Knowledge distribution affects every major faction:
 
-**[[Ruin-Holder Kingdoms]]** - Military applications could destabilize continental balance
-**[[Wanderer Confederations]]** - Transportation technology threatens traditional nomadic advantages
-**[[Ruin-Shunner Republics]]** - Isolation policies become impossible to maintain
-**[[Tinker-Priests]]** - Religious beliefs validated but theological framework requires revision
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)** - Military applications could destabilize continental balance
+**[Wanderer Confederations](Wanderer%20Confederations.md)** - Transportation technology threatens traditional nomadic advantages
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)** - Isolation policies become impossible to maintain
+**[Tinker-Priests](Tinker-Priests.md)** - Religious beliefs validated but theological framework requires revision
 
 ### Future Campaign Directions
 
 Adventure outcomes establish major ongoing storylines:
 
-**Technology Management** - How does [[Valdris]] society adapt to revolutionary capabilities?
+**Technology Management** - How does [Valdris](Valdris.md) society adapt to revolutionary capabilities?
 **Political Evolution** - What new institutions emerge to handle unprecedented power?
 **Cultural Transformation** - How do human values change with access to cosmic perspective?
 **Universal Responsibility** - What obligations do humans have to prevent Entropy Cascade?
@@ -448,12 +448,12 @@ Adventure outcomes establish major ongoing storylines:
 
 **Echoes of the Great Silence** presents players with perhaps the most significant moral choice possible in fantasy adventure: whether to pursue knowledge that could either save or doom civilization. The adventure combines investigative gameplay with ethical philosophy, requiring players to grapple with questions that have no easy answers.
 
-The historical revelations recontextualize everything players thought they knew about [[Valdris]], while the moral dilemmas force them to consider the responsibilities that come with ultimate knowledge. Their choices will determine not just the fate of their world, but potentially the stability of reality itself.
+The historical revelations recontextualize everything players thought they knew about [Valdris](Valdris.md), while the moral dilemmas force them to consider the responsibilities that come with ultimate knowledge. Their choices will determine not just the fate of their world, but potentially the stability of reality itself.
 
-Most importantly, the adventure establishes that [[The Recent Awakening]] is not simply the return of ancient technology, but the culmination of an 847-year plan to prevent universal catastrophe. Whether that plan succeeds depends entirely on the wisdom, courage, and moral clarity of the player characters.
+Most importantly, the adventure establishes that [The Recent Awakening](The%20Recent%20Awakening.md) is not simply the return of ancient technology, but the culmination of an 847-year plan to prevent universal catastrophe. Whether that plan succeeds depends entirely on the wisdom, courage, and moral clarity of the player characters.
 
 **Awards:** 1,400 XP per character for completion, plus bonus XP for exceptional research, moral reasoning, creative problem-solving, or making difficult choices that prioritize universal welfare over personal benefit.
 
 ---
 
-*Connected to: [[The Great Silence]], [[The Recent Awakening]], [[Archivist Theron Millwright]], [[Silence-Keepers]], [[Academy of Dual Mysteries]], [[Singing Spires of Kelathon]], [[Thymeris the Golden]], [[Architect Technology]], [[Architect]], [[Tinker-Priests]]*
+*Connected to: [The Great Silence](The%20Great%20Silence.md), [The Recent Awakening](The%20Recent%20Awakening.md), [Archivist Theron Millwright](Archivist%20Theron%20Millwright.md), [Silence-Keepers](Silence-Keepers.md), [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md), [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), [Thymeris the Golden](Thymeris%20the%20Golden.md), [Architect Technology](Architect%20Technology.md), [Architect](Architect.md), [Tinker-Priests](Tinker-Priests.md)*

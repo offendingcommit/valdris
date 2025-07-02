@@ -4,13 +4,13 @@
 
 ## Overview
 
-Creating a character for [[Valdris]] means deciding how they relate to the ancient [[Architect|Architect]] legacy, the [[Recent Awakening]], and the three major ways of life that define the continent. This guide helps you build meaningful connections between your character and the world they inhabit.
+Creating a character for [Valdris](Valdris.md) means deciding how they relate to the ancient [Architect](Architect.md) legacy, the [Recent Awakening](Recent%20Awakening.md), and the three major ways of life that define the continent. This guide helps you build meaningful connections between your character and the world they inhabit.
 
 ---
 
 ## Step 1: Choose Your Relationship to Architect Technology
 
-Your character's fundamental worldview starts with how they see the [[Architect|Architect]] legacy. This choice influences everything from their background to their daily habits.
+Your character's fundamental worldview starts with how they see the [Architect](Architect.md) legacy. This choice influences everything from their background to their daily habits.
 
 ### The Embracer
 *"This technology is our inheritance"*
@@ -88,8 +88,8 @@ Where your character comes from shapes their specific knowledge, skills, and con
 *Land of the Walking Gardens*
 
 **Environment**: Rolling hills, seasonal migrations, traditional nomadic culture
-**Architect Influence**: [[Walking Gardens of Yss'andra]] provide agricultural benefits and guidance
-**Political System**: [[Political Systems/Wanderer Confederations]]
+**Architect Influence**: [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) provide agricultural benefits and guidance
+**Political System**: [Wanderer Confederations](Wanderer%20Confederations.md)
 
 **Character Traits**:
 - Skilled in animal handling, navigation, and weather reading
@@ -109,8 +109,8 @@ Where your character comes from shapes their specific knowledge, skills, and con
 *Realm of the Golden City*
 
 **Environment**: Fertile valleys, established settlements, ancient infrastructure
-**Architect Influence**: [[Thymeris the Golden]] provides technological advancement and wealth
-**Political System**: [[Political Systems/Ruin-Holder Kingdoms]]
+**Architect Influence**: [Thymeris the Golden](Thymeris%20the%20Golden.md) provides technological advancement and wealth
+**Political System**: [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
 
 **Character Traits**:
 - Educated in Architect lore and technological principles
@@ -124,14 +124,14 @@ Where your character comes from shapes their specific knowledge, skills, and con
 - **Merchant House Scion**: Your family profits from Architect trade
 - **Technical Apprentice**: You maintain kingdom infrastructure
 
-**Recent Awakening Impact**: [[Thymeris the Golden]] has fully awakened, its amber light visible for miles and its systems more active than ever, creating new opportunities and dangers.
+**Recent Awakening Impact**: [Thymeris the Golden](Thymeris%20the%20Golden.md) has fully awakened, its amber light visible for miles and its systems more active than ever, creating new opportunities and dangers.
 
 ### Western Republics (Quiet Lands)
 *Domain of Human Achievement*
 
 **Environment**: Peaceful valleys, democratic settlements, traditional craftsmanship
 **Architect Influence**: Deliberately minimal, focus on human alternatives
-**Political System**: [[Political Systems/Ruin-Shunner Republics]]
+**Political System**: [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)
 
 **Character Traits**:
 - Master of traditional crafts and techniques
@@ -151,7 +151,7 @@ Where your character comes from shapes their specific knowledge, skills, and con
 *Crossroads of Trade and Culture*
 
 **Environment**: Maritime communities, diverse populations, trade networks
-**Architect Influence**: [[Settlements/Grimhaven|Grimhaven]] Lighthouse and navigation aids
+**Architect Influence**: [Grimhaven](Settlements/Grimhaven.md) Lighthouse and navigation aids
 **Political System**: Mixed - all three systems interact here
 
 **Character Traits**:
@@ -170,7 +170,7 @@ Where your character comes from shapes their specific knowledge, skills, and con
 
 ### Settlement-Specific Origins
 
-#### [[Stonehaven]]
+#### [Stonehaven](Stonehaven.md)
 *The Craftsperson's Democracy*
 
 - **Master Guild Member**: Expert in traditional techniques
@@ -178,7 +178,7 @@ Where your character comes from shapes their specific knowledge, skills, and con
 - **Academic Researcher**: Scholar at the Academy of Traditional Arts
 - **Community Organizer**: Helps coordinate collective projects
 
-#### [[Kelathon]]
+#### [Kelathon](Kelathon.md)
 *City of the Singing Spires*
 
 - **Resonant Council Aide**: Helps govern the harmonic city
@@ -186,7 +186,7 @@ Where your character comes from shapes their specific knowledge, skills, and con
 - **Song-Touched**: Unusually sensitive to the Spires' harmonies
 - **Tourism Guide**: Shows visitors the wonders of the crystal towers
 
-#### [[Grimhaven]]
+#### [Grimhaven](Grimhaven.md)
 *Gateway to the Wider World*
 
 - **Lighthouse Keeper**: Maintains the eternal beacon
@@ -194,7 +194,7 @@ Where your character comes from shapes their specific knowledge, skills, and con
 - **International Trader**: Deals with overseas merchants
 - **Coastal Defender**: Protects against maritime threats
 
-#### [[Millbrook]]
+#### [Millbrook](Millbrook.md)
 *Traditional Farming Community*
 
 - **Enhanced Farmer**: Uses Architect systems to improve crops
@@ -208,7 +208,7 @@ Where your character comes from shapes their specific knowledge, skills, and con
 
 Most characters have some relationship with the major factions, even if they're not formal members.
 
-### [[Tinker-Priests]]
+### [Tinker-Priests](Tinker-Priests.md)
 *Seekers of Technological Transcendence*
 
 **Full Members**: Devoted to understanding and communing with Architect technology
@@ -222,7 +222,7 @@ Most characters have some relationship with the major factions, even if they're 
 - **Philosophical Alignment**: You share their beliefs about Architect transcendence
 - **Professional Rivalry**: You compete with them for access to ruins or artifacts
 
-### [[Silence-Keepers]]
+### [Silence-Keepers](Silence-Keepers.md)
 *Guardians of the Ancient Vigil*
 
 **Full Members**: Dedicated to watching and preserving Architect sites
@@ -260,15 +260,15 @@ Most characters have some relationship with the major factions, even if they're 
 
 ## Step 4: Define Your Awakening Experience
 
-The [[Recent Awakening]] has affected everyone in [[Valdris]]. Choose how your character has experienced these unprecedented events.
+The [Recent Awakening](Recent%20Awakening.md) has affected everyone in [Valdris](Valdris.md). Choose how your character has experienced these unprecedented events.
 
 ### Direct Witness
 *"I was there when it happened"*
 
 You personally witnessed a major Awakening event:
-- Present when [[Thymeris the Golden]] first blazed with amber light
-- Heard the [[Singing Spires of Kelathon|Spires]] begin their new songs
-- Saw the [[Walking Gardens of Yss'andra|Gardens]] change direction
+- Present when [Thymeris the Golden](Thymeris%20the%20Golden.md) first blazed with amber light
+- Heard the [Spires](Singing%20Spires%20of%20Kelathon.md) begin their new songs
+- Saw the [Gardens](Walking%20Gardens%20of%20Yss%27andra.md) change direction
 - Encountered newly emerged clockwork creatures
 - Experienced a local ruin coming to life
 
@@ -365,7 +365,7 @@ Your character's relationships anchor them to the world and provide ongoing stor
 ### Mira Ironwright
 *Ruin-Shunner Diplomat*
 
-**Origin**: [[Stonehaven]], master metalworker turned diplomatic courier
+**Origin**: [Stonehaven](Stonehaven.md), master metalworker turned diplomatic courier
 **Architect Relationship**: Avoider who respects but doesn't use ancient technology
 **Awakening Experience**: Sent to investigate whether awakening ruins threaten democratic communities
 **Connections**: Sister is a Tinker-Priest, creating family tension; carries messages between Ruin-Shunner settlements
@@ -376,7 +376,7 @@ Your character's relationships anchor them to the world and provide ongoing stor
 
 **Origin**: Northern Reaches, follows traditional migration routes
 **Architect Relationship**: Interpreter who reads patterns in ruin activity
-**Awakening Experience**: Witnessed the [[Walking Gardens of Yss'andra|Gardens]] change course, disrupting ancient traditions
+**Awakening Experience**: Witnessed the [Gardens](Walking%20Gardens%20of%20Yss%27andra.md) change course, disrupting ancient traditions
 **Connections**: Trained by Silence-Keepers, maintains trade relationships across multiple communities
 **Goal**: Understand what the Awakening means for the future of the migration cycles
 
@@ -385,7 +385,7 @@ Your character's relationships anchor them to the world and provide ongoing stor
 
 **Origin**: Eastern Kingdoms, educated at court academies
 **Architect Relationship**: Embracer who seeks deeper understanding of ancient technology
-**Awakening Experience**: Present when [[Thymeris the Golden]] fully awakened, saw things others missed
+**Awakening Experience**: Present when [Thymeris the Golden](Thymeris%20the%20Golden.md) fully awakened, saw things others missed
 **Connections**: Court position provides access to resources, rivalry with Tinker-Priest researchers
 **Goal**: Unlock the secrets of what the Architects really intended to accomplish
 
@@ -393,7 +393,7 @@ Your character's relationships anchor them to the world and provide ongoing stor
 
 ## Character Questions
 
-Use these questions to develop your character's connection to [[Valdris]]:
+Use these questions to develop your character's connection to [Valdris](Valdris.md):
 
 ### Background Questions
 1. **What is your earliest memory involving Architect technology?**
@@ -464,11 +464,11 @@ Some characters may have unusual sensitivity to Architect technology:
 
 ## Final Advice
 
-**Remember**: Your character is part of a world in transition. The [[Recent Awakening]] means everyone is dealing with uncertainty, change, and new possibilities. Your character's response to these events will drive much of their story.
+**Remember**: Your character is part of a world in transition. The [Recent Awakening](Recent%20Awakening.md) means everyone is dealing with uncertainty, change, and new possibilities. Your character's response to these events will drive much of their story.
 
 **Be Flexible**: The Awakening is ongoing. Your character's opinions and goals may evolve as they learn more about what's happening.
 
-**Embrace Connections**: [[Valdris]] is a world where everyone's fate is connected to ancient mysteries and current events. Your character's relationships with people, places, and factions will create the most interesting stories.
+**Embrace Connections**: [Valdris](Valdris.md) is a world where everyone's fate is connected to ancient mysteries and current events. Your character's relationships with people, places, and factions will create the most interesting stories.
 
 **Consider Consequences**: Every choice about technology, politics, and relationships has implications in this world. Think about how your character's decisions might affect not just themselves, but their community and the wider world.
 
@@ -476,10 +476,10 @@ Some characters may have unusual sensitivity to Architect technology:
 
 ## Related Resources
 
-**Essential Reading**: [[Common Knowledge]] - Foundation for all characters
-**World Overview**: [[Welcome]] - Introduction to [[Valdris]]
-**Current Events**: [[Recent Awakening]] - What's happening now
-**Equipment Options**: [[Player Resources/Equipment & Gear]] - Available items and technology
-**Communication**: [[Player Resources/Languages of Valdris]] - Language and communication options
+**Essential Reading**: [Common Knowledge](Common%20Knowledge.md) - Foundation for all characters
+**World Overview**: [Welcome](Welcome.md) - Introduction to [Valdris](Valdris.md)
+**Current Events**: [Recent Awakening](Recent%20Awakening.md) - What's happening now
+**Equipment Options**: [Equipment & Gear](Equipment%20%26%20Gear.md) - Available items and technology
+**Communication**: [Languages of Valdris](Languages%20of%20Valdris.md) - Language and communication options
 
 #player-safe #character-creation #backgrounds #campaign-integration

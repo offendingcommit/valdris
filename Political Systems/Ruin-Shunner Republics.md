@@ -4,19 +4,19 @@
 
 ## Overview
 
-The Ruin-Shunner Republics represent [[Valdris]]'s most radical response to the [[Architect Ruins|Architect]] legacy—complete rejection. Where [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holders]] crown themselves with ancient gears and [[Political Systems/Wanderer Confederations|Wanderers]] chase mobile mysteries across the landscape, the Shunners have chosen a different path: the deliberate cultivation of purely human achievement.
+The Ruin-Shunner Republics represent [Valdris](Valdris.md)'s most radical response to the [Architect](Architect%20Ruins.md) legacy—complete rejection. Where [Ruin-Holders](Political%20Systems/Ruin-Holder%20Kingdoms.md) crown themselves with ancient gears and [Wanderers](Political%20Systems/Wanderer%20Confederations.md) chase mobile mysteries across the landscape, the Shunners have chosen a different path: the deliberate cultivation of purely human achievement.
 
-These democratic republics, concentrated primarily in the [[World Map#The Quiet Lands|Quiet Lands]] but scattered throughout [[Valdris]], stand as testament to what humanity can accomplish without relying on incomprehensible mechanisms or mysterious powers. Their motto, "By Our Own Hands," echoes through council halls and craft workshops, sung in the hymn [[Music/By Our Own Hands - Ruin-Shunner Hymn|By Our Own Hands]] during harvest festivals and work gatherings.
+These democratic republics, concentrated primarily in the [Quiet Lands](World%20Map.md#The%20Quiet%20Lands) but scattered throughout [Valdris](Valdris.md), stand as testament to what humanity can accomplish without relying on incomprehensible mechanisms or mysterious powers. Their motto, "By Our Own Hands," echoes through council halls and craft workshops, sung in the hymn [By Our Own Hands](Music/By%20Our%20Own%20Hands%20-%20Ruin-Shunner%20Hymn.md) during harvest festivals and work gatherings.
 
-Yet in a world where the [[Timeline#The Recent Awakening|Recent Awakening]] grants ever-greater power to those who embrace [[Architect Ruins|Architect]] technology, the Shunners face their greatest challenge: remaining relevant in an age of reactivating wonders.
+Yet in a world where the [Recent Awakening](Timeline.md#The%20Recent%20Awakening) grants ever-greater power to those who embrace [Architect](Architect%20Ruins.md) technology, the Shunners face their greatest challenge: remaining relevant in an age of reactivating wonders.
 
 ## Philosophy of Self-Reliance
 
 ### The Doctrine of Human Sufficiency
 
-Ruin-Shunner philosophy stems from a fundamental belief: dependence on [[Architect Ruins|Architect]] technology is not merely dangerous but *degrading* to the human spirit. Their theologians and philosophers argue that every gear turned by ancient mechanism is a skill lost to human hands, every problem solved by mysterious devices is wisdom denied to human minds.
+Ruin-Shunner philosophy stems from a fundamental belief: dependence on [Architect](Architect%20Ruins.md) technology is not merely dangerous but *degrading* to the human spirit. Their theologians and philosophers argue that every gear turned by ancient mechanism is a skill lost to human hands, every problem solved by mysterious devices is wisdom denied to human minds.
 
-The **Charter of Common Craft**, penned in 290 AS during the [[Timeline#The Shunner Revolts|Shunner Revolts]], articulates their core principles:
+The **Charter of Common Craft**, penned in 290 AS during the [Shunner Revolts](Timeline.md#The%20Shunner%20Revolts), articulates their core principles:
 
 1. **The Dignity of Labor**: All honest work ennobles the worker
 2. **The Democracy of Skill**: Leadership belongs to the competent, not the fortunate
@@ -29,7 +29,7 @@ Central to Shunner culture is the **Maker's Creed**, recited by craft apprentice
 
 *"I swear by the strength of my hands and the wisdom of my teachers that I shall create without crutch of ancient mystery. What I build shall be understood by those who follow. What I craft shall be maintained by human skill. What I achieve shall inspire others to surpass me. By my own hands I make my stand."*
 
-This philosophy extends beyond mere craftsmanship to encompass governance, education, defense, and every aspect of society. The Shunners have proven that traditional techniques, perfected over generations, can match or even exceed [[Architect Ruins|Architect]]-enhanced production in many areas.
+This philosophy extends beyond mere craftsmanship to encompass governance, education, defense, and every aspect of society. The Shunners have proven that traditional techniques, perfected over generations, can match or even exceed [Architect](Architect%20Ruins.md)-enhanced production in many areas.
 
 ## Governance Structure
 
@@ -48,7 +48,7 @@ Ruin-Shunner Republics operate through democratic assemblies at multiple levels,
 
 **Regional Assemblies**: Delegates from Local Craft Councils convene quarterly to address regional concerns. These assemblies coordinate between settlements, manage larger infrastructure projects, and resolve inter-community disputes.
 
-**The Grand Assembly of Craft-Masters**: Meeting annually in [[Stonehaven]], this body represents all Ruin-Shunner communities. The Grand Assembly elects the **Speaker of the Assembly** for a three-year term, though this position holds more coordinative than executive power.
+**The Grand Assembly of Craft-Masters**: Meeting annually in [Stonehaven](Stonehaven.md), this body represents all Ruin-Shunner communities. The Grand Assembly elects the **Speaker of the Assembly** for a three-year term, though this position holds more coordinative than executive power.
 
 ### Electoral Principles
 
@@ -66,16 +66,16 @@ Shunner democracy operates on several key principles:
 
 ### The Craft Economy
 
-Ruin-Shunner economics revolve around the production and trade of high-quality, traditionally-made goods. Their economic philosophy rejects the "easy abundance" of [[Architect Ruins|Architect]] food processors and automated systems in favor of sustainable, comprehensible production.
+Ruin-Shunner economics revolve around the production and trade of high-quality, traditionally-made goods. Their economic philosophy rejects the "easy abundance" of [Architect](Architect%20Ruins.md) food processors and automated systems in favor of sustainable, comprehensible production.
 
 **Agricultural Excellence**: Shunner farmers have developed sophisticated techniques over centuries:
 - Crop rotation systems that maintain soil fertility indefinitely
-- Selective breeding programs producing [[Pure-Strain Crops]] with exceptional yields
+- Selective breeding programs producing [Pure-Strain Crops](Pure-Strain%20Crops.md) with exceptional yields
 - Natural pest control methods using companion planting and beneficial insects
-- Weather prediction through careful observation rather than [[Architect Ruins|Architect]] sensors
+- Weather prediction through careful observation rather than [Architect](Architect%20Ruins.md) sensors
 
-**Master Craftsmanship**: Shunner artisans produce goods renowned throughout [[Valdris]]:
-- [[Master-Crafted Tools]] that last generations with proper maintenance
+**Master Craftsmanship**: Shunner artisans produce goods renowned throughout [Valdris](Valdris.md):
+- [Master-Crafted Tools](Master-Crafted%20Tools.md) that last generations with proper maintenance
 - Textiles woven with techniques that create superior durability and comfort
 - Furniture and buildings designed for centuries of use
 - Medicines derived from carefully cultivated herbs and traditional knowledge
@@ -84,7 +84,7 @@ Ruin-Shunner economics revolve around the production and trade of high-quality, 
 
 ### Trade Relations
 
-Despite their philosophy, Shunners must engage with the wider economy of [[Valdris]]:
+Despite their philosophy, Shunners must engage with the wider economy of [Valdris](Valdris.md):
 
 **Export Specialties**:
 - Traditional foods prized for flavor and nutrition
@@ -96,18 +96,18 @@ Despite their philosophy, Shunners must engage with the wider economy of [[Valdr
 - Raw materials not available locally
 - Exotic goods for variety and morale
 - Information about external threats
-- Limited [[Architect Ruins|Architect]] items for study and defense preparation
+- Limited [Architect](Architect%20Ruins.md) items for study and defense preparation
 
 **Trade Protocols**: Shunner merchants operate under strict guidelines to prevent dependency:
 - No community may import more than 10% of essential goods
-- [[Architect Ruins|Architect]] technology may be studied but not integrated
+- [Architect](Architect%20Ruins.md) technology may be studied but not integrated
 - Trade agreements must be renegotiated annually to prevent entrenched dependencies
 
 ## Military Doctrine
 
 ### The Citizen Militia
 
-Lacking [[Architect Ruins|Architect]]-enhanced weapons and armor, Ruin-Shunner military doctrine emphasizes training, tactics, and terrain knowledge over technological superiority.
+Lacking [Architect](Architect%20Ruins.md)-enhanced weapons and armor, Ruin-Shunner military doctrine emphasizes training, tactics, and terrain knowledge over technological superiority.
 
 **Universal Service**: All citizens train with the militia for two years upon reaching adulthood, learning:
 - Traditional weapon proficiency (bow, spear, sword)
@@ -131,23 +131,23 @@ Lacking [[Architect Ruins|Architect]]-enhanced weapons and armor, Ruin-Shunner m
 
 ### Asymmetric Strategies
 
-Facing opponents with [[Architect Ruins|Architect]] advantages, Shunners have developed countering tactics:
+Facing opponents with [Architect](Architect%20Ruins.md) advantages, Shunners have developed countering tactics:
 
 **Terrain Mastery**: Shunner forces excel at choosing battlegrounds that neutralize technological advantages, using:
 - Forests and broken terrain limiting visibility
-- Weather conditions disrupting [[Architect Ruins|Architect]] mechanisms
+- Weather conditions disrupting [Architect](Architect%20Ruins.md) mechanisms
 - Ambush sites preventing enemy concentration
 - Supply line harassment over direct confrontation
 
-**Mechanical Sabotage**: Specialized units train in disabling [[Architect Ruins|Architect]] technology:
+**Mechanical Sabotage**: Specialized units train in disabling [Architect](Architect%20Ruins.md) technology:
 - Identifying vulnerable components
 - Using traditional explosives and acids
 - Exploiting harmonic frequencies to disrupt mechanisms
 - Capturing and reverse-engineering for defensive purposes
 
-**Psychological Warfare**: Shunners exploit the overconfidence of [[Architect Ruins|Architect]]-dependent forces:
+**Psychological Warfare**: Shunners exploit the overconfidence of [Architect](Architect%20Ruins.md)-dependent forces:
 - Demonstrating technology failures to demoralize enemies
-- Spreading stories of [[Architect Ruins|Architect]] curses and malfunctions
+- Spreading stories of [Architect](Architect%20Ruins.md) curses and malfunctions
 - Offering sanctuary to those who abandon technological dependence
 - Proving human resilience against mechanical might
 
@@ -155,23 +155,23 @@ Facing opponents with [[Architect Ruins|Architect]] advantages, Shunners have de
 
 ### The Quiet Lands Federation
 
-The largest concentration of Ruin-Shunner Republics, the [[World Map#The Quiet Lands|Quiet Lands]] encompasses rolling plains and gentle hills deliberately chosen for their distance from major [[Architect Ruins]].
+The largest concentration of Ruin-Shunner Republics, the [Quiet Lands](World%20Map.md#The%20Quiet%20Lands) encompasses rolling plains and gentle hills deliberately chosen for their distance from major [Architect Ruins](Architect%20Ruins.md).
 
-**[[Stonehaven]]**: The unofficial capital of Shunner culture, housing:
+**[Stonehaven](Stonehaven.md)**: The unofficial capital of Shunner culture, housing:
 - The Grand Assembly Hall, built entirely with traditional techniques
-- The [[Grand Library of Stonehaven]], preserving human knowledge
+- The [Grand Library of Stonehaven](Grand%20Library%20of%20Stonehaven.md), preserving human knowledge
 - Master Guild headquarters for major crafts
 - The Academy of Traditional Arts, training future generations
 
-**[[Craftman's Pride|Craftsman's Pride]]**: A town dedicated to perfecting traditional crafts:
+**[Craftsman's Pride](Craftman%27s%20Pride.md)**: A town dedicated to perfecting traditional crafts:
 - Workshop districts for every major craft
 - The Great Market where masters display their finest work
 - Testing grounds for new techniques and innovations
 - Museums preserving historical crafting methods
 
-**[[Greenhill]]**: The agricultural heartland:
+**[Greenhill](Greenhill.md)**: The agricultural heartland:
 - Experimental farms developing new cultivation techniques
-- Seed banks preserving [[Pure-Strain Crops]]
+- Seed banks preserving [Pure-Strain Crops](Pure-Strain%20Crops.md)
 - The Harvest College training agricultural masters
 - Distribution centers managing food security
 
@@ -179,11 +179,11 @@ The largest concentration of Ruin-Shunner Republics, the [[World Map#The Quiet L
 
 Beyond [The Quiet Lands](The%20Quiet%20Lands.md), smaller Shunner communities maintain the philosophy:
 
-**[[Millbrook]]**: Though independent, this village exemplifies Shunner ideals while maintaining pragmatic neutrality. Their [[Settlements/Millbrook#The Council of Seasons|Council of Seasons]] operates on democratic principles despite the presence of a peaceful [[Architect Ruins|Architect]] guardian.
+**[Millbrook](Millbrook.md)**: Though independent, this village exemplifies Shunner ideals while maintaining pragmatic neutrality. Their [Council of Seasons](Settlements/Millbrook.md#The%20Council%20of%20Seasons) operates on democratic principles despite the presence of a peaceful [Architect](Architect%20Ruins.md) guardian.
 
-**Haven's Rest**: A southern republic specializing in traditional medicine and healing arts, attracting those seeking alternatives to [[Architect Ruins|Architect]] medical devices.
+**Haven's Rest**: A southern republic specializing in traditional medicine and healing arts, attracting those seeking alternatives to [Architect](Architect%20Ruins.md) medical devices.
 
-**Forgeholm**: A mountain republic where master smiths perfect metallurgy without [[Architect Ruins|Architect]] enhancement, producing steel that rivals ancient alloys.
+**Forgeholm**: A mountain republic where master smiths perfect metallurgy without [Architect](Architect%20Ruins.md) enhancement, producing steel that rivals ancient alloys.
 
 ## Cultural Values
 
@@ -210,14 +210,14 @@ Shunners place supreme value on education, viewing it as the foundation of self-
 Shunner culture celebrates human creativity:
 
 **Music**: Traditional instruments and vocals create the soundscape of Shunner life:
-- Work songs like [[Music/By Our Own Hands - Ruin-Shunner Hymn|By Our Own Hands]] reinforce cultural values
+- Work songs like [By Our Own Hands](Music/By%20Our%20Own%20Hands%20-%20Ruin-Shunner%20Hymn.md) reinforce cultural values
 - Instrumental pieces accompany seasonal festivals
 - Ballads preserve historical memory
 - Children's songs teach practical skills
 
 **Visual Arts**: Paintings, sculptures, and decorative crafts that:
 - Celebrate human achievement and natural beauty
-- Avoid [[Architect Ruins|Architect]] motifs and mechanical themes
+- Avoid [Architect](Architect%20Ruins.md) motifs and mechanical themes
 - Integrate functional and aesthetic purposes
 - Use traditional materials and techniques
 
@@ -241,7 +241,7 @@ Shunner culture celebrates human creativity:
 - Tool blessing ceremonies
 - Gift exchanges between crafts
 
-**Remembrance Night**: Acknowledging those lost to [[Architect Ruins|Architect]] dangers:
+**Remembrance Night**: Acknowledging those lost to [Architect](Architect%20Ruins.md) dangers:
 - Reading names of the fallen
 - Cautionary tales of technological dependence
 - Renewed vows of self-reliance
@@ -251,7 +251,7 @@ Shunner culture celebrates human creativity:
 
 ### The Youth Exodus
 
-The [[Timeline#The Recent Awakening|Recent Awakening]] has created unprecedented challenges for Shunner communities:
+The [Recent Awakening](Timeline.md#The%20Recent%20Awakening) has created unprecedented challenges for Shunner communities:
 
 **The Lure of Wonder**: Young people, raised on cautionary tales, find themselves drawn to:
 - Reports of awakening ruins offering incredible power
@@ -262,7 +262,7 @@ The [[Timeline#The Recent Awakening|Recent Awakening]] has created unprecedented
 **Apprenticeship Crisis**: Master crafters report:
 - Fewer young people completing full apprenticeships
 - Shortened attention spans for traditional learning
-- Demands for [[Architect Ruins|Architect]]-enhanced tools
+- Demands for [Architect](Architect%20Ruins.md)-enhanced tools
 - Questions about the relevance of pure human craft
 
 **Community Response**: Republics have implemented various strategies:
@@ -275,7 +275,7 @@ The [[Timeline#The Recent Awakening|Recent Awakening]] has created unprecedented
 
 Awakening ruins create severe economic pressures:
 
-**Production Disparities**: [[Architect Ruins|Architect]]-enhanced communities now produce:
+**Production Disparities**: [Architect](Architect%20Ruins.md)-enhanced communities now produce:
 - Crops with yields impossible through traditional means
 - Goods with properties beyond normal crafting
 - Services powered by inexhaustible energy sources
@@ -283,7 +283,7 @@ Awakening ruins create severe economic pressures:
 
 **Market Pressures**: Shunner goods, while high-quality, face:
 - Price competition from mass-produced alternatives
-- Demand shifts toward exotic [[Architect Ruins|Architect]] products
+- Demand shifts toward exotic [Architect](Architect%20Ruins.md) products
 - Transportation disadvantages without enhanced methods
 - Marketing challenges against "miraculous" competitors
 
@@ -298,14 +298,14 @@ Awakening ruins create severe economic pressures:
 The power differential grows more stark:
 
 **Enhanced Adversaries**: Potential enemies now field:
-- [[Political Systems/Ruin-Holder Kingdoms#The Brass Legions|Brass Legions]] with awakening armor
+- [Brass Legions](Political%20Systems/Ruin-Holder%20Kingdoms.md#The%20Brass%20Legions) with awakening armor
 - Weapons drawing on ruin power sources
-- Intelligence from [[Mechanical Envoys]]
-- Mobility through [[Architect Roads|Architect]] transport
+- Intelligence from [Mechanical Envoys](Mechanical%20Envoys.md)
+- Mobility through [Architect](Architect%20Roads.md) transport
 
 **Defensive Challenges**: Traditional fortifications face:
 - Siege weapons powered by ruin mechanisms
-- Flying scouts using [[Architect Ruins|Architect]] devices
+- Flying scouts using [Architect](Architect%20Ruins.md) devices
 - Harmonic weapons affecting morale
 - Supply interdiction through superior mobility
 
@@ -332,26 +332,26 @@ A master smith who rose through dedication and political acumen, Elena embodies 
 
 **[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs discrete agents to investigate youth exodus causes
-- Seeks proof of [[Architect Ruins|Architect]] technology failures to counter propaganda
+- Seeks proof of [Architect](Architect%20Ruins.md) technology failures to counter propaganda
 - Requires diplomatic missions to potential allies
 
 ### Marcus Seedkeeper
 *Human, 45, Master of Agricultural Innovation*
 
-Leading researcher in traditional farming techniques, Marcus oversees [[Greenhill]]'s experimental farms and the preservation of [[Pure-Strain Crops]]. His work feeds half [The Quiet Lands](The%20Quiet%20Lands.md).
+Leading researcher in traditional farming techniques, Marcus oversees [Greenhill](Greenhill.md)'s experimental farms and the preservation of [Pure-Strain Crops](Pure-Strain%20Crops.md). His work feeds half [The Quiet Lands](The%20Quiet%20Lands.md).
 
 **Background**: Farm boy who showed exceptional intuition for plant breeding. Studied under three different masters before synthesizing their techniques into new innovations.
 
 **Personality**: Gentle and thoughtful, speaks slowly but with great precision. Passionate about his work to the point of obsession. Sees poetry in soil composition.
 
-**Motivation**: Prove traditional agriculture can surpass [[Architect Ruins|Architect]] enhancement.
+**Motivation**: Prove traditional agriculture can surpass [Architect](Architect%20Ruins.md) enhancement.
 
-**Secret**: Has discovered techniques that actually do exceed some [[Architect Ruins|Architect]] farming, but fears the political implications of this knowledge.
+**Secret**: Has discovered techniques that actually do exceed some [Architect](Architect%20Ruins.md) farming, but fears the political implications of this knowledge.
 
 **[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs rare seeds from dangerous locations
 - Requires protection for crucial crop experiments
-- Seeks information about [[Walking Gardens of Yss'andra]] agricultural methods
+- Seeks information about [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) agricultural methods
 
 ### Captain Derrick Ironwall
 *Human, 38, Commander of [Stonehaven](Stonehaven.md) Defenses*
@@ -362,7 +362,7 @@ A military prodigy who has revolutionized Shunner defensive doctrine, Derrick pr
 
 **Personality**: Intensely focused, sees patterns others miss. Socially awkward but inspiring in crisis. Constantly war-gaming scenarios in his head.
 
-**Motivation**: Ensure no Shunner community falls to [[Architect Ruins|Architect]]-enhanced aggression.
+**Motivation**: Ensure no Shunner community falls to [Architect](Architect%20Ruins.md)-enhanced aggression.
 
 **Secret**: Has developed tactics that could catastrophically disable major ruins, but knows using them would make Shunners pariahs.
 
@@ -374,7 +374,7 @@ A military prodigy who has revolutionized Shunner defensive doctrine, Derrick pr
 ### Julia Brightweaver
 *Human, 28, Master Textile Artisan and Youth Advocate*
 
-Youngest master in [Stonehaven](Stonehaven.md)'s history, Julia bridges generational divides while creating textiles that attract buyers from across [[Valdris]].
+Youngest master in [Stonehaven](Stonehaven.md)'s history, Julia bridges generational divides while creating textiles that attract buyers from across [Valdris](Valdris.md).
 
 **Background**: Prodigy who achieved mastery at twenty-two. Incorporates traditional techniques with innovative designs that appeal to younger generations.
 
@@ -382,7 +382,7 @@ Youngest master in [Stonehaven](Stonehaven.md)'s history, Julia bridges generati
 
 **Motivation**: Prove Shunner culture can be both traditional and dynamic.
 
-**Secret**: Occasionally incorporates harmonic patterns learned from studying [[Architect Ruins|Architect]] designs, though never using their technology.
+**Secret**: Occasionally incorporates harmonic patterns learned from studying [Architect](Architect%20Ruins.md) designs, though never using their technology.
 
 **[Adventure Hooks](Adventure%20Hooks.md)**:
 - Organizes youth expeditions to safer ruins
@@ -392,7 +392,7 @@ Youngest master in [Stonehaven](Stonehaven.md)'s history, Julia bridges generati
 ### Elder Thomas Memoriam
 *Human, 78, Keeper of the Chronicle*
 
-Head librarian of the [[Grand Library of Stonehaven]] and greatest living historian of Shunner culture, Thomas preserves the past while documenting the present.
+Head librarian of the [Grand Library of Stonehaven](Grand%20Library%20of%20Stonehaven.md) and greatest living historian of Shunner culture, Thomas preserves the past while documenting the present.
 
 **Background**: Apprenticed to the previous Keeper at age ten. Has read every book in the library at least twice. Memory remains sharp despite advanced age.
 
@@ -400,7 +400,7 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 **Motivation**: Ensure Shunner wisdom survives regardless of political changes.
 
-**Secret**: Maintains hidden archive of [[Architect Ruins|Architect]] technical manuals, believing knowledge itself is neutral—only application creates dependence.
+**Secret**: Maintains hidden archive of [Architect](Architect%20Ruins.md) technical manuals, believing knowledge itself is neutral—only application creates dependence.
 
 **[Adventure Hooks](Adventure%20Hooks.md)**:
 - Needs rare books and scrolls retrieved
@@ -413,31 +413,31 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 **The Succession Crisis**: When a prominent master dies without clear apprentice successor, competing claims threaten to divide a republic. Players must investigate legitimacy, mediate disputes, and prevent outside exploitation of the division.
 
-**The Corruption Scanner**: A regional assembly member is suspected of secretly using [[Architect Ruins|Architect]] enhancement. Players must gather evidence while navigating political loyalties and determining if the accusation is truth or political manipulation.
+**The Corruption Scanner**: A regional assembly member is suspected of secretly using [Architect](Architect%20Ruins.md) enhancement. Players must gather evidence while navigating political loyalties and determining if the accusation is truth or political manipulation.
 
-**The Alliance Debate**: As Awakening pressures mount, some advocate for closer ties with moderate [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holders]] or [[Political Systems/Wanderer Confederations|Wanderers]]. Players participate in crucial negotiations while preventing extremists from sabotaging talks.
+**The Alliance Debate**: As Awakening pressures mount, some advocate for closer ties with moderate [Ruin-Holders](Political%20Systems/Ruin-Holder%20Kingdoms.md) or [Wanderers](Political%20Systems/Wanderer%20Confederations.md). Players participate in crucial negotiations while preventing extremists from sabotaging talks.
 
 ### Economic Adventures
 
-**The Master's Secret**: A renowned craftsman's impossibly fine work draws suspicion of [[Architect Ruins|Architect]] aid. Players investigate whether genius, forbidden assistance, or frame-job threatens to disgrace Shunner ideals.
+**The Master's Secret**: A renowned craftsman's impossibly fine work draws suspicion of [Architect](Architect%20Ruins.md) aid. Players investigate whether genius, forbidden assistance, or frame-job threatens to disgrace Shunner ideals.
 
-**The Trade War**: [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holder]] merchants flood markets with cheap [[Architect Ruins|Architect]]-produced goods. Players must find ways to preserve Shunner economic independence through innovation, marketing, or discrete sabotage.
+**The Trade War**: [Ruin-Holder](Ruin-Holder%20Kingdoms.md) merchants flood markets with cheap [Architect](Architect%20Ruins.md)-produced goods. Players must find ways to preserve Shunner economic independence through innovation, marketing, or discrete sabotage.
 
-**The Lost Technique**: Ancient manuals reference a traditional technique that could revolutionize Shunner production. Players race against [[Architect Ruins|Architect]]-seekers to find the knowledge first.
+**The Lost Technique**: Ancient manuals reference a traditional technique that could revolutionize Shunner production. Players race against [Architect](Architect%20Ruins.md)-seekers to find the knowledge first.
 
 ### Military Missions
 
-**The Weapon Test**: Intelligence suggests an [[Political Systems/Ruin-Holder Kingdoms|enemy kingdom]] prepares to test devastating [[Architect Ruins|Architect]] weapons. Players must infiltrate, gather intelligence, and potentially sabotage without starting a war.
+**The Weapon Test**: Intelligence suggests an [enemy kingdom](Ruin-Holder%20Kingdoms.md) prepares to test devastating [Architect](Architect%20Ruins.md) weapons. Players must infiltrate, gather intelligence, and potentially sabotage without starting a war.
 
 **The Fortress Design**: Players help design and construct defenses for a vulnerable Shunner community, balancing traditional techniques with necessary innovations while managing limited resources.
 
-**The Mercenary Question**: Experienced soldiers offer services to Shunner republics, but their [[Architect Ruins|Architect]]-enhanced equipment creates philosophical dilemmas. Players must evaluate, negotiate, and potentially reform these forces.
+**The Mercenary Question**: Experienced soldiers offer services to Shunner republics, but their [Architect](Architect%20Ruins.md)-enhanced equipment creates philosophical dilemmas. Players must evaluate, negotiate, and potentially reform these forces.
 
 ### Social Challenges
 
 **The Returning Child**: A prominent family's child returns from ruin-seeking, changed by experiences and carrying forbidden knowledge. Players mediate between family love, community law, and youth perspectives.
 
-**The Festival Sabotage**: Someone attempts to disrupt Harvest Home with [[Architect Ruins|Architect]] displays. Players must identify perpetrators, prevent panic, and address underlying tensions the incident reveals.
+**The Festival Sabotage**: Someone attempts to disrupt Harvest Home with [Architect](Architect%20Ruins.md) displays. Players must identify perpetrators, prevent panic, and address underlying tensions the incident reveals.
 
 **The Master's Heir**: An exceptional apprentice shows talent surpassing their master but radical ideas about tradition. Players navigate generational conflict while preventing either stagnation or destructive revolution.
 
@@ -455,7 +455,7 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 **The Craft Revolution**: Players help develop new techniques that could secure Shunner independence—or fundamentally change their society. Navigate innovation versus tradition across multiple adventures.
 
-**[The Quiet Lands](The%20Quiet%20Lands.md) Defense**: As surrounding powers grow stronger through [[Architect Ruins|Architect]] awakening, players coordinate republic defenses, diplomatic initiatives, and internal reforms to preserve independence.
+**[The Quiet Lands](The%20Quiet%20Lands.md) Defense**: As surrounding powers grow stronger through [Architect](Architect%20Ruins.md) awakening, players coordinate republic defenses, diplomatic initiatives, and internal reforms to preserve independence.
 
 ## Conflicts and Tensions
 
@@ -475,7 +475,7 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 **Versus Awakening Forces**: The ruins themselves threaten through:
 - Expanding influence zones affecting crops
-- [[Mechanical Envoys]] ignoring borders
+- [Mechanical Envoys](Mechanical%20Envoys.md) ignoring borders
 - Environmental changes from ruin activity
 - Temptation undermining cultural values
 
@@ -501,11 +501,11 @@ Head librarian of the [[Grand Library of Stonehaven]] and greatest living histor
 
 ## The Future of Self-Reliance
 
-As [[Valdris]] transforms through the [[Timeline#The Recent Awakening|Recent Awakening]], Ruin-Shunner Republics face existential questions. Can purely human achievement compete with reactivating miracles? Will their youth remain to carry forward traditions? Can democratic craft-based governance survive in an age of magical monarchs and wandering wonders?
+As [Valdris](Valdris.md) transforms through the [Recent Awakening](Timeline.md#The%20Recent%20Awakening), Ruin-Shunner Republics face existential questions. Can purely human achievement compete with reactivating miracles? Will their youth remain to carry forward traditions? Can democratic craft-based governance survive in an age of magical monarchs and wandering wonders?
 
-Yet the Shunners have survived every crisis through adaptation without abandonment of core principles. Their libraries preserve knowledge that may prove crucial when [[Architect Ruins|Architect]] technology inevitably fails again. Their communities offer refuge to those who flee ruin-related disasters. Their techniques, slowly perfected over centuries, achieve results that surprise even [[Architect Ruins|Architect]] enthusiasts.
+Yet the Shunners have survived every crisis through adaptation without abandonment of core principles. Their libraries preserve knowledge that may prove crucial when [Architect](Architect%20Ruins.md) technology inevitably fails again. Their communities offer refuge to those who flee ruin-related disasters. Their techniques, slowly perfected over centuries, achieve results that surprise even [Architect](Architect%20Ruins.md) enthusiasts.
 
-Perhaps most importantly, they offer [[Valdris]] a choice: a future built by human hands for human needs, comprehensible to those who inherit it. In a world increasingly dependent on incomprehensible forces, the Ruin-Shunner Republics stand as testament to an eternal truth—by their own hands, humans can indeed make their stand.
+Perhaps most importantly, they offer [Valdris](Valdris.md) a choice: a future built by human hands for human needs, comprehensible to those who inherit it. In a world increasingly dependent on incomprehensible forces, the Ruin-Shunner Republics stand as testament to an eternal truth—by their own hands, humans can indeed make their stand.
 
 ---
 
@@ -513,12 +513,12 @@ Perhaps most importantly, they offer [[Valdris]] a choice: a future built by hum
 — From the Charter of Common Craft
 
 ## Related Articles
-- [[Political Systems/Ruin-Holder Kingdoms]]
-- [[Political Systems/Wanderer Confederations]]
-- [[The Quiet Lands]]
-- [[Stonehaven]]
-- [[Grand Library of Stonehaven]]
-- [[Music/By Our Own Hands - Ruin-Shunner Hymn]]
-- [[Timeline#The Shunner Revolts|The Shunner Revolts]]
-- [[Master-Crafted Tools]]
-- [[Pure-Strain Crops]]
+- [Ruin-Holder Kingdoms](Political%20Systems/Ruin-Holder%20Kingdoms.md)
+- [Wanderer Confederations](Political%20Systems/Wanderer%20Confederations.md)
+- [The Quiet Lands](The%20Quiet%20Lands.md)
+- [Stonehaven](Stonehaven.md)
+- [Grand Library of Stonehaven](Grand%20Library%20of%20Stonehaven.md)
+- [By Our Own Hands - Ruin-Shunner Hymn](Music/By%20Our%20Own%20Hands%20-%20Ruin-Shunner%20Hymn.md)
+- [The Shunner Revolts](Timeline.md#The%20Shunner%20Revolts)
+- [Master-Crafted Tools](Master-Crafted%20Tools.md)
+- [Pure-Strain Crops](Pure-Strain%20Crops.md)

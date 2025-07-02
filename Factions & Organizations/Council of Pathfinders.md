@@ -7,13 +7,13 @@
 
 ## Overview
 
-The **Council of Pathfinders** serves as the closest thing to central government that the [[Political Systems/Wanderer Confederations]] possess—a loose but vital organization that coordinates trade routes, mediates disputes, and maintains the delicate balance of cooperation that allows dozens of independent groups to coexist across [[Valdris]]'s vast territories.
+The **Council of Pathfinders** serves as the closest thing to central government that the [Wanderer Confederations](Wanderer%20Confederations.md) possess—a loose but vital organization that coordinates trade routes, mediates disputes, and maintains the delicate balance of cooperation that allows dozens of independent groups to coexist across [Valdris](Valdris.md)'s vast territories.
 
 Unlike traditional governments with fixed capitals and rigid hierarchies, the Council operates as a mobile confederation, its members constantly traveling between scattered communities to gather information, negotiate agreements, and adapt to the ever-changing conditions that define wanderer life. They are explorers, diplomats, traders, and pragmatists rolled into one, united by the belief that freedom of movement is fundamental to human nature.
 
 Established 127 years ago during the Great Route War—when competing wanderer groups nearly destroyed each other fighting over access to profitable trade paths—the Council emerged as a necessity. Since then, it has evolved into a sophisticated network of coordination that spans the continent while somehow avoiding the bureaucratic ossification that has claimed other organizations.
 
-The [[Timeline|Recent Awakening]] has thrust the Council into unprecedented prominence as their expertise in navigation, adaptation, and negotiation becomes crucial for understanding how to safely interact with newly active [[Architect Ruins]] throughout wanderer territories.
+The [Recent Awakening](Timeline.md) has thrust the Council into unprecedented prominence as their expertise in navigation, adaptation, and negotiation becomes crucial for understanding how to safely interact with newly active [Architect Ruins](Architect%20Ruins.md) throughout wanderer territories.
 
 ---
 
@@ -33,15 +33,15 @@ The Council operates according to **The Seven Paths of Wisdom**:
 
 ### Worldview
 
-Council Pathfinders view [[Valdris]] as a vast network of interconnected possibilities rather than a collection of fixed territories. They see political boundaries as temporary inconveniences, geographic obstacles as challenges to overcome, and [[Architect Ruins]] as waypoints in an ever-evolving landscape of opportunity.
+Council Pathfinders view [Valdris](Valdris.md) as a vast network of interconnected possibilities rather than a collection of fixed territories. They see political boundaries as temporary inconveniences, geographic obstacles as challenges to overcome, and [Architect Ruins](Architect%20Ruins.md) as waypoints in an ever-evolving landscape of opportunity.
 
-The [[Timeline|Great Silence]] is understood not as a specific historical event but as the ultimate example of how rigid thinking leads to catastrophic failure. The [[Architects]] built magnificent cities and then vanished because they became too dependent on permanence. Wanderers avoid this trap by embracing change as the natural state of existence.
+The [Great Silence](Timeline.md) is understood not as a specific historical event but as the ultimate example of how rigid thinking leads to catastrophic failure. The [Architects](Architects.md) built magnificent cities and then vanished because they became too dependent on permanence. Wanderers avoid this trap by embracing change as the natural state of existence.
 
-The [[Timeline|Recent Awakening]] represents both opportunity and danger in wanderer thinking. New phenomena could reveal profitable routes and useful technologies, but they could also disrupt established patterns that have sustained wanderer life for centuries. The Council's challenge is to help wanderer communities adapt to these changes without losing the flexibility that defines their culture.
+The [Recent Awakening](Timeline.md) represents both opportunity and danger in wanderer thinking. New phenomena could reveal profitable routes and useful technologies, but they could also disrupt established patterns that have sustained wanderer life for centuries. The Council's challenge is to help wanderer communities adapt to these changes without losing the flexibility that defines their culture.
 
 ### The Route Philosophy
 
-Central to Council thinking is the concept that **routes are living entities** that grow, change, and sometimes die. A path that works today may be impassable tomorrow due to weather, politics, or newly awakened [[Architect Ruins]]. Success comes not from defending specific routes but from maintaining the ability to find new ones.
+Central to Council thinking is the concept that **routes are living entities** that grow, change, and sometimes die. A path that works today may be impassable tomorrow due to weather, politics, or newly awakened [Architect Ruins](Architect%20Ruins.md). Success comes not from defending specific routes but from maintaining the ability to find new ones.
 
 This philosophy extends beyond literal travel to all aspects of wanderer life:
 - **Economic Routes**: Trade relationships that adapt to changing market conditions
@@ -63,7 +63,7 @@ The Council deliberately avoids rigid organizational charts, instead operating t
 
 **Trade Voices**: Specialists in commercial negotiation who facilitate agreements between wanderer groups and settled communities. Usually former merchants with extensive experience in cross-cultural commerce.
 
-**Danger Scouts**: Advanced scouts who specialize in evaluating new risks and opportunities, particularly those related to [[Architect Ruins]] and awakening phenomena.
+**Danger Scouts**: Advanced scouts who specialize in evaluating new risks and opportunities, particularly those related to [Architect Ruins](Architect%20Ruins.md) and awakening phenomena.
 
 **Memory Keepers**: Oral historians who maintain and share the accumulated knowledge of wanderer culture, routes, and agreements.
 
@@ -72,22 +72,22 @@ The Council deliberately avoids rigid organizational charts, instead operating t
 **First Walker Kess Brightroad** (Human, 52 years old)
 *Primary Speaker for Northern Routes*
 
-Current senior coordinator, elected every three years by Council consensus. Known for her pragmatic approach to balancing traditional wanderer values with modern realities. Has successfully negotiated safe passage agreements with [[Political Systems/Ruin-Holder Kingdoms]] while maintaining wanderer independence.
+Current senior coordinator, elected every three years by Council consensus. Known for her pragmatic approach to balancing traditional wanderer values with modern realities. Has successfully negotiated safe passage agreements with [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) while maintaining wanderer independence.
 
 **Trail Speaker Marcus Windchaser** (Half-Elf, 78 years old)
 *Coordinator for Southern and Western Routes*
 
-Longest-serving Council member, specializes in relationships with [[Political Systems/Ruin-Shunner Republics]]. His expertise in traditional crafts and non-technological solutions makes him valuable for negotiating with groups suspicious of [[Architect Ruins|Architect]] technology.
+Longest-serving Council member, specializes in relationships with [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md). His expertise in traditional crafts and non-technological solutions makes him valuable for negotiating with groups suspicious of [Architect](Architect%20Ruins.md) technology.
 
 **Storm Walker Elena Pathweaver** (Human, 34 years old)
 *Eastern Routes and Emergency Response*
 
-Youngest Walking Speaker, known for innovative solutions to navigation challenges. Has developed new techniques for safely traversing areas affected by [[Timeline|Recent Awakening]] phenomena.
+Youngest Walking Speaker, known for innovative solutions to navigation challenges. Has developed new techniques for safely traversing areas affected by [Recent Awakening](Timeline.md) phenomena.
 
 **Deep Scout Theron Mistwalker** (Human, 67 years old)
 *Specialist in Dangerous Territories*
 
-Expert in exploring regions too hazardous for regular travel. His reports on [[Architect Ruins]] behavior have proven crucial for Council safety guidelines.
+Expert in exploring regions too hazardous for regular travel. His reports on [Architect Ruins](Architect%20Ruins.md) behavior have proven crucial for Council safety guidelines.
 
 **Trade Voice Nira Goldtrack** (Dwarf, 89 years old)
 *Commercial Relations Coordinator*
@@ -96,9 +96,9 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 ### Regional Councils
 
-**Northern Assembly**: Coordinates activities in regions dominated by [[Political Systems/Ruin-Holder Kingdoms]]
+**Northern Assembly**: Coordinates activities in regions dominated by [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
 
-**Western Circle**: Manages relationships with [[Political Systems/Ruin-Shunner Republics]]
+**Western Circle**: Manages relationships with [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)
 
 **Eastern Conference**: Oversees activities in frontier territories and newly explored regions
 
@@ -127,7 +127,7 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 **The Great Caravan**: Council's mobile headquarters, a massive wagon train that travels a regular circuit visiting all major wanderer communities. Includes:
 - Administrative wagons for record keeping and coordination
 - Workshop wagons for equipment maintenance and repair
-- Communication wagons equipped with [[Architect Ruins|Architect]] messaging devices
+- Communication wagons equipped with [Architect](Architect%20Ruins.md) messaging devices
 - Supply wagons carrying trade goods and emergency materials
 
 **Relay Stations**: Permanent but lightly staffed outposts at critical route junctions, providing:
@@ -136,7 +136,7 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 - Route condition updates
 - Secure meeting spaces for negotiations
 
-**Signal Networks**: Communication systems using mirrors, flags, and recently [[Architect Ruins|Architect]] harmonic devices to coordinate across vast distances
+**Signal Networks**: Communication systems using mirrors, flags, and recently [Architect](Architect%20Ruins.md) harmonic devices to coordinate across vast distances
 
 ### Economic Resources
 
@@ -152,9 +152,9 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 ### Knowledge Assets
 
-**The Living Maps**: Continuously updated geographical and political information about all major routes across [[Valdris]]
+**The Living Maps**: Continuously updated geographical and political information about all major routes across [Valdris](Valdris.md)
 
-**Danger Archives**: Comprehensive records of hazards, including detailed documentation of [[Architect Ruins]] behavior patterns
+**Danger Archives**: Comprehensive records of hazards, including detailed documentation of [Architect Ruins](Architect%20Ruins.md) behavior patterns
 
 **Trade Records**: Historical data on market conditions, seasonal variations, and economic opportunities
 
@@ -170,7 +170,7 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 **Path Clearance**: Regular expeditions to remove obstacles and maintain safe passage
 
-**Hazard Assessment**: Ongoing evaluation of dangers including weather, politics, and [[Architect Ruins]] activity
+**Hazard Assessment**: Ongoing evaluation of dangers including weather, politics, and [Architect Ruins](Architect%20Ruins.md) activity
 
 **Bridge Building**: Both literal construction projects and diplomatic relationship maintenance
 
@@ -204,7 +204,7 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 ### Recent Awakening Response
 
-**Phenomenon Documentation**: Systematic recording of new [[Architect Ruins]] behaviors
+**Phenomenon Documentation**: Systematic recording of new [Architect Ruins](Architect%20Ruins.md) behaviors
 
 **Safety Protocol Development**: Creating guidelines for safely interacting with awakened ruins
 
@@ -222,7 +222,7 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 **The Golden Circuit**: Major trade loop connecting all significant settlements, maintained as the backbone of continental commerce
 
-**The Ruin Roads**: Specialized routes that safely navigate around or through [[Architect Ruins]] territories
+**The Ruin Roads**: Specialized routes that safely navigate around or through [Architect Ruins](Architect%20Ruins.md) territories
 
 **The Seasonal Paths**: Routes that change based on weather patterns, maintained for specific times of year
 
@@ -260,27 +260,27 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 ### Political System Relations
 
-**[[Political Systems/Ruin-Holder Kingdoms]]**: Complex but generally positive relationships focused on mutual economic benefit. Kingdoms value wanderer trade but sometimes attempt to control routes through their territories.
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**: Complex but generally positive relationships focused on mutual economic benefit. Kingdoms value wanderer trade but sometimes attempt to control routes through their territories.
 
-**[[Political Systems/Ruin-Shunner Republics]]**: Respectful relationships built on shared values of independence and practical problem-solving. Republics appreciate wanderer commitment to avoiding [[Architect Ruins|Architect]] dependency.
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)**: Respectful relationships built on shared values of independence and practical problem-solving. Republics appreciate wanderer commitment to avoiding [Architect](Architect%20Ruins.md) dependency.
 
-**[[Political Systems/Wanderer Confederations]]**: Serve as the closest thing to government that confederation communities accept while maintaining their independence.
+**[Wanderer Confederations](Wanderer%20Confederations.md)**: Serve as the closest thing to government that confederation communities accept while maintaining their independence.
 
 ### Organizational Partnerships
 
-**[[Gear-Wright Guilds]]**: Strong commercial relationships, with guilds providing technical services in exchange for access to rare materials and new markets.
+**[Gear-Wright Guilds](Gear-Wright%20Guilds.md)**: Strong commercial relationships, with guilds providing technical services in exchange for access to rare materials and new markets.
 
-**[[Academy of Dual Mysteries]]**: Information sharing agreements that benefit both academic research and practical navigation needs.
+**[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)**: Information sharing agreements that benefit both academic research and practical navigation needs.
 
-**Independent Settlements**: Vital partnerships with cities like [[Grimhaven]] and [[Millbrook]] that serve as crucial trade hubs.
+**Independent Settlements**: Vital partnerships with cities like [Grimhaven](Grimhaven.md) and [Millbrook](Millbrook.md) that serve as crucial trade hubs.
 
-**Merchant Alliances**: Coordination with various trading organizations across [[Valdris]].
+**Merchant Alliances**: Coordination with various trading organizations across [Valdris](Valdris.md).
 
 ### Cautious Relationships
 
-**[[Tinker-Priests]]**: Respectful but philosophically different approach to [[Architect Ruins]]. Council appreciates Tinker-Priest expertise but maintains practical rather than religious perspective.
+**[Tinker-Priests](Tinker-Priests.md)**: Respectful but philosophically different approach to [Architect Ruins](Architect%20Ruins.md). Council appreciates Tinker-Priest expertise but maintains practical rather than religious perspective.
 
-**[[Silence-Keepers]]**: Limited cooperation on safety issues while disagreeing about appropriate interaction with [[Architect Ruins]].
+**[Silence-Keepers](Silence-Keepers.md)**: Limited cooperation on safety issues while disagreeing about appropriate interaction with [Architect Ruins](Architect%20Ruins.md).
 
 **Regional Authorities**: Ongoing negotiations with local powers who attempt to control trade routes through their territories.
 
@@ -290,7 +290,7 @@ Primary negotiator for major trade agreements, known for her ability to find mut
 
 **Commercial Pressure**: Tension between maintaining wanderer values and maximizing trade profits
 
-**Generational Divides**: Younger wanderers sometimes push for more aggressive integration of [[Architect Ruins|Architect]] technology
+**Generational Divides**: Younger wanderers sometimes push for more aggressive integration of [Architect](Architect%20Ruins.md) technology
 
 **Resource Competition**: Managing conflicts between groups seeking access to the same routes or markets
 
@@ -307,25 +307,25 @@ Elected leader known for her pragmatic approach and diplomatic skills. Started a
 
 **Public Role**: Primary representative of wanderer interests in external negotiations
 **Leadership Style**: Builds consensus through patient consultation and practical compromise
-**Secret Concern**: Believes the [[Timeline|Recent Awakening]] may force wanderers to abandon their traditional mobility
+**Secret Concern**: Believes the [Recent Awakening](Timeline.md) may force wanderers to abandon their traditional mobility
 
 **Trail Speaker Marcus Windchaser**
 *Half-Elf, 78 years old, Southern and Western Routes*
 
-Most experienced Council member, with deep knowledge of traditional wanderer customs and extensive network of personal relationships across [[Valdris]].
+Most experienced Council member, with deep knowledge of traditional wanderer customs and extensive network of personal relationships across [Valdris](Valdris.md).
 
 **Public Role**: Maintains relationships with traditional communities suspicious of change
 **Leadership Style**: Relies on personal relationships and historical precedent
-**Hidden Knowledge**: Possesses detailed oral histories that could rewrite understanding of pre-[[Timeline|Great Silence]] events
+**Hidden Knowledge**: Possesses detailed oral histories that could rewrite understanding of pre-[Great Silence](Timeline.md) events
 
 **Storm Walker Elena Pathweaver**
 *Human, 34 years old, Eastern Routes and Emergency Response*
 
-Rising star known for innovative solutions to navigation challenges. Has successfully adapted traditional techniques to handle [[Timeline|Recent Awakening]] phenomena.
+Rising star known for innovative solutions to navigation challenges. Has successfully adapted traditional techniques to handle [Recent Awakening](Timeline.md) phenomena.
 
 **Public Role**: Develops new safety protocols and route adaptations
 **Leadership Style**: Experiments with new approaches while respecting traditional wisdom
-**Secret Project**: Working on integration of [[Architect Ruins|Architect]] navigation devices with traditional pathfinding techniques
+**Secret Project**: Working on integration of [Architect](Architect%20Ruins.md) navigation devices with traditional pathfinding techniques
 
 ### Field Specialists
 
@@ -360,7 +360,7 @@ Rising reputation for resolving complex disputes between competing groups.
 
 ## Recent Awakening Impact
 
-The [[Timeline|Recent Awakening]] has fundamentally altered the landscape that wanderers navigate, creating both unprecedented opportunities and serious challenges:
+The [Recent Awakening](Timeline.md) has fundamentally altered the landscape that wanderers navigate, creating both unprecedented opportunities and serious challenges:
 
 ### New Opportunities
 
@@ -396,7 +396,7 @@ The [[Timeline|Recent Awakening]] has fundamentally altered the landscape that w
 
 **Mobility Sustainability**: Whether traditional wanderer lifestyle can adapt to increasingly complex navigation requirements
 
-**Technological Integration**: How much [[Architect Ruins|Architect]] technology to adopt without compromising wanderer independence
+**Technological Integration**: How much [Architect](Architect%20Ruins.md) technology to adopt without compromising wanderer independence
 
 **Political Evolution**: Whether external pressures will force Council to become more government-like
 
@@ -408,7 +408,7 @@ The [[Timeline|Recent Awakening]] has fundamentally altered the landscape that w
 
 ### Route Missions
 
-**Path Scouting**: Exploring new routes through territories affected by [[Timeline|Recent Awakening]]
+**Path Scouting**: Exploring new routes through territories affected by [Recent Awakening](Timeline.md)
 
 **Emergency Rescue**: Locating and extracting wanderer groups lost in awakening-affected areas
 
@@ -444,7 +444,7 @@ The [[Timeline|Recent Awakening]] has fundamentally altered the landscape that w
 
 **Safety Assessment**: Evaluating whether newly active ruins pose ongoing threats to trade routes
 
-**Technology Integration**: Testing whether awakened [[Architect Ruins|Architect]] systems can safely enhance navigation
+**Technology Integration**: Testing whether awakened [Architect](Architect%20Ruins.md) systems can safely enhance navigation
 
 ### Long-term Campaigns
 
@@ -462,9 +462,9 @@ The [[Timeline|Recent Awakening]] has fundamentally altered the landscape that w
 
 The Council of Pathfinders stands as proof that effective governance can exist without rigid hierarchies or fixed territories. In a world where change is the only constant, they have created an organization that thrives on adaptation while maintaining the core values that define wanderer culture.
 
-As the [[Timeline|Recent Awakening]] reshapes the physical and political landscape of [[Valdris]], the Council faces its greatest test: whether their philosophy of adaptive cooperation can handle challenges that exceed anything in wanderer experience. The routes they choose to follow in the coming years will determine not only the survival of wanderer culture but potentially the fate of continental trade and cooperation.
+As the [Recent Awakening](Timeline.md) reshapes the physical and political landscape of [Valdris](Valdris.md), the Council faces its greatest test: whether their philosophy of adaptive cooperation can handle challenges that exceed anything in wanderer experience. The routes they choose to follow in the coming years will determine not only the survival of wanderer culture but potentially the fate of continental trade and cooperation.
 
-In meeting halls and along dusty trails, Council members continue their careful work—one negotiation at a time, one route at a time, one relationship at a time—building bridges between communities that might otherwise drift into isolation, maintaining the connections that allow civilization to function across the vast expanse of [[Valdris]].
+In meeting halls and along dusty trails, Council members continue their careful work—one negotiation at a time, one route at a time, one relationship at a time—building bridges between communities that might otherwise drift into isolation, maintaining the connections that allow civilization to function across the vast expanse of [Valdris](Valdris.md).
 
 ---
 
@@ -473,4 +473,4 @@ In meeting halls and along dusty trails, Council members continue their careful 
 
 ---
 
-*See also: [[Political Systems/Wanderer Confederations]], [[Gear-Wright Guilds]], [[Academy of Dual Mysteries]], [[Grimhaven]], [[Millbrook]], [[Timeline|Recent Awakening]], [[Architect Ruins]], [[Lore/Dual Economy]]*
+*See also: [Wanderer Confederations](Wanderer%20Confederations.md), [Gear-Wright Guilds](Gear-Wright%20Guilds.md), [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md), [Grimhaven](Grimhaven.md), [Millbrook](Millbrook.md), [Recent Awakening](Timeline.md), [Architect Ruins](Architect%20Ruins.md), [Dual Economy](Dual%20Economy.md)*

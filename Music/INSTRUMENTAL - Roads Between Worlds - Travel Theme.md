@@ -62,10 +62,10 @@ Journey to the Horizon - Heroic Travel
 ---
 
 ## Campaign Usage
-- Perfect for [[Wanderer Confederations]] scenes
+- Perfect for [Wanderer Confederations](Wanderer%20Confederations.md) scenes
 - Travel between settlements and ruins
 - Adventure journey montages
-- Exploring [[World Map]] regions
+- Exploring [World Map](World%20Map.md) regions
 - Background for caravan sequences
 - Character themes for travelers and merchants
-- Links to [[Political Systems/Wanderer Confederations]]
+- Links to [Wanderer Confederations](Wanderer%20Confederations.md)

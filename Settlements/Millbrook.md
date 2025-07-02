@@ -4,25 +4,25 @@
 
 ## Overview
 
-Nestled in the fertile valleys of the [[Quiet Lands]], Millbrook represents the agricultural heart of traditional [[Valdris]]. This farming community of 1,200 souls has thrived for generations under the watchful protection of the **Harvest Guardian**, an [[Architect Ruins|Architect]] clockwork sentinel that has stood vigil in the village center for over eight centuries.
+Nestled in the fertile valleys of the [Quiet Lands](../Regions/Quiet%20Lands.md), Millbrook represents the agricultural heart of traditional [Valdris](../Welcome.md). This farming community of 1,200 souls has thrived for generations under the watchful protection of the **Harvest Guardian**, an [Architect](../Architect%20Ruins/Architect%20Ruins.md) clockwork sentinel that has stood vigil in the village center for over eight centuries.
 
-Unlike the cosmopolitan bustle of [[Grimhaven]] or the political complexities surrounding major ruins, Millbrook embodies the practical wisdom of communities that have learned to live harmoniously with [[Architect Ruins|Architect]] technology. Here, ancient clockwork serves the timeless rhythms of planting and harvest, creating a unique blend of pastoral tradition and mysterious innovation.
+Unlike the cosmopolitan bustle of [Grimhaven](Grimhaven.md) or the political complexities surrounding major ruins, Millbrook embodies the practical wisdom of communities that have learned to live harmoniously with [Architect](../Architect%20Ruins/Architect%20Ruins.md) technology. Here, ancient clockwork serves the timeless rhythms of planting and harvest, creating a unique blend of pastoral tradition and mysterious innovation.
 
 ## Physical Description
 
 ### The Village Common
 
-Millbrook's heart is its circular common, dominated by the **Harvest Guardian**—a 15-foot tall [[Architect Ruins|Architect]] construct of burnished bronze and copper. The Guardian stands on a raised stone platform, its six arms positioned in eternal blessing over the fields. Intricate gears are visible through crystal panels in its chest, slowly turning in patterns that correspond to seasonal changes.
+Millbrook's heart is its circular common, dominated by the **Harvest Guardian**—a 15-foot tall [Architect](../Architect%20Ruins/Architect%20Ruins.md) construct of burnished bronze and copper. The Guardian stands on a raised stone platform, its six arms positioned in eternal blessing over the fields. Intricate gears are visible through crystal panels in its chest, slowly turning in patterns that correspond to seasonal changes.
 
-Surrounding the common are the village's essential buildings: the **Council Hall** (built incorporating stones from an [[Architect Ruins|Architect]] foundation), the **Grain House** (where the community stores its collective harvest), and the **Festival Green** (an open space for seasonal celebrations).
+Surrounding the common are the village's essential buildings: the **Council Hall** (built incorporating stones from an [Architect](../Architect%20Ruins/Architect%20Ruins.md) foundation), the **Grain House** (where the community stores its collective harvest), and the **Festival Green** (an open space for seasonal celebrations).
 
 ### The Agricultural Districts
 
 The village spreads outward from the common in carefully planned sections:
 
-**The Family Quarters**: Traditional stone and timber homes, each with substantial gardens and small livestock pens. Many houses incorporate [[Architect Ruins|Architect]] elements—a never-rusting weathervane, a door that perfectly regulates temperature, or windows that never fog or crack.
+**The Family Quarters**: Traditional stone and timber homes, each with substantial gardens and small livestock pens. Many houses incorporate [Architect](../Architect%20Ruins/Architect%20Ruins.md) elements—a never-rusting weathervane, a door that perfectly regulates temperature, or windows that never fog or crack.
 
-**The Millworks**: The actual mill that gives the village its name sits beside Clearwater Brook. The mill wheel is enhanced with [[Architect Ruins|Architect]] gearing that allows it to operate even when water levels are low, and its grinding stones produce flour of exceptional quality.
+**The Millworks**: The actual mill that gives the village its name sits beside Clearwater Brook. The mill wheel is enhanced with [Architect](../Architect%20Ruins/Architect%20Ruins.md) gearing that allows it to operate even when water levels are low, and its grinding stones produce flour of exceptional quality.
 
 **The Outer Fields**: Concentric rings of cropland extend nearly two miles from the village center. The **Harvest Guardian**'s influence apparently extends this far, as crops within this radius show remarkable resistance to disease and weather damage.
 
@@ -61,7 +61,7 @@ Millbrook's farmers have developed sophisticated agricultural techniques that bl
 
 ### Agricultural Excellence
 
-Millbrook produces some of the finest crops in [[Valdris]], thanks to the **Harvest Guardian**'s protective influence:
+Millbrook produces some of the finest crops in [Valdris](../Welcome.md), thanks to the **Harvest Guardian**'s protective influence:
 
 - **Millbrook Grain**: Wheat and barley that's notably resistant to disease and produces exceptional yields
 - **Guardian Vegetables**: Root vegetables that keep fresh far longer than normal varieties
@@ -72,10 +72,10 @@ Millbrook produces some of the finest crops in [[Valdris]], thanks to the **Harv
 
 While primarily self-sufficient, Millbrook trades agricultural surplus for manufactured goods and materials:
 
-- Regular trade with [[Grimhaven]] (food for tools and exotic goods)
-- Exchanges with [[Political Systems/Ruin-Shunner Republics]] communities (mutual agricultural support)
-- Limited trade with [[Political Systems/Ruin-Holder Kingdoms]] (food for protection agreements)
-- Careful distance from [[Political Systems/Wanderer Confederations]] (philosophical differences about settled vs. nomadic life)
+- Regular trade with [Grimhaven](Grimhaven.md) (food for tools and exotic goods)
+- Exchanges with [Ruin-Shunner Republics](../Political%20Systems/Ruin-Shunner%20Republics.md) communities (mutual agricultural support)
+- Limited trade with [Ruin-Holder Kingdoms](../Political%20Systems/Ruin-Holder%20Kingdoms.md) (food for protection agreements)
+- Careful distance from [Wanderer Confederations](../Political%20Systems/Wanderer%20Confederations.md) (philosophical differences about settled vs. nomadic life)
 
 ### The Guardian's Gift
 
@@ -93,7 +93,7 @@ The village's ancient protector stands 15 feet tall, with six articulated arms t
 - Crystal panels change color to reflect seasonal energy patterns
 - Has never harmed a villager, but strangers report feeling "watched"
 
-**Recent Changes**: Since the [[Timeline|Recent Awakening]], the Guardian has exhibited new behaviors:
+**Recent Changes**: Since the [Recent Awakening](../Timeline.md), the Guardian has exhibited new behaviors:
 - Occasional humming sounds that match frequencies from distant ruins
 - New gear patterns not seen in living memory
 - Arms pointing toward specific locations beyond the village
@@ -101,11 +101,11 @@ The village's ancient protector stands 15 feet tall, with six articulated arms t
 
 ### The Millworks
 
-Millbrook's grain mill combines traditional stone construction with [[Architect Ruins|Architect]] enhancements. The mill wheel operates with impossible efficiency, grinding grain to exceptionally fine flour. The miller's family has maintained the mill for six generations, passing down secret techniques for harmonizing with its [[Architect Ruins|Architect]] components.
+Millbrook's grain mill combines traditional stone construction with [Architect](../Architect%20Ruins/Architect%20Ruins.md) enhancements. The mill wheel operates with impossible efficiency, grinding grain to exceptionally fine flour. The miller's family has maintained the mill for six generations, passing down secret techniques for harmonizing with its [Architect](../Architect%20Ruins/Architect%20Ruins.md) components.
 
 ### The Council Hall
 
-Built on the foundation of a small [[Architect Ruins|Architect]] structure, the Council Hall incorporates stones that seem to naturally amplify speakers' voices and create perfect acoustics for group discussions. The building also maintains a comfortable temperature year-round without any visible heating system.
+Built on the foundation of a small [Architect](../Architect%20Ruins/Architect%20Ruins.md) structure, the Council Hall incorporates stones that seem to naturally amplify speakers' voices and create perfect acoustics for group discussions. The building also maintains a comfortable temperature year-round without any visible heating system.
 
 ### Clearwater Brook
 
@@ -113,14 +113,14 @@ The stream that powers the mill flows with unusually pure water that never freez
 
 ### The Family Farms
 
-Each of Millbrook's 300 families maintains a farm plot, with holdings ranging from small gardens to substantial operations. Many properties include [[Architect Ruins|Architect]] enhancements: weather-resistant storage buildings, never-failing wells, or irrigation systems that perfectly regulate water flow.
+Each of Millbrook's 300 families maintains a farm plot, with holdings ranging from small gardens to substantial operations. Many properties include [Architect](../Architect%20Ruins/Architect%20Ruins.md) enhancements: weather-resistant storage buildings, never-failing wells, or irrigation systems that perfectly regulate water flow.
 
 ## Notable NPCs
 
 ### Grandmother Elara Millwright
 *Human, 78, Village Elder and Former Council Speaker*
 
-The village's most respected leader, Elara has served on the Council of Seasons for over 30 years and understands the **Harvest Guardian**'s patterns better than anyone living. She maintains the oral traditions about the Guardian's history and interprets its new behaviors since the [[Timeline|Recent Awakening]].
+The village's most respected leader, Elara has served on the Council of Seasons for over 30 years and understands the **Harvest Guardian**'s patterns better than anyone living. She maintains the oral traditions about the Guardian's history and interprets its new behaviors since the [Recent Awakening](../Timeline.md).
 
 **Motivation**: Preserve Millbrook's way of life while adapting to the Guardian's changing nature.
 **Secret**: She possesses a journal written by the Guardian's first caretakers, containing warnings about what might happen if it ever awakens fully.
@@ -136,7 +136,7 @@ A practical leader who balances tradition with innovation, Marcus oversees the v
 ### Sister Cornelia of the Quiet Order
 *Human, 34, Village Healer and Guardian Tender*
 
-A member of a religious order that venerates peaceful [[Architect Ruins|Architect]] technology, Cornelia serves as both the village healer and the Guardian's primary caretaker. She maintains the rituals of cleaning and blessing that keep the construct functioning optimally.
+A member of a religious order that venerates peaceful [Architect](../Architect%20Ruins/Architect%20Ruins.md) technology, Cornelia serves as both the village healer and the Guardian's primary caretaker. She maintains the rituals of cleaning and blessing that keep the construct functioning optimally.
 
 **Motivation**: Understand the spiritual connection between the Guardian and the community it protects.
 **Secret**: She's been having visions that seem to come from the Guardian, showing her images of threats approaching the village.
@@ -144,10 +144,10 @@ A member of a religious order that venerates peaceful [[Architect Ruins|Architec
 ### Timothy Millwright
 *Human, 45, Master Miller and Elara's Son*
 
-Inheritor of the family mill operation, Timothy has spent his life learning to work with the [[Architect Ruins|Architect]] enhancements in the millworks. He's expanded the mill's capabilities and now provides services to surrounding communities while maintaining the sacred traditions.
+Inheritor of the family mill operation, Timothy has spent his life learning to work with the [Architect](../Architect%20Ruins/Architect%20Ruins.md) enhancements in the millworks. He's expanded the mill's capabilities and now provides services to surrounding communities while maintaining the sacred traditions.
 
 **Motivation**: Honor his family's legacy while exploring the mill's full potential.
-**Secret**: The mill contains hidden chambers with [[Architect Ruins|Architect]] machinery whose purpose he doesn't understand.
+**Secret**: The mill contains hidden chambers with [Architect](../Architect%20Ruins/Architect%20Ruins.md) machinery whose purpose he doesn't understand.
 
 ### Young Davina Brightfield
 *Human, 16, Apprentice Farmer and Guardian Student*
@@ -159,11 +159,11 @@ The most promising of the village's young farmers, Davina shows an unusual intui
 
 ## Recent Awakening Impact
 
-The [[Timeline|Recent Awakening]] has brought significant changes to Millbrook:
+The [Recent Awakening](../Timeline.md) has brought significant changes to Millbrook:
 
 ### Guardian Changes
 - New gear patterns and behaviors not seen in recorded history
-- Humming sounds that harmonize with other ruins across [[Valdris]]
+- Humming sounds that harmonize with other ruins across [Valdris](../Welcome.md)
 - Arms pointing toward specific locations, possibly indicating new ruins or threats
 - Crystal panels displaying unknown symbols and configurations
 - Increased responsiveness to human presence and speech
@@ -187,7 +187,7 @@ The village has responded to these changes with characteristic practicality:
 
 ### Traditional Neutrality
 
-Millbrook has maintained political neutrality throughout the conflicts between [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], and [[Political Systems/Ruin-Shunner Republics]]. The village's practical approach focuses on agricultural productivity rather than ideological conflicts about [[Architect Ruins|Architect]] technology.
+Millbrook has maintained political neutrality throughout the conflicts between [Ruin-Holder Kingdoms](../Political%20Systems/Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](../Political%20Systems/Wanderer%20Confederations.md), and [Ruin-Shunner Republics](../Political%20Systems/Ruin-Shunner%20Republics.md). The village's practical approach focuses on agricultural productivity rather than ideological conflicts about [Architect](../Architect%20Ruins/Architect%20Ruins.md) technology.
 
 ### The Guardian Protection Doctrine
 
@@ -199,7 +199,7 @@ Recent changes in the Guardian have made village leaders concerned about outside
 - Organized the village militia for the first time in decades
 - Established early warning networks with neighboring communities
 - Created emergency plans for evacuating the Guardian if necessary
-- Strengthened diplomatic ties with [[Political Systems/Ruin-Shunner Republics]] as ideological allies
+- Strengthened diplomatic ties with [Ruin-Shunner Republics](../Political%20Systems/Ruin-Shunner%20Republics.md) as ideological allies
 
 ## Adventure Opportunities
 
@@ -229,15 +229,15 @@ Recent changes in the Guardian have made village leaders concerned about outside
 
 ## Connections to the Wider World
 
-While Millbrook maintains its focus on agricultural excellence and community harmony, the [[Timeline|Recent Awakening]] has begun drawing it into wider events:
+While Millbrook maintains its focus on agricultural excellence and community harmony, the [Recent Awakening](../Timeline.md) has begun drawing it into wider events:
 
-- The Guardian's new behaviors may be connected to the awakening of [[Thymeris the Golden]], [[Singing Spires of Kelathon]], and [[Walking Gardens of Yss'andra]]
+- The Guardian's new behaviors may be connected to the awakening of [Thymeris the Golden](../Architect%20Ruins/Thymeris%20the%20Golden.md), [Singing Spires of Kelathon](../Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md), and [Walking Gardens of Yss'andra](../Architect%20Ruins/Walking%20Gardens%20of%20Yss'andra.md)
 - Agricultural surpluses make the village valuable to all political systems during uncertain times
-- The Guardian's peaceful nature offers insights into beneficial [[Architect Ruins|Architect]] technology applications
-- The village's practical wisdom about living with [[Architect Ruins|Architect]] constructs may become crucial as more ruins awaken
+- The Guardian's peaceful nature offers insights into beneficial [Architect](../Architect%20Ruins/Architect%20Ruins.md) technology applications
+- The village's practical wisdom about living with [Architect](../Architect%20Ruins/Architect%20Ruins.md) constructs may become crucial as more ruins awaken
 
 The community's challenge lies in maintaining their way of life while adapting to an increasingly complex and dangerous world where ancient powers are stirring once again.
 
 ---
 
-*For additional information, see [[World Map]], [[Political Systems/Ruin-Shunner Republics]], [[Architect Ruins]], and [[Music/Gears and Harvest - Work Song Theme]]*
+*For additional information, see [World Map](../World%20Map.md), [Ruin-Shunner Republics](../Political%20Systems/Ruin-Shunner%20Republics.md), [Architect Ruins](../Architect%20Ruins/Architect%20Ruins.md), and [Gears and Harvest - Work Song Theme](../Music/Gears%20and%20Harvest%20-%20Work%20Song%20Theme.md)*

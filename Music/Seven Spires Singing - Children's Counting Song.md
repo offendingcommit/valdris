@@ -76,9 +76,9 @@ A delicate children's lullaby featuring crystalline music box melodies and innoc
 ---
 
 ## Campaign Integration
-- Children's rhyme about [[Singing Spires of Kelathon]]
+- Children's rhyme about [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
 - Teaches counting while warning about the ruins
-- Sung by children across [[The Singing Hills]]
+- Sung by children across [The Singing Hills](The%20Singing%20Hills.md)
 - Contains folk wisdom about the dangers
 - References the hypnotic effect of the spires
-- Links to [[Architect Ruins/Singing Spires of Kelathon]]
+- Links to [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)

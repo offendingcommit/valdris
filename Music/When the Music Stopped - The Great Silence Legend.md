@@ -106,8 +106,8 @@ Echoes of the Architects - When the Music Stopped
 ---
 
 ## Campaign Integration
-- Folk legend about [[The Great Silence]]
-- References all major ruins: [[Walking Gardens of Yss'andra]], [[Singing Spires of Kelathon]], [[Thymeris the Golden]]
-- Popular among [[Silence-Keepers]]
+- Folk legend about [The Great Silence](The%20Great%20Silence.md)
+- References all major ruins: [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), [Thymeris the Golden](Thymeris%20the%20Golden.md)
+- Popular among [Silence-Keepers](Silence-Keepers.md)
 - Often sung during historical commemorations
-- Links to [[Timeline]] and [[Lore/The Great Silence]]
+- Links to [Timeline](Timeline.md) and [The Great Silence](The%20Great%20Silence.md)

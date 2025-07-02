@@ -7,21 +7,21 @@
 
 ## Overview and Founding Philosophy
 
-The Tinker-Priests stand as [[Valdris]]'s most influential techno-religious order, bridging the gap between spiritual devotion and mechanical understanding. Neither purely scientists nor simple clergy, they represent a unique fusion of faith and engineering that emerged in the decades following the [[Timeline|Great Silence]].
+The Tinker-Priests stand as [Valdris](Valdris.md)'s most influential techno-religious order, bridging the gap between spiritual devotion and mechanical understanding. Neither purely scientists nor simple clergy, they represent a unique fusion of faith and engineering that emerged in the decades following the [Great Silence](Timeline.md).
 
-Founded in 47 AS by a coalition of scholars, craftsmen, and mystics, the order arose from a simple yet profound revelation: the [[Architect Ruins]] were not merely advanced technology but sacred texts written in brass and crystal. Where others saw abandoned machinery, the first Tinker-Priests perceived divine scripture awaiting translation.
+Founded in 47 AS by a coalition of scholars, craftsmen, and mystics, the order arose from a simple yet profound revelation: the [Architect Ruins](Architect%20Ruins.md) were not merely advanced technology but sacred texts written in brass and crystal. Where others saw abandoned machinery, the first Tinker-Priests perceived divine scripture awaiting translation.
 
-This founding philosophy—that understanding leads to enlightenment and that the [[Architects]] left their knowledge as a test of worthiness—has guided the order for eight centuries. They believe that through patient study, careful maintenance, and spiritual devotion, humanity can ascend to the Architects' level of understanding, perhaps even earning their return.
+This founding philosophy—that understanding leads to enlightenment and that the [Architects](Architects.md) left their knowledge as a test of worthiness—has guided the order for eight centuries. They believe that through patient study, careful maintenance, and spiritual devotion, humanity can ascend to the Architects' level of understanding, perhaps even earning their return.
 
 ### Core Tenets
 
 The Tinker-Priests follow five fundamental principles known as the **Brass Doctrines**:
 
-1. **The Doctrine of Sacred Mechanism**: Every [[Architect Ruins|Architect]] device is a prayer made manifest, deserving reverence and study
+1. **The Doctrine of Sacred Mechanism**: Every [Architect](Architect%20Ruins.md) device is a prayer made manifest, deserving reverence and study
 2. **The Doctrine of Patient Understanding**: Knowledge cannot be rushed; true comprehension requires generations of accumulated wisdom
-3. **The Doctrine of Harmonic Unity**: All [[Architect Ruins|Architect]] technology is connected, forming a single, divine machine spanning the continent
+3. **The Doctrine of Harmonic Unity**: All [Architect](Architect%20Ruins.md) technology is connected, forming a single, divine machine spanning the continent
 4. **The Doctrine of Earned Ascension**: Through understanding the Architects' works, humanity can transcend its limitations
-5. **The Doctrine of Preservation**: To damage or destroy [[Architect Ruins|Architect]] technology is the highest blasphemy
+5. **The Doctrine of Preservation**: To damage or destroy [Architect](Architect%20Ruins.md) technology is the highest blasphemy
 
 ---
 
@@ -29,7 +29,7 @@ The Tinker-Priests follow five fundamental principles known as the **Brass Doctr
 
 ### The Divine Machine Theory
 
-Central to Tinker-Priest theology is the belief that all [[Architect Ruins]] comprise a single, continent-spanning mechanism—the **Divine Machine**. This cosmic device supposedly maintains the fundamental forces of reality itself. The [[Timeline|Great Silence]] occurred when the Architects transcended physical form to become one with their creation, leaving behind their technology as both legacy and invitation.
+Central to Tinker-Priest theology is the belief that all [Architect Ruins](Architect%20Ruins.md) comprise a single, continent-spanning mechanism—the **Divine Machine**. This cosmic device supposedly maintains the fundamental forces of reality itself. The [Great Silence](Timeline.md) occurred when the Architects transcended physical form to become one with their creation, leaving behind their technology as both legacy and invitation.
 
 According to scripture, the Divine Machine operates on three levels:
 - **Physical**: The visible ruins and their mechanical functions
@@ -38,20 +38,20 @@ According to scripture, the Divine Machine operates on three levels:
 
 ### The Brass Prophecies
 
-Tinker-Priests maintain extensive prophecies derived from patterns observed in [[Architect Ruins|Architect]] mechanisms. The most significant include:
+Tinker-Priests maintain extensive prophecies derived from patterns observed in [Architect](Architect%20Ruins.md) mechanisms. The most significant include:
 
-**The Prophecy of Seven Keys**: Seven major ruins must achieve perfect synchronization to unlock the Architects' greatest gift. Current interpretations identify [[Thymeris the Golden]], the [[Singing Spires of Kelathon]], and the [[Walking Gardens of Yss'andra]] as three of these keys.
+**The Prophecy of Seven Keys**: Seven major ruins must achieve perfect synchronization to unlock the Architects' greatest gift. Current interpretations identify [Thymeris the Golden](Thymeris%20the%20Golden.md), the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), and the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) as three of these keys.
 
-**The Harmonic Convergence**: A foretold moment when all [[Architect Ruins]] will sing in unison, either summoning the Architects' return or elevating humanity to their level.
+**The Harmonic Convergence**: A foretold moment when all [Architect Ruins](Architect%20Ruins.md) will sing in unison, either summoning the Architects' return or elevating humanity to their level.
 
 **The Warning of Silent Brass**: Should humanity prove unworthy, the ruins will fall permanently silent, leaving the world bereft of their gifts forever.
 
 ### Sacred Mathematics
 
-Tinker-Priests believe the [[Architects]] encoded divine truths in mathematical relationships. They study:
+Tinker-Priests believe the [Architects](Architects.md) encoded divine truths in mathematical relationships. They study:
 - **Gear Ratios**: Seeking spiritual meaning in mechanical proportions
 - **Harmonic Frequencies**: Interpreting the ruins' songs as mathematical prayers
-- **Crystalline Geometry**: Finding sacred patterns in [[Architect Ruins|Architect]] crystal formations
+- **Crystalline Geometry**: Finding sacred patterns in [Architect](Architect%20Ruins.md) crystal formations
 - **Temporal Calculations**: Believing time itself follows Architect-designed patterns
 
 ---
@@ -62,7 +62,7 @@ The Tinker-Priests organize themselves in a complex hierarchy that mirrors the i
 
 ### The Brass Circle (Leadership)
 
-**The High Mechanist**: Supreme leader of the entire order, traditionally based in [[Thymeris the Golden]]. The current High Mechanist, **Korvan Brasshand**, has held the position for twelve years and is known for his moderate stance between preservation and exploration.
+**The High Mechanist**: Supreme leader of the entire order, traditionally based in [Thymeris the Golden](Thymeris%20the%20Golden.md). The current High Mechanist, **Korvan Brasshand**, has held the position for twelve years and is known for his moderate stance between preservation and exploration.
 
 **Cardinal Cogs** (5 members): Each oversees a major aspect of the order:
 - Cardinal of Harmonics (sound and music)
@@ -71,17 +71,17 @@ The Tinker-Priests organize themselves in a complex hierarchy that mirrors the i
 - Cardinal of Temporality (time-related phenomena)
 - Cardinal of Translation (language and communication)
 
-**Archimandrite Engineers** (21 members): Regional leaders who coordinate activities across [[Valdris]]
+**Archimandrite Engineers** (21 members): Regional leaders who coordinate activities across [Valdris](Valdris.md)
 
 ### The Orders Within
 
 The Tinker-Priests subdivide into specialized orders, each with distinct focuses:
 
-**Order of Harmonic Resonance**: Specialists in [[Architect Ruins|Architect]] sound technology, particularly active at the [[Singing Spires of Kelathon]]. They believe the ruins' songs contain the blueprints for all Architect technology.
+**Order of Harmonic Resonance**: Specialists in [Architect](Architect%20Ruins.md) sound technology, particularly active at the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md). They believe the ruins' songs contain the blueprints for all Architect technology.
 
-**Order of the Turning Gear**: Mechanical specialists who maintain and repair [[Architect Ruins|Architect]] devices. They work extensively in [[Grimhaven]]'s shipyards, integrating ancient technology with modern vessels.
+**Order of the Turning Gear**: Mechanical specialists who maintain and repair [Architect](Architect%20Ruins.md) devices. They work extensively in [Grimhaven](Grimhaven.md)'s shipyards, integrating ancient technology with modern vessels.
 
-**Order of Crystal Light**: Devoted to understanding [[Architect Ruins|Architect]] power sources. They study the crystalline formations that seem to generate endless energy.
+**Order of Crystal Light**: Devoted to understanding [Architect](Architect%20Ruins.md) power sources. They study the crystalline formations that seem to generate endless energy.
 
 **Order of Sacred Preservation**: Conservative faction opposing excessive exploration or experimentation. They often clash with more progressive orders.
 
@@ -101,11 +101,11 @@ From lowest to highest:
 ### Initiation and Training
 
 Becoming a Tinker-Priest requires:
-- **Initial Calling**: Often manifests as unusual aptitude with mechanical devices or sensitivity to [[Architect Ruins|Architect]] harmonics
+- **Initial Calling**: Often manifests as unusual aptitude with mechanical devices or sensitivity to [Architect](Architect%20Ruins.md) harmonics
 - **Seven-Year Apprenticeship**: Combining theological study with practical engineering
 - **The Brass Examination**: Comprehensive test of knowledge and faith
-- **The Mechanism Walk**: Pilgrimage to at least three major [[Architect Ruins]]
-- **The First Repair**: Successfully fixing an [[Architect Ruins|Architect]] device under supervision
+- **The Mechanism Walk**: Pilgrimage to at least three major [Architect Ruins](Architect%20Ruins.md)
+- **The First Repair**: Successfully fixing an [Architect](Architect%20Ruins.md) device under supervision
 
 ---
 
@@ -113,26 +113,26 @@ Becoming a Tinker-Priest requires:
 
 ### Major Strongholds
 
-**The Brass Cathedral** (Near [[Thymeris the Golden]]): The order's spiritual and administrative center, built from salvaged [[Architect Ruins|Architect]] materials. Houses the Great Archive of Schematics and the Chamber of Harmonic Meditation.
+**The Brass Cathedral** (Near [Thymeris the Golden](Thymeris%20the%20Golden.md)): The order's spiritual and administrative center, built from salvaged [Architect](Architect%20Ruins.md) materials. Houses the Great Archive of Schematics and the Chamber of Harmonic Meditation.
 
-**The Grimhaven Mechanistry**: Largest practical workshop, where [[Tinker-Priests]] collaborate with shipwrights to enhance vessels with [[Architect Ruins|Architect]] technology. Includes dry docks specifically designed for installing harmonic crystals and resonance chambers in ship hulls.
+**The Grimhaven Mechanistry**: Largest practical workshop, where [Tinker-Priests](Tinker-Priests.md) collaborate with shipwrights to enhance vessels with [Architect](Architect%20Ruins.md) technology. Includes dry docks specifically designed for installing harmonic crystals and resonance chambers in ship hulls.
 
-**The Kelathon Observatory**: Research station dedicated to studying the [[Singing Spires of Kelathon]]. Features specialized acoustic chambers for safely analyzing the spires' songs.
+**The Kelathon Observatory**: Research station dedicated to studying the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md). Features specialized acoustic chambers for safely analyzing the spires' songs.
 
-**The Walking Monastery**: A mobile chapter house that follows the [[Walking Gardens of Yss'andra]], studying its movement patterns and tending to its mechanisms.
+**The Walking Monastery**: A mobile chapter house that follows the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), studying its movement patterns and tending to its mechanisms.
 
 ### Regional Chapters
 
 Every major city maintains at least a small Tinker-Priest presence:
 - **Urban Workshops**: Offering repair services and basic education
-- **Ruin Stations**: Outposts near significant [[Architect Ruins]]
+- **Ruin Stations**: Outposts near significant [Architect Ruins](Architect%20Ruins.md)
 - **Archive Houses**: Libraries collecting technical documentation
 - **Hospices**: Treating those affected by ruin exposure
 
 ### Hidden Sanctuaries
 
 Rumors speak of secret Tinker-Priest facilities:
-- **The Brass Vault**: Supposedly containing dangerous [[Architect Ruins|Architect]] artifacts
+- **The Brass Vault**: Supposedly containing dangerous [Architect](Architect%20Ruins.md) artifacts
 - **The Silence Chamber**: Where failed experiments are contained
 - **The Prophecy Spire**: Hidden location where future predictions are calculated
 
@@ -142,7 +142,7 @@ Rumors speak of secret Tinker-Priest facilities:
 
 ### Ruin-Holder Kingdoms
 
-The relationship is complex but generally positive. [[Political Systems/Ruin-Holder Kingdoms]] rely heavily on Tinker-Priest expertise to maintain their [[Architect Ruins|Architect]]-based power. In exchange, the order receives:
+The relationship is complex but generally positive. [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) rely heavily on Tinker-Priest expertise to maintain their [Architect](Architect%20Ruins.md)-based power. In exchange, the order receives:
 - Protected status and religious freedom
 - Access to ruins for study
 - Funding for research projects
@@ -154,11 +154,11 @@ However, tensions arise when:
 - Excessive exploitation damages ruins
 - Political conflicts threaten sacred sites
 
-Notable alliance: The [[Political Systems/Ruin-Holder Kingdoms|Brass Crown Kingdom]] grants the Tinker-Priests special authority within [[Thymeris the Golden]].
+Notable alliance: The [Brass Crown Kingdom](Ruin-Holder%20Kingdoms.md) grants the Tinker-Priests special authority within [Thymeris the Golden](Thymeris%20the%20Golden.md).
 
 ### Wanderer Confederations
 
-[[Political Systems/Wanderer Confederations]] maintain an uneasy truce with Tinker-Priests:
+[Wanderer Confederations](Wanderer%20Confederations.md) maintain an uneasy truce with Tinker-Priests:
 - **Mutual Benefit**: Wanderers provide information about remote ruins in exchange for technical knowledge
 - **Philosophical Differences**: Wanderers see freedom in the ruins, while Tinker-Priests see divine order
 - **Practical Cooperation**: Both groups often work together in dangerous ruins
@@ -167,7 +167,7 @@ The order maintains mobile workshops that trade with wanderer caravans, offering
 
 ### Ruin-Shunner Republics
 
-The most difficult relationship exists with [[Political Systems/Ruin-Shunner Republics]]:
+The most difficult relationship exists with [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md):
 - **Fundamental Opposition**: Shunners view Tinker-Priests as dangerous zealots
 - **Border Tensions**: The order is often banned from republican territories
 - **Underground Networks**: Secret Tinker-Priest cells operate in some republics
@@ -177,7 +177,7 @@ Some progressive Tinker-Priests argue for respecting the republics' choices, whi
 
 ### Independent Settlements
 
-Places like [[Grimhaven]] welcome Tinker-Priests for their practical skills:
+Places like [Grimhaven](Grimhaven.md) welcome Tinker-Priests for their practical skills:
 - Ship enhancements and repairs
 - Lighthouse maintenance
 - Technical education
@@ -191,7 +191,7 @@ The order carefully maintains neutrality in independent territories, focusing on
 
 ### Daily Observances
 
-**The Five Chimes**: Prayer times synchronized to [[Architect Ruins|Architect]] harmonic patterns:
+**The Five Chimes**: Prayer times synchronized to [Architect](Architect%20Ruins.md) harmonic patterns:
 - Dawn Resonance: Greeting the new day's possibilities
 - Mechanism Morning: Blessing of tools and work
 - Noon Harmonics: Communal prayer for understanding
@@ -204,21 +204,21 @@ The order carefully maintains neutrality in independent territories, focusing on
 
 ### Sacred Ceremonies
 
-**The Great Synchronization**: Annual ceremony attempting to align multiple [[Architect Ruins]] simultaneously. Requires precise timing and coordination between distant chapter houses.
+**The Great Synchronization**: Annual ceremony attempting to align multiple [Architect Ruins](Architect%20Ruins.md) simultaneously. Requires precise timing and coordination between distant chapter houses.
 
-**Feast of First Function**: Celebrating the anniversary of the first successful [[Architect Ruins|Architect]] device reactivation. Includes demonstration of restored mechanisms and public education.
+**Feast of First Function**: Celebrating the anniversary of the first successful [Architect](Architect%20Ruins.md) device reactivation. Includes demonstration of restored mechanisms and public education.
 
-**The Harmonic Baptism**: Initiating new members by exposing them to carefully controlled [[Architect Ruins|Architect]] resonances, testing their sensitivity and compatibility.
+**The Harmonic Baptism**: Initiating new members by exposing them to carefully controlled [Architect](Architect%20Ruins.md) resonances, testing their sensitivity and compatibility.
 
-**Rite of Repair**: Sacred ceremony performed when restoring major [[Architect Ruins|Architect]] mechanisms. Combines practical engineering with spiritual preparation.
+**Rite of Repair**: Sacred ceremony performed when restoring major [Architect](Architect%20Ruins.md) mechanisms. Combines practical engineering with spiritual preparation.
 
 ### Forbidden Practices
 
 The order strictly prohibits:
-- **Destructive Analysis**: Dismantling functioning [[Architect Ruins|Architect]] devices
+- **Destructive Analysis**: Dismantling functioning [Architect](Architect%20Ruins.md) devices
 - **Harmonic Weaponization**: Using ruin technology for warfare
 - **Temporal Manipulation**: Attempting to alter time-based mechanisms
-- **Consciousness Transfer**: Trying to merge human minds with [[Architect Ruins|Architect]] systems
+- **Consciousness Transfer**: Trying to merge human minds with [Architect](Architect%20Ruins.md) systems
 
 ---
 
@@ -226,19 +226,19 @@ The order strictly prohibits:
 
 ### The Great Archive Project
 
-The Tinker-Priests maintain humanity's most comprehensive collection of [[Architect Ruins|Architect]] knowledge:
+The Tinker-Priests maintain humanity's most comprehensive collection of [Architect](Architect%20Ruins.md) knowledge:
 
 **Technical Schematics**: Detailed drawings of every documented mechanism, constantly updated as new discoveries are made. The archive includes over 10,000 unique device diagrams.
 
-**Harmonic Notations**: Musical transcriptions of ruin songs, particularly from the [[Singing Spires of Kelathon]]. Special notation systems capture frequencies impossible for conventional music.
+**Harmonic Notations**: Musical transcriptions of ruin songs, particularly from the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md). Special notation systems capture frequencies impossible for conventional music.
 
-**Translation Codices**: Attempts to decode [[Architect Ruins|Architect]] languages, both written symbols and harmonic communications. Current progress has identified approximately 3,000 distinct symbols.
+**Translation Codices**: Attempts to decode [Architect](Architect%20Ruins.md) languages, both written symbols and harmonic communications. Current progress has identified approximately 3,000 distinct symbols.
 
 **Failure Chronicles**: Equally important, documenting what doesn't work to prevent repeated mistakes. Every failed experiment is meticulously recorded.
 
 ### Preservation Methods
 
-**Crystal Storage**: Using [[Architect Ruins|Architect]] memory crystals to store vast amounts of information in small spaces.
+**Crystal Storage**: Using [Architect](Architect%20Ruins.md) memory crystals to store vast amounts of information in small spaces.
 
 **Redundant Archives**: Multiple copies stored in different locations to prevent total loss.
 
@@ -248,13 +248,13 @@ The Tinker-Priests maintain humanity's most comprehensive collection of [[Archit
 
 ### The Mechanism Memory
 
-A controversial project attempting to create a collective consciousness archive using [[Architect Ruins|Architect]] technology. The goal: preserve not just information but the actual experiences and insights of master Tinker-Priests. Progress remains highly classified.
+A controversial project attempting to create a collective consciousness archive using [Architect](Architect%20Ruins.md) technology. The goal: preserve not just information but the actual experiences and insights of master Tinker-Priests. Progress remains highly classified.
 
 ---
 
 ## Recent Awakening Theological Impacts
 
-The [[Timeline|Recent Awakening]] has profoundly shaken Tinker-Priest theology:
+The [Recent Awakening](Timeline.md) has profoundly shaken Tinker-Priest theology:
 
 ### The Great Validation
 
@@ -262,7 +262,7 @@ Many see the increased ruin activity as vindication of their beliefs. The High M
 
 ### New Theological Debates
 
-**The Return Theory**: Are the [[Architects]] actually returning, or is this an automated system activation?
+**The Return Theory**: Are the [Architects](Architects.md) actually returning, or is this an automated system activation?
 
 **The Test Hypothesis**: Is the Awakening a trial to determine humanity's worthiness?
 
@@ -290,25 +290,25 @@ The Awakening has created immediate problems:
 
 ## Conflicts with Silence-Keepers
 
-The [[Silence-Keepers]] represent the Tinker-Priests' primary ideological opponents:
+The [Silence-Keepers](Silence-Keepers.md) represent the Tinker-Priests' primary ideological opponents:
 
 ### Fundamental Disagreements
 
-**Purpose of Ruins**: Tinker-Priests see divine gifts; [[Silence-Keepers]] see dangerous temptations
+**Purpose of Ruins**: Tinker-Priests see divine gifts; [Silence-Keepers](Silence-Keepers.md) see dangerous temptations
 
-**Human Interaction**: The order promotes active engagement; [[Silence-Keepers]] advocate minimal contact
+**Human Interaction**: The order promotes active engagement; [Silence-Keepers](Silence-Keepers.md) advocate minimal contact
 
-**The Architects' Intent**: Tinker-Priests believe in earned succession; [[Silence-Keepers]] warn of presumptuous pride
+**The Architects' Intent**: Tinker-Priests believe in earned succession; [Silence-Keepers](Silence-Keepers.md) warn of presumptuous pride
 
-**The Future**: The order works toward understanding; [[Silence-Keepers]] prepare for judgment
+**The Future**: The order works toward understanding; [Silence-Keepers](Silence-Keepers.md) prepare for judgment
 
 ### Historical Conflicts
 
-**The Brass Schism (234 AS)**: Violent confrontation at [[Thymeris the Golden]] when [[Silence-Keepers]] attempted to seal the city. Resulted in 47 deaths and permanent enmity.
+**The Brass Schism (234 AS)**: Violent confrontation at [Thymeris the Golden](Thymeris%20the%20Golden.md) when [Silence-Keepers](Silence-Keepers.md) attempted to seal the city. Resulted in 47 deaths and permanent enmity.
 
 **The Harmonic Wars (456-461 AS)**: Series of sabotage attempts by both sides, targeting research stations and meditation sites.
 
-**The Kelathon Incident (623 AS)**: [[Silence-Keepers]] disrupted a major Tinker-Priest ceremony, causing a catastrophic resonance that killed twelve.
+**The Kelathon Incident (623 AS)**: [Silence-Keepers](Silence-Keepers.md) disrupted a major Tinker-Priest ceremony, causing a catastrophic resonance that killed twelve.
 
 ### Current Tensions
 
@@ -328,32 +328,32 @@ However, fundamental differences remain irreconcilable, with violence still erup
 
 **High Mechanist Korvan Brasshand**
 *Human, 67 years old*
-Leader of the entire order, known for balancing preservation with progress. Former Cardinal of Mechanisms who rose through practical achievement rather than politics. His missing left hand, replaced with an [[Architect Ruins|Architect]] prosthetic, symbolizes his dedication.
-- **Achievement**: First to successfully interface with [[Thymeris the Golden]]'s control systems
+Leader of the entire order, known for balancing preservation with progress. Former Cardinal of Mechanisms who rose through practical achievement rather than politics. His missing left hand, replaced with an [Architect](Architect%20Ruins.md) prosthetic, symbolizes his dedication.
+- **Achievement**: First to successfully interface with [Thymeris the Golden](Thymeris%20the%20Golden.md)'s control systems
 - **Philosophy**: "Understanding requires both faith and reason"
 - **Secret**: Receives visions from his prosthetic that he hasn't reported
 
 **Cardinal Lyra Dawnwhisper of Harmonics**
 *Half-Elf, 134 years old*
-The order's foremost expert on [[Architect Ruins|Architect]] music and the [[Singing Spires of Kelathon]]. Her work on harmonic translation has revolutionized understanding of ruin communications.
+The order's foremost expert on [Architect](Architect%20Ruins.md) music and the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md). Her work on harmonic translation has revolutionized understanding of ruin communications.
 - **Achievement**: Identified 347 distinct "musical words" in spire songs
-- **Philosophy**: "The [[Architects]] sing to us still; we must learn their language"
-- **Secret**: Believes she's beginning to think in [[Architect Ruins|Architect]] thought patterns
+- **Philosophy**: "The [Architects](Architects.md) sing to us still; we must learn their language"
+- **Secret**: Believes she's beginning to think in [Architect](Architect%20Ruins.md) thought patterns
 
 **Master Tinker Tobias Gearwright**
 *Gnome, 67 years old*
-Though not in formal leadership, his workshop in [[Grimhaven]] has trained more successful Tinker-Priests than any other. His practical approach makes him beloved among rank-and-file members.
-- **Achievement**: Created the first hybrid ship combining sail and [[Architect Ruins|Architect]] propulsion
+Though not in formal leadership, his workshop in [Grimhaven](Grimhaven.md) has trained more successful Tinker-Priests than any other. His practical approach makes him beloved among rank-and-file members.
+- **Achievement**: Created the first hybrid ship combining sail and [Architect](Architect%20Ruins.md) propulsion
 - **Philosophy**: "Faith without works is just philosophy"
-- **Secret**: Has built devices that exceed [[Architect Ruins|Architect]] capabilities but fears heresy accusations
+- **Secret**: Has built devices that exceed [Architect](Architect%20Ruins.md) capabilities but fears heresy accusations
 
 ### Historical Figures
 
 **Founder Matthias the Illuminated (12-89 AS)**
-First High Mechanist who established core doctrines. Legend says he received divine visions inside [[Thymeris the Golden]].
+First High Mechanist who established core doctrines. Legend says he received divine visions inside [Thymeris the Golden](Thymeris%20the%20Golden.md).
 
 **Sister Arianna Crystalheart (234-301 AS)**
-Developed most preservation techniques still used today. Martyred defending the Brass Cathedral from [[Silence-Keepers]].
+Developed most preservation techniques still used today. Martyred defending the Brass Cathedral from [Silence-Keepers](Silence-Keepers.md).
 
 **Brother Dunstan the Mad (445-502 AS)**
 Brilliant researcher whose mind shattered from prolonged ruin exposure. His ravings, carefully preserved, have proven prophetic.
@@ -362,7 +362,7 @@ Brilliant researcher whose mind shattered from prolonged ruin exposure. His ravi
 
 **Adept Kira Swiftgear**
 *Human, 23 years old*
-Youngest person to achieve Adept rank. Shows unprecedented intuitive understanding of [[Architect Ruins|Architect]] mechanisms.
+Youngest person to achieve Adept rank. Shows unprecedented intuitive understanding of [Architect](Architect%20Ruins.md) mechanisms.
 
 **Brother Marcus Goldeneye**
 *Human, 31 years old*
@@ -374,11 +374,11 @@ Discovered how to "see" harmonic patterns, revolutionizing acoustic research. Ra
 
 ### Immediate Quests
 
-**The Missing Archive**: A Tinker-Priest expedition carrying irreplaceable technical documents has vanished in the [[Whispering Valley]]. The order offers substantial rewards for their recovery, warning that the documents could be catastrophic in the wrong hands.
+**The Missing Archive**: A Tinker-Priest expedition carrying irreplaceable technical documents has vanished in the [Whispering Valley](Whispering%20Valley.md). The order offers substantial rewards for their recovery, warning that the documents could be catastrophic in the wrong hands.
 
-**The Heretical Invention**: A rogue Tinker-Priest claims to have built a device that can control [[Architect Ruins|Architect]] technology remotely. The order wants them stopped before they can demonstrate this blasphemous creation at the Grand Convocation.
+**The Heretical Invention**: A rogue Tinker-Priest claims to have built a device that can control [Architect](Architect%20Ruins.md) technology remotely. The order wants them stopped before they can demonstrate this blasphemous creation at the Grand Convocation.
 
-**The Silence-Keeper Infiltrator**: Evidence suggests a [[Silence-Keepers|Silence-Keeper]] spy has infiltrated a major chapter house. The party must identify the traitor before they can sabotage a critical ceremony.
+**The Silence-Keeper Infiltrator**: Evidence suggests a [Silence-Keeper](Silence-Keepers.md) spy has infiltrated a major chapter house. The party must identify the traitor before they can sabotage a critical ceremony.
 
 **The Harmonics Plague**: People near certain ruins are falling ill with a condition that causes them to speak only in musical tones. Tinker-Priests need escorts to investigate safely.
 
@@ -392,23 +392,23 @@ Discovered how to "see" harmonic patterns, revolutionizing acoustic research. Ra
 
 ### Personal Stakes
 
-**The Gifted Child**: A youth shows extraordinary aptitude with [[Architect Ruins|Architect]] technology. Multiple factions want to recruit or kidnap them. The Tinker-Priests offer protection—at the cost of the child's freedom.
+**The Gifted Child**: A youth shows extraordinary aptitude with [Architect](Architect%20Ruins.md) technology. Multiple factions want to recruit or kidnap them. The Tinker-Priests offer protection—at the cost of the child's freedom.
 
 **The Brass Legacy**: A dying Tinker-Priest reveals the location of a secret archive containing dangerous knowledge. They ask the party to either deliver it to the order or destroy it, claiming both choices have terrible consequences.
 
-**The Harmonic Curse**: A party member exposed to malfunctioning [[Architect Ruins|Architect]] technology begins showing symptoms of crystalline transformation. Tinker-Priests might have a cure—for a price.
+**The Harmonic Curse**: A party member exposed to malfunctioning [Architect](Architect%20Ruins.md) technology begins showing symptoms of crystalline transformation. Tinker-Priests might have a cure—for a price.
 
 ### Political Intrigue
 
 **The Neutral Zone Violation**: Someone has been raiding ruins in areas declared neutral by treaty. Evidence points to Tinker-Priests, but the order claims innocence. Uncover the truth before war erupts.
 
-**The Technology Embargo**: A [[Political Systems/Ruin-Shunner Republics|Ruin-Shunner Republic]] has captured several Tinker-Priests and demands the order cease all operations in their territory. Navigate the diplomatic crisis while secret operations continue.
+**The Technology Embargo**: A [Ruin-Shunner Republic](Ruin-Shunner%20Republics.md) has captured several Tinker-Priests and demands the order cease all operations in their territory. Navigate the diplomatic crisis while secret operations continue.
 
 **The Succession Crisis**: The High Mechanist is dying, and various Cardinals scheme for succession. The party's support could determine the order's future direction—toward militarization, isolation, or unprecedented openness.
 
 ### Exploration Opportunities
 
-**The Forgotten Workshop**: Maps in a deceased Tinker-Priest's effects reveal an unknown [[Architect Ruins|Architect]] site. The order wants it explored but warns previous expeditions never returned.
+**The Forgotten Workshop**: Maps in a deceased Tinker-Priest's effects reveal an unknown [Architect](Architect%20Ruins.md) site. The order wants it explored but warns previous expeditions never returned.
 
 **The Resonance Network**: Tinker-Priests have discovered underground channels that carry harmonic vibrations between ruins. They need brave souls to explore these dangerous passages and map the network.
 
@@ -418,11 +418,11 @@ Discovered how to "see" harmonic patterns, revolutionizing acoustic research. Ra
 
 ## Conclusion
 
-The Tinker-Priests stand at the crossroads of faith and reason, preservation and progress, in a world transformed by the [[Timeline|Recent Awakening]]. As [[Architect Ruins]] across [[Valdris]] pulse with renewed life, the order faces its greatest challenge and opportunity.
+The Tinker-Priests stand at the crossroads of faith and reason, preservation and progress, in a world transformed by the [Recent Awakening](Timeline.md). As [Architect Ruins](Architect%20Ruins.md) across [Valdris](Valdris.md) pulse with renewed life, the order faces its greatest challenge and opportunity.
 
-Whether they are humanity's guides to transcendence or misguided zealots tampering with forces beyond comprehension remains to be seen. What is certain is that the Tinker-Priests will play a crucial role in whatever future awaits [[Valdris]]—for better or worse.
+Whether they are humanity's guides to transcendence or misguided zealots tampering with forces beyond comprehension remains to be seen. What is certain is that the Tinker-Priests will play a crucial role in whatever future awaits [Valdris](Valdris.md)—for better or worse.
 
-In their workshops and temples, chapels and laboratories, they continue their sacred work: one gear at a time, one harmonic at a time, one revelation at a time, bringing humanity closer to understanding the divine machinery of the [[Architects]]—or to a catastrophe of their own making.
+In their workshops and temples, chapels and laboratories, they continue their sacred work: one gear at a time, one harmonic at a time, one revelation at a time, bringing humanity closer to understanding the divine machinery of the [Architects](Architects.md)—or to a catastrophe of their own making.
 
 The brass gears turn, the crystals hum with power, and the Tinker-Priests labor on, confident that each discovery brings them closer to the ultimate truth hidden within the ruins of the ancient world.
 
@@ -433,4 +433,4 @@ The brass gears turn, the crystals hum with power, and the Tinker-Priests labor 
 
 ---
 
-*See also: [[Architect Ruins]], [[Political Systems]], [[Silence-Keepers]], [[Thymeris the Golden]], [[Singing Spires of Kelathon]], [[Walking Gardens of Yss'andra]], [[Grimhaven]], [[Timeline|Recent Awakening]], [[Technology/Architect Technology]]*
+*See also: [Architect Ruins](Architect%20Ruins.md), [Political Systems](Political%20Systems.md), [Silence-Keepers](Silence-Keepers.md), [Thymeris the Golden](Thymeris%20the%20Golden.md), [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), [Grimhaven](Grimhaven.md), [Recent Awakening](Timeline.md), [Architect Technology](Architect%20Technology.md)*

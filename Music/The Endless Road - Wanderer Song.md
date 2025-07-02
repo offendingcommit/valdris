@@ -39,8 +39,8 @@ Upon the endless road
 [Fiddle Solo with Guitar]
 
 [Verse 3]
-The [[Walking Gardens]] make their round
-The [[Singing Spires]] make their sound
+The [Walking Gardens](Walking%20Gardens.md) make their round
+The [Singing Spires](Singing%20Spires.md) make their sound
 But freedom's song is what we've found
 Upon the endless road
 
@@ -58,8 +58,8 @@ Upon the endless road...
 ---
 
 ## Campaign Integration
-- Traditional song of the [[Wanderer Confederations]]
+- Traditional song of the [Wanderer Confederations](Wanderer%20Confederations.md)
 - Often sung around campfires and in caravans
-- References [[Walking Gardens of Yss'andra]] and [[Singing Spires of Kelathon]]
+- References [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) and [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
 - Represents the nomadic philosophy
-- Links to [[Political Systems/Wanderer Confederations]]
+- Links to [Wanderer Confederations](Wanderer%20Confederations.md)

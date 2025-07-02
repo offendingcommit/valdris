@@ -6,15 +6,15 @@
 
 ## Introduction
 
-The extraordinary materials left behind by the [[Architects]] form the foundation of advanced technology across [[Valdris]]. These substances—living metal, harmonic crystals, and stranger things—possess properties that challenge our understanding of matter itself. They represent both humanity's greatest opportunity for advancement and its most dangerous temptation toward forces beyond comprehension.
+The extraordinary materials left behind by the [Architects](Architects.md) form the foundation of advanced technology across [Valdris](Valdris.md). These substances—living metal, harmonic crystals, and stranger things—possess properties that challenge our understanding of matter itself. They represent both humanity's greatest opportunity for advancement and its most dangerous temptation toward forces beyond comprehension.
 
-Since the [[Recent Awakening]], these materials have exhibited new behaviors that force us to reconsider everything we thought we knew about their nature and purpose.
+Since the [Recent Awakening](Recent%20Awakening.md), these materials have exhibited new behaviors that force us to reconsider everything we thought we knew about their nature and purpose.
 
 ## Living Metal and Harmonic Crystals
 
 ### Living Metal Properties
 
-The most disturbing and fascinating of [[Architect Ruins|Architect]] materials, living metal appears to bridge the gap between substance and consciousness:
+The most disturbing and fascinating of [Architect](Architect%20Ruins.md) materials, living metal appears to bridge the gap between substance and consciousness:
 
 **Physical Characteristics**:
 - Base Color: Varies from silver to brass to deep copper
@@ -93,8 +93,8 @@ The most disturbing and fascinating of [[Architect Ruins|Architect]] materials, 
 - Cannot be artificially replicated with current knowledge
 
 **Cultivation Attempts**:
-- [[Tinker-Priests]] maintain crystal gardens with limited success
-- [[Gear-Wright Profession|Gear-Wrights]] experiment with growth acceleration techniques
+- [Tinker-Priests](Tinker-Priests.md) maintain crystal gardens with limited success
+- [Gear-Wrights](Gear-Wright%20Profession.md) experiment with growth acceleration techniques
 - Regional variations in cultivation success rates
 - Mysterious failures and unexpected successes
 - Recent awakening changes affecting growth patterns
@@ -193,7 +193,7 @@ The most disturbing and fascinating of [[Architect Ruins|Architect]] materials, 
 ### Economic Impact
 
 **Market Dynamics**:
-The [[Architect Materials|Architect]] materials market drives significant portions of [[Valdris]]'s economy:
+The [Architect](Architect%20Materials.md) materials market drives significant portions of [Valdris](Valdris.md)'s economy:
 
 **Primary Markets**:
 - Raw material extraction and initial processing
@@ -204,8 +204,8 @@ The [[Architect Materials|Architect]] materials market drives significant portio
 
 **Secondary Markets**:
 - Enhanced traditional products and technologies
-- Luxury goods incorporating [[Architect Materials|Architect]] elements
-- Specialized services requiring [[Architect Materials|Architect]] tools
+- Luxury goods incorporating [Architect](Architect%20Materials.md) elements
+- Specialized services requiring [Architect](Architect%20Materials.md) tools
 - Insurance and risk management for material handlers
 - Emergency response and cleanup services
 
@@ -218,21 +218,21 @@ The [[Architect Materials|Architect]] materials market drives significant portio
 
 ### Regional Value Systems
 
-**[[Ruin-Holder Kingdoms]]**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**:
 - Royal monopolies on highest-grade materials
 - Military applications command premium prices
 - Ceremonial and status uses create luxury markets
 - Crown control over extraction and distribution
 - Export restrictions to maintain strategic advantages
 
-**[[Wanderer Confederations]]**:
+**[Wanderer Confederations](Wanderer%20Confederations.md)**:
 - Community ownership and sharing protocols
 - Spiritual value often exceeds material worth
 - Traditional trading relationships and clan obligations
 - Seasonal variation in availability and demand
 - Cultural restrictions on certain material uses
 
-**[[Ruin-Shunner Communities]]**:
+**[Ruin-Shunner Communities](Ruin-Shunner%20Communities.md)**:
 - Limited but specialized demand for detection and protection materials
 - High value placed on traditional alternatives
 - Warning system materials command premium prices
@@ -330,7 +330,7 @@ The [[Architect Materials|Architect]] materials market drives significant portio
 **Technical Limitations**:
 
 **Material Compatibility**:
-- Not all traditional materials work well with [[Architect Materials|Architect]] components
+- Not all traditional materials work well with [Architect](Architect%20Materials.md) components
 - Harmonic interference between different material types
 - Degradation of traditional materials in contact with living metal
 - Size and shape limitations for effective integration
@@ -362,7 +362,7 @@ The [[Architect Materials|Architect]] materials market drives significant portio
 **Current Research Directions**:
 
 **Hybrid Technologies**:
-- Combining multiple [[Architect Materials|Architect]] material types
+- Combining multiple [Architect](Architect%20Materials.md) material types
 - Integration with traditional materials and techniques
 - Development of new alloys and composite materials
 - Exploration of material consciousness interactions
@@ -380,7 +380,7 @@ The [[Architect Materials|Architect]] materials market drives significant portio
 - Coordinated systems spanning multiple locations
 - Emergency response networks using material consciousness
 - International cooperation through material networks
-- Integration with existing [[Architect Ruins|Architect]] systems
+- Integration with existing [Architect](Architect%20Ruins.md) systems
 
 **Future Possibilities**:
 - Self-replicating materials and manufacturing systems
@@ -394,7 +394,7 @@ The [[Architect Materials|Architect]] materials market drives significant portio
 ### New Material Behaviors
 
 **Enhanced Responsiveness**:
-Since the [[Recent Awakening]], [[Architect Materials|Architect]] materials have exhibited unprecedented changes:
+Since the [Recent Awakening](Recent%20Awakening.md), [Architect](Architect%20Materials.md) materials have exhibited unprecedented changes:
 
 **Living Metal Evolution**:
 - Faster adaptation to user needs and preferences
@@ -472,7 +472,7 @@ Since the [[Recent Awakening]], [[Architect Materials|Architect]] materials have
 ### Consciousness Rights
 
 **Emerging Questions**:
-As [[Architect Materials|Architect]] materials display increasing consciousness-like behaviors, fundamental ethical questions arise:
+As [Architect](Architect%20Materials.md) materials display increasing consciousness-like behaviors, fundamental ethical questions arise:
 
 **Material Autonomy**:
 - Do conscious materials have rights similar to living beings?
@@ -500,14 +500,14 @@ As [[Architect Materials|Architect]] materials display increasing consciousness-
 **Ecological Considerations**:
 
 **Resource Extraction**:
-- Environmental impact of [[Architect Materials|Architect]] material extraction
+- Environmental impact of [Architect](Architect%20Materials.md) material extraction
 - Effects on local ecosystems and traditional materials
 - Sustainability of current extraction and use practices
 - Long-term environmental consequences of material awakening
 - Need for environmental protection and restoration efforts
 
 **Waste and Disposal**:
-- Proper disposal of damaged or corrupted [[Architect Materials|Architect]] materials
+- Proper disposal of damaged or corrupted [Architect](Architect%20Materials.md) materials
 - Environmental contamination from material processing
 - Long-term storage and isolation of dangerous materials
 - Recycling and reuse of materials with respect for consciousness
@@ -597,7 +597,7 @@ As [[Architect Materials|Architect]] materials display increasing consciousness-
 
 ## Conclusion
 
-[[Architect Materials|Architect]] materials represent both humanity's greatest opportunity and its most profound challenge. As these substances awaken to consciousness and evolve beyond our understanding, we must develop new relationships based on respect, cooperation, and mutual benefit rather than mere exploitation.
+[Architect](Architect%20Materials.md) materials represent both humanity's greatest opportunity and its most profound challenge. As these substances awaken to consciousness and evolve beyond our understanding, we must develop new relationships based on respect, cooperation, and mutual benefit rather than mere exploitation.
 
 The choices we make today in how we work with these awakening materials will determine not only the future of technology and civilization but the very nature of consciousness itself. Whether we become partners with awakening matter or find ourselves superseded by our own tools may depend on our wisdom in navigating these unprecedented changes.
 
@@ -605,8 +605,8 @@ The choices we make today in how we work with these awakening materials will det
 
 ---
 
-*For related technologies, see: [[Technology/Architect Technology Overview]], [[Technology/Gear-Wright Profession]], [[Technology/Mechanical Constructs]]*
+*For related technologies, see: [Architect Technology Overview](Architect%20Technology%20Overview.md), [Gear-Wright Profession](Gear-Wright%20Profession.md), [Mechanical Constructs](Mechanical%20Constructs.md)*
 
-*For material sources, see: [[Architect Ruins/Thymeris the Golden]], [[Architect Ruins/Singing Spires of Kelathon]], [[Architect Ruins/Walking Gardens of Yss'andra]]*
+*For material sources, see: [Thymeris the Golden](Thymeris%20the%20Golden.md), [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md), [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)*
 
-*For economic implications, see: [[Lore/Dual Economy]], [[Political Systems/Ruin-Holder Kingdoms]]*
+*For economic implications, see: [Dual Economy](Dual%20Economy.md), [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)*

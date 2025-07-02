@@ -83,8 +83,8 @@ Thymeris Rising - Crown of Brass and Stone
 ---
 
 ## Campaign Integration
-- Official anthem of the [[Ruin-Holder Kingdoms]]
-- Frequently heard in [[Thymeris the Golden]]
+- Official anthem of the [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
+- Frequently heard in [Thymeris the Golden](Thymeris%20the%20Golden.md)
 - Represents the ideology of [Architect](Architect.md) inheritance
-- Links to [[Political Systems/Ruin-Holder Kingdoms]]
+- Links to [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)
 - Often performed during diplomatic ceremonies

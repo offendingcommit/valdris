@@ -62,10 +62,10 @@ An orchestral wonder piece that captures the magical essence of a walking garden
 ---
 
 ## Campaign Usage
-- Specific theme for [[Walking Gardens of Yss'andra]]
+- Specific theme for [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
 - Background for natural wonder discoveries
 - Atmosphere during encounters with moving ruins
-- Perfect for [[Northern Reaches]] exploration
+- Perfect for [Northern Reaches](Northern%20Reaches.md) exploration
 - Character themes for druids and naturalists
 - Magical realism scenes
-- Links to [[Architect Ruins/Walking Gardens of Yss'andra]]
+- Links to [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)

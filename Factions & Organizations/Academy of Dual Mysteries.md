@@ -1,17 +1,17 @@
 # The Academy of Dual Mysteries
 
 *"Where Magic Meets Mechanism, Knowledge Illuminates Truth"*
-— Academy Charter, inscribed in both arcane runes and [[Architect Ruins|Architect]] harmonic script
+— Academy Charter, inscribed in both arcane runes and [Architect](Architect%20Ruins.md) harmonic script
 
 ---
 
 ## Overview
 
-The **Academy of Dual Mysteries** stands as [[Valdris]]'s premier institution of higher learning, uniquely focused on understanding the intersection between magical arts and [[Architect Ruins|Architect]] technology. Founded 312 years ago in response to growing evidence that these two forces were not mutually exclusive, the Academy has evolved into a beacon of scholarly neutrality in an increasingly polarized world.
+The **Academy of Dual Mysteries** stands as [Valdris](Valdris.md)'s premier institution of higher learning, uniquely focused on understanding the intersection between magical arts and [Architect](Architect%20Ruins.md) technology. Founded 312 years ago in response to growing evidence that these two forces were not mutually exclusive, the Academy has evolved into a beacon of scholarly neutrality in an increasingly polarized world.
 
-Located in the independent city of [[Millbrook]], the Academy maintains careful political neutrality while pursuing its twin mandates: advancing academic understanding of both magical and technological phenomena, and training scholars capable of bridging the gap between these seemingly incompatible fields. Its ivory towers and brass laboratories house some of [[Valdris]]'s greatest minds, working to unravel mysteries that have puzzled humanity since the [[Timeline|Great Silence]].
+Located in the independent city of [Millbrook](Millbrook.md), the Academy maintains careful political neutrality while pursuing its twin mandates: advancing academic understanding of both magical and technological phenomena, and training scholars capable of bridging the gap between these seemingly incompatible fields. Its ivory towers and brass laboratories house some of [Valdris](Valdris.md)'s greatest minds, working to unravel mysteries that have puzzled humanity since the [Great Silence](Timeline.md).
 
-The [[Timeline|Recent Awakening]] has thrust the Academy into unprecedented prominence as the only institution equipped to study the magical-technological interactions now manifesting in ruins across the continent. Scholars from every political system seek Academy expertise, even as the institution struggles to maintain its neutrality amid growing external pressures.
+The [Recent Awakening](Timeline.md) has thrust the Academy into unprecedented prominence as the only institution equipped to study the magical-technological interactions now manifesting in ruins across the continent. Scholars from every political system seek Academy expertise, even as the institution struggles to maintain its neutrality amid growing external pressures.
 
 ---
 
@@ -29,21 +29,21 @@ The Academy operates according to **The Five Pillars of Inquiry**:
 
 ### The Dual Mystery Doctrine
 
-Central to Academy philosophy is the belief that magic and [[Architect Ruins|Architect]] technology represent two approaches to manipulating the same underlying forces of reality. This doctrine, considered heretical by some magical traditions and many [[Tinker-Priests]], suggests that the [[Architects]] achieved their marvels through a synthesis of both approaches.
+Central to Academy philosophy is the belief that magic and [Architect](Architect%20Ruins.md) technology represent two approaches to manipulating the same underlying forces of reality. This doctrine, considered heretical by some magical traditions and many [Tinker-Priests](Tinker-Priests.md), suggests that the [Architects](Architects.md) achieved their marvels through a synthesis of both approaches.
 
 The Academy divides this investigation into three primary areas:
 
 **Pure Magic Studies**: Traditional arcane arts, divine magic, and natural phenomena
-**Pure Technology Studies**: [[Architect Ruins|Architect]] mechanisms, engineering principles, and material sciences
+**Pure Technology Studies**: [Architect](Architect%20Ruins.md) mechanisms, engineering principles, and material sciences
 **Synthesis Studies**: Areas where magical and technological approaches converge or interact
 
 ### Worldview
 
-Academy scholars view the [[Timeline|Great Silence]] as the loss of a crucial synthesis—a unified understanding that the [[Architects]] possessed but humanity has since forgotten. They see their mission as reconstructing this lost knowledge through patient, methodical study.
+Academy scholars view the [Great Silence](Timeline.md) as the loss of a crucial synthesis—a unified understanding that the [Architects](Architects.md) possessed but humanity has since forgotten. They see their mission as reconstructing this lost knowledge through patient, methodical study.
 
-The [[Timeline|Recent Awakening]] is interpreted as a unique opportunity to observe magical-technological synthesis in action, providing unprecedented research data. However, Academy doctrine emphasizes caution: understanding must precede application, and wisdom must guide power.
+The [Recent Awakening](Timeline.md) is interpreted as a unique opportunity to observe magical-technological synthesis in action, providing unprecedented research data. However, Academy doctrine emphasizes caution: understanding must precede application, and wisdom must guide power.
 
-Unlike purely magical academies or technical guilds, the Academy explicitly rejects the notion that either approach is inherently superior. Instead, they argue that the greatest achievements—from simple healing spells enhanced with crystalline focusing to [[Architect Ruins|Architect]] cities that respond to their inhabitants' needs—emerge from thoughtful integration of both traditions.
+Unlike purely magical academies or technical guilds, the Academy explicitly rejects the notion that either approach is inherently superior. Instead, they argue that the greatest achievements—from simple healing spells enhanced with crystalline focusing to [Architect](Architect%20Ruins.md) cities that respond to their inhabitants' needs—emerge from thoughtful integration of both traditions.
 
 ---
 
@@ -53,9 +53,9 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 
 **The Circle of Masters**: Twelve senior scholars who collectively guide Academy policy, elected by faculty for seven-year terms. Current composition includes four pure magic specialists, four pure technology specialists, and four synthesis researchers.
 
-**Arcane Chancellor**: **Professor Lydia Stormwright** (Human, 67 years old), specialist in elemental magic and [[Architect Ruins|Architect]] energy systems. Elected position, currently in second term.
+**Arcane Chancellor**: **Professor Lydia Stormwright** (Human, 67 years old), specialist in elemental magic and [Architect](Architect%20Ruins.md) energy systems. Elected position, currently in second term.
 
-**Mechanical Chancellor**: **Professor Thaddeus Gearwind** (Gnome, 134 years old), expert in [[Architect Ruins|Architect]] mechanical systems and their theoretical foundations. First Chancellor to hold position for three consecutive terms.
+**Mechanical Chancellor**: **Professor Thaddeus Gearwind** (Gnome, 134 years old), expert in [Architect](Architect%20Ruins.md) mechanical systems and their theoretical foundations. First Chancellor to hold position for three consecutive terms.
 
 **Chancellor of Synthesis**: **Professor Vera Brightbridge** (Half-Elf, 89 years old), pioneering researcher who developed the fundamental theoretical framework for magical-technological integration.
 
@@ -74,17 +74,17 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 - Magical-Material Interactions
 - Elemental Force Studies
 
-**Recent Projects**: Analyzing how [[Timeline|Recent Awakening]] affects regional magic patterns
+**Recent Projects**: Analyzing how [Recent Awakening](Timeline.md) affects regional magic patterns
 
 #### School of Mechanical Philosophy
 *"Comprehending the Tangible Mechanisms"*
 
-**Focus**: [[Architect Ruins|Architect]] technology, engineering principles, materials science, clockwork theory
+**Focus**: [Architect](Architect%20Ruins.md) technology, engineering principles, materials science, clockwork theory
 
 **Current Dean**: **Professor Elena Copperforge** (Dwarf, 98 years old)
 
 **Notable Programs**:
-- Advanced [[Architect Ruins|Architect]] Studies
+- Advanced [Architect](Architect%20Ruins.md) Studies
 - Mechanical Engineering Theory
 - Materials and Alloys Research
 - Precision Instrumentation
@@ -109,7 +109,7 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 #### School of Historical Studies
 *"Learning from What Came Before"*
 
-**Focus**: [[Architect Ruins|Architect]] history, magical traditions, technological development, cultural impacts
+**Focus**: [Architect](Architect%20Ruins.md) history, magical traditions, technological development, cultural impacts
 
 **Current Dean**: **Professor Astrid Memorykeeper** (Elf, 267 years old)
 
@@ -119,7 +119,7 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 - Technology Diffusion Patterns
 - Oral Tradition Preservation
 
-**Recent Projects**: Compiling comprehensive pre-[[Timeline|Great Silence]] technology databases
+**Recent Projects**: Compiling comprehensive pre-[Great Silence](Timeline.md) technology databases
 
 ### Student Body and Faculty
 
@@ -147,7 +147,7 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 
 ### Physical Infrastructure
 
-**The Main Campus** ([[Millbrook]]): Sprawling complex of classical architecture enhanced with carefully integrated [[Architect Ruins|Architect]] systems
+**The Main Campus** ([Millbrook](Millbrook.md)): Sprawling complex of classical architecture enhanced with carefully integrated [Architect](Architect%20Ruins.md) systems
 
 **Research Facilities**:
 - **The Harmonic Laboratory**: Acoustically perfect space for studying sound-based phenomena
@@ -155,7 +155,7 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 - **The Temporal Observatory**: Specialized equipment for studying time-related effects
 - **The Material Testing Grounds**: Secure area for evaluating potentially explosive innovations
 
-**The Great Library**: Largest collection of technical and magical texts in [[Valdris]], including recovered [[Architect Ruins|Architect]] documents and extensive magical treatises
+**The Great Library**: Largest collection of technical and magical texts in [Valdris](Valdris.md), including recovered [Architect](Architect%20Ruins.md) documents and extensive magical treatises
 
 **Student Residences**: Housing for 650 students and visiting scholars, organized by academic interest rather than background
 
@@ -167,13 +167,13 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 
 **Tuition and Fees**: Significant but not prohibitive costs, with extensive scholarship programs
 
-**Consulting Income**: Faculty expertise hired by governments, organizations, and individuals across [[Valdris]]
+**Consulting Income**: Faculty expertise hired by governments, organizations, and individuals across [Valdris](Valdris.md)
 
-**Publishing Revenue**: Academy Press produces most technical and academic literature in [[Valdris]]
+**Publishing Revenue**: Academy Press produces most technical and academic literature in [Valdris](Valdris.md)
 
 ### Special Collections
 
-**[[Architect Ruins|Architect]] Artifact Archive**: Carefully preserved examples of ancient technology available for scholarly study
+**[Architect](Architect%20Ruins.md) Artifact Archive**: Carefully preserved examples of ancient technology available for scholarly study
 
 **Magical Component Library**: Extensive collection of rare materials for both research and instruction
 
@@ -199,9 +199,9 @@ Unlike purely magical academies or technical guilds, the Academy explicitly reje
 
 ### Research Initiatives
 
-**The Awakening Documentation Project**: Comprehensive study of all [[Timeline|Recent Awakening]] phenomena across [[Valdris]]
+**The Awakening Documentation Project**: Comprehensive study of all [Recent Awakening](Timeline.md) phenomena across [Valdris](Valdris.md)
 
-**Historical Reconstruction**: Attempting to piece together pre-[[Timeline|Great Silence]] knowledge through archaeological and magical investigation
+**Historical Reconstruction**: Attempting to piece together pre-[Great Silence](Timeline.md) knowledge through archaeological and magical investigation
 
 **Safety Standard Development**: Creating protocols for safely studying dangerous magical-technological combinations
 
@@ -251,7 +251,7 @@ The Academy maintains strict political neutrality through formal policies and pr
 
 ### Challenges to Neutrality
 
-The [[Timeline|Recent Awakening]] has increased pressure on Academy neutrality:
+The [Recent Awakening](Timeline.md) has increased pressure on Academy neutrality:
 
 **Research Restrictions**: Some governments want to classify Academy findings as state secrets
 
@@ -261,7 +261,7 @@ The [[Timeline|Recent Awakening]] has increased pressure on Academy neutrality:
 
 **Resource Demands**: Requests for exclusive access to Academy expertise
 
-**Ideological Conflicts**: External pressure to take positions on [[Architect Ruins|Architect]] technology
+**Ideological Conflicts**: External pressure to take positions on [Architect](Architect%20Ruins.md) technology
 
 ---
 
@@ -269,27 +269,27 @@ The [[Timeline|Recent Awakening]] has increased pressure on Academy neutrality:
 
 ### Cooperative Partnerships
 
-**[[Gear-Wright Guilds]]**: Strong collaboration on practical applications of theoretical research. Guild craftsmen provide real-world testing while Academy provides theoretical foundation.
+**[Gear-Wright Guilds](Gear-Wright%20Guilds.md)**: Strong collaboration on practical applications of theoretical research. Guild craftsmen provide real-world testing while Academy provides theoretical foundation.
 
-**Independent Scholars**: Network of individual researchers across [[Valdris]] who collaborate with Academy projects while maintaining their own work.
+**Independent Scholars**: Network of individual researchers across [Valdris](Valdris.md) who collaborate with Academy projects while maintaining their own work.
 
-**[[Millbrook]] Government**: Mutually beneficial relationship with host city, providing educational services in exchange for political protection.
+**[Millbrook](Millbrook.md) Government**: Mutually beneficial relationship with host city, providing educational services in exchange for political protection.
 
 **International Academies**: Exchange programs and collaborative research with magical academies in distant lands.
 
 ### Cautious Relationships
 
-**[[Tinker-Priests]]**: Respectful but philosophically different approach to [[Architect Ruins|Architect]] technology. Tinker-Priests appreciate Academy research but disapprove of purely academic approach to sacred mysteries.
+**[Tinker-Priests](Tinker-Priests.md)**: Respectful but philosophically different approach to [Architect](Architect%20Ruins.md) technology. Tinker-Priests appreciate Academy research but disapprove of purely academic approach to sacred mysteries.
 
-**[[Political Systems/Ruin-Holder Kingdoms]]**: Value Academy expertise but constantly pressure for exclusive access to research results.
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**: Value Academy expertise but constantly pressure for exclusive access to research results.
 
-**[[Political Systems/Wanderer Confederations]]**: Appreciate practical applications but skeptical of theoretical abstractions.
+**[Wanderer Confederations](Wanderer%20Confederations.md)**: Appreciate practical applications but skeptical of theoretical abstractions.
 
-**[[Political Systems/Ruin-Shunner Republics]]**: Support magical research but concerned about [[Architect Ruins|Architect]] technology studies.
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)**: Support magical research but concerned about [Architect](Architect%20Ruins.md) technology studies.
 
 ### Problematic Relationships
 
-**[[Silence-Keepers]]**: Fundamental opposition to Academy mission. Silence-Keepers view Academy research as dangerous meddling with forces beyond human understanding.
+**[Silence-Keepers](Silence-Keepers.md)**: Fundamental opposition to Academy mission. Silence-Keepers view Academy research as dangerous meddling with forces beyond human understanding.
 
 **Traditionalist Magical Schools**: Some purely magical institutions view Academy synthesis approach as corrupting pure magical practice.
 
@@ -304,20 +304,20 @@ The [[Timeline|Recent Awakening]] has increased pressure on Academy neutrality:
 **Professor Lydia Stormwright** (Arcane Chancellor)
 *Human, 67 years old, Specialist in Elemental Magic and Energy Systems*
 
-The Academy's political face, Professor Stormwright has successfully navigated complex diplomatic situations while maintaining scholarly integrity. Her research into how elemental magic interacts with [[Architect Ruins|Architect]] energy systems has revolutionized understanding of both fields.
+The Academy's political face, Professor Stormwright has successfully navigated complex diplomatic situations while maintaining scholarly integrity. Her research into how elemental magic interacts with [Architect](Architect%20Ruins.md) energy systems has revolutionized understanding of both fields.
 
 **Public Position**: Advocate for open research and international cooperation
 **Research Focus**: Integration of elemental magic with crystalline energy storage
 **Secret Concern**: Believes the Academy may be approaching discoveries too dangerous for current political climate
 
 **Professor Thaddeus Gearwind** (Mechanical Chancellor)
-*Gnome, 134 years old, Expert in [[Architect Ruins|Architect]] Mechanical Systems*
+*Gnome, 134 years old, Expert in [Architect](Architect%20Ruins.md) Mechanical Systems*
 
-The longest-serving member of Academy leadership, Professor Gearwind provides institutional memory and technical expertise. His theoretical work on [[Architect Ruins|Architect]] engineering principles forms the foundation for most current research.
+The longest-serving member of Academy leadership, Professor Gearwind provides institutional memory and technical expertise. His theoretical work on [Architect](Architect%20Ruins.md) engineering principles forms the foundation for most current research.
 
-**Public Position**: Methodical approach to understanding [[Architect Ruins|Architect]] technology
-**Research Focus**: Mathematical modeling of [[Architect Ruins|Architect]] mechanical principles
-**Secret Project**: Developing working theory for how [[Architect Ruins|Architect]] consciousness might function
+**Public Position**: Methodical approach to understanding [Architect](Architect%20Ruins.md) technology
+**Research Focus**: Mathematical modeling of [Architect](Architect%20Ruins.md) mechanical principles
+**Secret Project**: Developing working theory for how [Architect](Architect%20Ruins.md) consciousness might function
 
 **Professor Vera Brightbridge** (Chancellor of Synthesis)
 *Half-Elf, 89 years old, Pioneer of Magical-Technological Integration*
@@ -338,22 +338,22 @@ Youngest faculty member to achieve professor rank, known for intuitive understan
 **Doctoral Candidate Finn Brightgear**
 *Gnome, 24 years old, Mechanical Philosophy*
 
-Prodigy researcher whose doctoral thesis on [[Architect Ruins|Architect]] communication systems could revolutionize understanding of how ruins coordinate their activities.
+Prodigy researcher whose doctoral thesis on [Architect](Architect%20Ruins.md) communication systems could revolutionize understanding of how ruins coordinate their activities.
 
 **Graduate Student Elena Voidwhisper**
 *Tiefling, 27 years old, Arcane Arts*
 
-Specialized in studying how [[Timeline|Recent Awakening]] affects planar magic, her research suggests the awakening has implications beyond the material plane.
+Specialized in studying how [Recent Awakening](Timeline.md) affects planar magic, her research suggests the awakening has implications beyond the material plane.
 
 ---
 
 ## Recent Awakening Impact
 
-The [[Timeline|Recent Awakening]] has transformed the Academy from an academic institution into the most critical research organization in [[Valdris]]:
+The [Recent Awakening](Timeline.md) has transformed the Academy from an academic institution into the most critical research organization in [Valdris](Valdris.md):
 
 ### Research Opportunities
 
-**Unprecedented Data**: First chance to study active magical-technological synthesis since the [[Timeline|Great Silence]]
+**Unprecedented Data**: First chance to study active magical-technological synthesis since the [Great Silence](Timeline.md)
 
 **Theory Validation**: Long-held theoretical models now testable against actual phenomena
 
@@ -363,7 +363,7 @@ The [[Timeline|Recent Awakening]] has transformed the Academy from an academic i
 
 ### Institutional Challenges
 
-**Resource Strain**: Overwhelming demand for Academy expertise from across [[Valdris]]
+**Resource Strain**: Overwhelming demand for Academy expertise from across [Valdris](Valdris.md)
 
 **Safety Concerns**: New phenomena present unknown dangers to researchers and equipment
 
@@ -387,7 +387,7 @@ The [[Timeline|Recent Awakening]] has transformed the Academy from an academic i
 
 **Educational Reform**: Curriculum changes needed to address new realities
 
-**Institutional Evolution**: Academy's role in [[Valdris]] society potentially changing permanently
+**Institutional Evolution**: Academy's role in [Valdris](Valdris.md) society potentially changing permanently
 
 **Research Ethics**: New guidelines needed for studying potentially civilization-altering phenomena
 
@@ -437,11 +437,11 @@ The [[Timeline|Recent Awakening]] has transformed the Academy from an academic i
 
 ### Long-term Campaigns
 
-**The Lost Synthesis**: Discovering pre-[[Timeline|Great Silence]] documents that could revolutionize understanding
+**The Lost Synthesis**: Discovering pre-[Great Silence](Timeline.md) documents that could revolutionize understanding
 
-**The Awakening Mystery**: Investigating the true cause and implications of the [[Timeline|Recent Awakening]]
+**The Awakening Mystery**: Investigating the true cause and implications of the [Recent Awakening](Timeline.md)
 
-**The Knowledge War**: Protecting Academy neutrality during escalating political conflicts over [[Architect Ruins|Architect]] technology
+**The Knowledge War**: Protecting Academy neutrality during escalating political conflicts over [Architect](Architect%20Ruins.md) technology
 
 **The Next Great Silence**: Preventing another catastrophic loss of knowledge and civilization
 
@@ -449,7 +449,7 @@ The [[Timeline|Recent Awakening]] has transformed the Academy from an academic i
 
 ## Conclusion
 
-The Academy of Dual Mysteries stands at the intersection of knowledge and power, wisdom and danger, in a world where the boundaries between magic and technology are dissolving. As the [[Timeline|Recent Awakening]] reshapes [[Valdris]], the Academy faces the greatest challenge in its three-century history: maintaining scholarly neutrality while possessing knowledge that could determine the future of civilization.
+The Academy of Dual Mysteries stands at the intersection of knowledge and power, wisdom and danger, in a world where the boundaries between magic and technology are dissolving. As the [Recent Awakening](Timeline.md) reshapes [Valdris](Valdris.md), the Academy faces the greatest challenge in its three-century history: maintaining scholarly neutrality while possessing knowledge that could determine the future of civilization.
 
 Whether the Academy will emerge as the guide for a new age of integrated understanding or become a casualty of the forces it studies depends largely on its ability to balance competing demands for its expertise while staying true to its fundamental mission: the pursuit of knowledge in service of truth, not power.
 
@@ -462,4 +462,4 @@ In laboratories and lecture halls across the campus, students and faculty contin
 
 ---
 
-*See also: [[Gear-Wright Guilds]], [[Tinker-Priests]], [[Silence-Keepers]], [[Millbrook]], [[Timeline|Recent Awakening]], [[Architect Ruins]], [[Technology/Architect Technology]], [[Lore/Magic in Valdris]]*
+*See also: [Gear-Wright Guilds](Gear-Wright%20Guilds.md), [Tinker-Priests](Tinker-Priests.md), [Silence-Keepers](Silence-Keepers.md), [Millbrook](Millbrook.md), [Recent Awakening](Timeline.md), [Architect Ruins](Architect%20Ruins.md), [Architect Technology](Architect%20Technology.md), [Magic in Valdris](Magic%20in%20Valdris.md)*

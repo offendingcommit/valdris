@@ -6,9 +6,9 @@
 
 ## Introduction
 
-The lighthouse network stands as one of the most visible and vital applications of [[Architect Ruins|Architect]] technology across [[Valdris]]. These magnificent beacons, burning without fuel and visible for impossible distances, have shaped trade routes, enabled exploration, and connected disparate communities for eight centuries since the [[Great Silence]].
+The lighthouse network stands as one of the most visible and vital applications of [Architect](Architect%20Ruins.md) technology across [Valdris](Valdris.md). These magnificent beacons, burning without fuel and visible for impossible distances, have shaped trade routes, enabled exploration, and connected disparate communities for eight centuries since the [Great Silence](Great%20Silence.md).
 
-The [[Recent Awakening]] has brought unprecedented changes to this ancient network, with new beacons awakening and existing lights exhibiting behaviors that challenge our understanding of their purpose.
+The [Recent Awakening](Recent%20Awakening.md) has brought unprecedented changes to this ancient network, with new beacons awakening and existing lights exhibiting behaviors that challenge our understanding of their purpose.
 
 ## The Continental Lighthouse Network
 
@@ -21,7 +21,7 @@ The lighthouse system operates as an integrated continental network comprising o
 - Range: Visible up to 100 miles in clear conditions
 - Function: Primary navigation points and network hubs
 - Power: Massive harmonic crystal arrays
-- Status: All operational since the [[Great Silence]]
+- Status: All operational since the [Great Silence](Great%20Silence.md)
 
 **Secondary Lighthouses** (47 Regional Beacons):
 - Height: 100-200 feet tall
@@ -35,7 +35,7 @@ The lighthouse system operates as an integrated continental network comprising o
 - Range: 10-30 mile visibility
 - Function: Local navigation and port guidance
 - Power: Small crystal arrays or single stones
-- Status: Variable, many newly awakened since [[Recent Awakening]]
+- Status: Variable, many newly awakened since [Recent Awakening](Recent%20Awakening.md)
 
 ### Geographic Distribution
 
@@ -85,7 +85,7 @@ The lighthouse network operates through sophisticated harmonic resonance:
 - Navigation update distribution
 - Emergency alert propagation
 - Status monitoring and health checks
-- Coordination with other [[Architect Ruins|Architect]] systems
+- Coordination with other [Architect](Architect%20Ruins.md) systems
 
 ### Power Systems
 
@@ -138,7 +138,7 @@ The lighthouse network operates through sophisticated harmonic resonance:
 ### Maritime Navigation
 
 **Coastal Navigation**:
-The lighthouse network has revolutionized sea travel along [[Valdris]]'s extensive coastline:
+The lighthouse network has revolutionized sea travel along [Valdris](Valdris.md)'s extensive coastline:
 
 **Harbor Approach Systems**:
 - Complex light patterns guide ships through dangerous passages
@@ -214,7 +214,7 @@ Inland lighthouses guide the vast overland trade networks:
 
 ### Enhanced Coordination
 
-Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedented coordination:
+Since the [Recent Awakening](Recent%20Awakening.md), the lighthouse network has exhibited unprecedented coordination:
 
 **Synchronized Activations**:
 - Previously dormant lighthouses coming online simultaneously
@@ -228,7 +228,7 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 - New data encoding methods observed
 - Enhanced weather prediction accuracy
 - Extended communication range
-- Integration with other [[Architect Ruins|Architect]] communication systems
+- Integration with other [Architect](Architect%20Ruins.md) communication systems
 
 **Adaptive Responses**:
 - Real-time route optimization based on conditions
@@ -240,7 +240,7 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 ### New Beacon Activations
 
 **Recently Activated Sites**:
-- 23 new lighthouses have activated since the [[Recent Awakening]]
+- 23 new lighthouses have activated since the [Recent Awakening](Recent%20Awakening.md)
 - Previously unknown beacon sites revealing themselves
 - Expansion of network coverage to previously unserved areas
 - Activation of ancient beacon sites thought permanently dark
@@ -251,7 +251,7 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 - Previously inaccessible regions opening for exploration
 - Shifts in economic and political power balance
 - Enhanced connectivity between isolated communities
-- Potential discovery of new [[Architect Ruins|Architect]] sites
+- Potential discovery of new [Architect](Architect%20Ruins.md) sites
 
 ### Changed Light Patterns
 
@@ -263,7 +263,7 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 - Development of bidirectional communication capabilities
 
 **Interpretation Challenges**:
-- [[Gear-Wright Profession|Gear-Wrights]] and navigators relearning light pattern meanings
+- [Gear-Wrights](Gear-Wright%20Profession.md) and navigators relearning light pattern meanings
 - Regional variations in new pattern interpretations
 - Need for updated navigation training and certification
 - Coordination between different political systems for standardization
@@ -323,24 +323,24 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 
 ### Regional Tool Variations
 
-**[[Ruin-Holder Kingdoms]]**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**:
 - **Royal Navigation Sets**: Enhanced tools with access to restricted lighthouse data
 - **Military Coordinators**: Specialized equipment for naval and army coordination
 - **Border Monitors**: Tools for tracking and controlling territorial boundaries
 - **Diplomatic Couriers**: Secure communication through lighthouse networks
 - **Treasury Trackers**: Economic monitoring using lighthouse trade data
 
-**[[Wanderer Confederations]]**:
+**[Wanderer Confederations](Wanderer%20Confederations.md)**:
 - **Clan Coordinators**: Tools for coordinating nomadic group movements
 - **Seasonal Guides**: Navigation aids adapted to migration patterns
 - **Resource Finders**: Lighthouse integration for locating temporary resources
 - **Cultural Preservers**: Tools that maintain traditional navigation methods
 - **Spirit Interpreters**: Integration of lighthouse data with spiritual practices
 
-**[[Ruin-Shunner Communities]]**:
+**[Ruin-Shunner Communities](Ruin-Shunner%20Communities.md)**:
 - **Alternative Navigators**: Traditional tools with minimal lighthouse dependence
 - **Independence Monitors**: Detection tools for avoiding lighthouse influence
-- **Backup Systems**: Non-[[Architect Ruins|Architect]] alternatives to lighthouse navigation
+- **Backup Systems**: Non-[Architect](Architect%20Ruins.md) alternatives to lighthouse navigation
 - **Isolation Aids**: Tools for maintaining community separation
 - **Warning Detectors**: Early warning systems for lighthouse activity changes
 
@@ -408,14 +408,14 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 **Potential Developments**:
 - Further expansion of lighthouse network coverage
 - Enhanced communication capabilities and data capacity
-- Integration with other [[Architect Ruins|Architect]] technological systems
+- Integration with other [Architect](Architect%20Ruins.md) technological systems
 - Development of bidirectional communication with users
 - Adaptation to changing human civilization patterns
 
 **Technological Advancement**:
 - Improved navigation accuracy and route optimization
 - Enhanced weather prediction and disaster warning
-- Integration with [[Mechanical Constructs|Mechanical Construct]] systems
+- Integration with [Mechanical Construct](Mechanical%20Constructs.md) systems
 - Development of consciousness-level interaction capabilities
 - Evolution toward true artificial intelligence network
 
@@ -463,22 +463,22 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 ### Lighthouse Maintenance
 
 **Routine Maintenance**:
-- Crystal cleaning and harmonic tuning performed by [[Gear-Wright Profession|Gear-Wrights]]
+- Crystal cleaning and harmonic tuning performed by [Gear-Wrights](Gear-Wright%20Profession.md)
 - Structural inspection and repair of lighthouse buildings
 - Lens and mirror adjustment for optimal light projection
 - Communication equipment testing and calibration
 - Emergency system verification and testing
 
 **Specialized Maintenance**:
-- [[Tinker-Priests]] perform harmonic blessing and spiritual maintenance
+- [Tinker-Priests](Tinker-Priests.md) perform harmonic blessing and spiritual maintenance
 - Network coordination specialists ensure proper integration
-- Crystal replacement and upgrade using [[Architect Materials]]
-- Advanced diagnostic and repair using [[Mechanical Constructs]]
+- Crystal replacement and upgrade using [Architect Materials](Architect%20Materials.md)
+- Advanced diagnostic and repair using [Mechanical Constructs](Mechanical%20Constructs.md)
 - Emergency repair and temporary operation procedures
 
 **Maintenance Challenges**:
 - Access to remote and dangerous lighthouse locations
-- Specialized knowledge required for [[Architect Ruins|Architect]] technology
+- Specialized knowledge required for [Architect](Architect%20Ruins.md) technology
 - Limited availability of replacement parts and materials
 - Coordination requirements for network-wide maintenance
 - Safety hazards from high-energy harmonic systems
@@ -493,7 +493,7 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 - Cultural and diplomatic liaison roles
 
 **Technical Specialists**:
-- [[Gear-Wright Profession|Gear-Wrights]] specializing in lighthouse technology
+- [Gear-Wrights](Gear-Wright%20Profession.md) specializing in lighthouse technology
 - Network communication coordinators and operators
 - Emergency response specialists and rescue coordinators
 - Navigation training instructors and certification authorities
@@ -508,16 +508,16 @@ Since the [[Recent Awakening]], the lighthouse network has exhibited unprecedent
 
 ## Conclusion
 
-The lighthouse network represents one of humanity's most successful integrations with [[Architect Ruins|Architect]] technology. These eternal beacons have enabled the development of civilization across [[Valdris]] by providing reliable navigation, communication, and coordination capabilities.
+The lighthouse network represents one of humanity's most successful integrations with [Architect](Architect%20Ruins.md) technology. These eternal beacons have enabled the development of civilization across [Valdris](Valdris.md) by providing reliable navigation, communication, and coordination capabilities.
 
-As the [[Recent Awakening]] brings new capabilities and challenges to the lighthouse network, humanity must adapt its understanding and use of these vital systems. Whether the lighthouses will continue to serve as faithful guides or evolve into something beyond our comprehension, they remain central to the future of civilization on [[Valdris]].
+As the [Recent Awakening](Recent%20Awakening.md) brings new capabilities and challenges to the lighthouse network, humanity must adapt its understanding and use of these vital systems. Whether the lighthouses will continue to serve as faithful guides or evolve into something beyond our comprehension, they remain central to the future of civilization on [Valdris](Valdris.md).
 
 *By the light of ancient wisdom, we navigate the turning of the age.*
 
 ---
 
-*For related technologies, see: [[Technology/Architect Technology Overview]], [[Technology/Mechanical Constructs]], [[Technology/Gear-Wright Profession]]*
+*For related technologies, see: [Architect Technology Overview](Architect%20Technology%20Overview.md), [Mechanical Constructs](Mechanical%20Constructs.md), [Gear-Wright Profession](Gear-Wright%20Profession.md)*
 
-*For lighthouse locations, see: [[Settlements/Grimhaven]], [[Architect Ruins/Thymeris the Golden]], [[World Map]]*
+*For lighthouse locations, see: [Grimhaven](Grimhaven.md), [Thymeris the Golden](Thymeris%20the%20Golden.md), [World Map](World%20Map.md)*
 
-*For navigation training, see: [[Gear-Wright Profession]], [[Tinker-Priests]]*
+*For navigation training, see: [Gear-Wright Profession](Gear-Wright%20Profession.md), [Tinker-Priests](Tinker-Priests.md)*

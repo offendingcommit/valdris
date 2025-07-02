@@ -4,23 +4,23 @@
 
 ## Quick Navigation
 
-- [[#The Two-Tier System]]
-- [[#Traditional Economy]]
-- [[#Architect Economy]]
-- [[#Exchange Mechanisms]]
-- [[#Regional Variations]]
-- [[#Recent Awakening Impact]]
-- [[#Adventure Opportunities]]
+- [#The Two-Tier System](%23The%20Two-Tier%20System.md)
+- [#Traditional Economy](%23Traditional%20Economy.md)
+- [#Architect Economy](%23Architect%20Economy.md)
+- [#Exchange Mechanisms](%23Exchange%20Mechanisms.md)
+- [#Regional Variations](%23Regional%20Variations.md)
+- [#Recent Awakening Impact](%23Recent%20Awakening%20Impact.md)
+- [#Adventure Opportunities](%23Adventure%20Opportunities.md)
 
 ---
 
 ## The Two-Tier System
 
-[[Valdris]] operates under a unique **dual economy** where traditional medieval commerce coexists uneasily with the mystical market for [[Architect Technology|Architect artifacts]]. This creates a complex economic landscape where a farmer might trade grain for silver one morning and examine a clockwork marvel worth more than his farm that same afternoon.
+[Valdris](Valdris.md) operates under a unique **dual economy** where traditional medieval commerce coexists uneasily with the mystical market for [Architect artifacts](Architect%20Technology.md). This creates a complex economic landscape where a farmer might trade grain for silver one morning and examine a clockwork marvel worth more than his farm that same afternoon.
 
-The traditional economy handles daily necessities—food, clothing, tools, livestock—using established currencies and barter systems that have served human civilization for millennia. Parallel to this runs the Architect economy, dealing in mysterious relics from the [[Lore/The Great Silence|vanished civilization]] that can light cities, preserve food indefinitely, or make difficult tasks effortless.
+The traditional economy handles daily necessities—food, clothing, tools, livestock—using established currencies and barter systems that have served human civilization for millennia. Parallel to this runs the Architect economy, dealing in mysterious relics from the [vanished civilization](Lore/The%20Great%20Silence.md) that can light cities, preserve food indefinitely, or make difficult tasks effortless.
 
-This separation isn't academic; it fundamentally shapes society. Traditional merchants understand supply and demand, seasonal pricing, and trade routes. But place a **harmonic resonance crystal** before them, and they're as lost as any peasant. Meanwhile, artifact dealers navigate markets where value depends on functionality, rarity, authentication, and mysterious properties that might emerge during [[Timeline|the Recent Awakening]].
+This separation isn't academic; it fundamentally shapes society. Traditional merchants understand supply and demand, seasonal pricing, and trade routes. But place a **harmonic resonance crystal** before them, and they're as lost as any peasant. Meanwhile, artifact dealers navigate markets where value depends on functionality, rarity, authentication, and mysterious properties that might emerge during [the Recent Awakening](Timeline.md).
 
 ## Traditional Economy
 
@@ -40,11 +40,11 @@ Exchange rates fluctuate based on regional politics, trade route security, and m
 
 **Agricultural Products** dominate traditional trade:
 - **Grain varietals**: Heartland wheat commands premium prices in coastal cities
-- **Preserved foods**: Salt fish from [[Settlements/Grimhaven]] reaches inland markets
+- **Preserved foods**: Salt fish from [Grimhaven](Grimhaven.md) reaches inland markets
 - **Luxury consumables**: Spices, wines, exotic fruits follow established routes
 
 **Craft Goods** provide regional specialization:
-- **Textiles**: Wool from [[Regions/The Quiet Lands]], linen from river valleys
+- **Textiles**: Wool from [The Quiet Lands](The%20Quiet%20Lands.md), linen from river valleys
 - **Metalwork**: Traditional smithing (distinct from Architect-enhanced production)
 - **Pottery and glassware**: Essential household items following ancient techniques
 
@@ -58,7 +58,7 @@ Exchange rates fluctuate based on regional politics, trade route security, and m
 Traditional commerce organizes around established guild structures:
 
 **Merchant Houses** control major trade:
-- **Golden Compass Trading Company**: Dominates sea routes from [[Settlements/Grimhaven]]
+- **Golden Compass Trading Company**: Dominates sea routes from [Grimhaven](Grimhaven.md)
 - **Heartland Consortium**: Overland routes between major settlements
 - **Free Traders Alliance**: Independent merchants refusing guild hierarchies
 
@@ -87,23 +87,23 @@ Value increases exponentially with each grade. A Grade I item might trade for a 
 **Verification Specialists** prevent fraud:
 - **The Brass Examiners**: Elite guild of artifact authenticators
 - **Crystal Truth-Seekers**: Specialists using Architect devices to detect forgeries
-- **Academic Assessors**: Scholars from the [[Factions & Organizations/Academy of Dual Mysteries]]
+- **Academic Assessors**: Scholars from the [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md)
 
 Authentication costs range from 10-50% of estimated value, but verified artifacts command substantial premiums. Forgeries are sophisticated, sometimes incorporating lower-grade genuine components.
 
 ### Major Trading Centers
 
-**[[Settlements/Grimhaven]] Artifact Exchange**: Largest market, specializing in maritime-discovered relics
+**[Grimhaven](Grimhaven.md) Artifact Exchange**: Largest market, specializing in maritime-discovered relics
 - Daily trading volume: 200-500 artifacts
 - Specialties: Navigation devices, weather-controllers, lighthouse mechanisms
 - Notable auctions: Monthly "Deep Finds" featuring recovered Grade IV-V items
 
-**Thymeris Acquisition Guild**: Exclusive market for artifacts from [[Architect Ruins/Thymeris the Golden]]
-- Access restricted to licensed dealers and [[Factions & Organizations/Tinker-Priests]]
+**Thymeris Acquisition Guild**: Exclusive market for artifacts from [Thymeris the Golden](Thymeris%20the%20Golden.md)
+- Access restricted to licensed dealers and [Tinker-Priests](Tinker-Priests.md)
 - Primary goods: Fresh excavations, previously unknown device types
 - Recent expansion: New chambers opening weekly since the Awakening
 
-**Wanderer Circuit Traders**: Mobile markets following [[Political Systems/Wanderer Confederations]] routes
+**Wanderer Circuit Traders**: Mobile markets following [Wanderer Confederations](Wanderer%20Confederations.md) routes
 - Seasonal gatherings at predetermined sites
 - Specialties: Portable artifacts, travel-enhancing devices
 - Cultural element: Trading ceremonies blending commerce with spiritual practices
@@ -205,14 +205,14 @@ Economies dominated by state-controlled artifact extraction:
 ### Supply Disruptions
 
 **Increased Productivity** from previously dormant sites:
-- [[Architect Ruins/Thymeris the Golden]]: New chambers opening monthly
-- [[Architect Ruins/Walking Gardens of Yss'andra]]: Accelerated movement creating new access points
-- [[Architect Ruins/Singing Spires of Kelathon]]: Musical patterns enabling new resonance discoveries
+- [Thymeris the Golden](Thymeris%20the%20Golden.md): New chambers opening monthly
+- [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md): Accelerated movement creating new access points
+- [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md): Musical patterns enabling new resonance discoveries
 
 **Route Instabilities** affecting traditional trade:
 - Merchant caravans reporting temporal anomalies near active ruins
 - Sea routes disrupted by underwater ruins beginning to emit energy signatures
-- [[Political Systems/Wanderer Confederations]] forced to adapt traditional paths
+- [Wanderer Confederations](Wanderer%20Confederations.md) forced to adapt traditional paths
 
 ### Market Volatility
 
@@ -234,7 +234,7 @@ Economies dominated by state-controlled artifact extraction:
 - **Emergency Relocation**: Services for settlements threatened by unstable ruins
 
 **Research Investment** increasing dramatically:
-- [[Factions & Organizations/Academy of Dual Mysteries]] receiving unprecedented funding
+- [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) receiving unprecedented funding
 - Private laboratories studying awakening patterns
 - Military applications research creating secretive markets
 
@@ -242,7 +242,7 @@ Economies dominated by state-controlled artifact extraction:
 
 ### Economic Intrigue
 
-**"The Forgery Ring"**: Sophisticated counterfeiters are flooding markets with fake Grade III artifacts that pass initial authentication. Players must investigate the source, which leads to a corrupt member of the [[Factions & Organizations/Tinker-Priests]] using genuine components to create convincing fakes.
+**"The Forgery Ring"**: Sophisticated counterfeiters are flooding markets with fake Grade III artifacts that pass initial authentication. Players must investigate the source, which leads to a corrupt member of the [Tinker-Priests](Tinker-Priests.md) using genuine components to create convincing fakes.
 
 **"Market Manipulation"**: A wealthy merchant house is artificially creating artifact shortages by purchasing entire supplies and hiding them in warehouse ruins. Their goal is to corner the market before a major political summit where artifacts will be exchanged as diplomatic gifts.
 
@@ -254,7 +254,7 @@ Economies dominated by state-controlled artifact extraction:
 
 **"The Merchant's Dilemma"**: A traditional trading house asks players to escort a caravan carrying both conventional goods and a Grade IV artifact. The route passes through territories where each economy dominates, creating complex diplomatic and security challenges.
 
-**"Economic Espionage"**: Competing kingdoms want intelligence about each other's artifact production capabilities. Players find themselves caught between [[Political Systems/Ruin-Holder Kingdoms]] and [[Political Systems/Ruin-Shunner Republics]] as economic spies with divided loyalties.
+**"Economic Espionage"**: Competing kingdoms want intelligence about each other's artifact production capabilities. Players find themselves caught between [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) and [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) as economic spies with divided loyalties.
 
 ### Awakening Economics
 
@@ -268,18 +268,18 @@ Economies dominated by state-controlled artifact extraction:
 
 ## Related Documentation
 
-- **[[Lore/Dual Economy]]**: Detailed historical development
-- [[Economics & Trade/Currency & Banking]]: Financial systems analysis
-- [[Economics & Trade/Trade Routes & Networks]]: Commercial infrastructure
-- [[Economics & Trade/Resource Distribution]]: Material economics
-- [[Economics & Trade/Guild Economics]]: Professional structures
-- [[Political Systems/Ruin-Holder Kingdoms]]: Artifact-based governance
-- [[Political Systems/Wanderer Confederations]]: Mobile trading cultures
-- [[Political Systems/Ruin-Shunner Republics]]: Traditional economy focus
-- [[Timeline]]: Economic historical context
+- **[Dual Economy](Dual%20Economy.md)**: Detailed historical development
+- [Currency & Banking](Currency%20%26%20Banking.md): Financial systems analysis
+- [Trade Routes & Networks](Trade%20Routes%20%26%20Networks.md): Commercial infrastructure
+- [Resource Distribution](Resource%20Distribution.md): Material economics
+- [Guild Economics](Guild%20Economics.md): Professional structures
+- [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md): Artifact-based governance
+- [Wanderer Confederations](Wanderer%20Confederations.md): Mobile trading cultures
+- [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md): Traditional economy focus
+- [Timeline](Timeline.md): Economic historical context
 
 ---
 
-*The [Dual Economy](Dual%20Economy.md) shapes every aspect of life in [[Valdris]], from the humblest farmer calculating whether artifact-enhanced tools justify their cost to kings negotiating treaties with Grade V artifacts as dowries.*
+*The [Dual Economy](Dual%20Economy.md) shapes every aspect of life in [Valdris](Valdris.md), from the humblest farmer calculating whether artifact-enhanced tools justify their cost to kings negotiating treaties with Grade V artifacts as dowries.*
 
 #economics #dual-economy #trade #valdris #awakening

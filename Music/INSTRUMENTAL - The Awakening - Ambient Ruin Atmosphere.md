@@ -43,9 +43,9 @@
 ---
 
 ## Campaign Usage
-- Perfect for exploring [[Architect Ruins]]
-- Background music for [[Thymeris the Golden]] scenes
-- Atmosphere during [[Recent Awakening]] events
+- Perfect for exploring [Architect Ruins](Architect%20Ruins.md)
+- Background music for [Thymeris the Golden](Thymeris%20the%20Golden.md) scenes
+- Atmosphere during [Recent Awakening](Recent%20Awakening.md) events
 - General mysterious ruin exploration
 - Can be looped for extended dungeon scenes
 - Links to all major ruins and awakening themes

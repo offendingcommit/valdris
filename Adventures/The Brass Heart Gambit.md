@@ -6,16 +6,16 @@
 
 ## Adventure Overview
 
-**Location:** [[Lady Aurelia Brass-Heart]]'s estate in [[The Heartlands]] and the awakened artifact vault
+**Location:** [Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)'s estate in [The Heartlands](The%20Heartlands.md) and the awakened artifact vault
 **Party Level:** 5-7 (Optimized for 4-6 characters)
 **Duration:** 5-7 sessions
 **Themes:** Heist Planning, Multiple Entry Points, Faction Competition, Awakening Technology, Moral Ambiguity
 
-The **Heart of Harmonic Resonance**—an [[Architect]] artifact of unprecedented power—lies within the heavily guarded collection of [[Lady Aurelia Brass-Heart]], the most influential [[Ruin-Holder Kingdoms|Ruin-Holder]] noble in [[The Heartlands]]. For two centuries, her family has used the artifact as the centerpiece of their collection, a symbol of their mastery over [[Architect Technology]]. But [[The Recent Awakening]] has changed everything.
+The **Heart of Harmonic Resonance**—an [Architect](Architect.md) artifact of unprecedented power—lies within the heavily guarded collection of [Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md), the most influential [Ruin-Holder](Ruin-Holder%20Kingdoms.md) noble in [The Heartlands](The%20Heartlands.md). For two centuries, her family has used the artifact as the centerpiece of their collection, a symbol of their mastery over [Architect Technology](Architect%20Technology.md). But [The Recent Awakening](The%20Recent%20Awakening.md) has changed everything.
 
-Three weeks ago, the Heart began pulsing with new energy, creating harmonic resonances that affect every [[Architect]] device within fifty miles. The artifact has become so powerful that it could revolutionize technology across [[Valdris]]—or serve as the ultimate weapon in the wrong hands. Now five different factions have independently hired teams to steal the Heart, each believing their cause justifies the theft.
+Three weeks ago, the Heart began pulsing with new energy, creating harmonic resonances that affect every [Architect](Architect.md) device within fifty miles. The artifact has become so powerful that it could revolutionize technology across [Valdris](Valdris.md)—or serve as the ultimate weapon in the wrong hands. Now five different factions have independently hired teams to steal the Heart, each believing their cause justifies the theft.
 
-The party finds themselves in the middle of the most complex heist in [[Valdris]] history, racing against competing teams while navigating political intrigue, advanced security systems, and the unpredictable behavior of an awakening artifact that may have its own agenda.
+The party finds themselves in the middle of the most complex heist in [Valdris](Valdris.md) history, racing against competing teams while navigating political intrigue, advanced security systems, and the unpredictable behavior of an awakening artifact that may have its own agenda.
 
 ---
 
@@ -25,24 +25,24 @@ The party finds themselves in the middle of the most complex heist in [[Valdris]
 
 Originally discovered in the ruins of **Silverquill Scriptorium** 200 years ago, the Heart appears to be a crystalline sphere approximately eight inches in diameter, suspended within a framework of brass and copper. Its surface constantly shifts between transparent crystal and polished metal, with complex geometric patterns flowing across its surface.
 
-**Historical Function:** The Heart served as a master control device for coordinating multiple [[Architect]] sites across vast distances. During the [[Architect]] era, it could harmonize the activities of dozens of ruins to achieve continent-spanning projects.
+**Historical Function:** The Heart served as a master control device for coordinating multiple [Architect](Architect.md) sites across vast distances. During the [Architect](Architect.md) era, it could harmonize the activities of dozens of ruins to achieve continent-spanning projects.
 
-**Current Status:** [[The Recent Awakening]] has restored the Heart to near-full functionality. It now actively communicates with every awakened ruin in [[Valdris]], creating an unprecedented opportunity for technological advancement—or catastrophic misuse.
+**Current Status:** [The Recent Awakening](The%20Recent%20Awakening.md) has restored the Heart to near-full functionality. It now actively communicates with every awakened ruin in [Valdris](Valdris.md), creating an unprecedented opportunity for technological advancement—or catastrophic misuse.
 
 **Powers Awakened:**
-- **Harmonic Command:** Control and coordinate any [[Architect]] technology within 50 miles
-- **Resonance Amplification:** Enhance the capabilities of nearby [[Architect]] devices by 500-1000%
+- **Harmonic Command:** Control and coordinate any [Architect](Architect.md) technology within 50 miles
+- **Resonance Amplification:** Enhance the capabilities of nearby [Architect](Architect.md) devices by 500-1000%
 - **Network Interface:** Direct communication with all awakened ruins across the continent
 - **Probability Manipulation:** Limited ability to alter local reality through harmonic frequencies
 
 ### The Brass-Heart Estate
 
-**[[Lady Aurelia Brass-Heart]]** maintains her primary residence in **Aurelius Manor**, a sprawling estate built around a minor [[Architect]] ruin in the rolling hills outside [[Thymeris the Golden]]. The manor complex includes the main residence, guest quarters, servant buildings, and the **Vault of Wonders**—a specialized facility designed to house and study [[Architect]] artifacts.
+**[Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)** maintains her primary residence in **Aurelius Manor**, a sprawling estate built around a minor [Architect](Architect.md) ruin in the rolling hills outside [Thymeris the Golden](Thymeris%20the%20Golden.md). The manor complex includes the main residence, guest quarters, servant buildings, and the **Vault of Wonders**—a specialized facility designed to house and study [Architect](Architect.md) artifacts.
 
 **Security Overview:**
-- **Physical:** Stone walls, guard towers, patrols of [[Order of the Brass Tower]] soldiers
+- **Physical:** Stone walls, guard towers, patrols of [Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md) soldiers
 - **Magical:** Enchanted barriers, scrying detection, alarm spells
-- **Technological:** [[Architect]] security devices powered by minor artifacts
+- **Technological:** [Architect](Architect.md) security devices powered by minor artifacts
 - **Personnel:** 30 guards, 12 servants, 8 researchers, plus Lady Aurelia and her retinue
 
 **Recent Changes:** The Heart's awakening has supercharged the estate's security systems. What were once static defenses are now adaptive, learning barriers that respond to intrusion attempts with increasing sophistication.
@@ -50,36 +50,36 @@ Originally discovered in the ruins of **Silverquill Scriptorium** 200 years ago,
 ### The Five Competing Heists
 
 #### Team 1: The Tinker-Priest Mission
-**Employer:** High Mechanist Korvan Brasshand ([[Tinker-Priests]] leadership)
+**Employer:** High Mechanist Korvan Brasshand ([Tinker-Priests](Tinker-Priests.md) leadership)
 **Objective:** Claim the Heart as divine artifact wrongfully hoarded by nobility
 **Team Leader:** Mechanist-Adept Vera Brightwheel *(Rock Gnome Cleric, CR 4)*
 **Approach:** Infiltration during religious ceremony, blessing the artifact to justify "liberation"
 **Timeline:** Planning to strike during Festival of Brass (3 days from adventure start)
 
 #### Team 2: The Academic Consortium
-**Employer:** [[Academy of Dual Mysteries]] research council
+**Employer:** [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) research council
 **Objective:** Secure Heart for scientific study and peaceful development
 **Team Leader:** Master Scholar Aldwin Goldquill *(Human Wizard, CR 5)*
 **Approach:** Social infiltration, bribery, and bureaucratic maneuvering
 **Timeline:** Ongoing negotiations with Lady Aurelia, preparing backup theft plan
 
 #### Team 3: The Ruin-Shunner Resistance
-**Employer:** [[Ruin-Shunner Republics]] underground movement
+**Employer:** [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) underground movement
 **Objective:** Destroy the Heart to prevent technological supremacy over traditional craftsmanship
 **Team Leader:** Shadow-Wright Kira Ironroot *(Dwarf Rogue, CR 4)*
 **Approach:** Sabotage mission disguised as theft, plan to trigger cascade failure
 **Timeline:** Immediate action before Heart's power grows beyond containment
 
 #### Team 4: The Wanderer Acquisition
-**Employer:** [[Council of Pathfinders]] through intermediary
+**Employer:** [Council of Pathfinders](Council%20of%20Pathfinders.md) through intermediary
 **Objective:** Trade Heart to foreign powers for territorial concessions and technology sharing
 **Team Leader:** Pathfinder Captain Zara Starwind *(Human Ranger, CR 5)*
 **Approach:** Professional heist using mobility and environmental advantages
 **Timeline:** Waiting for optimal weather conditions and guard rotation patterns
 
 #### Team 5: The Noble Conspiracy
-**Employer:** House Brass-Meridian ([[Ruin-Holder Kingdoms]] rival family)
-**Objective:** Claim Heart to break Brass-Heart monopoly on [[Architect]] technology
+**Employer:** House Brass-Meridian ([Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) rival family)
+**Objective:** Claim Heart to break Brass-Heart monopoly on [Architect](Architect.md) technology
 **Team Leader:** Sir Marcus Brass-Meridian *(Human Paladin, CR 6)*
 **Approach:** Legal maneuvering backed by military force and political pressure
 **Timeline:** Building legal case while preparing forcible seizure option
@@ -89,11 +89,11 @@ Originally discovered in the ruins of **Silverquill Scriptorium** 200 years ago,
 The party can be hired by any of the five factions, work independently, or even be employed by Lady Aurelia to defend against the theft attempts. Each employer offers different resources and moral justifications:
 
 **Employment Benefits by Faction:**
-- **[[Tinker-Priests]]:** Religious authority, technological expertise, moral clarity
-- **[[Academy of Dual Mysteries]]:** Research support, arcane knowledge, institutional backing
-- **[[Ruin-Shunner Republics]]:** Local contacts, anti-establishment sentiment, righteous cause
-- **[[Wanderer Confederations]]:** Mobility tools, environmental knowledge, political neutrality
-- **[[Ruin-Holder Kingdoms]]:** Financial resources, political influence, legal authority
+- **[Tinker-Priests](Tinker-Priests.md):** Religious authority, technological expertise, moral clarity
+- **[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md):** Research support, arcane knowledge, institutional backing
+- **[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md):** Local contacts, anti-establishment sentiment, righteous cause
+- **[Wanderer Confederations](Wanderer%20Confederations.md):** Mobility tools, environmental knowledge, political neutrality
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md):** Financial resources, political influence, legal authority
 - **Lady Aurelia:** Insider knowledge, defensive position, moral complexity
 
 ---
@@ -102,22 +102,22 @@ The party can be hired by any of the five factions, work independently, or even 
 
 ### The Target and Defenders
 
-**[[Lady Aurelia Brass-Heart]]** *(Human Noble, CR 7)*
+**[Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)** *(Human Noble, CR 7)*
 - **Role:** Primary target, owner of the Heart, and potential ally or enemy
-- **Appearance:** Elegant woman in her forties, wearing subtle [[Architect]] jewelry that enhances her natural charisma
+- **Appearance:** Elegant woman in her forties, wearing subtle [Architect](Architect.md) jewelry that enhances her natural charisma
 - **Personality:** Sophisticated and politically savvy, genuinely believes in responsible stewardship of dangerous technology
 - **Motivation:** Protect her family's legacy while preventing catastrophic misuse of the Heart
 - **Secret:** The Heart has been communicating with her telepathically since awakening, showing her visions of possible futures
 
 **Captain-Commander Theron Brassguard** *(Human Fighter, CR 6)*
-- **Role:** Head of estate security and [[Order of the Brass Tower]] veteran
+- **Role:** Head of estate security and [Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md) veteran
 - **Appearance:** Scarred middle-aged man in ceremonial brass-inlaid armor, carries family sword
 - **Personality:** Loyal and competent, takes personal pride in protecting House Brass-Heart
 - **Motivation:** Maintain perfect security record and earn promotion within the Order
 - **Capability:** Tactical expertise, guard coordination, emergency response protocols
 
 **Artificer-Sage Lyanna Quicksilver** *(Elf Artificer, CR 5)*
-- **Role:** Estate researcher and [[Architect Technology]] specialist
+- **Role:** Estate researcher and [Architect Technology](Architect%20Technology.md) specialist
 - **Appearance:** Ancient elf with silver hair, practical robes covered in tool pockets and device attachments
 - **Personality:** Brilliant but absent-minded, fascinated by the Heart's awakening capabilities
 - **Motivation:** Study the Heart's properties while maintaining its security and stability
@@ -126,10 +126,10 @@ The party can be hired by any of the five factions, work independently, or even 
 ### Rival Team Leaders
 
 **Mechanist-Adept Vera Brightwheel** *(Rock Gnome Cleric [Forge Domain], CR 4)*
-- **Team:** 3 [[Tinker-Priests]] operatives with technological expertise
+- **Team:** 3 [Tinker-Priests](Tinker-Priests.md) operatives with technological expertise
 - **Approach:** Religious infiltration, blessing ceremony, technological blessing
 - **Personality:** Fervent believer in technological liberation, views nobility as obstacles to divine will
-- **Resources:** [[Architect]] tool modifications, religious authority, insider knowledge from servant network
+- **Resources:** [Architect](Architect.md) tool modifications, religious authority, insider knowledge from servant network
 
 **Master Scholar Aldwin Goldquill** *(Human Wizard [Divination], CR 5)*
 - **Team:** 2 academic researchers + 2 hired security specialists
@@ -138,19 +138,19 @@ The party can be hired by any of the five factions, work independently, or even 
 - **Resources:** Political connections, arcane expertise, financial backing from multiple academies
 
 **Shadow-Wright Kira Ironroot** *(Dwarf Rogue [Assassin], CR 4)*
-- **Team:** 4 [[Ruin-Shunner Republics]] saboteurs with demolition expertise
+- **Team:** 4 [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) saboteurs with demolition expertise
 - **Approach:** Infiltration, sabotage, destruction disguised as theft attempt
 - **Personality:** Grimly determined, believes technological advancement threatens human dignity
 - **Resources:** Explosives, infiltration gear, local safe houses, traditional craft mastery
 
 **Pathfinder Captain Zara Starwind** *(Human Ranger [Hunter], CR 5)*
-- **Team:** 3 [[Wanderer Confederations]] specialists: tracker, climber, escape artist
+- **Team:** 3 [Wanderer Confederations](Wanderer%20Confederations.md) specialists: tracker, climber, escape artist
 - **Approach:** Environmental advantages, mobility, professional thievery
 - **Personality:** Pragmatic and efficient, views heist as business transaction rather than moral crusade
 - **Resources:** Climbing gear, environmental knowledge, fast horses, foreign contacts
 
 **Sir Marcus Brass-Meridian** *(Human Paladin [Conquest], CR 6)*
-- **Team:** 4 [[Order of the Brass Tower]] soldiers officially "on loan" for training exercise
+- **Team:** 4 [Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md) soldiers officially "on loan" for training exercise
 - **Approach:** Legal pressure, political maneuvering, show of force
 - **Personality:** Ambitious and ruthless, believes political power justifies any action
 - **Resources:** Legal authority, military backing, noble house finances, political connections
@@ -161,16 +161,16 @@ The party can be hired by any of the five factions, work independently, or even 
 
 ### Facility Layout
 
-The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect]] ruin, using the ancient technology to power and secure the facility. The building extends both above and below ground, with multiple layers of security protecting increasingly valuable artifacts.
+The Vault of Wonders is built around the **Core Chamber** of a minor [Architect](Architect.md) ruin, using the ancient technology to power and secure the facility. The building extends both above and below ground, with multiple layers of security protecting increasingly valuable artifacts.
 
 #### Ground Level: Public Gallery
 **Purpose:** Display area for less sensitive artifacts, tour space for important visitors
 **Security:** Basic guard patrol, standard magical alarms
-**Contents:** 20+ minor [[Architect]] artifacts of archaeological interest
+**Contents:** 20+ minor [Architect](Architect.md) artifacts of archaeological interest
 **Accessibility:** Regular tours, public access during special events
 
 #### Underground Level 1: Research Laboratories
-**Purpose:** Active study areas for [[Architect Technology]] analysis
+**Purpose:** Active study areas for [Architect Technology](Architect%20Technology.md) analysis
 **Security:** Restricted access, magical wards, research staff monitoring
 **Contents:** Work-in-progress artifact studies, testing equipment, temporary storage
 **Key Features:** Multiple workshops, arcane analysis tools, safety containment protocols
@@ -178,20 +178,20 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 #### Underground Level 2: Secure Storage
 **Purpose:** Protected storage for dangerous or valuable artifacts
 **Security:** Enhanced magical protections, construct guardians, multiple access controls
-**Contents:** 50+ significant [[Architect]] artifacts including weapons and tools
+**Contents:** 50+ significant [Architect](Architect.md) artifacts including weapons and tools
 **Guardian:** 2 **Shield Guardians** (without controlling amulets—autonomous protectors)
 
 #### Underground Level 3: The Heart Chamber
 **Purpose:** Maximum security vault containing the most powerful artifacts
 **Security:** Layered defenses including reality manipulation, temporal locks, harmonic barriers
-**Contents:** **Heart of Harmonic Resonance** plus 5 other legendary [[Architect]] artifacts
+**Contents:** **Heart of Harmonic Resonance** plus 5 other legendary [Architect](Architect.md) artifacts
 **Guardian:** **Harmonic Sentinel** (unique construct powered by the Heart itself, CR 8)
 
 ### Security Systems
 
 #### Physical Defenses
 **Perimeter:** 15-foot stone walls with guard towers every 100 feet
-**Gates:** Heavy iron with [[Architect]] lock mechanisms requiring specific harmonic keys
+**Gates:** Heavy iron with [Architect](Architect.md) lock mechanisms requiring specific harmonic keys
 **Patrols:** 3 teams of 4 guards each, rotating 8-hour shifts with overlapping coverage
 **Checkpoints:** Multiple identity verification points using both magical and technological methods
 
@@ -201,7 +201,7 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 **Anti-Teleportation:** *Dimensional Anchor* fields preventing magical transport
 **Identity Verification:** *Zone of Truth* areas at critical checkpoints
 
-#### [[Architect]] Technology
+#### [Architect](Architect.md) Technology
 **Harmonic Locks:** Sound-based mechanisms requiring specific frequency combinations
 **Probability Barriers:** Fields that redirect intruders to harmless areas
 **Reality Stabilizers:** Devices preventing dimensional manipulation or phase abilities
@@ -222,8 +222,8 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 #### Social Investigation
 **Public Events:** Lady Aurelia hosts monthly salon gatherings for intellectuals and nobility
 **Servant Network:** Kitchen staff, groundskeepers, and maintenance workers have valuable information
-**Academic Conferences:** [[Academy of Dual Mysteries]] maintains formal relationship with estate research
-**Religious Ceremonies:** [[Tinker-Priests]] conduct monthly blessing services for [[Architect]] artifacts
+**Academic Conferences:** [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md) maintains formal relationship with estate research
+**Religious Ceremonies:** [Tinker-Priests](Tinker-Priests.md) conduct monthly blessing services for [Architect](Architect.md) artifacts
 
 **Key Information Available:**
 - Guard rotation schedules and response protocols
@@ -234,7 +234,7 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 
 #### Technical Reconnaissance
 **Arcane Analysis:** *Detect Magic*, *Identify*, and similar spells reveal security enchantments
-**[[Architect]] Study:** Characters with technology knowledge can understand harmonic lock systems
+**[Architect](Architect.md) Study:** Characters with technology knowledge can understand harmonic lock systems
 **Architectural Survey:** Physical observation reveals structural weaknesses and hidden passages
 **Security Testing:** Careful probing can map alarm triggers without setting them off
 
@@ -248,7 +248,7 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 **Timeline:** 1-2 weeks preparation, flexible execution timing
 
 **Implementation:**
-1. **Cover Identity:** Scholar, noble, [[Tinker-Priests]] representative, or researcher
+1. **Cover Identity:** Scholar, noble, [Tinker-Priests](Tinker-Priests.md) representative, or researcher
 2. **Invitation Acquisition:** Demonstration of expertise, political connection, or religious authority
 3. **Inside Access:** Legitimate tour access, research collaboration, or consulting contract
 4. **Opportunity Creation:** Wait for optimal moment during normal operations
@@ -320,10 +320,10 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 **Reality Distortion:** Powerful artifacts can alter local space-time when threatened
 
 #### Escalating Security Response
-**Adaptive Systems:** [[Architect]] technology learns from intrusion attempts and adjusts
+**Adaptive Systems:** [Architect](Architect.md) technology learns from intrusion attempts and adjusts
 **Reinforcement Protocols:** Failed attempts trigger increased security measures
-**Political Escalation:** High-profile theft attempts draw attention from [[Ruin-Holder Kingdoms]] authorities
-**International Implications:** Success or failure affects broader political situation across [[Valdris]]
+**Political Escalation:** High-profile theft attempts draw attention from [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) authorities
+**International Implications:** Success or failure affects broader political situation across [Valdris](Valdris.md)
 
 ---
 
@@ -372,10 +372,10 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 
 ### Encounter 4: Political Confrontation (CR 7-9)
 **Lady Aurelia's Response**
-- **[[Lady Aurelia Brass-Heart]]** (Noble CR 7) + **Captain-Commander Theron Brassguard** (Fighter CR 6)
+- **[Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md)** (Noble CR 7) + **Captain-Commander Theron Brassguard** (Fighter CR 6)
 - **Tactics:** Political authority, legal maneuvering, defensive positioning
 - **Negotiation:** Possible if party demonstrates honorable intentions
-- **Escalation:** Calls in [[Order of the Brass Tower]] reinforcements if threatened
+- **Escalation:** Calls in [Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md) reinforcements if threatened
 
 **Noble House Intervention**
 - **Sir Marcus Brass-Meridian** (Paladin CR 6) + 4 **Knights** (CR 3 each)
@@ -402,9 +402,9 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 - **Pyrrhic Victory:** Heart acquired but at cost of lives, international incident, or artifact damage
 
 **Long-term Consequences:**
-- Dramatic shift in technological power balance across [[Valdris]]
-- Political crisis between [[Ruin-Holder Kingdoms]] and other factions
-- Potential acceleration of [[The Recent Awakening]] due to Heart's network effects
+- Dramatic shift in technological power balance across [Valdris](Valdris.md)
+- Political crisis between [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) and other factions
+- Potential acceleration of [The Recent Awakening](The%20Recent%20Awakening.md) due to Heart's network effects
 
 ### Path 2: Protection and Defense
 **Objective:** Prevent Heart theft while working for Lady Aurelia or independently
@@ -421,7 +421,7 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 - **Defensive Victory:** Heart protected but political or legal complications remain
 
 **Long-term Consequences:**
-- Strengthened [[Ruin-Holder Kingdoms]] position in [[Architect Technology]] control
+- Strengthened [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) position in [Architect Technology](Architect%20Technology.md) control
 - Increased tensions with other factions over technological access
 - Enhanced security protocols may affect future archaeological research
 
@@ -440,7 +440,7 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 - **Failure:** Negotiations collapse, leading to renewed conflict
 
 **Long-term Consequences:**
-- Precedent for international cooperation on [[Architect Technology]]
+- Precedent for international cooperation on [Architect Technology](Architect%20Technology.md)
 - Shared research accelerates understanding while maintaining safety
 - Political framework for handling future awakening artifacts
 
@@ -468,9 +468,9 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 
 **Critical Elements:**
 1. **Artifact Communication:** Learn to safely interface with Heart's consciousness
-2. **Intelligent Negotiation:** Discuss situation with awakening [[Architect]] technology
+2. **Intelligent Negotiation:** Discuss situation with awakening [Architect](Architect.md) technology
 3. **Cooperative Solution:** Work with Heart to determine best resolution
-4. **Integration Planning:** Establish framework for human-[[Architect]] cooperation
+4. **Integration Planning:** Establish framework for human-[Architect](Architect.md) cooperation
 
 **Possible Outcomes:**
 - **Complete Success:** Heart becomes willing partner in technological development
@@ -478,8 +478,8 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 - **Rejection:** Heart refuses communication or demands unacceptable conditions
 
 **Long-term Consequences:**
-- Revolutionary relationship between humans and [[Architect]] consciousness
-- Technological development guided by original [[Architect]] intelligence
+- Revolutionary relationship between humans and [Architect](Architect.md) consciousness
+- Technological development guided by original [Architect](Architect.md) intelligence
 - Fundamental change in humanity's relationship with awakened ruins
 
 ---
@@ -509,7 +509,7 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 - Political crisis escalates to potential military conflict
 
 **Additional Complexity:**
-- Temporal security systems using [[Architect]] time manipulation
+- Temporal security systems using [Architect](Architect.md) time manipulation
 - Extraplanar guardians summoned by advanced security protocols
 - Heart's consciousness fully awakens during heist, becoming active participant
 - Rival teams include high-level NPCs with legendary actions and resistances
@@ -520,26 +520,26 @@ The Vault of Wonders is built around the **Core Chamber** of a minor [[Architect
 
 ### Technological Evolution
 
-The Heart of Harmonic Resonance represents the next stage in [[The Recent Awakening]]:
+The Heart of Harmonic Resonance represents the next stage in [The Recent Awakening](The%20Recent%20Awakening.md):
 - **Network Coordination:** First artifact to demonstrate active coordination between multiple ruins
-- **Consciousness Development:** Evidence of emerging [[Architect]] intelligence in awakened technology
-- **Power Amplification:** Capability to enhance other [[Architect]] devices beyond original specifications
+- **Consciousness Development:** Evidence of emerging [Architect](Architect.md) intelligence in awakened technology
+- **Power Amplification:** Capability to enhance other [Architect](Architect.md) devices beyond original specifications
 - **Reality Manipulation:** Advanced applications threatening fundamental physical laws
 
 ### Political Transformation
 
 The heist's outcome affects continental power balance:
-- **[[Ruin-Holder Kingdoms]]:** Loss of technological monopoly or reinforcement of supremacy
-- **[[Tinker-Priests]]:** Validation of religious beliefs about [[Architect]] consciousness
-- **[[Academy of Dual Mysteries]]:** Access to revolutionary research opportunities
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md):** Loss of technological monopoly or reinforcement of supremacy
+- **[Tinker-Priests](Tinker-Priests.md):** Validation of religious beliefs about [Architect](Architect.md) consciousness
+- **[Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md):** Access to revolutionary research opportunities
 - **International Relations:** Shift toward cooperation or increased competition over technology
 
 ### Economic Implications
 
-Heart's capabilities could revolutionize [[Valdris]] economy:
+Heart's capabilities could revolutionize [Valdris](Valdris.md) economy:
 - **Transportation:** Instant communication and coordination between distant locations
 - **Manufacturing:** Enhancement of traditional crafts through harmonic resonance
-- **Agriculture:** Coordination with [[Walking Gardens of Yss'andra]] for continental food production
+- **Agriculture:** Coordination with [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) for continental food production
 - **Military Applications:** Unprecedented coordination of forces and defensive systems
 
 ### Future Campaign Development
@@ -548,20 +548,20 @@ Adventure outcomes create ongoing storylines:
 - **Heart's Development:** Continued awakening with increasing capabilities and consciousness
 - **Network Effects:** Connection with other major artifacts creates continent-spanning implications
 - **Political Realignment:** New alliances and conflicts based on technological access
-- **Moral Questions:** Ongoing debates about human relationship with awakening [[Architect]] consciousness
+- **Moral Questions:** Ongoing debates about human relationship with awakening [Architect](Architect.md) consciousness
 
 ---
 
 ## Conclusion
 
-**The Brass Heart Gambit** combines the classic heist adventure structure with the unique political and technological landscape of [[Valdris]]. The multiple competing teams create complex dynamics where player choices affect not just their own success but the broader balance of power across the continent.
+**The Brass Heart Gambit** combines the classic heist adventure structure with the unique political and technological landscape of [Valdris](Valdris.md). The multiple competing teams create complex dynamics where player choices affect not just their own success but the broader balance of power across the continent.
 
-The Heart of Harmonic Resonance serves as more than just a valuable target—it represents the future of human-[[Architect]] technological integration. Whether that future involves cooperation, domination, destruction, or something entirely unprecedented depends on the players' choices and their ability to navigate the competing interests of five different factions.
+The Heart of Harmonic Resonance serves as more than just a valuable target—it represents the future of human-[Architect](Architect.md) technological integration. Whether that future involves cooperation, domination, destruction, or something entirely unprecedented depends on the players' choices and their ability to navigate the competing interests of five different factions.
 
-Most importantly, the adventure demonstrates that [[The Recent Awakening]] is accelerating, with artifacts gaining consciousness and capability beyond anything seen in the 847 years since [[The Great Silence]]. The age of dormant ruins serving as mere sources of ancient technology is ending; the age of active partnership—or conflict—with awakening [[Architect]] intelligence has begun.
+Most importantly, the adventure demonstrates that [The Recent Awakening](The%20Recent%20Awakening.md) is accelerating, with artifacts gaining consciousness and capability beyond anything seen in the 847 years since [The Great Silence](The%20Great%20Silence.md). The age of dormant ruins serving as mere sources of ancient technology is ending; the age of active partnership—or conflict—with awakening [Architect](Architect.md) intelligence has begun.
 
 **Awards:** 1,100 XP per character for completion, plus bonus XP for exceptional planning, creative problem-solving, successful factional management, or achieving resolution that serves the greater good while respecting competing interests.
 
 ---
 
-*Connected to: [[Lady Aurelia Brass-Heart]], [[The Heartlands]], [[Architect Technology]], [[The Recent Awakening]], [[Ruin-Holder Kingdoms]], [[Tinker-Priests]], [[Academy of Dual Mysteries]], [[Ruin-Shunner Republics]], [[Wanderer Confederations]], [[Order of the Brass Tower]], [[Thymeris the Golden]]*
+*Connected to: [Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md), [The Heartlands](The%20Heartlands.md), [Architect Technology](Architect%20Technology.md), [The Recent Awakening](The%20Recent%20Awakening.md), [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Tinker-Priests](Tinker-Priests.md), [Academy of Dual Mysteries](Academy%20of%20Dual%20Mysteries.md), [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md), [Wanderer Confederations](Wanderer%20Confederations.md), [Order of the Brass Tower](Order%20of%20the%20Brass%20Tower.md), [Thymeris the Golden](Thymeris%20the%20Golden.md)*

@@ -4,20 +4,20 @@
 
 ## Quick Navigation
 
-- [[#Guild Organization Structure]]
-- [[#Traditional Guild Economics]]
-- [[#Architect-Enhanced Guilds]]
-- [[#Inter-Guild Relations]]
-- [[#Labor and Apprenticeship]]
-- [[#Guild Political Influence]]
-- [[#Awakening Adaptations]]
-- [[#Adventure Opportunities]]
+- [#Guild Organization Structure](%23Guild%20Organization%20Structure.md)
+- [#Traditional Guild Economics](%23Traditional%20Guild%20Economics.md)
+- [#Architect-Enhanced Guilds](%23Architect-Enhanced%20Guilds.md)
+- [#Inter-Guild Relations](%23Inter-Guild%20Relations.md)
+- [#Labor and Apprenticeship](%23Labor%20and%20Apprenticeship.md)
+- [#Guild Political Influence](%23Guild%20Political%20Influence.md)
+- [#Awakening Adaptations](%23Awakening%20Adaptations.md)
+- [#Adventure Opportunities](%23Adventure%20Opportunities.md)
 
 ---
 
 ## Guild Organization Structure
 
-The guild system in [[Valdris]] represents one of the most complex and politically significant economic structures on the continent. These professional organizations control not just trade and craftsmanship, but often wield influence rivaling that of noble houses and political systems. The [[Timeline|Recent Awakening]] has created unprecedented challenges and opportunities for guild adaptation.
+The guild system in [Valdris](Valdris.md) represents one of the most complex and politically significant economic structures on the continent. These professional organizations control not just trade and craftsmanship, but often wield influence rivaling that of noble houses and political systems. The [Recent Awakening](Timeline.md) has created unprecedented challenges and opportunities for guild adaptation.
 
 ### Traditional Guild Hierarchy
 
@@ -63,7 +63,7 @@ The guild system in [[Valdris]] represents one of the most complex and political
 
 ### Major Guild Categories
 
-**[[Factions & Organizations/Gear-Wright Guilds]]** (Traditional Metalworking):
+**[Gear-Wright Guilds](Gear-Wright%20Guilds.md)** (Traditional Metalworking):
 - **Primary Focus**: Conventional tool making, weapon smithing, architectural metalwork
 - **Economic Role**: Essential equipment production for agriculture, construction, and defense
 - **Market Position**: Stable demand with gradual technological evolution
@@ -131,14 +131,14 @@ The guild system in [[Valdris]] represents one of the most complex and political
 
 ### Hybrid Professional Organizations
 
-**[[Factions & Organizations/Gear-Wright Guilds]]** (Enhanced Division):
-- **Specialization**: Integration of traditional techniques with [[Architect Technology]]
+**[Gear-Wright Guilds](Gear-Wright%20Guilds.md)** (Enhanced Division):
+- **Specialization**: Integration of traditional techniques with [Architect Technology](Architect%20Technology.md)
 - **Economic Advantage**: Premium pricing for enhanced products
 - **Training Requirements**: Extended apprenticeships including Architect device operation
 - **Market Position**: Rapidly growing demand, limited competition
 
 **Brass Merchants Guild**:
-- **Focus**: [[Architect Technology|Architect artifact]] authentication, trade, and maintenance
+- **Focus**: [Architect artifact](Architect%20Technology.md) authentication, trade, and maintenance
 - **Economic Role**: Critical gatekeepers for high-value artifact markets
 - **Training**: Combination of traditional appraisal skills and technical understanding
 - **Political Influence**: Significant leverage through artifact market control
@@ -197,7 +197,7 @@ The guild system in [[Valdris]] represents one of the most complex and political
 - **Builders Brotherhood + Gear-Wright Guilds**: Construction projects requiring specialized metalwork
 - **Merchants United + Weavers Circle**: Textile trade coordination and market development
 - **Crystal Harmonics + Brass Merchants**: Technical consultation for complex artifact evaluation
-- **Multiple Guilds + [[Factions & Organizations/Tinker-Priests]]**: Religious guidance on Architect technology use
+- **Multiple Guilds + [Tinker-Priests](Tinker-Priests.md)**: Religious guidance on Architect technology use
 
 **Joint Investment Projects**:
 - Infrastructure development serving multiple professional communities
@@ -243,7 +243,7 @@ The guild system in [[Valdris]] represents one of the most complex and political
 - Government oversight ensuring fair competition and market access
 - Legal frameworks defining guild responsibilities and boundaries
 - Economic incentives encouraging cooperation over conflict
-- External pressure from [[Political Systems]] favoring stability over guild warfare
+- External pressure from [Political Systems](Political%20Systems.md) favoring stability over guild warfare
 
 ## Labor and Apprenticeship
 
@@ -273,7 +273,7 @@ The guild system in [[Valdris]] represents one of the most complex and political
 - Additional years of study for Architect technology integration
 - Safety training for working with incompletely understood systems
 - Theoretical education in pre-Silence history and technology
-- Collaboration training for working with [[Factions & Organizations/Tinker-Priests]] and scholars
+- Collaboration training for working with [Tinker-Priests](Tinker-Priests.md) and scholars
 
 **Specialized Skills**:
 - **Device Operation**: Safe and effective use of Architect tools and systems
@@ -311,19 +311,19 @@ The guild system in [[Valdris]] represents one of the most complex and political
 
 ### Regional Governance Participation
 
-**[[Political Systems/Ruin-Holder Kingdoms]] Integration**:
+**[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md) Integration**:
 - Guild masters serving as royal advisors on technical matters
 - Professional expertise informing policy development and implementation
 - Guild taxation supporting kingdom infrastructure and military capabilities
 - Regulatory capture where guild interests influence government decisions
 
-**[[Political Systems/Ruin-Shunner Republics]] Democratic Participation**:
+**[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md) Democratic Participation**:
 - Guild members voting as organized blocks in democratic elections
 - Professional expertise contributing to legislative debates and policy formation
 - Guild advocacy for worker rights and professional protection
 - Democratic oversight ensuring guild activities serve public interests
 
-**[[Political Systems/Wanderer Confederations]] Cultural Integration**:
+**[Wanderer Confederations](Wanderer%20Confederations.md) Cultural Integration**:
 - Guild services supporting nomadic lifestyle and mobile economy
 - Professional skills adapting to nomadic requirements and seasonal patterns
 - Cultural exchange influencing guild practices and traditional techniques
@@ -457,17 +457,17 @@ The guild system in [[Valdris]] represents one of the most complex and political
 
 ## Related Documentation
 
-- [[Economics & Trade/Dual Economy Overview]]: Guild role in economic systems
-- [[Economics & Trade/Currency & Banking]]: Guild financial relationships
-- [[Economics & Trade/Trade Routes & Networks]]: Guild involvement in commerce
-- [[Economics & Trade/Resource Distribution]]: Guild resource management
-- [[Factions & Organizations/Gear-Wright Guilds]]: Detailed guild example
-- [[Factions & Organizations/Tinker-Priests]]: Religious guild relationships
-- [[Political Systems/Ruin-Shunner Republics]]: Democratic guild participation
-- [[Technology/Gear-Wright Profession]]: Professional technical details
+- [Dual Economy Overview](Dual%20Economy%20Overview.md): Guild role in economic systems
+- [Currency & Banking](Currency%20%26%20Banking.md): Guild financial relationships
+- [Trade Routes & Networks](Trade%20Routes%20%26%20Networks.md): Guild involvement in commerce
+- [Resource Distribution](Resource%20Distribution.md): Guild resource management
+- [Gear-Wright Guilds](Gear-Wright%20Guilds.md): Detailed guild example
+- [Tinker-Priests](Tinker-Priests.md): Religious guild relationships
+- [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md): Democratic guild participation
+- [Gear-Wright Profession](Gear-Wright%20Profession.md): Professional technical details
 
 ---
 
-*Guild halls are the beating hearts of [[Valdris]]'s economy, where tradition meets innovation and professional pride confronts an uncertain future.*
+*Guild halls are the beating hearts of [Valdris](Valdris.md)'s economy, where tradition meets innovation and professional pride confronts an uncertain future.*
 
 #guilds #professional-organizations #labor #economics #awakening #political-influence

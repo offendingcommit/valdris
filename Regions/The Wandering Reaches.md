@@ -6,11 +6,11 @@
 
 ## Overview
 
-**The Wandering Reaches** encompass the vast northern territories of [[Valdris]], a land of ancient forests, windswept plains, and ruins that refuse to stay in one place. This rugged region serves as home to the [[Political Systems/Wanderer Confederations]], whose mobile communities follow the shifting paths between dangers and opportunities across an ever-changing landscape.
+**The Wandering Reaches** encompass the vast northern territories of [Valdris](Valdris.md), a land of ancient forests, windswept plains, and ruins that refuse to stay in one place. This rugged region serves as home to the [Wanderer Confederations](Wanderer%20Confederations.md), whose mobile communities follow the shifting paths between dangers and opportunities across an ever-changing landscape.
 
-The Reaches are defined by their embrace of motion and adaptation. Here, the legendary [[Walking Gardens of Yss'andra]] roam across the countryside on hundreds of spider-like legs, leaving trails of impossible vegetation in their wake. This is a land where survival depends on knowledge of ever-shifting routes, where wisdom is measured by one's ability to read the patterns of wandering ruins, and where freedom is found in the endless horizon.
+The Reaches are defined by their embrace of motion and adaptation. Here, the legendary [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) roam across the countryside on hundreds of spider-like legs, leaving trails of impossible vegetation in their wake. This is a land where survival depends on knowledge of ever-shifting routes, where wisdom is measured by one's ability to read the patterns of wandering ruins, and where freedom is found in the endless horizon.
 
-Since the [[Timeline|Recent Awakening]], the Wandering Reaches have become both more dangerous and more vital, as ancient routes shift unpredictably and new paths open to reveal wonders long hidden beneath the northern ice.
+Since the [Recent Awakening](Timeline.md), the Wandering Reaches have become both more dangerous and more vital, as ancient routes shift unpredictably and new paths open to reveal wonders long hidden beneath the northern ice.
 
 ---
 
@@ -18,31 +18,31 @@ Since the [[Timeline|Recent Awakening]], the Wandering Reaches have become both 
 
 ### The Ever-Changing Landscape
 
-The Wandering Reaches present the most dynamic geography on the continent, constantly reshaped by mobile [[Architect Ruins]] and the harsh northern climate:
+The Wandering Reaches present the most dynamic geography on the continent, constantly reshaped by mobile [Architect Ruins](Architect%20Ruins.md) and the harsh northern climate:
 
 #### **The Rolling Plains**
 - **The Wanderer's Highway**: Vast grasslands where the main caravan routes cross
 - **The Shifting Meadows**: Areas where the passage of mobile ruins changes the landscape seasonally
-- **The Star-Stone Fields**: Rocky plains dotted with [[Architect Ruins|Architect]] waymarkers and navigation aids
+- **The Star-Stone Fields**: Rocky plains dotted with [Architect](Architect%20Ruins.md) waymarkers and navigation aids
 - **The Spiral Valleys**: Depressions carved by the circular movements of ancient machines
 
 #### **The Ironwood Forests**
 Ancient woodlands in the southern reaches, where trees grow tall and strong enough to resist the harshest winters:
-- **The Pathfinder Groves**: Sacred sites where [[Wanderer Confederation]] leaders gather
+- **The Pathfinder Groves**: Sacred sites where [Wanderer Confederation](Wanderer%20Confederation.md) leaders gather
 - **The Memory Trees**: Ancient ironwoods that seem to record the passage of mobile ruins
 - **The Silent Deeps**: Dense forest areas avoided by both wanderers and wandering ruins
-- **The Echo Clearings**: Open spaces where the sounds of distant [[Architect Ruins]] carry clearly
+- **The Echo Clearings**: Open spaces where the sounds of distant [Architect Ruins](Architect%20Ruins.md) carry clearly
 
 #### **The Frozen Marches**
 The harsh northernmost territories, where only the most experienced wanderers dare travel:
-- **The Ice-Crystal Plains**: Frozen wastes where [[Architect Ruins|Architect]] technology has adapted to extreme cold
+- **The Ice-Crystal Plains**: Frozen wastes where [Architect](Architect%20Ruins.md) technology has adapted to extreme cold
 - **The Frost-Touched Peaks**: Mountains containing ruins that leak deadly cold
-- **The Aurora Fields**: Areas where [[Architect Ruins|Architect]] energy creates spectacular light displays
+- **The Aurora Fields**: Areas where [Architect](Architect%20Ruins.md) energy creates spectacular light displays
 - **The Final Silence**: Mysterious region where no wanderer returns, marking the northern boundary
 
 ### Climate and Seasonal Patterns
 
-The Reaches experience the harshest climate in [[Valdris]], with dramatic seasonal variation:
+The Reaches experience the harshest climate in [Valdris](Valdris.md), with dramatic seasonal variation:
 
 #### **The Wandering Seasons**
 - **Spring Awakening**: Melting snows reveal new paths and awaken dormant ruins
@@ -51,9 +51,9 @@ The Reaches experience the harshest climate in [[Valdris]], with dramatic season
 - **Winter Shelter**: Harsh months spent in protected valleys and permanent settlements
 
 #### **Weather Phenomena**
-- **Aurora Storms**: Northern lights intensified by [[Architect Ruins|Architect]] energy
+- **Aurora Storms**: Northern lights intensified by [Architect](Architect%20Ruins.md) energy
 - **Gear-Wind**: Unusual air currents created by moving mechanical structures
-- **Crystal Fogs**: Mists that form around cold-adapted [[Architect Ruins|Architect]] technology
+- **Crystal Fogs**: Mists that form around cold-adapted [Architect](Architect%20Ruins.md) technology
 - **The Deep Freeze**: Periodic extreme cold snaps affecting even the southern reaches
 
 ### The Wandering Routes
@@ -61,7 +61,7 @@ The Reaches experience the harshest climate in [[Valdris]], with dramatic season
 The region's defining feature is its network of ever-changing paths:
 
 #### **The Great Circle**
-The primary route followed by major [[Wanderer Confederation]] groups:
+The primary route followed by major [Wanderer Confederation](Wanderer%20Confederation.md) groups:
 - **Traditional Markers**: Ancient stone waypoints marking the classic path
 - **Seasonal Variations**: Route changes based on weather and ruin movements
 - **Safety Considerations**: Paths chosen to avoid the most dangerous wandering ruins
@@ -75,9 +75,9 @@ Southern route through the forest, used when northern paths become impassable:
 - **Seasonal Refuge**: Winter quarters for groups unable to reach the northern shelters
 
 #### **The Star-Stone Path**
-Ancient [[Architect Ruins|Architect]] route that mysteriously maintains itself:
+Ancient [Architect](Architect%20Ruins.md) route that mysteriously maintains itself:
 - **Automatic Maintenance**: Path clears itself of obstacles and repairs damage
-- **Navigation Aid**: [[Architect Ruins|Architect]] markers providing direction and distance information
+- **Navigation Aid**: [Architect](Architect%20Ruins.md) markers providing direction and distance information
 - **Controlled Access**: Path sometimes blocks travelers who lack proper authorization
 - **Hidden Dangers**: Ancient security systems still protecting important sites
 
@@ -85,21 +85,21 @@ Ancient [[Architect Ruins|Architect]] route that mysteriously maintains itself:
 
 ## Major Settlements and Mobile Communities
 
-### [[Wanderer's Rest]]
+### [Wanderer's Rest](Wanderer%27s%20Rest.md)
 *The Heart of the Moving Nation*
 
-The largest and most permanent settlement in the Reaches, [[Wanderer's Rest]] serves as the administrative and cultural center of the [[Political Systems/Wanderer Confederations]]. Built in a sheltered valley with natural defenses, it provides a stable base for a culture defined by mobility.
+The largest and most permanent settlement in the Reaches, [Wanderer's Rest](Wanderer%27s%20Rest.md) serves as the administrative and cultural center of the [Wanderer Confederations](Wanderer%20Confederations.md). Built in a sheltered valley with natural defenses, it provides a stable base for a culture defined by mobility.
 
 **Key Features:**
-- **The Council Pavilion**: Meeting hall where the [[Council of Pathfinders]] convenes
+- **The Council Pavilion**: Meeting hall where the [Council of Pathfinders](Council%20of%20Pathfinders.md) convenes
 - **The Route Archives**: Maps and records of safe paths throughout the Reaches
 - **The Gear Market**: Trading center where wandering groups exchange goods and information
 - **The Memory Lodge**: Cultural center preserving wanderer traditions and stories
 
-### [[Ironhold]]
+### [Ironhold](Ironhold.md)
 *Gateway to the Reaches*
 
-A fortified settlement guarding the southern approaches to the Wandering Reaches, [[Ironhold]] serves as both defensive position and trading post between the wanderers and other regions.
+A fortified settlement guarding the southern approaches to the Wandering Reaches, [Ironhold](Ironhold.md) serves as both defensive position and trading post between the wanderers and other regions.
 
 **Strategic Importance:**
 - **Border Control**: Monitoring and regulating access to wanderer territories
@@ -107,10 +107,10 @@ A fortified settlement guarding the southern approaches to the Wandering Reaches
 - **Military Base**: Defensive position protecting wanderer lands from southern threats
 - **Cultural Bridge**: Meeting place between wanderer and settled cultures
 
-### [[Frostwatch]]
+### [Frostwatch](Frostwatch.md)
 *Sentinel of the Northern Frontier*
 
-A hardy frontier settlement on the edge of the [[Frozen Marches]], [[Frostwatch]] serves as the last outpost before the most dangerous regions of the north.
+A hardy frontier settlement on the edge of the [Frozen Marches](Frozen%20Marches.md), [Frostwatch](Frostwatch.md) serves as the last outpost before the most dangerous regions of the north.
 
 **Functions:**
 - **Early Warning**: Monitoring for threats emerging from the deep north
@@ -137,18 +137,18 @@ Guided by **Master Scout Marcus Iron-Heart**, these wanderers focus on the fores
 - **Challenges**: Pressure to abandon traditional routes for more profitable ones
 
 #### **The Garden-Followers**
-Led by **Wise-Woman Seraphina Green-Path**, this group tracks the [[Walking Gardens of Yss'andra]]:
-- **Specialization**: Understanding and benefiting from mobile [[Architect Ruins]]
-- **Reputation**: Knowledge of [[Architect Ruins|Architect]] technology and botanical lore
-- **Resources**: Access to unique plants and [[Architect Ruins|Architect]] materials
+Led by **Wise-Woman Seraphina Green-Path**, this group tracks the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md):
+- **Specialization**: Understanding and benefiting from mobile [Architect Ruins](Architect%20Ruins.md)
+- **Reputation**: Knowledge of [Architect](Architect%20Ruins.md) technology and botanical lore
+- **Resources**: Access to unique plants and [Architect](Architect%20Ruins.md) materials
 - **Challenges**: Constant danger from the unpredictable mobile ruins
 
 #### **The Star-Stone Riders**
-Commanded by **Pathmaster Aldric Swift-Eagle**, these wanderers use the ancient [[Architect Ruins|Architect]] roads:
+Commanded by **Pathmaster Aldric Swift-Eagle**, these wanderers use the ancient [Architect](Architect%20Ruins.md) roads:
 - **Specialization**: Rapid long-distance travel and communication
 - **Reputation**: Elite scouts and messengers
-- **Resources**: Access to [[Architect Ruins|Architect]] transportation technology
-- **Challenges**: Vulnerability to [[Architect Ruins|Architect]] security systems and territorial disputes
+- **Resources**: Access to [Architect](Architect%20Ruins.md) transportation technology
+- **Challenges**: Vulnerability to [Architect](Architect%20Ruins.md) security systems and territorial disputes
 
 ---
 
@@ -156,7 +156,7 @@ Commanded by **Pathmaster Aldric Swift-Eagle**, these wanderers use the ancient 
 
 ### The Confederation Model
 
-The Wandering Reaches operate under the [[Political Systems/Wanderer Confederations]] system, emphasizing flexibility, expertise, and collective decision-making:
+The Wandering Reaches operate under the [Wanderer Confederations](Wanderer%20Confederations.md) system, emphasizing flexibility, expertise, and collective decision-making:
 
 #### **The Council of Pathfinders**
 
@@ -165,7 +165,7 @@ The governing body consists of the most experienced guides from all major wander
 **Current Council Members:**
 - **Chief Pathfinder Elena North-Wind** (Star-Seekers): Northern route specialist
 - **Master Scout Marcus Iron-Heart** (Iron-Road Travelers): Traditional route keeper
-- **Wise-Woman Seraphina Green-Path** (Garden-Followers): [[Architect Ruins|Architect]] ruin expert
+- **Wise-Woman Seraphina Green-Path** (Garden-Followers): [Architect](Architect%20Ruins.md) ruin expert
 - **Pathmaster Aldric Swift-Eagle** (Star-Stone Riders): Transportation coordinator
 - **Elder Thora Storm-Reader** (Weather-Watchers): Climate and navigation specialist
 
@@ -202,10 +202,10 @@ Seasonal gatherings where all wanderer groups coordinate their movements:
 
 #### **Specialized Roles**
 - **Weather-Readers**: Experts in climate prediction and seasonal planning
-- **Ruin-Speakers**: Specialists in communicating with and understanding [[Architect Ruins]]
+- **Ruin-Speakers**: Specialists in communicating with and understanding [Architect Ruins](Architect%20Ruins.md)
 - **Trade-Masters**: Coordinators of commercial relationships with other regions
 - **Story-Keepers**: Preservers of wanderer culture and oral traditions
-- **Gear-Wrights**: Specialists in maintaining and adapting [[Architect Ruins|Architect]] technology
+- **Gear-Wrights**: Specialists in maintaining and adapting [Architect](Architect%20Ruins.md) technology
 
 ---
 
@@ -237,7 +237,7 @@ Wanderer society is organized around practical needs and shared knowledge:
 - **Pathfinders**: Master navigators who guide major groups
 - **Route-Keepers**: Specialists maintaining specific paths and knowledge
 - **Trail-Blazers**: Scouts who explore new territories and assess dangers
-- **Gear-Tenders**: Specialists in maintaining equipment and [[Architect Ruins|Architect]] technology
+- **Gear-Tenders**: Specialists in maintaining equipment and [Architect](Architect%20Ruins.md) technology
 - **Providers**: Hunters, gatherers, and traders who supply group needs
 
 #### **Age and Experience Recognition**
@@ -255,7 +255,7 @@ Wanderer society is organized around practical needs and shared knowledge:
 ### Cultural Traditions
 
 #### **The Great Gathering**
-Annual meeting of all wanderer groups at [[Wanderer's Rest]]:
+Annual meeting of all wanderer groups at [Wanderer's Rest](Wanderer%27s%20Rest.md):
 - **Route Planning**: Coordination of the year's major movements
 - **Cultural Exchange**: Sharing of stories, songs, and traditions
 - **Trade Fair**: Major commercial event bringing together all wanderer groups
@@ -292,10 +292,10 @@ The wanderer economy is built around movement, adaptation, and specialized knowl
 - **Rescue Operations**: Recovering lost travelers and valuable cargo
 
 **Resource Gathering:**
-- **[[Frost-Touched Herbs]]**: Rare medicinal plants that grow only in cold-affected areas
-- **[[Ironwood Timber]]**: Exceptionally strong wood from the ancient forests
-- **[[Ice-Glass]]**: Crystalline material formed by cold-adapted [[Architect Ruins|Architect]] technology
-- **[[Architect Metals]]**: Salvaged materials from moving and abandoned ruins
+- **[Frost-Touched Herbs](Frost-Touched%20Herbs.md)**: Rare medicinal plants that grow only in cold-affected areas
+- **[Ironwood Timber](Ironwood%20Timber.md)**: Exceptionally strong wood from the ancient forests
+- **[Ice-Glass](Ice-Glass.md)**: Crystalline material formed by cold-adapted [Architect](Architect%20Ruins.md) technology
+- **[Architect Metals](Architect%20Metals.md)**: Salvaged materials from moving and abandoned ruins
 
 **Specialized Crafting:**
 - **Cold-Weather Gear**: Equipment designed for survival in harsh northern conditions
@@ -312,9 +312,9 @@ The wanderer economy is built around movement, adaptation, and specialized knowl
 - **Cultural Trade**: Sharing stories, songs, and traditions
 
 **External Relationships:**
-- **[[Cerulean Coast]]**: Maritime trade in exotic goods and foreign luxuries
-- **[[The Heartlands]]**: Exchange of rare materials for [[Architect Ruins|Architect]]-enhanced products
-- **[[The Quiet Lands]]**: Trade in traditional goods and cultural knowledge
+- **[Cerulean Coast](Cerulean%20Coast.md)**: Maritime trade in exotic goods and foreign luxuries
+- **[The Heartlands](The%20Heartlands.md)**: Exchange of rare materials for [Architect](Architect%20Ruins.md)-enhanced products
+- **[The Quiet Lands](The%20Quiet%20Lands.md)**: Trade in traditional goods and cultural knowledge
 - **Foreign Nations**: Long-distance commerce in unique northern resources
 
 ### Economic Challenges
@@ -337,7 +337,7 @@ The wanderer economy is built around movement, adaptation, and specialized knowl
 
 ### The Walking Gardens of Yss'andra
 
-The defining [[Architect Ruins|Architect]] presence in the Wandering Reaches is this massive mobile structure:
+The defining [Architect](Architect%20Ruins.md) presence in the Wandering Reaches is this massive mobile structure:
 
 #### **Physical Description**
 - **Massive Scale**: Pyramid-like structure spanning several miles
@@ -359,7 +359,7 @@ The defining [[Architect Ruins|Architect]] presence in the Wandering Reaches is 
 
 ### Mobile and Adaptive Ruins
 
-The Reaches contain numerous smaller [[Architect Ruins|Architect]] sites that complement the wanderer lifestyle:
+The Reaches contain numerous smaller [Architect](Architect%20Ruins.md) sites that complement the wanderer lifestyle:
 
 #### **The Architect's Road**
 A self-maintaining path that cuts perfectly straight through any terrain:
@@ -369,7 +369,7 @@ A self-maintaining path that cuts perfectly straight through any terrain:
 - **Route Changes**: Occasionally shifts position to connect different destinations
 
 #### **Frost-Touched Groves**
-Forests where [[Architect Ruins|Architect]] technology has adapted to extreme cold:
+Forests where [Architect](Architect%20Ruins.md) technology has adapted to extreme cold:
 - **Climate Modification**: Creating warm microclimates that support unusual plant life
 - **Ice Architecture**: Structures built from perpetual ice that never melts
 - **Cold Adaptation**: Technology that becomes more effective in freezing conditions
@@ -384,16 +384,16 @@ Ancient markers providing navigation and communication services:
 
 ### Integration Challenges
 
-Unlike other regions, wanderers must work with [[Architect Ruins|Architect]] technology that refuses to stay put:
+Unlike other regions, wanderers must work with [Architect](Architect%20Ruins.md) technology that refuses to stay put:
 
 #### **Mobility Adaptation**
 - **Following Technology**: Adjusting routes and plans based on ruin movements
-- **Temporary Benefit**: Making use of [[Architect Ruins|Architect]] effects while they're available
+- **Temporary Benefit**: Making use of [Architect](Architect%20Ruins.md) effects while they're available
 - **Predictive Modeling**: Learning to anticipate ruin behavior and plan accordingly
 - **Risk Management**: Avoiding dangerous ruins while seeking beneficial ones
 
 #### **Cultural Integration**
-- **Nomadic Philosophy**: Incorporating [[Architect Ruins|Architect]] mobility into wanderer values
+- **Nomadic Philosophy**: Incorporating [Architect](Architect%20Ruins.md) mobility into wanderer values
 - **Technological Respect**: Viewing mobile ruins as fellow travelers rather than obstacles
 - **Adaptive Learning**: Continuously updating knowledge as ruin behavior changes
 - **Spiritual Significance**: Finding religious meaning in the intersection of motion and technology
@@ -404,7 +404,7 @@ Unlike other regions, wanderers must work with [[Architect Ruins|Architect]] tec
 
 ### Landscape Transformation
 
-The [[Timeline|Recent Awakening]] has dramatically affected the already-dynamic Wandering Reaches:
+The [Recent Awakening](Timeline.md) has dramatically affected the already-dynamic Wandering Reaches:
 
 #### **Route Disruption**
 - **Path Changes**: Traditional routes becoming impassable as ruins shift behavior
@@ -412,15 +412,15 @@ The [[Timeline|Recent Awakening]] has dramatically affected the already-dynamic 
 - **Navigation Chaos**: Familiar landmarks moving or changing appearance
 - **Safety Reassessment**: Established safe areas becoming dangerous and vice versa
 
-#### **[[Walking Gardens]] Acceleration**
+#### **[Walking Gardens](Walking%20Gardens.md) Acceleration**
 - **Increased Movement**: The Gardens moving faster and more unpredictably
 - **Enhanced Growth**: More dramatic and rapid transformation of landscapes
 - **Communication Attempts**: Signs that the Gardens may be trying to communicate
 - **Defensive Reactions**: More aggressive responses to perceived threats
 
 #### **Northern Awakening**
-- **[[Frozen Marches]] Activity**: Previously dormant ruins in the far north becoming active
-- **Climate Effects**: [[Architect Ruins|Architect]] technology affecting weather patterns
+- **[Frozen Marches](Frozen%20Marches.md) Activity**: Previously dormant ruins in the far north becoming active
+- **Climate Effects**: [Architect](Architect%20Ruins.md) technology affecting weather patterns
 - **New Dangers**: Cold-adapted systems creating unprecedented hazards
 - **Exploration Opportunities**: Access to areas previously too dangerous to explore
 
@@ -449,7 +449,7 @@ The [[Timeline|Recent Awakening]] has dramatically affected the already-dynamic 
 #### **New Possibilities**
 - **Territory Access**: Awakening ruins providing access to previously unreachable areas
 - **Enhanced Cooperation**: Crisis forcing better coordination between wanderer groups
-- **Knowledge Advancement**: Rapid learning about [[Architect Ruins|Architect]] technology and behavior
+- **Knowledge Advancement**: Rapid learning about [Architect](Architect%20Ruins.md) technology and behavior
 - **Cultural Renaissance**: Creative responses to challenges strengthening wanderer identity
 
 #### **Existential Threats**
@@ -468,7 +468,7 @@ The [[Timeline|Recent Awakening]] has dramatically affected the already-dynamic 
 Spectral entities that haunt the northern reaches, becoming more aggressive since the awakening:
 - **Manifestation**: Ghostly figures composed of ice and cold energy
 - **Behavior**: Attack travelers who venture into the deepest frozen areas
-- **Theories**: May be guardians of northern ruins or victims of [[Architect Ruins|Architect]] cold technology
+- **Theories**: May be guardians of northern ruins or victims of [Architect](Architect%20Ruins.md) cold technology
 - **Countermeasures**: Fire, warmth, and certain traditional protective rituals
 
 #### **The Deep Freeze**
@@ -476,11 +476,11 @@ Periodic extreme cold snaps that can kill unprepared travelers:
 - **Onset**: Usually sudden, with little warning even for experienced weather-readers
 - **Severity**: Temperatures dropping far below normal winter levels
 - **Duration**: Can last anywhere from hours to weeks
-- **Causes**: May be connected to awakening cold-adapted [[Architect Ruins|Architect]] technology
+- **Causes**: May be connected to awakening cold-adapted [Architect](Architect%20Ruins.md) technology
 
 #### **Gear-Wind Storms**
 Unusual weather phenomena created by moving mechanical structures:
-- **Formation**: Develops around large mobile ruins like the [[Walking Gardens]]
+- **Formation**: Develops around large mobile ruins like the [Walking Gardens](Walking%20Gardens.md)
 - **Effects**: Powerful winds with chaotic, unpredictable patterns
 - **Dangers**: Can carry debris, disrupt navigation, and damage equipment
 - **Prediction**: Difficult to forecast using traditional weather-reading techniques
@@ -488,21 +488,21 @@ Unusual weather phenomena created by moving mechanical structures:
 ### Architectural Threats
 
 #### **Rogue Constructs**
-Mobile [[Architect Ruins|Architect]] devices that have lost their original programming:
+Mobile [Architect](Architect%20Ruins.md) devices that have lost their original programming:
 - **Behavior**: Aimless wandering without regard for safety or terrain
 - **Dangers**: Crushing terrain features, destroying resources, blocking routes
-- **Identification**: Distinguishing rogue constructs from functional [[Architect Ruins|Architect]] systems
+- **Identification**: Distinguishing rogue constructs from functional [Architect](Architect%20Ruins.md) systems
 - **Countermeasures**: Avoidance and communication attempts using traditional ruin-speaking techniques
 
 #### **Navigation Traps**
-[[Architect Ruins|Architect]] systems that deliberately mislead travelers:
+[Architect](Architect%20Ruins.md) systems that deliberately mislead travelers:
 - **False Signals**: Waypoints providing incorrect direction or distance information
 - **Route Deception**: Paths that appear safe but lead to dangerous areas
 - **Temporal Confusion**: Systems affecting perception of time and distance
 - **Detection**: Identifying traps before they cause serious problems
 
 #### **System Conflicts**
-Conflicts between different [[Architect Ruins|Architect]] systems affecting the same area:
+Conflicts between different [Architect](Architect%20Ruins.md) systems affecting the same area:
 - **Interference**: Competing technologies disrupting each other's function
 - **Environmental Damage**: Conflicts creating dangerous energy discharges or terrain changes
 - **Unpredictable Behavior**: Systems operating in ways contrary to established patterns
@@ -538,15 +538,15 @@ Tensions between traditional approaches and necessary adaptations:
 ### Exploration and Discovery
 
 #### **The New Northern Territories**
-Explore areas of the [[Frozen Marches]] now accessible due to awakening ruins:
-- **Arctic Archaeology**: Investigating previously frozen [[Architect Ruins|Architect]] sites
+Explore areas of the [Frozen Marches](Frozen%20Marches.md) now accessible due to awakening ruins:
+- **Arctic Archaeology**: Investigating previously frozen [Architect](Architect%20Ruins.md) sites
 - **Climate Research**: Understanding how cold-adapted technology functions
 - **Survival Challenges**: Operating in the harshest conditions on the continent
-- **First Contact**: Potentially discovering entirely new forms of [[Architect Ruins|Architect]] technology
+- **First Contact**: Potentially discovering entirely new forms of [Architect](Architect%20Ruins.md) technology
 
 #### **Following the Walking Gardens**
-Join a group tracking the [[Walking Gardens of Yss'andra]] and unlocking its mysteries:
-- **Mobile Archaeology**: Studying an active [[Architect Ruins|Architect]] site while it moves
+Join a group tracking the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) and unlocking its mysteries:
+- **Mobile Archaeology**: Studying an active [Architect](Architect%20Ruins.md) site while it moves
 - **Botanical Discovery**: Investigating the unique plant life created by the Gardens
 - **Communication Attempts**: Trying to establish meaningful contact with the Gardens
 - **Protective Mission**: Defending the Gardens from those who would harm or exploit them
@@ -607,10 +607,10 @@ Guide young wanderers through their coming-of-age in a transformed world:
 ### Technological and Mystical Adventures
 
 #### **The Ruin Speakers**
-Develop better methods for communicating with awakening [[Architect Ruins|Architect]] systems:
-- **Communication Research**: Understanding how [[Architect Ruins|Architect]] technology processes information
+Develop better methods for communicating with awakening [Architect](Architect%20Ruins.md) systems:
+- **Communication Research**: Understanding how [Architect](Architect%20Ruins.md) technology processes information
 - **Protocol Development**: Creating reliable methods for interacting with ruins
-- **Safety Procedures**: Establishing guidelines for safe [[Architect Ruins|Architect]] contact
+- **Safety Procedures**: Establishing guidelines for safe [Architect](Architect%20Ruins.md) contact
 - **Cultural Integration**: Incorporating ruin-speaking into wanderer traditions
 
 #### **The Adaptive Engineers**
@@ -622,7 +622,7 @@ Help wanderer communities develop new technologies compatible with their mobile 
 
 #### **The Climate Watchers**
 Investigate and adapt to the changing weather patterns affecting the Reaches:
-- **Meteorological Research**: Understanding how [[Architect Ruins|Architect]] technology affects climate
+- **Meteorological Research**: Understanding how [Architect](Architect%20Ruins.md) technology affects climate
 - **Prediction Methods**: Developing new techniques for weather forecasting
 - **Adaptation Strategies**: Helping communities adjust to changing environmental conditions
 - **Emergency Response**: Coordinating aid during extreme weather events
@@ -633,19 +633,19 @@ Investigate and adapt to the changing weather patterns affecting the Reaches:
 
 ### Regional Relationships
 
-#### With [[The Heartlands]]
-- **Economic**: Limited trade in rare northern materials for [[Architect Ruins|Architect]]-enhanced goods
+#### With [The Heartlands](The%20Heartlands.md)
+- **Economic**: Limited trade in rare northern materials for [Architect](Architect%20Ruins.md)-enhanced goods
 - **Political**: Mutual respect complicated by fundamental differences in governance
-- **Cultural**: Shared appreciation for [[Architect Ruins|Architect]] technology but different approaches
+- **Cultural**: Shared appreciation for [Architect](Architect%20Ruins.md) technology but different approaches
 - **Strategic**: Potential cooperation against external threats
 
-#### With [[The Quiet Lands]]
+#### With [The Quiet Lands](The%20Quiet%20Lands.md)
 - **Economic**: Trade in traditional goods and cultural knowledge
 - **Political**: Shared democratic values and suspicion of centralized authority
 - **Cultural**: Mutual respect for human achievement and traditional skills
 - **Strategic**: Natural allies in maintaining independence from Heartlands dominance
 
-#### With the [[Cerulean Coast]]
+#### With the [Cerulean Coast](Cerulean%20Coast.md)
 - **Economic**: Limited direct trade due to geographic separation
 - **Political**: Shared interest in maintaining regional autonomy
 - **Cultural**: Both cultures value adaptability and practical skills
@@ -653,12 +653,12 @@ Investigate and adapt to the changing weather patterns affecting the Reaches:
 
 ### Continental Significance
 
-The Wandering Reaches serve crucial functions for [[Valdris]] as a whole:
+The Wandering Reaches serve crucial functions for [Valdris](Valdris.md) as a whole:
 
 #### **Cultural Diversity**
 - **Alternative Governance**: Demonstrating viable alternatives to centralized authority
 - **Adaptive Innovation**: Developing techniques for surviving in difficult conditions
-- **Cultural Preservation**: Maintaining traditions that connect to pre-[[Architect Ruins|Architect]] heritage
+- **Cultural Preservation**: Maintaining traditions that connect to pre-[Architect](Architect%20Ruins.md) heritage
 - **Social Experimentation**: Testing new forms of community organization
 
 #### **Economic Functions**
@@ -669,9 +669,9 @@ The Wandering Reaches serve crucial functions for [[Valdris]] as a whole:
 
 #### **Strategic Value**
 - **Northern Defense**: Serving as early warning for threats from unknown regions
-- **Diplomatic Buffer**: Maintaining relationships with foreign peoples beyond [[Valdris]]
+- **Diplomatic Buffer**: Maintaining relationships with foreign peoples beyond [Valdris](Valdris.md)
 - **Exploration Base**: Launching expeditions into unmapped territories
-- **Cultural Laboratory**: Developing approaches to [[Architect Ruins|Architect]] technology suitable for mobile lifestyles
+- **Cultural Laboratory**: Developing approaches to [Architect](Architect%20Ruins.md) technology suitable for mobile lifestyles
 
 ---
 
@@ -683,14 +683,14 @@ The Wandering Reaches face fundamental choices about their future direction:
 
 #### **Enhanced Mobility**
 Embracing the awakening as an opportunity to become even more mobile and adaptive:
-- **Technology Integration**: Learning to use awakened [[Architect Ruins|Architect]] systems for enhanced mobility
+- **Technology Integration**: Learning to use awakened [Architect](Architect%20Ruins.md) systems for enhanced mobility
 - **Route Mastery**: Developing superior skills for navigating the transformed landscape
 - **Cultural Evolution**: Adapting wanderer traditions to take advantage of new possibilities
 - **Continental Leadership**: Becoming the premier experts in managing change and uncertainty
 
 #### **Stabilization and Settlement**
 Using awakening opportunities to establish more permanent communities:
-- **Resource Exploitation**: Building permanent settlements around valuable [[Architect Ruins|Architect]] sites
+- **Resource Exploitation**: Building permanent settlements around valuable [Architect](Architect%20Ruins.md) sites
 - **Trade Development**: Creating stable commercial relationships with other regions
 - **Cultural Synthesis**: Combining wanderer traditions with settled lifestyle benefits
 - **Political Consolidation**: Developing stronger central authority to manage awakening challenges
@@ -701,8 +701,8 @@ Using awakening opportunities to establish more permanent communities:
 Becoming the dominant culture by mastering change itself:
 - **Adaptive Supremacy**: Setting the standard for flexibility and innovation
 - **Cultural Export**: Teaching other regions how to adapt to awakening challenges
-- **Technological Mastery**: Developing the best methods for working with mobile [[Architect Ruins|Architect]] technology
-- **Continental Integration**: Serving as the communication and transportation network for all [[Valdris]]
+- **Technological Mastery**: Developing the best methods for working with mobile [Architect](Architect%20Ruins.md) technology
+- **Continental Integration**: Serving as the communication and transportation network for all [Valdris](Valdris.md)
 
 #### **The Great Consolidation**
 Using awakening opportunities to transform into a more conventional regional power:
@@ -729,9 +729,9 @@ Maintaining wanderer identity while adapting to unprecedented change:
 
 #### **Environmental Adaptation**
 Surviving in an increasingly unpredictable landscape:
-- **Climate Change**: Adapting to [[Architect Ruins|Architect]]-influenced weather patterns
+- **Climate Change**: Adapting to [Architect](Architect%20Ruins.md)-influenced weather patterns
 - **Resource Management**: Maintaining access to essential materials
-- **Territory Negotiation**: Sharing space with increasingly active [[Architect Ruins|Architect]] systems
+- **Territory Negotiation**: Sharing space with increasingly active [Architect](Architect%20Ruins.md) systems
 - **Ecosystem Integration**: Finding ways to coexist with transformed environments
 
 ---
@@ -740,12 +740,12 @@ Surviving in an increasingly unpredictable landscape:
 — **Pathfinder Elena North-Wind**, Chief of the Star-Seekers
 
 ## Related Articles
-- [[Political Systems/Wanderer Confederations]]
-- [[Architect Ruins/Walking Gardens of Yss'andra]]
-- [[Timeline|Recent Awakening]]
-- [[Music/The Endless Road - Wanderer Song]]
-- [[World Map]]
-- [[Lore/Social Hierarchy]]
+- [Wanderer Confederations](Wanderer%20Confederations.md)
+- [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md)
+- [Recent Awakening](Timeline.md)
+- [The Endless Road - Wanderer Song](The%20Endless%20Road%20-%20Wanderer%20Song.md)
+- [World Map](World%20Map.md)
+- [Social Hierarchy](Social%20Hierarchy.md)
 
 ---
 

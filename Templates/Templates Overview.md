@@ -4,14 +4,14 @@
 
 ## Quick Navigation
 
-- [[#Markdown Formatting Guidelines]]
-- [[#Settlement Template]]
-- [[#NPC Template]]
-- [[#Faction Template]]
-- [[#Ruin Template]]
-- [[#Adventure Hook Template]]
-- [[#Session Notes Template]]
-- [[#Player Handout Template]]
+- [#Markdown Formatting Guidelines](%23Markdown%20Formatting%20Guidelines.md)
+- [#Settlement Template](%23Settlement%20Template.md)
+- [#NPC Template](%23NPC%20Template.md)
+- [#Faction Template](%23Faction%20Template.md)
+- [#Ruin Template](%23Ruin%20Template.md)
+- [#Adventure Hook Template](%23Adventure%20Hook%20Template.md)
+- [#Session Notes Template](%23Session%20Notes%20Template.md)
+- [#Player Handout Template](%23Player%20Handout%20Template.md)
 
 ---
 
@@ -34,10 +34,10 @@
 - Indent with 2 spaces for nested lists
 
 ### Wiki Links
-- `[[Page Name]]` for basic links
-- `[[Page Name|Display Text]]` for custom link text
-- `[[Page Name#Section]]` to link to specific sections
-- `[[Political Systems/Ruin-Holder Kingdoms]]` for hierarchical organization
+- `[Page Name](Page%20Name.md)` for basic links
+- `[Display Text](Page%20Name.md)` for custom link text
+- `[Page Name#Section](Page%20Name%23Section.md)` to link to specific sections
+- `[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)` for hierarchical organization
 
 ### Tags
 - Use `#tag-name` format (lowercase, hyphens for spaces)
@@ -60,8 +60,8 @@
 Brief introduction (2-3 paragraphs) establishing:
 - Population and general character
 - Most distinctive feature or claim to fame
-- Role in the wider world of [[Valdris]]
-- How it relates to [[Architect Ruins]] and the [[Timeline|Recent Awakening]]
+- Role in the wider world of [Valdris](Valdris.md)
+- How it relates to [Architect Ruins](Architect%20Ruins.md) and the [Recent Awakening](Timeline.md)
 
 ## Physical Description
 
@@ -71,7 +71,7 @@ Vivid description of the area including:
 - Architecture and layout
 - Sensory details (sights, sounds, smells)
 - Notable landmarks
-- How [[Architect Ruins|Architect]] elements are incorporated
+- How [Architect](Architect%20Ruins.md) elements are incorporated
 
 ### Notable District 2
 
@@ -91,7 +91,7 @@ Continue pattern for 2-4 main districts or areas
 - Who holds power and why
 - Social classes and mobility
 - Unique customs or traditions
-- Relationship with [[Architect Ruins|Architect]] technology
+- Relationship with [Architect](Architect%20Ruins.md) technology
 
 ### Daily Life
 
@@ -152,7 +152,7 @@ Continue for 4-6 key NPCs
 
 ## Recent Awakening Impact
 
-How the [[Timeline|Recent Awakening]] has affected:
+How the [Recent Awakening](Timeline.md) has affected:
 - Physical changes to the settlement
 - Social upheaval or opportunities
 - Economic shifts
@@ -168,7 +168,7 @@ How the [[Timeline|Recent Awakening]] has affected:
 
 ### External Relations
 
-- Allegiances to [[Political Systems/Ruin-Holder Kingdoms]], [[Political Systems/Wanderer Confederations]], or [[Political Systems/Ruin-Shunner Republics]]
+- Allegiances to [Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md), [Wanderer Confederations](Wanderer%20Confederations.md), or [Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)
 - Conflicts or alliances with neighbors
 - Diplomatic stance
 
@@ -193,7 +193,7 @@ How this settlement connects to:
 
 ---
 
-*For additional information, see [[World Map]], [[Political Systems]], [[Timeline]], and [related pages]*
+*For additional information, see [World Map](World%20Map.md), [Political Systems](Political%20Systems.md), [Timeline](Timeline.md), and [related pages]*
 ```
 
 ## NPC Template
@@ -328,7 +328,7 @@ Key events that shaped them:
 Introduction establishing:
 - Core purpose and beliefs
 - Size and influence
-- Relationship to [[Architect Ruins]]
+- Relationship to [Architect Ruins](Architect%20Ruins.md)
 - Role in current conflicts
 
 ## Philosophy and Beliefs
@@ -342,10 +342,10 @@ Introduction establishing:
 ### Worldview
 
 How they interpret:
-- The [[Architect Ruins|Architect]] legacy
-- The [[Timeline|Great Silence]]
-- The [[Timeline|Recent Awakening]]
-- Their role in [[Valdris]]
+- The [Architect](Architect%20Ruins.md) legacy
+- The [Great Silence](Timeline.md)
+- The [Recent Awakening](Timeline.md)
+- Their role in [Valdris](Valdris.md)
 
 ## Organization Structure
 
@@ -476,7 +476,7 @@ How the faction has responded to recent events:
 
 ---
 
-*For additional context, see [[Political Systems]], [[Timeline]], and [related faction pages]*
+*For additional context, see [Political Systems](Political%20Systems.md), [Timeline](Timeline.md), and [related faction pages]*
 ```
 
 ## Ruin Template
@@ -541,7 +541,7 @@ Scholar theories about original function:
 
 ### Discovery and Exploration
 
-- When first discovered after [[Timeline|Great Silence]]
+- When first discovered after [Great Silence](Timeline.md)
 - Major expeditions
 - Significant findings
 - Notable disasters
@@ -568,7 +568,7 @@ Various academic interpretations and debates
 
 ### Awakening Changes
 
-New behaviors since [[Timeline|Recent Awakening]]:
+New behaviors since [Recent Awakening](Timeline.md):
 - Newly active systems
 - Changed patterns
 - Emerging dangers
@@ -586,8 +586,8 @@ New behaviors since [[Timeline|Recent Awakening]]:
 ### Active Factions
 
 Groups with interests:
-- [[Tinker-Priests]]: Their research
-- [[Silence-Keepers]]: Their concerns
+- [Tinker-Priests](Tinker-Priests.md): Their research
+- [Silence-Keepers](Silence-Keepers.md): Their concerns
 - Local powers: Their claims
 - Others: Various interests
 
@@ -669,7 +669,7 @@ How this ruin relates to:
 - Nearby settlements
 - Political boundaries
 - Trade routes
-- The broader [[Architect Ruins|Architect]] network
+- The broader [Architect](Architect%20Ruins.md) network
 
 ## DM Secrets
 
@@ -681,7 +681,7 @@ How this ruin relates to:
 
 ---
 
-*For more information, see [[Architect Ruins]], [[Timeline]], [[Political Systems]], and [related ruin pages]*
+*For more information, see [Architect Ruins](Architect%20Ruins.md), [Timeline](Timeline.md), [Political Systems](Political%20Systems.md), and [related ruin pages]*
 ```
 
 ## Adventure Hook Template
@@ -923,7 +923,7 @@ Continue for significant developments...
 
 ---
 
-*Previous: [[Session X]]* | *Next: [[Session Y]]*
+*Previous: [Session X](Session%20X.md)* | *Next: [Session Y](Session%20Y.md)*
 ```
 
 ## Player Handout Template
@@ -1015,7 +1015,7 @@ Key Features:
 
 ---
 
-*Player version saved as: [[Handouts/[Title] - Player Version]]*
+*Player version saved as: [Handouts/[Title] - Player Version](Handouts/%5BTitle%5D%20-%20Player%20Version.md)*
 ```
 
 ## Additional Formatting Tips
@@ -1026,7 +1026,7 @@ Key Features:
 2. **Sections**: Use consistent header hierarchy (##, ###, ####)
 3. **Lists**: Prefer `-` for bullets, save numbered lists for sequences
 4. **Emphasis**: Use **bold** for first mention of important terms
-5. **Links**: Always use [[wiki links]] for cross-references
+5. **Links**: Always use [wiki links](wiki%20links.md) for cross-references
 6. **Spacing**: Leave blank lines before/after headers and between major sections
 
 ### Tag Recommendations
@@ -1057,15 +1057,15 @@ Key Features:
 
 ## Overview
 
-Copperfall perches dramatically on terraced cliffsides where ancient [[Architect Ruins|Architect]] mining systems still pull precious metals from the mountain's depths. This industrious city of 5,000 souls has transformed from a simple mining camp into [[Valdris]]'s premier metallurgy center, where traditional smithing techniques blend with [[Architect Ruins|Architect]] enhancements to create unparalleled metalwork.
+Copperfall perches dramatically on terraced cliffsides where ancient [Architect](Architect%20Ruins.md) mining systems still pull precious metals from the mountain's depths. This industrious city of 5,000 souls has transformed from a simple mining camp into [Valdris](Valdris.md)'s premier metallurgy center, where traditional smithing techniques blend with [Architect](Architect%20Ruins.md) enhancements to create unparalleled metalwork.
 
-The city's unique position—literally built into and around a partially active [[Architect Ruins|Architect]] extraction facility—has created a culture that walks the line between [[Political Systems/Ruin-Holder Kingdoms|Ruin-Holder]] exploitation and [[Political Systems/Ruin-Shunner Republics|Shunner]] caution. Since the [[Timeline|Recent Awakening]], the mine's mysterious depths have begun humming with new activity, drawing fortune seekers and scholars alike.
+The city's unique position—literally built into and around a partially active [Architect](Architect%20Ruins.md) extraction facility—has created a culture that walks the line between [Ruin-Holder](Political%20Systems/Ruin-Holder%20Kingdoms.md) exploitation and [Shunner](Political%20Systems/Ruin-Shunner%20Republics.md) caution. Since the [Recent Awakening](Timeline.md), the mine's mysterious depths have begun humming with new activity, drawing fortune seekers and scholars alike.
 
 ## Physical Description
 
 ### The Terrace Markets
 
-Copperfall's commercial heart spreads across five carved terraces, each 40 feet above the last, connected by both traditional stairs and [[Architect Ruins|Architect]] lift platforms that still function after eight centuries. The markets specialize by level: raw ores on the lowest terrace, refined metals above, crafted goods on the third, luxury items on the fourth, and the elite Artificer's Row claiming the highest views...
+Copperfall's commercial heart spreads across five carved terraces, each 40 feet above the last, connected by both traditional stairs and [Architect](Architect%20Ruins.md) lift platforms that still function after eight centuries. The markets specialize by level: raw ores on the lowest terrace, refined metals above, crafted goods on the third, luxury items on the fourth, and the elite Artificer's Row claiming the highest views...
 
 [Continue following template structure]
 ```
@@ -1082,4 +1082,4 @@ Remember: Good organization enhances gameplay. These templates ensure your vault
 
 ---
 
-*See also: [[CLAUDE.md]], [[World Map]], [[Timeline]], [[Welcome]]*
+*See also: [CLAUDE.md](CLAUDE.md.md), [World Map](World%20Map.md), [Timeline](Timeline.md), [Welcome](Welcome.md)*

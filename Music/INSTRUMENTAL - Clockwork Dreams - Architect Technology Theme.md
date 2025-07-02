@@ -75,10 +75,10 @@ A steampunk orchestral masterpiece featuring clockwork percussion, intricate bra
 ---
 
 ## Campaign Usage
-- Theme for [[Tinker-Priests]] activities
+- Theme for [Tinker-Priests](Tinker-Priests.md) activities
 - Background for [Architect](Architect.md) device discoveries
-- Perfect for [[Technology]] folder content
+- Perfect for [Technology](Technology.md) folder content
 - Combat music for clockwork constructs
 - Exploring active mechanical sections of ruins
 - Character theme for artificers and engineers
-- Links to [[Architect Technology Overview]]
+- Links to [Architect Technology Overview](Architect%20Technology%20Overview.md)

@@ -57,10 +57,10 @@ An ethereal orchestral piece capturing the haunting beauty of the Singing Spires
 ---
 
 ## Campaign Usage
-- Specific theme for [[Singing Spires of Kelathon]]
+- Specific theme for [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)
 - Background for mysterious discoveries
 - Atmosphere during supernatural events
-- Perfect for [[Silence-Keepers]] scenes
+- Perfect for [Silence-Keepers](Silence-Keepers.md) scenes
 - Exploring ancient magical locations
 - Character themes for mystics and scholars
-- Links to [[Architect Ruins/Singing Spires of Kelathon]]
+- Links to [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md)

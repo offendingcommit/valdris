@@ -4,13 +4,13 @@
 
 ## Overview
 
-[[Valdris]] offers a unique blend of medieval craftsmanship and ancient [[Architect|Architect]] technology. Most daily life relies on traditional equipment, but [[Architect Technology|Architect artifacts]] provide extraordinary capabilities for those who can access them. The [[Recent Awakening]] has made some previously dormant items functional again while making others more unpredictable.
+[Valdris](Valdris.md) offers a unique blend of medieval craftsmanship and ancient [Architect](Architect.md) technology. Most daily life relies on traditional equipment, but [Architect artifacts](Architect%20Technology.md) provide extraordinary capabilities for those who can access them. The [Recent Awakening](Recent%20Awakening.md) has made some previously dormant items functional again while making others more unpredictable.
 
 ---
 
 ## Standard Medieval Equipment
 
-The foundation of daily life in [[Valdris]] remains traditional medieval technology. Even communities that embrace [[Architect Technology|Architect]] systems rely heavily on conventional equipment.
+The foundation of daily life in [Valdris](Valdris.md) remains traditional medieval technology. Even communities that embrace [Architect](Architect%20Technology.md) systems rely heavily on conventional equipment.
 
 ### Weapons
 
@@ -23,14 +23,14 @@ The foundation of daily life in [[Valdris]] remains traditional medieval technol
 **Quality Variations**:
 - **Peasant Quality**: Functional but crude, what most common folk can afford
 - **Professional Grade**: Well-made weapons for guards, soldiers, and adventurers
-- **Master Craft**: Exceptional weapons from renowned smiths like those in [[Stonehaven]]
+- **Master Craft**: Exceptional weapons from renowned smiths like those in [Stonehaven](Stonehaven.md)
 - **Noble Arms**: Ornate weapons showing status as much as function
 
 **Regional Specialties**:
-- **[[Stonehaven]] Ironwork**: Weapons of exceptional quality using traditional techniques
+- **[Stonehaven](Stonehaven.md) Ironwork**: Weapons of exceptional quality using traditional techniques
 - **Coastal Cutlasses**: Maritime weapons adapted for ship combat
 - **Wanderer Composite Bows**: Lightweight designs perfect for nomadic life
-- **Ruin-Guard Weapons**: Specially designed for fighting in [[Architect Ruins]]
+- **Ruin-Guard Weapons**: Specially designed for fighting in [Architect Ruins](Architect%20Ruins.md)
 
 ### Armor
 
@@ -43,7 +43,7 @@ The foundation of daily life in [[Valdris]] remains traditional medieval technol
 **Specialized Designs**:
 - **Ruin Explorer Gear**: Padded armor designed for navigating tight spaces
 - **Wanderer Traveling Gear**: Lightweight protection that doesn't impede movement
-- **Harmonic Resonance Armor**: Designed to minimize interference with [[Architect Technology]]
+- **Harmonic Resonance Armor**: Designed to minimize interference with [Architect Technology](Architect%20Technology.md)
 - **Democratic Militia Gear**: Standardized equipment for community defense forces
 
 ### Tools and Equipment
@@ -70,11 +70,11 @@ The foundation of daily life in [[Valdris]] remains traditional medieval technol
 
 ## Architect Artifacts
 
-Ancient [[Architect Technology]] appears throughout [[Valdris]] in various forms. Most artifacts are rare and valuable, but some common items exist in multiple copies.
+Ancient [Architect Technology](Architect%20Technology.md) appears throughout [Valdris](Valdris.md) in various forms. Most artifacts are rare and valuable, but some common items exist in multiple copies.
 
 ### Classification System
 
-The [[Tinker-Priests]] classify artifacts by complexity and power:
+The [Tinker-Priests](Tinker-Priests.md) classify artifacts by complexity and power:
 
 **Tier I - Simple Devices**: Basic tools requiring minimal activation
 **Tier II - Interactive Systems**: Complex devices requiring skill to operate
@@ -93,7 +93,7 @@ These items appear frequently enough that most communities have at least heard o
 - **Light Source**: Provides gentle illumination without heat
 - **Communication**: Short-range message transmission
 **Availability**: Uncommon but obtainable, worth 25-50 gold pieces
-**Notes**: Some crystals have awakened to new frequencies since the [[Recent Awakening]]
+**Notes**: Some crystals have awakened to new frequencies since the [Recent Awakening](Recent%20Awakening.md)
 
 #### Ever-Burning Torches
 **Appearance**: Brass rods topped with crystalline flames
@@ -111,7 +111,7 @@ These items appear frequently enough that most communities have at least heard o
 - **Self-Repair**: Minor damage corrects itself over time
 - **Precision Work**: Enable exceptionally fine craftsmanship
 **Availability**: Uncommon, worth 50-150 gold pieces depending on tool
-**Notes**: Particularly prized by [[Stonehaven]] craftspeople
+**Notes**: Particularly prized by [Stonehaven](Stonehaven.md) craftspeople
 
 #### Water Purifiers
 **Appearance**: Brass mesh filters with crystal cores
@@ -128,11 +128,11 @@ These items require training or natural aptitude to use effectively.
 
 #### Resonance Compasses
 **Appearance**: Brass instruments with multiple crystal indicators
-**Function**: Navigate by detecting [[Architect Ruins]] and energy patterns
+**Function**: Navigate by detecting [Architect Ruins](Architect%20Ruins.md) and energy patterns
 - **Ruin Detection**: Point toward nearest active ruins
-- **Energy Reading**: Indicate intensity of [[Architect Technology|Architect]] activity
+- **Energy Reading**: Indicate intensity of [Architect](Architect%20Technology.md) activity
 - **Safe Passage**: Help avoid dangerous technological fields
-**Availability**: Rare, primarily used by [[Wanderer Confederations|Wanderers]] and professional explorers
+**Availability**: Rare, primarily used by [Wanderers](Wanderer%20Confederations.md) and professional explorers
 **Cost**: 200-500 gold pieces
 **Training Required**: Understanding of harmonic principles and ruin behavior
 
@@ -202,8 +202,8 @@ These artifacts transcend normal understanding and are typically unique.
 #### The Archive Medallions
 **Description**: Seven brass medallions that contain vast libraries of knowledge
 **Power**: Access to pre-Silence information and Architect technical manuals
-**Status**: Scattered across [[Valdris]], locations unknown
-**Note**: One was recently activated when [[Thymeris the Golden]] awakened
+**Status**: Scattered across [Valdris](Valdris.md), locations unknown
+**Note**: One was recently activated when [Thymeris the Golden](Thymeris%20the%20Golden.md) awakened
 
 #### Gatewright Rings
 **Description**: Pairs of rings that create temporary portals between locations
@@ -212,16 +212,16 @@ These artifacts transcend normal understanding and are typically unique.
 **Danger**: Unstable during the Awakening, may connect to unintended destinations
 
 #### The Conductor's Baton
-**Description**: Crystalline rod that can direct the behavior of [[Architect Ruins]]
+**Description**: Crystalline rod that can direct the behavior of [Architect Ruins](Architect%20Ruins.md)
 **Power**: Command major systems and influence ruin activity
-**Status**: Missing since the [[The Great Silence|Great Silence]], heavily sought
+**Status**: Missing since the [Great Silence](The%20Great%20Silence.md), heavily sought
 **Importance**: Could be crucial for understanding or controlling the Awakening
 
 ---
 
 ## Gear-Wright Crafted Items
 
-Skilled artisans combine traditional techniques with minor [[Architect Technology]] to create enhanced equipment.
+Skilled artisans combine traditional techniques with minor [Architect Technology](Architect%20Technology.md) to create enhanced equipment.
 
 ### Enhanced Tools
 
@@ -254,9 +254,9 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 ### Availability and Cost
 
 **Major Centers**:
-- **[[Stonehaven]]**: Highest quality traditional work, some Architect enhancement
-- **[[Kelathon]]**: Specializes in harmonic devices and crystal work
-- **Eastern Kingdom Cities**: Advanced Gear-Wright workshops near [[Thymeris the Golden]]
+- **[Stonehaven](Stonehaven.md)**: Highest quality traditional work, some Architect enhancement
+- **[Kelathon](Kelathon.md)**: Specializes in harmonic devices and crystal work
+- **Eastern Kingdom Cities**: Advanced Gear-Wright workshops near [Thymeris the Golden](Thymeris%20the%20Golden.md)
 - **Wanderer Craft Circles**: Portable and lightweight enhanced equipment
 
 **Pricing**:
@@ -269,7 +269,7 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 
 ## Regional Specialties
 
-### [[Stonehaven]] Masterwork
+### [Stonehaven](Stonehaven.md) Masterwork
 *The pinnacle of traditional human craftsmanship*
 
 **Philosophy**: Create items rivaling Architect quality through pure human skill
@@ -283,13 +283,13 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 **Quality Markers**: Perfect balance, flawless finish, lifetime guarantees
 **Cost**: Premium pricing but guaranteed reliability
 
-### [[Kelathon]] Harmonic Gear
+### [Kelathon](Kelathon.md) Harmonic Gear
 *Equipment designed to work with the Singing Spires*
 
 **Philosophy**: Create harmony between human users and Architect systems
 **Specialties**: Crystal work, acoustic equipment, resonance devices
 **Examples**:
-- **Harmonic Instruments**: Musical tools that interface with the [[Singing Spires of Kelathon|Spires]]
+- **Harmonic Instruments**: Musical tools that interface with the [Spires](Singing%20Spires%20of%20Kelathon.md)
 - **Resonance Clothing**: Garments that enhance wearer's sensitivity to vibrations
 - **Crystal Jewelry**: Ornaments that provide minor communication abilities
 - **Acoustic Tools**: Devices for analyzing and working with sound patterns
@@ -332,13 +332,13 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 ### Market Centers
 
 **Major Trading Hubs**:
-- **[[Grimhaven]]**: International port with diverse equipment from many regions
-- **[[Kelathon]]**: Center for harmonic and crystal-based items
-- **[[Stonehaven]]**: Premier source for traditional masterwork equipment
+- **[Grimhaven](Grimhaven.md)**: International port with diverse equipment from many regions
+- **[Kelathon](Kelathon.md)**: Center for harmonic and crystal-based items
+- **[Stonehaven](Stonehaven.md)**: Premier source for traditional masterwork equipment
 - **Eastern Capital Cities**: Access to the most advanced Architect artifacts
 
 **Specialized Markets**:
-- **Artifact Fairs**: Traveling markets dealing specifically in [[Architect Technology]]
+- **Artifact Fairs**: Traveling markets dealing specifically in [Architect Technology](Architect%20Technology.md)
 - **Guild Halls**: Professional organizations controlling specific types of equipment
 - **Border Markets**: Trade posts between different political systems
 - **Ruin Markets**: Temporary trading centers near active archaeological sites
@@ -361,14 +361,14 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 ### Legal Considerations
 
 **Artifact Regulations**:
-- **[[Political Systems/Ruin-Holder Kingdoms]]**: Claim ownership of all artifacts from their territories
-- **[[Political Systems/Ruin-Shunner Republics]]**: Discourage artifact trade, may confiscate dangerous items
-- **[[Political Systems/Wanderer Confederations]]**: Minimal regulation but strong traditional guidelines
+- **[Ruin-Holder Kingdoms](Ruin-Holder%20Kingdoms.md)**: Claim ownership of all artifacts from their territories
+- **[Ruin-Shunner Republics](Ruin-Shunner%20Republics.md)**: Discourage artifact trade, may confiscate dangerous items
+- **[Wanderer Confederations](Wanderer%20Confederations.md)**: Minimal regulation but strong traditional guidelines
 - **International Law**: No universal standards, conflicts common
 
 **Licensing Requirements**:
 - **Dangerous Artifacts**: May require permits to own or transport
-- **Religious Items**: Artifacts sacred to [[Tinker-Priests]] or [[Silence-Keepers]]
+- **Religious Items**: Artifacts sacred to [Tinker-Priests](Tinker-Priests.md) or [Silence-Keepers](Silence-Keepers.md)
 - **Military Equipment**: Weapons and armor may be controlled by local authorities
 - **Research Materials**: Academic institutions may claim priority access
 
@@ -382,7 +382,7 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 - **Never force activation**: Wait for the item to respond naturally
 - **Respect harmonic patterns**: Don't interrupt established frequencies
 - **Listen to warnings**: Artifacts may communicate danger through sound or vibration
-- **Seek expert advice**: Consult [[Tinker-Priests]] or other specialists for complex items
+- **Seek expert advice**: Consult [Tinker-Priests](Tinker-Priests.md) or other specialists for complex items
 
 **Common Dangers**:
 - **Harmonic Overload**: Exposure to too many artifacts at once
@@ -488,9 +488,9 @@ Skilled artisans combine traditional techniques with minor [[Architect Technolog
 
 ## Conclusion
 
-Equipment in [[Valdris]] reflects the world's unique blend of traditional medieval technology and mysterious [[Architect|Architect]] artifacts. The [[Recent Awakening]] has made this landscape even more complex, with previously reliable items becoming unpredictable and new opportunities appearing.
+Equipment in [Valdris](Valdris.md) reflects the world's unique blend of traditional medieval technology and mysterious [Architect](Architect.md) artifacts. The [Recent Awakening](Recent%20Awakening.md) has made this landscape even more complex, with previously reliable items becoming unpredictable and new opportunities appearing.
 
-Whether you choose to embrace ancient technology, rely on traditional craftsmanship, or find a balance between both approaches, remember that in [[Valdris]], the tools you carry say as much about your character's philosophy as their effectiveness in practical situations.
+Whether you choose to embrace ancient technology, rely on traditional craftsmanship, or find a balance between both approaches, remember that in [Valdris](Valdris.md), the tools you carry say as much about your character's philosophy as their effectiveness in practical situations.
 
 The awakening continues to change the landscape of available equipment. What worked yesterday may not work tomorrow, and what seemed impossible last month might be commonplace next year. Adaptability and wisdom matter more than the specific gear you carry.
 
@@ -498,10 +498,10 @@ The awakening continues to change the landscape of available equipment. What wor
 
 ## Related Resources
 
-**World Context**: [[Common Knowledge]] - Basic information all characters should know
-**Character Integration**: [[Character Creation Guide]] - How equipment choices reflect character background
-**Technology Details**: [[Architect Technology]] - Deep dive into ancient systems
+**World Context**: [Common Knowledge](Common%20Knowledge.md) - Basic information all characters should know
+**Character Integration**: [Character Creation Guide](Character%20Creation%20Guide.md) - How equipment choices reflect character background
+**Technology Details**: [Architect Technology](Architect%20Technology.md) - Deep dive into ancient systems
 **Regional Information**: Settlement pages for local specialties and availability
-**Current Events**: [[Recent Awakening]] - How current events affect equipment availability and function
+**Current Events**: [Recent Awakening](Recent%20Awakening.md) - How current events affect equipment availability and function
 
 #player-safe #equipment #gear #artifacts #pricing #regional-specialties
