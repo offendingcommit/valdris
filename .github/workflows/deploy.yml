@@ -55,8 +55,6 @@ jobs:
           mkdir -p docs
           # Copy all markdown files and directories except hidden ones
           find . -maxdepth 1 \( -type f -name "*.md" -o -type d ! -name ".*" ! -name "docs" ! -name "site" ! -name "overrides" \) -exec cp -r {} docs/ \;
-          # Copy the overrides directory to the root where mkdocs.yml expects it
-          cp -r overrides .
 
       - name: Build site
         run: poetry run mkdocs build
