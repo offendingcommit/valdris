@@ -5,7 +5,7 @@
 
 ## Overview of the Continent
 
-Valdris stretches beneath an endless sky, a continent where ancient wonders pierce through pastoral valleys like the bones of sleeping gods. This vast landmass bears the scars and gifts of the [Architects](Architects.md), whose impossible structures rise from fields and forests in defiance of natural law. The continent is divided into five major regions, each shaped by its relationship to the [Architect Ruins](Architect%20Ruins.md) that dot the landscape like stars fallen to earth.
+Valdris stretches beneath an endless sky, a continent where ancient wonders pierce through pastoral valleys like the bones of sleeping gods. This vast landmass bears the scars and gifts of the [Architects](Lore/Architect.md), whose impossible structures rise from fields and forests in defiance of natural law. The continent is divided into five major regions, each shaped by its relationship to the [Architect Ruins](Architect%20Ruins.md) that dot the landscape like stars fallen to earth.
 
 The continent's character is defined by the tension between the mundane and the miraculous. Shepherds tend flocks in shadows of impossible spires, merchants' caravans follow roads between meadows dotted with structures that shouldn't exist, and fishermen mend nets beneath eternal lighthouses. This is a land where the past intrudes upon the present at every turn, where gleaming metal towers catch the sun like captured stars, and where the distant sound of clockwork ticking echoes through the night.
 
@@ -14,13 +14,13 @@ The continent's character is defined by the tension between the mundane and the 
 ### The Whispering Valley
 *Home of the Golden City*
 
-The **Whispering Valley** forms the heart of Valdris, a vast depression flanked by rolling hills where the morning mist carries the sound of distant gears. This region earns its name from the constant, subtle harmonics that emanate from [Thymeris the Golden](Thymeris%20the%20Golden.md), the greatest of all [Architect Ruins](Architect%20Ruins.md). The valley's fertile soil, enriched by centuries of mysterious mineral deposits from the great city, supports the most productive farmland on the continent.
+The **Whispering Valley** forms the heart of Valdris, a vast depression flanked by rolling hills where the morning mist carries the sound of distant gears. This region earns its name from the constant, subtle harmonics that emanate from [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md), the greatest of all [Architect Ruins](Architect%20Ruins.md). The valley's fertile soil, enriched by centuries of mysterious mineral deposits from the great city, supports the most productive farmland on the continent.
 
 **Climate & Terrain**: The valley enjoys a temperate climate with mild winters and warm summers. Ancient [Architect Channels](Architect%20Channels.md) still function in some areas, providing irrigation that creates lush green fields even during dry seasons. The terrain consists of gentle slopes, terraced hillsides, and a network of clear streams that eventually feed into the [Goldwater River](Goldwater%20River.md).
 
 **Major Settlements**:
-- [Millbrook](Millbrook.md) - A prosperous farming village protected by the [Silent Sentinel](Silent%20Sentinel.md), a massive clockwork guardian
-- [Thymeris the Golden](Thymeris%20the%20Golden.md) - The magnificent abandoned [Architect City](Architect%20City.md), crown jewel of the ancient builders
+- [Millbrook](Settlements/Millbrook.md) - A prosperous farming village protected by the [Silent Sentinel](Silent%20Sentinel.md), a massive clockwork guardian
+- [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) - The magnificent abandoned [Architect City](Architect%20City.md), crown jewel of the ancient builders
 - [Goldwater Crossing](Goldwater%20Crossing.md) - A river town that controls the primary trade route through the valley
 
 **Governance**: The valley operates under the [Ruin-Holder](Ruin-Holder.md) model, with noble families claiming authority through their proximity to and control of [Architect Ruins](Architect%20Ruins.md). The [Gear-Crowned](Gear-Crowned.md) rulers wear ancient devices as symbols of their divine right to rule, creating a feudal system where proximity to functioning ruins determines political power.
@@ -37,7 +37,7 @@ The **Whispering Valley** forms the heart of Valdris, a vast depression flanked 
 ### The Northern Reaches
 *Where Gardens Walk*
 
-The **Northern Reaches** represent the wildest and most dangerous region of Valdris, a land of ancient forests, windswept plains, and ruins that refuse to stay in one place. This region is dominated by the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md), a massive mobile Architect structure that roams the countryside on hundreds of spider-like legs, leaving trails of exotic vegetation in its wake.
+The **Northern Reaches** represent the wildest and most dangerous region of Valdris, a land of ancient forests, windswept plains, and ruins that refuse to stay in one place. This region is dominated by the [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md), a massive mobile Architect structure that roams the countryside on hundreds of spider-like legs, leaving trails of exotic vegetation in its wake.
 
 **Climate & Terrain**: The climate grows progressively colder as one travels north, with harsh winters and brief, intense summers. The terrain varies dramatically from the [Ironwood Forests](Ironwood%20Forests.md) in the south to the [Frozen Marches](Frozen%20Marches.md) in the far north. Much of the region consists of rolling hills covered in hardy grasses and scattered copses of twisted trees.
 
@@ -49,7 +49,7 @@ The **Northern Reaches** represent the wildest and most dangerous region of Vald
 **Governance**: The Northern Reaches operate under the [Wanderer](Wanderer.md) model, with loose confederations of nomadic tribes and mobile settlements. The [Council of Pathfinders](Council%20of%20Pathfinders.md) leads these groups, consisting of experienced guides who know the safest routes through the dangerous terrain. Leadership is earned through knowledge of the land and ability to keep people alive in hostile conditions.
 
 **Notable Features**:
-- The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) - A mobile Architect ruin that cultivates impossible plant life
+- The [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md) - A mobile Architect ruin that cultivates impossible plant life
 - [The Architect's Road](The%20Architect%27s%20Road.md) - A perfectly straight path that cuts through forests and hills, maintained by unknown means
 - [Frost-Touched Groves](Frost-Touched%20Groves.md) - Forests where Architect technology has adapted to the cold, creating ice-crystal trees
 
@@ -60,16 +60,16 @@ The **Northern Reaches** represent the wildest and most dangerous region of Vald
 ### The Cerulean Coast
 *Gateway to the Wider World*
 
-The **Cerulean Coast** stretches along the western edge of Valdris, where the continent meets the [Endless Sea](Endless%20Sea.md). This region is defined by its maritime character and the presence of [Grimhaven](Grimhaven.md), the continent's primary port city. The coast is punctuated by dramatic cliffs, hidden coves, and the ever-present [Eternal Lighthouse](Eternal%20Lighthouse.md) that guides ships through the treacherous waters.
+The **Cerulean Coast** stretches along the western edge of Valdris, where the continent meets the [Endless Sea](Endless%20Sea.md). This region is defined by its maritime character and the presence of [Grimhaven](Settlements/Grimhaven.md), the continent's primary port city. The coast is punctuated by dramatic cliffs, hidden coves, and the ever-present [Eternal Lighthouse](Eternal%20Lighthouse.md) that guides ships through the treacherous waters.
 
 **Climate & Terrain**: The coast enjoys a mild, wet climate moderated by ocean currents. Summers are warm and humid, while winters are cold and stormy. The terrain consists of dramatic sea cliffs, narrow beaches, and inland valleys filled with hardy coastal vegetation. The [Saltmarsh Deltas](Saltmarsh%20Deltas.md) provide sheltered harbors and rich fishing grounds.
 
 **Major Settlements**:
-- [Grimhaven](Grimhaven.md) - The great port city, dominated by the [Eternal Lighthouse](Eternal%20Lighthouse.md)
+- [Grimhaven](Settlements/Grimhaven.md) - The great port city, dominated by the [Eternal Lighthouse](Eternal%20Lighthouse.md)
 - [Saltwind](Saltwind.md) - A fishing village specializing in [Lighthouse Catch](Lighthouse%20Catch.md)
 - [Cliff's Edge](Cliff%27s%20Edge.md) - A fortified town that guards the [Northern Passages](Northern%20Passages.md)
 
-**Governance**: The Cerulean Coast operates under a modified [Ruin-Holder](Ruin-Holder.md) system, with [Lady Aurelia Brass-Heart](Lady%20Aurelia%20Brass-Heart.md) serving as the [Gear-Crowned](Gear-Crowned.md) ruler of [Grimhaven](Grimhaven.md). Her authority comes from her ability to operate the [Navigation Crown](Navigation%20Crown.md), an Architect device that controls the lighthouse. Coastal settlements maintain significant autonomy, united primarily by their dependence on sea trade.
+**Governance**: The Cerulean Coast operates under a modified [Ruin-Holder](Ruin-Holder.md) system, with [Lady Aurelia Brass-Heart](NPCs/Lady%20Aurelia%20Brass-Heart.md) serving as the [Gear-Crowned](Gear-Crowned.md) ruler of [Grimhaven](Settlements/Grimhaven.md). Her authority comes from her ability to operate the [Navigation Crown](Navigation%20Crown.md), an Architect device that controls the lighthouse. Coastal settlements maintain significant autonomy, united primarily by their dependence on sea trade.
 
 **Notable Features**:
 - The [Eternal Lighthouse](Eternal%20Lighthouse.md) - A massive Architect structure that has guided ships for centuries
@@ -83,7 +83,7 @@ The **Cerulean Coast** stretches along the western edge of Valdris, where the co
 ### The Singing Hills
 *Where Music Becomes Magic*
 
-The **Singing Hills** rise from the central plains of Valdris, a region of rolling highlands where the [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) create an eternal symphony. This area is known for its acoustically perfect valleys, where even whispers can carry for miles, and its inhabitants who have learned to weave music and magic together.
+The **Singing Hills** rise from the central plains of Valdris, a region of rolling highlands where the [Singing Spires of Kelathon](Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) create an eternal symphony. This area is known for its acoustically perfect valleys, where even whispers can carry for miles, and its inhabitants who have learned to weave music and magic together.
 
 **Climate & Terrain**: The hills enjoy a pleasant climate with warm summers and mild winters. The terrain consists of smooth, rounded hills covered in short grass and scattered groves of [Resonance Trees](Resonance%20Trees.md) - tall, slender trees that amplify sound. Natural amphitheaters carved into hillsides create perfect venues for the region's musical traditions.
 
@@ -95,7 +95,7 @@ The **Singing Hills** rise from the central plains of Valdris, a region of rolli
 **Governance**: The Singing Hills operate under a unique council system that blends elements of all three governance models. The [Chorus of Voices](Chorus%20of%20Voices.md) includes representatives from [Ruin-Holder](Ruin-Holder.md) families, [Wanderer](Wanderer.md) clans, and [Ruin-Shunner](Ruin-Shunner.md) communities. Decisions are made through ritualized debates that incorporate music and are said to be guided by the [Song of Kelathon](Song%20of%20Kelathon.md).
 
 **Notable Features**:
-- The [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) - Towering Architect structures that create haunting melodies
+- The [Singing Spires of Kelathon](Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) - Towering Architect structures that create haunting melodies
 - [The Great Amphitheater](The%20Great%20Amphitheater.md) - A natural formation that can hold thousands of spectators
 - [Resonance Groves](Resonance%20Groves.md) - Forests where the trees themselves seem to sing
 
@@ -111,7 +111,7 @@ The **Quiet Lands** encompass the eastern regions of Valdris, where traditional 
 **Climate & Terrain**: The Quiet Lands enjoy a stable continental climate with clear seasons and predictable weather patterns. The terrain consists of fertile plains, gentle hills, and well-managed forests. The absence of Architect influence means the land follows natural patterns, with rivers meandering through valleys and forests growing in organic shapes.
 
 **Major Settlements**:
-- [Stonehaven](Stonehaven.md) - The region's capital, built entirely with traditional techniques
+- [Stonehaven](Settlements/Stonehaven.md) - The region's capital, built entirely with traditional techniques
 - [Craftman's Pride](Craftman%27s%20Pride.md) - A town renowned for its artisans and traditional skills
 - [Greenhill](Greenhill.md) - A farming community that supplies much of the region's food
 
@@ -129,11 +129,11 @@ The **Quiet Lands** encompass the eastern regions of Valdris, where traditional 
 ## Continental Trade Routes
 
 ### The Great Circuit
-The primary trade route connecting all major regions, the [Great Circuit](Great%20Circuit.md) follows ancient paths that may have been laid out by the [Architects](Architects.md) themselves. This route connects:
-- [Grimhaven](Grimhaven.md) (Cerulean Coast) → [Millbrook](Millbrook.md) (Whispering Valley) → [Harmony](Harmony.md) (Singing Hills) → [Stonehaven](Stonehaven.md) (Quiet Lands) → [Ironhold](Ironhold.md) (Northern Reaches) → back to [Grimhaven](Grimhaven.md)
+The primary trade route connecting all major regions, the [Great Circuit](Great%20Circuit.md) follows ancient paths that may have been laid out by the [Architects](Lore/Architect.md) themselves. This route connects:
+- [Grimhaven](Settlements/Grimhaven.md) (Cerulean Coast) → [Millbrook](Settlements/Millbrook.md) (Whispering Valley) → [Harmony](Harmony.md) (Singing Hills) → [Stonehaven](Settlements/Stonehaven.md) (Quiet Lands) → [Ironhold](Ironhold.md) (Northern Reaches) → back to [Grimhaven](Settlements/Grimhaven.md)
 
 ### The Northern Trail
-A dangerous but profitable route through the [Northern Reaches](Northern%20Reaches.md), used by [Wanderer](Wanderer.md) clans and brave merchants seeking rare goods. This trail must be constantly adjusted as the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) move across the landscape.
+A dangerous but profitable route through the [Northern Reaches](Northern%20Reaches.md), used by [Wanderer](Wanderer.md) clans and brave merchants seeking rare goods. This trail must be constantly adjusted as the [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md) move across the landscape.
 
 ### The Coastal Road
 Following the [Cerulean Coast](Cerulean%20Coast.md), this route connects the port cities and fishing villages. Recently made more dangerous by [Lighthouse Malfunctions](Lighthouse%20Malfunctions.md) and increased [Storm-Wraith](Storm-Wraith.md) activity.
@@ -243,9 +243,9 @@ The world offers opportunities for heroes of all kinds: scholars seeking ancient
 
 ## Related Articles
 - [Architect Ruins](Architect%20Ruins.md)
-- [The Great Silence](The%20Great%20Silence.md)
+- [The Great Silence](Lore/The%20Great%20Silence.md)
 - [Mechanical Envoys](Mechanical%20Envoys.md)
 - [Gear-Wright Guilds](Gear-Wright%20Guilds.md)
 - [Trade Goods of Valdris](Trade%20Goods%20of%20Valdris.md)
-- [Timeline of Valdris](Timeline%20of%20Valdris.md)
-- [Factions and Organizations](Factions%20and%20Organizations.md)
+- [Timeline of Valdris](Timeline.md)
+- Factions and Organizations

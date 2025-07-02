@@ -1,0 +1,172 @@
+site_name: Valdris Campaign World
+site_description: A D&D campaign world where ancient clockwork slumbers and stirs
+site_url: https://offendingcommit.github.io/valdris/
+repo_url: https://github.com/offendingcommit/valdris
+repo_name: offendingcommit/valdris
+edit_uri: edit/main/
+
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - awesome-pages:
+      collapse_single_pages: false
+      strict: false
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/offendingcommit/valdris
+  generator: false
+
+# Navigation structure
+nav:
+  - Home: Welcome.md
+  - World Overview:
+    - Timeline: Timeline.md
+    - World Map: World Map.md
+  - Player Resources:
+    - Common Knowledge: Player Resources/Common Knowledge.md
+    - Character Creation: Player Resources/Character Creation Guide.md
+    - Equipment & Gear: Player Resources/Equipment & Gear.md
+    - Languages: Player Resources/Languages of Valdris.md
+    - Player Map: Player Resources/Player Map.md
+  - The World:
+    - Regions:
+      - The Heartlands: Regions/The Heartlands.md
+      - Cerulean Coast: Regions/Cerulean Coast.md
+      - The Quiet Lands: Regions/The Quiet Lands.md
+      - The Wandering Reaches: Regions/The Wandering Reaches.md
+    - Settlements:
+      - Grimhaven: Settlements/Grimhaven.md
+      - Kelathon: Settlements/Kelathon.md
+      - Millbrook: Settlements/Millbrook.md
+      - Stonehaven: Settlements/Stonehaven.md
+    - Architect Ruins:
+      - Thymeris the Golden: Architect Ruins/Thymeris the Golden.md
+      - Singing Spires: Architect Ruins/Singing Spires of Kelathon.md
+      - Walking Gardens: Architect Ruins/Walking Gardens of Yss'andra.md
+  - Lore & History:
+    - The Architect: Lore/Architect.md
+    - The Great Silence: Lore/The Great Silence.md
+    - The Recent Awakening: Lore/The Recent Awakening.md
+    - Architect Technology: Lore/Architect Technology.md
+    - Magic in Valdris: Lore/Magic in Valdris.md
+  - Politics & Society:
+    - Political Systems:
+      - Ruin-Holder Kingdoms: Political Systems/Ruin-Holder Kingdoms.md
+      - Wanderer Confederations: Political Systems/Wanderer Confederations.md
+      - Ruin-Shunner Republics: Political Systems/Ruin-Shunner Republics.md
+    - Factions:
+      - Tinker-Priests: Factions & Organizations/Tinker-Priests.md
+      - Silence-Keepers: Factions & Organizations/Silence-Keepers.md
+      - Academy of Dual Mysteries: Factions & Organizations/Academy of Dual Mysteries.md
+      - Council of Pathfinders: Factions & Organizations/Council of Pathfinders.md
+      - Gear-Wright Guilds: Factions & Organizations/Gear-Wright Guilds.md
+      - Order of the Brass Tower: Factions & Organizations/Order of the Brass Tower.md
+    - Social Systems:
+      - Overview: Social Systems/Social Hierarchy Overview.md
+      - Cultural Interactions: Social Systems/Cultural Interactions.md
+      - Education & Knowledge: Social Systems/Education & Knowledge.md
+      - Legal & Justice: Social Systems/Legal & Justice Systems.md
+      - Marriage & Family: Social Systems/Marriage & Family Structures.md
+  - Economy & Trade:
+    - Dual Economy: Economics & Trade/Dual Economy Overview.md
+    - Currency & Banking: Economics & Trade/Currency & Banking.md
+    - Trade Routes: Economics & Trade/Trade Routes & Networks.md
+    - Guild Economics: Economics & Trade/Guild Economics.md
+    - Resources: Economics & Trade/Resource Distribution.md
+  - Technology:
+    - Overview: Technology/Architect Technology Overview.md
+    - Materials: Technology/Architect Materials.md
+    - Constructs: Technology/Mechanical Constructs.md
+    - Navigation: Technology/Navigation & Lighthouses.md
+    - Gear-Wright Profession: Technology/Gear-Wright Profession.md
+  - Adventures:
+    - The Brass Heart Gambit: Adventures/The Brass Heart Gambit.md
+    - Echoes of the Great Silence: Adventures/Echoes of the Great Silence.md
+    - Gears of Conspiracy: Adventures/Gears of Conspiracy.md
+    - The Awakening Protocols: Adventures/The Awakening Protocols.md
+    - The Silent Cartographer: Adventures/The Silent Cartographer.md
+  - NPCs:
+    - Lady Aurelia Brass-Heart: NPCs/Lady Aurelia Brass-Heart.md
+    - Archivist Theron Millwright: NPCs/Archivist Theron Millwright.md
+    - Master Aldric Ironhand: NPCs/Master Craft-Wright Aldric Ironhand.md
+    - Pathfinder Zara Windstrider: NPCs/Pathfinder Zara Windstrider.md
+    - Sister Harmony Brightbell: NPCs/Sister Harmony Brightbell.md
+  - Music & Songs:
+    - Music Index: Music/Music Index.md
+    - Tavern Songs:
+      - The Merchant's Last Gamble: Music/The Merchant's Last Gamble - Tavern Ballad.md
+      - Tinker's Brew: Music/Tinker's Brew - Drinking Song.md
+    - Cultural Songs:
+      - By Our Own Hands: Music/By Our Own Hands - Ruin-Shunner Hymn.md
+      - Crown of Brass and Stone: Music/Crown of Brass and Stone - Ruin-Holder Anthem.md
+      - The Endless Road: Music/The Endless Road - Wanderer Song.md
+    - Children's Songs:
+      - Seven Spires Singing: Music/Seven Spires Singing - Children's Counting Song.md
+    - Legends:
+      - When the Music Stopped: Music/When the Music Stopped - The Great Silence Legend.md
+      - The Lighthouse Never Sleeps: Music/The Lighthouse Never Sleeps - Grimhaven Harbor Song.md

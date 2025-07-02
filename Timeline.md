@@ -1,9 +1,9 @@
 # The Chronicle of Valdris
-*From [The Great Silence](The%20Great%20Silence.md) to [The Recent Awakening](The%20Recent%20Awakening.md)*
+*From [The Great Silence](Lore/The%20Great%20Silence.md) to [The Recent Awakening](Lore/The%20Recent%20Awakening.md)*
 
 ---
 
-*As recorded by the Chroniclers' Guild and verified by both [Tinker-Priests](Tinker-Priests.md) and [Silence-Keepers](Silence-Keepers.md), this timeline represents the common understanding of Valdris history. Recent discoveries during the [Recent Awakening](Recent%20Awakening.md) continue to challenge and expand our knowledge of these pivotal centuries.*
+*As recorded by the Chroniclers' Guild and verified by both [Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md) and [Silence-Keepers](Factions%20&%20Organizations/Silence-Keepers.md), this timeline represents the common understanding of Valdris history. Recent discoveries during the [Recent Awakening](Lore/The%20Recent%20Awakening.md) continue to challenge and expand our knowledge of these pivotal centuries.*
 
 ---
 
@@ -25,11 +25,11 @@ Small communities form around the ruins of former Architect settlements, develop
 **Early Specialization**
 Three distinct survival strategies emerge among human communities:
 
-- **Ruin-Dwellers**: Groups that settle directly within Architect cities, learning to navigate and minimally activate certain safe systems. These communities, centered around sites like early [Grimhaven](Grimhaven.md), develop the first Crown-Gear traditions.
+- **Ruin-Dwellers**: Groups that settle directly within Architect cities, learning to navigate and minimally activate certain safe systems. These communities, centered around sites like early [Grimhaven](Settlements/Grimhaven.md), develop the first Crown-Gear traditions.
 
-- **Ruin-Runners**: Nomadic tribes that travel between ruins, mapping safe routes and establishing the earliest trade networks. They become the ancestors of the [Wanderer Confederations](Wanderer%20Confederations.md), following paths that seem to activate certain Architect way-stations.
+- **Ruin-Runners**: Nomadic tribes that travel between ruins, mapping safe routes and establishing the earliest trade networks. They become the ancestors of the [Wanderer Confederations](Political%20Systems/Wanderer%20Confederations.md), following paths that seem to activate certain Architect way-stations.
 
-- **Ruin-Fearers**: Communities that retreat from Architect sites entirely, building new settlements using traditional methods. Early [Millbrook](Millbrook.md) typifies this approach, though even they cannot escape the influence of the great [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) that begin their endless migrations during this period.
+- **Ruin-Fearers**: Communities that retreat from Architect sites entirely, building new settlements using traditional methods. Early [Millbrook](Settlements/Millbrook.md) typifies this approach, though even they cannot escape the influence of the great [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md) that begin their endless migrations during this period.
 
 ### Years 31-50 AS - The Long Winter
 **Climate Crisis and Adaptation**
@@ -40,7 +40,7 @@ This crisis accelerates the development of the three cultural approaches:
 - Ruin-Runners establish crucial supply routes between active and dormant sites  
 - Ruin-Fearers develop advanced agricultural techniques and food preservation
 
-The period ends with the Great Thaw, when [Thymeris the Golden](Thymeris%20the%20Golden.md) briefly awakens for three days, its amber lights visible across the continent — the first sign that the ruins might not be permanently dead.
+The period ends with the Great Thaw, when [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) briefly awakens for three days, its amber lights visible across the continent — the first sign that the ruins might not be permanently dead.
 
 ---
 
@@ -48,7 +48,7 @@ The period ends with the Great Thaw, when [Thymeris the Golden](Thymeris%20the%2
 
 ### Years 50-75 AS - The First Awakening
 **Systematic Exploration Begins**
-Following the Thymeris awakening, organized expeditions begin mapping Architect ruins systematically. The [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) start their haunting melodies during this period, creating the first permanent settlements of scholar-explorers who would later become the [Tinker-Priests](Tinker-Priests.md).
+Following the Thymeris awakening, organized expeditions begin mapping Architect ruins systematically. The [Singing Spires of Kelathon](Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) start their haunting melodies during this period, creating the first permanent settlements of scholar-explorers who would later become the [Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md).
 
 Three major settlement clusters emerge:
 - **Eastern Ruins** (around Thymeris): Hierarchical communities led by successful ruin-explorers
@@ -62,7 +62,7 @@ As populations grow, conflicts erupt over control of profitable trade routes bet
 During this period:
 - The **Guild of Brass** forms to regulate Architect-device trade
 - The first **Crown-Gears** are crafted from salvaged materials
-- The [Silence-Keepers](Silence-Keepers.md) emerge as a religious movement preaching caution with Architect technology
+- The [Silence-Keepers](Factions%20&%20Organizations/Silence-Keepers.md) emerge as a religious movement preaching caution with Architect technology
 
 ### Years 126-200 AS - Cultural Crystallization
 **The Three Ways Emerge**
@@ -70,9 +70,9 @@ By Year 150 AS, three distinct cultural and political approaches have crystalliz
 
 **The Ruin-Holder Tradition** develops in eastern settlements around major Architect cities. These communities establish the first hereditary "Ruin-Thanes" — families who maintain exclusive access to specific Architect sites. The practice of **Crown-Gear wearing** becomes a symbol of legitimate authority over Architect ruins.
 
-**The Wanderer Confederation** formalizes in the northern reaches, as nomadic tribes develop complex protocols for sharing access to mobile ruins like the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md). Their **Song-Maps** — musical notations that encode safe travel routes — become crucial for continental trade.
+**The Wanderer Confederation** formalizes in the northern reaches, as nomadic tribes develop complex protocols for sharing access to mobile ruins like the [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md). Their **Song-Maps** — musical notations that encode safe travel routes — become crucial for continental trade.
 
-**The Ruin-Shunner Movement** gains strength in western valleys, where communities like [Millbrook](Millbrook.md) prove that traditional crafts and collective governance can create prosperity without dependence on Architect technology. Their **Maker's Guilds** develop innovations in metallurgy, agriculture, and governance.
+**The Ruin-Shunner Movement** gains strength in western valleys, where communities like [Millbrook](Settlements/Millbrook.md) prove that traditional crafts and collective governance can create prosperity without dependence on Architect technology. Their **Maker's Guilds** develop innovations in metallurgy, agriculture, and governance.
 
 ---
 
@@ -91,7 +91,7 @@ Major discoveries include:
 **Political Formation Through Conflict**
 As populations grow and resources become more contested, the three cultural approaches evolve into competing political systems. A series of conflicts known as the **Consolidation Wars** shapes the modern political landscape:
 
-**The Crown-Gear Rebellions** (253-267 AS): Conflicts between Ruin-Thane families lead to the development of formal succession laws and the establishment of the first **Ruin-Holder Kingdoms**. The **Battle of Amber Light** (261 AS) sees [Thymeris the Golden](Thymeris%20the%20Golden.md) briefly activate its defenses, ending the conflict through sheer terror.
+**The Crown-Gear Rebellions** (253-267 AS): Conflicts between Ruin-Thane families lead to the development of formal succession laws and the establishment of the first **Ruin-Holder Kingdoms**. The **Battle of Amber Light** (261 AS) sees [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) briefly activate its defenses, ending the conflict through sheer terror.
 
 **The Trade Route Wars** (268-289 AS): Competition over lucrative trade routes forces Wanderer tribes to develop more formal confederation structures. The **Pact of Moving Shadows** (289 AS) establishes the **Wanderer Confederations** as a legitimate political entity with recognized territorial claims to mobile ruins and trade routes.
 
@@ -119,7 +119,7 @@ The period ends with the **Festival of Three Paths** (500 AS), a continent-wide 
 **Cultural and Economic Flowering**
 A period of relative peace and prosperity allows each political system to develop its distinctive character:
 
-**Ruin-Holder Kingdoms** establish magnificent courts around major ruins. The **Academy of Brass** is founded at [Thymeris the Golden](Thymeris%20the%20Golden.md) (534 AS), becoming the premier center for Architect studies. Noble houses develop elaborate traditions around Crown-Gear crafting and ruin exploration.
+**Ruin-Holder Kingdoms** establish magnificent courts around major ruins. The **Academy of Brass** is founded at [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) (534 AS), becoming the premier center for Architect studies. Noble houses develop elaborate traditions around Crown-Gear crafting and ruin exploration.
 
 **Wanderer Confederations** create the **Great Song-Maps**, a musical archive encoding safe travel routes across the continent. Their **Caravan Cities** — mobile settlements that follow trade routes — become centers of cultural exchange and innovation.
 
@@ -127,11 +127,11 @@ A period of relative peace and prosperity allows each political system to develo
 
 ### Years 601-700 AS - The Second Stirring
 **Renewed Architect Activity**
-After centuries of dormancy, Architect ruins begin showing increased activity. The [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) develop new harmonic patterns, [Thymeris the Golden](Thymeris%20the%20Golden.md) occasionally illuminates previously dark sectors, and the [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) begin following more complex migration routes.
+After centuries of dormancy, Architect ruins begin showing increased activity. The [Singing Spires of Kelathon](Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) develop new harmonic patterns, [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) occasionally illuminates previously dark sectors, and the [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md) begin following more complex migration routes.
 
 This **Second Stirring** leads to:
-- Foundation of the modern [Tinker-Priests](Tinker-Priests.md) order (634 AS)
-- Expansion of [Silence-Keepers](Silence-Keepers.md) monasteries near active ruins
+- Foundation of the modern [Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md) order (634 AS)
+- Expansion of [Silence-Keepers](Factions%20&%20Organizations/Silence-Keepers.md) monasteries near active ruins
 - Development of new safety protocols for ruin exploration
 - The **Great Debates** between religious and scholarly approaches to Architect technology
 
@@ -143,7 +143,7 @@ As the three political systems mature, both cooperation and competition intensif
 
 **Cultural Exchange**: Inter-system marriage, education, and religious practice become common. Many settlements develop "mixed" characteristics, combining elements from multiple traditions.
 
-**Political Tensions**: Success breeds new conflicts over resources, trade routes, and Architect sites. The **Border Skirmishes** (756-763 AS) nearly escalate into a continent-wide war before diplomatic intervention by [Tinker-Priests](Tinker-Priests.md) and [Silence-Keepers](Silence-Keepers.md).
+**Political Tensions**: Success breeds new conflicts over resources, trade routes, and Architect sites. The **Border Skirmishes** (756-763 AS) nearly escalate into a continent-wide war before diplomatic intervention by [Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md) and [Silence-Keepers](Factions%20&%20Organizations/Silence-Keepers.md).
 
 **The Ruin Renaissance** (780-800 AS): A period of intensive Architect study yields new discoveries but also awakens previously dormant systems across the continent. Several minor ruins achieve partial activation, providing clues about larger patterns that remain mysterious.
 
@@ -155,11 +155,11 @@ As the three political systems mature, both cooperation and competition intensif
 **Unprecedented Architect Activity**
 Beginning around 840 AS, Architect ruins across Valdris begin exhibiting unprecedented activity levels. Unlike previous stirrings, these manifestations follow apparent patterns and seem coordinated across vast distances.
 
-**842 AS - The Night of Amber Dreams**: [Thymeris the Golden](Thymeris%20the%20Golden.md) illuminates fully for an entire night, its hundred brass towers pulsing in synchronized patterns. Citizens across the continent report shared dreams of vast clockwork mechanisms and crystal-eyed watchers.
+**842 AS - The Night of Amber Dreams**: [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) illuminates fully for an entire night, its hundred brass towers pulsing in synchronized patterns. Citizens across the continent report shared dreams of vast clockwork mechanisms and crystal-eyed watchers.
 
-**843 AS - The Great Harmony**: All active [Singing Spires of Kelathon](Singing%20Spires%20of%20Kelathon.md) begin playing the same complex musical composition simultaneously. [Tinker-Priests](Tinker-Priests.md) record the piece but cannot decipher its meaning. The melody continues intermittently to the present day.
+**843 AS - The Great Harmony**: All active [Singing Spires of Kelathon](Architect%20Ruins/Singing%20Spires%20of%20Kelathon.md) begin playing the same complex musical composition simultaneously. [Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md) record the piece but cannot decipher its meaning. The melody continues intermittently to the present day.
 
-**844 AS - The Garden Gathering**: The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) and several smaller mobile ruins converge in the Northern Reaches for the first time in recorded history. They remain clustered for three months before resuming their separate migrations, each now following modified routes.
+**844 AS - The Garden Gathering**: The [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md) and several smaller mobile ruins converge in the Northern Reaches for the first time in recorded history. They remain clustered for three months before resuming their separate migrations, each now following modified routes.
 
 ### Year 845 AS - The Brass Envoys
 **First Contact Attempts**
@@ -188,7 +188,7 @@ Architect activity intensifies across all three political systems, forcing unpre
 
 As the current year unfolds, the Recent Awakening reaches critical intensity:
 
-**Spring 847 AS - The Deep Awakening**: [Thymeris the Golden](Thymeris%20the%20Golden.md) begins revealing previously sealed levels, each containing more advanced and dangerous Architect technology. Expeditions return with reports of active manufacturing systems and guardian constructs.
+**Spring 847 AS - The Deep Awakening**: [Thymeris the Golden](Architect%20Ruins/Thymeris%20the%20Golden.md) begins revealing previously sealed levels, each containing more advanced and dangerous Architect technology. Expeditions return with reports of active manufacturing systems and guardian constructs.
 
 **Summer 847 AS - The Trade Route Crisis**: Wanderer Confederations report that several major trade routes now pass through areas of intense Architect activity. Some caravans go missing, while others return with impossible cargoes — goods that shouldn't exist or materials that defy explanation.
 
@@ -207,7 +207,7 @@ As the current year unfolds, the Recent Awakening reaches critical intensity:
 ## Regional Variations and Local Histories
 
 ### The Eastern Kingdoms (Ruin-Holder Territories)
-**House Ambergear** (ruling [Grimhaven](Grimhaven.md)): Founded by the family that first successfully activated the lighthouse ruins in 127 AS. Their Crown-Gear incorporates actual fragments from the lighthouse's control systems.
+**House Ambergear** (ruling [Grimhaven](Settlements/Grimhaven.md)): Founded by the family that first successfully activated the lighthouse ruins in 127 AS. Their Crown-Gear incorporates actual fragments from the lighthouse's control systems.
 
 **The Brass Courts**: Noble houses compete through elaborate displays of Architect mastery. The **Tournament of Gears** (held every five years) determines precedence among noble families based on their ability to activate complex Architect devices.
 
@@ -218,14 +218,14 @@ As the current year unfolds, the Recent Awakening reaches critical intensity:
 
 **The Caravan Cities**: Mobile settlements that follow the trade routes between ruins. The largest, **Wheel-Wind**, houses over 10,000 people and maintains elaborate gear-driven systems for rapid assembly and disassembly.
 
-**Current Crisis**: The [Walking Gardens of Yss'andra](Walking%20Gardens%20of%20Yss%27andra.md) have begun broadcasting new musical patterns that interfere with traditional navigation songs. Several caravans have become lost, while others report finding ruins that "shouldn't exist" according to their maps.
+**Current Crisis**: The [Walking Gardens of Yss'andra](Architect%20Ruins/Walking%20Gardens%20of%20Yss%27andra.md) have begun broadcasting new musical patterns that interfere with traditional navigation songs. Several caravans have become lost, while others report finding ruins that "shouldn't exist" according to their maps.
 
 ### The Western Republics (Ruin-Shunner Territories)
 **The Millbrook Model**: Collective governance through specialized guilds, each handling different aspects of community management. Decisions require consensus among guild representatives, making government slow but resilient.
 
 **The Maker's Pride**: Advanced traditional crafts that often surpass Architect capabilities in specific areas. Millbrook steel is considered superior to any Architect metal, while their agricultural techniques feed more people per acre than any Architect food-production system.
 
-**Current Crisis**: Even the most Architect-averse communities cannot escape the awakening's effects. [Millbrook](Millbrook.md)'s guardian sentinel has begun moving for the first time in memory, while other republics report Architect devices activating spontaneously within their territories.
+**Current Crisis**: Even the most Architect-averse communities cannot escape the awakening's effects. [Millbrook](Settlements/Millbrook.md)'s guardian sentinel has begun moving for the first time in memory, while other republics report Architect devices activating spontaneously within their territories.
 
 ---
 
@@ -234,7 +234,7 @@ As the current year unfolds, the Recent Awakening reaches critical intensity:
 ### Immediate Opportunities (Year 847 AS)
 - **The Lost Caravan**: A Wanderer trading expedition has gone missing along a route that passes near three active ruins. Were they victims of awakening defenses, or did they discover something valuable enough to disappear with?
 
-- **The Amber Translations**: [Tinker-Priests](Tinker-Priests.md) offer substantial rewards for anyone who can help decipher the messages delivered by Brass Envoys. Several promising leads point to dangerous ruins or forgotten archives.
+- **The Amber Translations**: [Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md) offer substantial rewards for anyone who can help decipher the messages delivered by Brass Envoys. Several promising leads point to dangerous ruins or forgotten archives.
 
 - **The Rogue Awakening**: A previously dormant ruin in Republic territory has suddenly activated, creating chaos in the nearby farming communities. Local authorities seek experienced explorers to investigate and, if possible, return the site to dormancy.
 
@@ -255,9 +255,9 @@ As the current year unfolds, the Recent Awakening reaches critical intensity:
 **Regional Variations**: Different areas of Valdris experienced the Great Silence differently. Some ruins shut down immediately, others continued functioning for years, and a few may never have stopped entirely. These discrepancies complicate efforts to understand Architect intentions.
 
 ### Competing Theories
-**[Tinker-Priests](Tinker-Priests.md)**: Believe the Architects are benevolent teachers who left their technology as gifts for humanity to eventually master. The awakening represents humanity finally reaching the spiritual and intellectual development necessary to inherit Architect wisdom.
+**[Tinker-Priests](Factions%20&%20Organizations/Tinker-Priests.md)**: Believe the Architects are benevolent teachers who left their technology as gifts for humanity to eventually master. The awakening represents humanity finally reaching the spiritual and intellectual development necessary to inherit Architect wisdom.
 
-**[Silence-Keepers](Silence-Keepers.md)**: Argue that the Architects never truly left but withdrew to observe humanity's development. The awakening signals their judgment of humanity's readiness for contact — or their decision that humanity has failed their test.
+**[Silence-Keepers](Factions%20&%20Organizations/Silence-Keepers.md)**: Argue that the Architects never truly left but withdrew to observe humanity's development. The awakening signals their judgment of humanity's readiness for contact — or their decision that humanity has failed their test.
 
 **Republican Scholars**: Contend that Architect technology represents a trap that prevents genuine human development. The awakening may be an automated system designed to reclaim the continent for the Architects' eventual return, regardless of human societies' wishes.
 

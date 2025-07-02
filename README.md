@@ -6,8 +6,11 @@
 [![D&D 5E Compatible](https://img.shields.io/badge/D%26D-5E%20Compatible-red)](https://dnd.wizards.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-Ready-7c3aed)](https://obsidian.md/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![View Online](https://img.shields.io/badge/View-Online-blue)](https://offendingcommit.github.io/valdris/)
 
 *A collaborative fantasy world featuring ancient Architect ruins for Dungeons & Dragons 5th Edition*
+
+[**🌐 View Online**](https://offendingcommit.github.io/valdris/) | [**📚 Browse in Obsidian**](#-getting-started)
 
 </div>
 
@@ -27,9 +30,19 @@ Whether you're looking for a complete campaign world, inspiration for your own s
 
 ### Quick Start
 
+#### Option 1: View Online (No Installation Required)
+
+Visit [**https://offendingcommit.github.io/valdris/**](https://offendingcommit.github.io/valdris/) to browse the campaign world directly in your web browser. This online version includes:
+- Full searchable content
+- Navigation menu for easy exploration
+- Mobile-friendly interface
+- No software installation required
+
+#### Option 2: Use with Obsidian (Recommended for GMs)
+
 1. **Clone or download this repository**
    ```bash
-   git clone https://github.com/yourusername/valdris.git
+   git clone https://github.com/offendingcommit/valdris.git
    ```
 
 2. **Open in Obsidian**
@@ -86,7 +99,7 @@ Valdris/
 
 ## 🤝 Contributing
 
-We believe the best worlds are built together! Whether you're adding a tavern, designing a deity, or crafting an epic campaign arc, your contributions make Valderis richer.
+We believe the best worlds are built together! Whether you're adding a tavern, designing a deity, or crafting an epic campaign arc, your contributions make Valdris richer.
 
 ### Ways to Contribute
 
@@ -105,7 +118,7 @@ We believe the best worlds are built together! Whether you're adding a tavern, d
 5. **Add appropriate tags and links**
 6. **Submit a Pull Request** with a clear description
 
-See [CONTRIBUTING.md](CONTRIBUTING.md.md) for detailed guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📜 License
 
@@ -117,16 +130,16 @@ This means you can:
 - ✅ **Commercial Use** — even for commercial purposes
 
 Under these terms:
-- 📝 **Attribution** — Give appropriate credit to the Valderis community
+- 📝 **Attribution** — Give appropriate credit to the Valdris community
 - 🔄 **ShareAlike** — Distribute contributions under the same license
 
 ## 🌟 Community
 
-- **Discord**: [Join our Discord server](#) for discussions and game coordination
-- **Reddit**: r/Valdris for sharing stories and content
-- **Issues**: Use GitHub issues for bugs, inconsistencies, or feature requests
+- **Website**: [offendingcommit.github.io/valdris](https://offendingcommit.github.io/valdris/)
+- **GitHub**: [github.com/offendingcommit/valdris](https://github.com/offendingcommit/valdris)
+- **Issues**: Use [GitHub issues](https://github.com/offendingcommit/valdris/issues) for bugs, inconsistencies, or feature requests
 
-## 🎲 Running Valderis
+## 🎲 Running Valdris
 
 ### For New DMs
 - Start with a single region or city
@@ -141,7 +154,7 @@ Under these terms:
 ## 🙏 Acknowledgments
 
 Valdris exists thanks to the creativity and dedication of:
-- All our [contributors](https://github.com/yourusername/valdris/graphs/contributors)
+- All our [contributors](https://github.com/offendingcommit/valdris/graphs/contributors)
 - The D&D community for endless inspiration
 - The Obsidian team for their amazing tool
 
