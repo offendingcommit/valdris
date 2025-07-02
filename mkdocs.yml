@@ -4,7 +4,6 @@ site_url: https://offendingcommit.github.io/valdris/
 repo_url: https://github.com/offendingcommit/valdris
 repo_name: offendingcommit/valdris
 edit_uri: edit/main/
-docs_dir: .
 
 theme:
   name: material
