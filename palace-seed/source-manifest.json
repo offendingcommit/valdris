@@ -1,0 +1,737 @@
+{
+  "schema": "valdris-curated-seed/v1",
+  "source": {
+    "repository": "offendingcommit/valdris",
+    "commit": "137ea1981223fedf4c36902a98d8d66a73d701b4",
+    "tree": "87ab42508f4da80df72b6182394106788ec78bda"
+  },
+  "destination": {
+    "realm": "valdris_realm",
+    "palace": "valdris_palace_v1",
+    "wing": "wing_valdris"
+  },
+  "vault_only_markdown_count": 1,
+  "notes": [
+    {
+      "path": "Adventures/Echoes of the Great Silence.md",
+      "blob": "c6a39a33bb3a803cd3d4f8bc59dfc919c7f597b2",
+      "sha256": "110a19f70508bb24086a90b220e5690e1ae2ba6b71eb0df03510e670d051d8f3",
+      "vault_sha256": "110a19f70508bb24086a90b220e5690e1ae2ba6b71eb0df03510e670d051d8f3",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "Adventures/Gears of Conspiracy.md",
+      "blob": "517ba3d76e211f7ec7ef57eb08fa80745390e83f",
+      "sha256": "9ea5f4f7f8ebb00f7bcbe4270e3b4b5dc66210b6d3d6636dc5e0b97d6b7e5441",
+      "vault_sha256": "9ea5f4f7f8ebb00f7bcbe4270e3b4b5dc66210b6d3d6636dc5e0b97d6b7e5441",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "Adventures/The Awakening Protocols.md",
+      "blob": "4b2ff64e6106057d9b64cf1d443a4721e4aad4c3",
+      "sha256": "511b1002a3f004ed61a1e140cf6fdcd9ec29ca72f784174e7c3149f3934f93c0",
+      "vault_sha256": "511b1002a3f004ed61a1e140cf6fdcd9ec29ca72f784174e7c3149f3934f93c0",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "Adventures/The Brass Heart Gambit.md",
+      "blob": "2c3f0d134bb05663bf977acb16635246485e8930",
+      "sha256": "970075a201f75710cae88319e9c3fe15282ed7756f87f00e724741c4764c8640",
+      "vault_sha256": "970075a201f75710cae88319e9c3fe15282ed7756f87f00e724741c4764c8640",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "Adventures/The Silent Cartographer.md",
+      "blob": "57a5eb6d1901046f22b8fce82bced660b3eca1d2",
+      "sha256": "134ebac00990eebf53b4d7b392e9a04a9d94a35c84ee763dedec39ea3d51ba8b",
+      "vault_sha256": "134ebac00990eebf53b4d7b392e9a04a9d94a35c84ee763dedec39ea3d51ba8b",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "Architect Ruins/Singing Spires of Kelathon.md",
+      "blob": "324cbf19693ef29b1f096458b7392b270b4f5579",
+      "sha256": "9327c9eb892e9fd03354ca45d43e16529eb63fdd886875d7f62c7ceccc5a3d4d",
+      "vault_sha256": "9327c9eb892e9fd03354ca45d43e16529eb63fdd886875d7f62c7ceccc5a3d4d",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Architect Ruins/Thymeris the Golden.md",
+      "blob": "2981ffb82fc407c3e038dc7e57f3d7bb93566e7e",
+      "sha256": "4ed143e5c9ef5ecf49c9a442a0f683c9d8212eb9396a3a7cd303683b55732bbd",
+      "vault_sha256": "4ed143e5c9ef5ecf49c9a442a0f683c9d8212eb9396a3a7cd303683b55732bbd",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Architect Ruins/Walking Gardens of Yss'andra.md",
+      "blob": "623ae5482c49ee0a9c9402983ad9b99e5463bd69",
+      "sha256": "0a2893970ffd9e690f5ba367250a5321ef68687dd82a7906bd2fdfb8d9499a08",
+      "vault_sha256": "0a2893970ffd9e690f5ba367250a5321ef68687dd82a7906bd2fdfb8d9499a08",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob": "d51581509bca4eaea4a75983576659473ed7d6b6",
+      "sha256": "503de846d498071a077d73b1d678dca98960cc2e7393aeeccd57587622186474",
+      "vault_sha256": "503de846d498071a077d73b1d678dca98960cc2e7393aeeccd57587622186474",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "DM Resources/Adventure Hooks.md",
+      "blob": "788b8ce5b33997e449a5721599eae6151c627787",
+      "sha256": "4b1c455b879faed8cde087f731907cffeb69e7a964136a2827e85b05b1bec37a",
+      "vault_sha256": "4b1c455b879faed8cde087f731907cffeb69e7a964136a2827e85b05b1bec37a",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "DM Resources/Missing Wiki Links Report.md",
+      "blob": "4b32dd03b874eeb5767abfe2bb690981f0d934d6",
+      "sha256": "9699fef1dd4cf7d766e8ea607baa4c96c0a1b489ba9aa1e1193edc52ff7af983",
+      "vault_sha256": "9699fef1dd4cf7d766e8ea607baa4c96c0a1b489ba9aa1e1193edc52ff7af983",
+      "vault_match": true,
+      "audience": "gm",
+      "review_status": "held"
+    },
+    {
+      "path": "Economics & Trade/Currency & Banking.md",
+      "blob": "134bd127affa5063635b58ff925610279f8a4d2d",
+      "sha256": "7de86f3c3685d2aa44cc116310b1d27fb015b6ce014de2fe8a0acbdabd8a683d",
+      "vault_sha256": "7de86f3c3685d2aa44cc116310b1d27fb015b6ce014de2fe8a0acbdabd8a683d",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Economics & Trade/Dual Economy Overview.md",
+      "blob": "b72dee75f56a0534cedcd210b01b885c2273a7aa",
+      "sha256": "017eeea58b015eb66b4225979941360e7b4707e86b45ff25468275cb53ff7745",
+      "vault_sha256": "017eeea58b015eb66b4225979941360e7b4707e86b45ff25468275cb53ff7745",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Economics & Trade/Guild Economics.md",
+      "blob": "df7e38ed207cd06ca078d5dc062f09a1b3d07edb",
+      "sha256": "6edbc20b559f2fdb40ba51dacf8b1ab4f10a39b80dfed510e614c67a922def92",
+      "vault_sha256": "6edbc20b559f2fdb40ba51dacf8b1ab4f10a39b80dfed510e614c67a922def92",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Economics & Trade/Resource Distribution.md",
+      "blob": "fff72d544b54f3a90c6746b7a67c00d6b150fc9d",
+      "sha256": "7f4dffeeec15b39c460f99d38781a2508454fac25d5d1744850344b0920ddd54",
+      "vault_sha256": "7f4dffeeec15b39c460f99d38781a2508454fac25d5d1744850344b0920ddd54",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Economics & Trade/Trade Routes & Networks.md",
+      "blob": "6310d55b21bd1adb48fb80e85de2ff236bb21aac",
+      "sha256": "2b56ed9f3a38488c0cda5e0aeabaab1e183801d2f4941419a077ef8fc13fc9de",
+      "vault_sha256": "2b56ed9f3a38488c0cda5e0aeabaab1e183801d2f4941419a077ef8fc13fc9de",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Factions & Organizations/Academy of Dual Mysteries.md",
+      "blob": "b15ae590973ebdba62f3c45f23fe79fb3c6e3f01",
+      "sha256": "a4720d11beb1592a3faa120caf3de97754468fd3c3066104832635980397df14",
+      "vault_sha256": "a4720d11beb1592a3faa120caf3de97754468fd3c3066104832635980397df14",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Factions & Organizations/Council of Pathfinders.md",
+      "blob": "4a6043c2c747b132d7c6c90c9ddd1358b207affa",
+      "sha256": "aef85e273cf9f420e5a0d87164565fb80ab19e432376dcbb98774ab8e66d9e06",
+      "vault_sha256": "aef85e273cf9f420e5a0d87164565fb80ab19e432376dcbb98774ab8e66d9e06",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Factions & Organizations/Gear-Wright Guilds.md",
+      "blob": "636265adabf79f13a85a8a35c73d8027d2100341",
+      "sha256": "87c5f7b69e3027ad74136687e9ab8b0b54ce160b9bddc6fc8cbac37892a9bf95",
+      "vault_sha256": "87c5f7b69e3027ad74136687e9ab8b0b54ce160b9bddc6fc8cbac37892a9bf95",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Factions & Organizations/Order of the Brass Tower.md",
+      "blob": "567a237ade2fd963552660af15fce84454282297",
+      "sha256": "5871526319832cd015bd37d9a4b1db91cbf369f91559318855d18839c9efe8f3",
+      "vault_sha256": "5871526319832cd015bd37d9a4b1db91cbf369f91559318855d18839c9efe8f3",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Factions & Organizations/Silence-Keepers.md",
+      "blob": "42e12eb91d3031558b0efa98d0b62d975eca0ccd",
+      "sha256": "1d96c4a7b7afab1fb0e4fa2dde476ac21499edd2ab059dfbb096af157fba0607",
+      "vault_sha256": "1d96c4a7b7afab1fb0e4fa2dde476ac21499edd2ab059dfbb096af157fba0607",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Factions & Organizations/Tinker-Priests.md",
+      "blob": "c88686ab6dd4da0e5da99e5defd331b18baedb24",
+      "sha256": "3735d9b8e808e963b16fc93dfc564f1091a8f8109e9aad04011383d9dfa3ebab",
+      "vault_sha256": "3735d9b8e808e963b16fc93dfc564f1091a8f8109e9aad04011383d9dfa3ebab",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/Architect Technology.md",
+      "blob": "c223608450a957ed44bf19647b85f6f8a71724a1",
+      "sha256": "c9547b1fe3a9d5842ed5ce3c9a042ccb2425506b492561bc03e004fca682ebca",
+      "vault_sha256": "c9547b1fe3a9d5842ed5ce3c9a042ccb2425506b492561bc03e004fca682ebca",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/Architect.md",
+      "blob": "ce73b31d8add54ac89f2c8bfedd7c630614048e4",
+      "sha256": "58aef256e430744a69260441b427bdb581bd1f1b85f0280976c4ef4ddb9783f3",
+      "vault_sha256": "58aef256e430744a69260441b427bdb581bd1f1b85f0280976c4ef4ddb9783f3",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/Dual Economy.md",
+      "blob": "77babb60f60ec5d3ae61c472926f01b2188b404d",
+      "sha256": "b7b8f071b2fd86d47ab6e3ffa398066bd4cb6b7772900c839723eedb621156cc",
+      "vault_sha256": "b7b8f071b2fd86d47ab6e3ffa398066bd4cb6b7772900c839723eedb621156cc",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/Magic in Valdris.md",
+      "blob": "47aa66c8739d28672df0424a2ea1082d0444e55d",
+      "sha256": "0526e2d9116b5ebf87bf148160c41d16f579dae93f2e948c73ebd1095f57cdb4",
+      "vault_sha256": "0526e2d9116b5ebf87bf148160c41d16f579dae93f2e948c73ebd1095f57cdb4",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/Social Hierarchy.md",
+      "blob": "3d8869bc1725c407094cf21b306ee7a828923dbb",
+      "sha256": "e9b7fecaddd6e6ed956b7a019fc696996e7057ea97790cf77868fd5b703a59f8",
+      "vault_sha256": "e9b7fecaddd6e6ed956b7a019fc696996e7057ea97790cf77868fd5b703a59f8",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/The Great Silence.md",
+      "blob": "3c789dbf58defb42cd64d1218002471f55797106",
+      "sha256": "0a5fa8f23cc452d5073d0766914304ce83c246392e5e8f69a32da6e88b1128fc",
+      "vault_sha256": "0a5fa8f23cc452d5073d0766914304ce83c246392e5e8f69a32da6e88b1128fc",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Lore/The Recent Awakening.md",
+      "blob": "7b254631c22222c4ad5ab2ec2086993279fa767b",
+      "sha256": "0ed7eadf1fa62479a095e22308637dc8f5828ba0ec17d323394f0c72cfc77aa1",
+      "vault_sha256": "0ed7eadf1fa62479a095e22308637dc8f5828ba0ec17d323394f0c72cfc77aa1",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/By Our Own Hands - Ruin-Shunner Hymn.md",
+      "blob": "d674f38660182d108e48aa7f81c246f9e8a38a0c",
+      "sha256": "68fe13b6a227a21e322e0b019e66b881cd529941c32d14af06c2eeac71371051",
+      "vault_sha256": "68fe13b6a227a21e322e0b019e66b881cd529941c32d14af06c2eeac71371051",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/Crown of Brass and Stone - Ruin-Holder Anthem.md",
+      "blob": "a452fa0cff3e7933fb11547e67868186adea2579",
+      "sha256": "ccbe66cef6911335d7625a7a561ba1f0f377510f65dd9c2df5cd48e271a4e14e",
+      "vault_sha256": "ccbe66cef6911335d7625a7a561ba1f0f377510f65dd9c2df5cd48e271a4e14e",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/INSTRUMENTAL - Clockwork Dreams - Architect Technology Theme.md",
+      "blob": "84eb99ff69affd0f80b41fd53f2f7b3292e019bc",
+      "sha256": "3bff87c54be2bb8aaf36453ec6fe37fac6574b1526329cd5490a8ba34a8c40da",
+      "vault_sha256": "3bff87c54be2bb8aaf36453ec6fe37fac6574b1526329cd5490a8ba34a8c40da",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/INSTRUMENTAL - Crystal Harmonies - Singing Spires Theme.md",
+      "blob": "7675875c6276632ff1f37467e15435dfec0ab597",
+      "sha256": "f7d5062bdf048e5aaa761b5b2f5bb12f392833ec29e68963f347c206b3bd0b22",
+      "vault_sha256": "f7d5062bdf048e5aaa761b5b2f5bb12f392833ec29e68963f347c206b3bd0b22",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/INSTRUMENTAL - Gears and Harvest - Work Song Theme.md",
+      "blob": "3fa131ca4c3901b8514ebfdaa51944b917d6dc8f",
+      "sha256": "d781226580a63bf2fecd95d7cd0a6f3232de16d004f5fe1a3883afcaf62f7182",
+      "vault_sha256": "d781226580a63bf2fecd95d7cd0a6f3232de16d004f5fe1a3883afcaf62f7182",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/INSTRUMENTAL - Roads Between Worlds - Travel Theme.md",
+      "blob": "b09366acf410bffb544f152a3e8b6da996b21a90",
+      "sha256": "f48c0b11ec3e18ae1fa196fee10b8c9c178c9c4ec15bfa5de7d3273c1bc3f684",
+      "vault_sha256": "f48c0b11ec3e18ae1fa196fee10b8c9c178c9c4ec15bfa5de7d3273c1bc3f684",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/INSTRUMENTAL - The Awakening - Ambient Ruin Atmosphere.md",
+      "blob": "f9daaf973fcdea005c8d17d7295076cff9f2b341",
+      "sha256": "5222fb19f8ea6d0ea3c03546e40d8f4606155d7b4e279f4f085d7f1cb0e043c5",
+      "vault_sha256": "5222fb19f8ea6d0ea3c03546e40d8f4606155d7b4e279f4f085d7f1cb0e043c5",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/INSTRUMENTAL - The Walking Garden's March - Mobile Wonder Theme.md",
+      "blob": "2a706ddfdf463dab524fcc7699ea2c931bdf3453",
+      "sha256": "95e7ee60afd7808f8450f60dc79b4653d0a5f1aac720ae1b7ec4a9dc0393d94a",
+      "vault_sha256": "95e7ee60afd7808f8450f60dc79b4653d0a5f1aac720ae1b7ec4a9dc0393d94a",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/Music Index.md",
+      "blob": "96dd4e82ed86ceebe9d07968c0d069acc55a77f7",
+      "sha256": "8577f40f281ed4e403bc995e10ce8c039ee36aa64e3ef92f1e53cf5d6cddf8c0",
+      "vault_sha256": "8577f40f281ed4e403bc995e10ce8c039ee36aa64e3ef92f1e53cf5d6cddf8c0",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/Seven Spires Singing - Children's Counting Song.md",
+      "blob": "fa6c09aab635372f5a1df46b2e5ea9d4b10a255a",
+      "sha256": "9be9bea19b03858259ba9f9a5b9d69dcfab223aad4f3ab79ca5d5a07ab7ba8b2",
+      "vault_sha256": "9be9bea19b03858259ba9f9a5b9d69dcfab223aad4f3ab79ca5d5a07ab7ba8b2",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/The Endless Road - Wanderer Song.md",
+      "blob": "7d59093b5ab85c297c11c84e87de54091feb29b5",
+      "sha256": "a0b455ea4668aea510ad617b26cb695f9d7fc26b1d4e51e30bbc09aa06dedfd1",
+      "vault_sha256": "a0b455ea4668aea510ad617b26cb695f9d7fc26b1d4e51e30bbc09aa06dedfd1",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/The Lighthouse Never Sleeps - Grimhaven Harbor Song.md",
+      "blob": "a26080e2b7d8c931cefea1151139c7e1b0b95538",
+      "sha256": "c4cd2a8f23d379d92a10d0c49370d345adfa31a287b9d583f41d7b45aa00addf",
+      "vault_sha256": "c4cd2a8f23d379d92a10d0c49370d345adfa31a287b9d583f41d7b45aa00addf",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/The Merchant's Last Gamble - Tavern Ballad.md",
+      "blob": "e1226e2e43cb1c975d992c068c35c75b402cf0b8",
+      "sha256": "1ca180974333b129f3ce1f5430714f5990ca1822dc24585302551dde68c2a040",
+      "vault_sha256": "1ca180974333b129f3ce1f5430714f5990ca1822dc24585302551dde68c2a040",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/Tinker's Brew - Drinking Song.md",
+      "blob": "844732965930cd48b2674415756704c09449a39c",
+      "sha256": "adb6744af8355d330830e18f29f3660157871ac8098068482c846e7327d2a7f5",
+      "vault_sha256": "adb6744af8355d330830e18f29f3660157871ac8098068482c846e7327d2a7f5",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Music/When the Music Stopped - The Great Silence Legend.md",
+      "blob": "462d5e723e8415a14bbf73c7f78617f37722e954",
+      "sha256": "615613e920bc78e51d09872aa40e6d3a5d7cc569c2cf1a4fe3b39593d25c9ebe",
+      "vault_sha256": "615613e920bc78e51d09872aa40e6d3a5d7cc569c2cf1a4fe3b39593d25c9ebe",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "NPCs/Archivist Theron Millwright.md",
+      "blob": "116912d0ef32b0f5d8a730e47ab28eb11e36e953",
+      "sha256": "a06ee62eb9c838b3007b95179ad8f67aa8b9253efedffdb3dba7574d48042ad7",
+      "vault_sha256": "a06ee62eb9c838b3007b95179ad8f67aa8b9253efedffdb3dba7574d48042ad7",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "NPCs/Lady Aurelia Brass-Heart.md",
+      "blob": "244c334d294a77482dedfcf38574c44aa7ccb49a",
+      "sha256": "5e5760cd6703df7bf2390c993cd9ed68cd388767e3d63ed2c0c9488855975416",
+      "vault_sha256": "5e5760cd6703df7bf2390c993cd9ed68cd388767e3d63ed2c0c9488855975416",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "NPCs/Master Craft-Wright Aldric Ironhand.md",
+      "blob": "59db8978a54db9fb18daad61335c0e41e73eedd9",
+      "sha256": "7b4147e4c6deae60a1a4cdd566dca5d7746c327f5bd713d0ac090ce7f25bc8b4",
+      "vault_sha256": "7b4147e4c6deae60a1a4cdd566dca5d7746c327f5bd713d0ac090ce7f25bc8b4",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "NPCs/Pathfinder Zara Windstrider.md",
+      "blob": "a62f27221988f6ac5a9b353422181d8ea73ff573",
+      "sha256": "31ae1de41288e12220669afbad6f2a828f7e00b033fcaf81d0cbf2d768a0c0fc",
+      "vault_sha256": "31ae1de41288e12220669afbad6f2a828f7e00b033fcaf81d0cbf2d768a0c0fc",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "NPCs/Sister Harmony Brightbell.md",
+      "blob": "63d5889822695ee786e2044d6553f23e7d11ce19",
+      "sha256": "8aee1fd12d9db229af5a4c509ddf287908b6d05d37e1f021ef71c2a3083f4955",
+      "vault_sha256": "8aee1fd12d9db229af5a4c509ddf287908b6d05d37e1f021ef71c2a3083f4955",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Player Resources/Character Creation Guide.md",
+      "blob": "17b519daf236a4d0ec6bc0a75571c6f894a2cdb5",
+      "sha256": "df4e3c8c50ee046d635ab35b620774c7c398e3f229650bd5039cdb7197c8e5dc",
+      "vault_sha256": "df4e3c8c50ee046d635ab35b620774c7c398e3f229650bd5039cdb7197c8e5dc",
+      "vault_match": true,
+      "audience": "player",
+      "review_status": "held"
+    },
+    {
+      "path": "Player Resources/Common Knowledge.md",
+      "blob": "227224b507885fe3548d408e749e54fcf7be6241",
+      "sha256": "127b356d8a7a89b15603ff416b8117505ef0e6a48088c0ffa0f1b98df2939399",
+      "vault_sha256": "127b356d8a7a89b15603ff416b8117505ef0e6a48088c0ffa0f1b98df2939399",
+      "vault_match": true,
+      "audience": "player",
+      "review_status": "held"
+    },
+    {
+      "path": "Player Resources/Equipment & Gear.md",
+      "blob": "73056922348e14e27e80b2c7d04d711a18d42daf",
+      "sha256": "b8a6f7834bcbd78b737a8ed7517d57c8e9f99f77b48c3f4ade83e2e65a690b58",
+      "vault_sha256": "b8a6f7834bcbd78b737a8ed7517d57c8e9f99f77b48c3f4ade83e2e65a690b58",
+      "vault_match": true,
+      "audience": "player",
+      "review_status": "held"
+    },
+    {
+      "path": "Player Resources/Languages of Valdris.md",
+      "blob": "43d7dae88c51325fa07292e071a145b7f459ae27",
+      "sha256": "68492b5a80f076457bbebf81357bfa898b5fb237b948b4eccb95d073652f6d77",
+      "vault_sha256": "68492b5a80f076457bbebf81357bfa898b5fb237b948b4eccb95d073652f6d77",
+      "vault_match": true,
+      "audience": "player",
+      "review_status": "held"
+    },
+    {
+      "path": "Player Resources/Player Map.md",
+      "blob": "4aefe1336ec125fdcc261aa6162294a95c7a0299",
+      "sha256": "db559ad54ad1d0c4f1a40e955d15fb450b32221ab4333c2c0654055b33f652ae",
+      "vault_sha256": "db559ad54ad1d0c4f1a40e955d15fb450b32221ab4333c2c0654055b33f652ae",
+      "vault_match": true,
+      "audience": "player",
+      "review_status": "held"
+    },
+    {
+      "path": "Political Systems/Ruin-Holder Kingdoms.md",
+      "blob": "fe6d976ac17816efc8c6d087153956a9fe2a3005",
+      "sha256": "94b49ee5b969e15e953bbbfc5f3a7c53c927e910dba3ec9d5c3e83396d0f4362",
+      "vault_sha256": "94b49ee5b969e15e953bbbfc5f3a7c53c927e910dba3ec9d5c3e83396d0f4362",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Political Systems/Ruin-Shunner Republics.md",
+      "blob": "2cdb270381df7e30b6814f8df22bcb9857ed31fc",
+      "sha256": "cbd347f91a70ec0466cc6ff3ed854621ab1d952a53fff9cc6e1cfda074ded9b3",
+      "vault_sha256": "cbd347f91a70ec0466cc6ff3ed854621ab1d952a53fff9cc6e1cfda074ded9b3",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Political Systems/Wanderer Confederations.md",
+      "blob": "101c1ea7bbe5057876c609ec2dc2e7bbc7177cea",
+      "sha256": "fbfbcf340076af1fa618f2f967b7c73676ab695ac939cd4392cf21481871da8a",
+      "vault_sha256": "fbfbcf340076af1fa618f2f967b7c73676ab695ac939cd4392cf21481871da8a",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "README.md",
+      "blob": "4df99af411379b57a89ff9b65b2282afc172dc58",
+      "sha256": "c53f9453f1cef9e439259523a8e93250b381d8524b6f5a4ed42331e960626828",
+      "vault_sha256": "c53f9453f1cef9e439259523a8e93250b381d8524b6f5a4ed42331e960626828",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Regions/Cerulean Coast.md",
+      "blob": "9a82ee25301587e74e7caa127311b67b0942c12c",
+      "sha256": "b803446f61c9e705a041fabe04e0811a35643d0bb22d08bdcaa19a1cb38e0096",
+      "vault_sha256": "b803446f61c9e705a041fabe04e0811a35643d0bb22d08bdcaa19a1cb38e0096",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Regions/The Heartlands.md",
+      "blob": "a6515fd0b26f4831a6acb044bccf9f18279752bd",
+      "sha256": "c2ae704f9cabc63d77b0632f019fd485b694766561d8fdb6a066db05a71298e1",
+      "vault_sha256": "c2ae704f9cabc63d77b0632f019fd485b694766561d8fdb6a066db05a71298e1",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Regions/The Quiet Lands.md",
+      "blob": "7e52901301f783589d2616d0b702c3eefc3b7ef7",
+      "sha256": "ebb17411ab0ac334efe3b880344231c84873331429bf6dc637bf264d7ec06bcf",
+      "vault_sha256": "ebb17411ab0ac334efe3b880344231c84873331429bf6dc637bf264d7ec06bcf",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Regions/The Wandering Reaches.md",
+      "blob": "8f80c4563f6abe5f3efd22147de82c3dfdc39ad6",
+      "sha256": "3ca6f12487300f879a7e391ef1a0332009872a33e19981a83844ef3740b09892",
+      "vault_sha256": "3ca6f12487300f879a7e391ef1a0332009872a33e19981a83844ef3740b09892",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Settlements/Grimhaven.md",
+      "blob": "795db25fb370da75953d45af258a41654e56c707",
+      "sha256": "ffeb982a2acc5d00a89675fc8c48ec23734f9d39cf2058c5f16a49f640c6b334",
+      "vault_sha256": "ffeb982a2acc5d00a89675fc8c48ec23734f9d39cf2058c5f16a49f640c6b334",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Settlements/Kelathon.md",
+      "blob": "fb849d190fcb310f4586b54c5d2a65a48beef490",
+      "sha256": "04db48933b8c87692fa2b87e2bad24c6eddcf1d9253e7e9934996819a5b81fb8",
+      "vault_sha256": "04db48933b8c87692fa2b87e2bad24c6eddcf1d9253e7e9934996819a5b81fb8",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Settlements/Millbrook.md",
+      "blob": "5b7fd2be0dcbc402f01da69950217cb9e37a6c5f",
+      "sha256": "2db21845ef95b8196fd438c78ce2b71119af4e791b79a827416aca817f23554a",
+      "vault_sha256": "2db21845ef95b8196fd438c78ce2b71119af4e791b79a827416aca817f23554a",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Settlements/Stonehaven.md",
+      "blob": "2c0af25eae429e353d6a7090c5ad308123fefddc",
+      "sha256": "b3c022490fd2748bed643500a024b0c76d561e8135499886b328d16b6612fbc7",
+      "vault_sha256": "b3c022490fd2748bed643500a024b0c76d561e8135499886b328d16b6612fbc7",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Social Systems/Cultural Interactions.md",
+      "blob": "886ac0f4ad8f7870e2b4c0aa72a6a0b45540b555",
+      "sha256": "1ce912289c4eb44845abf46e1e35c0c1a3b34814a6a37a8de62444ea99c40662",
+      "vault_sha256": "1ce912289c4eb44845abf46e1e35c0c1a3b34814a6a37a8de62444ea99c40662",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Social Systems/Education & Knowledge.md",
+      "blob": "b5faa0e02d4873571674e3a0d970a01cfe8a72f5",
+      "sha256": "f48df5fbbe0c9e95a6b8c3d583a8f9b4559f47f45116a704a7a441d06b5a4d71",
+      "vault_sha256": "f48df5fbbe0c9e95a6b8c3d583a8f9b4559f47f45116a704a7a441d06b5a4d71",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Social Systems/Legal & Justice Systems.md",
+      "blob": "99cac77fd645de6bf8a35423dc90b120ffb6bba4",
+      "sha256": "38f9f9299071cc7d1e1ff46bd5058aa17b0c812ef9916856415ac23cce323735",
+      "vault_sha256": "38f9f9299071cc7d1e1ff46bd5058aa17b0c812ef9916856415ac23cce323735",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Social Systems/Marriage & Family Structures.md",
+      "blob": "ee4cb1e28571598031ef5cd3a65fcf9c51235549",
+      "sha256": "0913564d4b0e28efbdfc7d63f66ebae798c522aaaf9e709606eedddaa34da011",
+      "vault_sha256": "0913564d4b0e28efbdfc7d63f66ebae798c522aaaf9e709606eedddaa34da011",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Social Systems/Social Hierarchy Overview.md",
+      "blob": "930fef4d676ac6d48868e0dd23aa9dd2ed514caf",
+      "sha256": "9be1a2a07be81af0795085d5a31b203a0a99434c98bc8eca8a904119c1b1430d",
+      "vault_sha256": "9be1a2a07be81af0795085d5a31b203a0a99434c98bc8eca8a904119c1b1430d",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Technology/Architect Materials.md",
+      "blob": "4b98332788792851790bd5f501506a846004fdac",
+      "sha256": "5cf575aa68362d465100fd840f424c847e6f2c01d04b6963cf893ce08f3f83c9",
+      "vault_sha256": "5cf575aa68362d465100fd840f424c847e6f2c01d04b6963cf893ce08f3f83c9",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Technology/Architect Technology Overview.md",
+      "blob": "23dc55d61a5264ac513c2a35e30b7d0c4a07d861",
+      "sha256": "cdb77a162219da4fc2614dec26628a0ca6271aded6907286c331428cf16aa98a",
+      "vault_sha256": "cdb77a162219da4fc2614dec26628a0ca6271aded6907286c331428cf16aa98a",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Technology/Gear-Wright Profession.md",
+      "blob": "735e6753a9e76c6303a1d6490a6a8c9edfdfc209",
+      "sha256": "4440e8f9d364f8d9e7851a8303e3fe059239e9a524f6d1f625f8595328dcbc85",
+      "vault_sha256": "4440e8f9d364f8d9e7851a8303e3fe059239e9a524f6d1f625f8595328dcbc85",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Technology/Mechanical Constructs.md",
+      "blob": "a4e36ae8db61465d937aff28f80c5e564710db4d",
+      "sha256": "0e03ef61cbaaaf92a00d3c5718900450628d4d7cd0f9ef6bb548400f2a23e137",
+      "vault_sha256": "0e03ef61cbaaaf92a00d3c5718900450628d4d7cd0f9ef6bb548400f2a23e137",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Technology/Navigation & Lighthouses.md",
+      "blob": "07fa3bc715156ba566b728e0e4862bcb08a004de",
+      "sha256": "1d09f6a29b87ee01403d364d0d03e358c08637e8583dcabb19046647b2a3d63d",
+      "vault_sha256": "1d09f6a29b87ee01403d364d0d03e358c08637e8583dcabb19046647b2a3d63d",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Templates/Templates Overview.md",
+      "blob": "272cdffc9ee30603d196d98878bd3f9cb557ac0d",
+      "sha256": "1e1b3d74611955a473bc45658f3ceffceb867d814ff81c0a8dbfaf92146c0904",
+      "vault_sha256": "1e1b3d74611955a473bc45658f3ceffceb867d814ff81c0a8dbfaf92146c0904",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Timeline.md",
+      "blob": "8ca1a969e3dcca28aeb1a15c079c023defe11f0b",
+      "sha256": "92f24e9a1bce7e677ba2c6843b20d180cc96aa02fa3896e0602fa80e242eedcc",
+      "vault_sha256": "92f24e9a1bce7e677ba2c6843b20d180cc96aa02fa3896e0602fa80e242eedcc",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    },
+    {
+      "path": "Welcome.md",
+      "blob": "b9360c207001fb8f398af29c20abbedbb7ed1827",
+      "sha256": "57ba4a9e364c4f003d1f908b0c7a68eba53a6f76d4036c4392fd89d20330e582",
+      "vault_sha256": "57ba4a9e364c4f003d1f908b0c7a68eba53a6f76d4036c4392fd89d20330e582",
+      "vault_match": true,
+      "audience": "player",
+      "review_status": "held"
+    },
+    {
+      "path": "World Map.md",
+      "blob": "016a2f8ac4eb201cb12184dd915bac5f687d8790",
+      "sha256": "2b9d1f1c279ddcbbfc0ea7e864c17ea694cb79df0d2eb40ad9e15bc3890fbcda",
+      "vault_sha256": "2b9d1f1c279ddcbbfc0ea7e864c17ea694cb79df0d2eb40ad9e15bc3890fbcda",
+      "vault_match": true,
+      "audience": "undetermined",
+      "review_status": "held"
+    }
+  ],
+  "items": []
+}
